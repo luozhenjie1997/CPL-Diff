@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19583		P81835		Citropin 1.1 (1-11)	Synthetic construct		GLFDVIKKVAS	11	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19586		P81835		Citropin 1.1 (4-14)	Synthetic construct		DVIKKVASVIG	11	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19640				Trichogin GA IV [G2K] OH	Synthetic construct		XKLXGGLXGIL	11	15949628, 25306964	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19724		P12838		D-HNP-4 (1-11)	Synthetic construct		VCSCRLVFCRR	11	32209394	Antiviral	Gram+	Experimentally Validated
+CAMPSQ19812				GS12-K7	Synthetic construct		VKLKyPVKLyP	11	19278255	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19813				GS12-K4	Synthetic construct		VKLyPKVKLyP	11	19278255	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19814				GS12-L3	Synthetic construct		VKKyPKVKLyP	11	19278255	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19848		P33046		Indolicidin (1-11)	Synthetic construct		ILPWKWPWWPW	11	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19853		P33046		Indolicidin (3-13)	Synthetic construct		PWKWPWWPWRR	11	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20192		Q27023,		Tenecin-1 (17-27)ox [F10W]	Synthetic construct		DAACAAHCLWR	11	16226345, 18243710	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20193		Q27023,		Tenecin-1 (17-27)ox [H7K,F10W]	Synthetic construct		DAACAAKCLWR	11	16226345, 18243710	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20194		Q27023,		Tenecin-1 (17-27)ox [D1K,F10W]	Synthetic construct		KAACAAHCLWR	11	16226345, 18243710	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20195		Q27023,		Tenecin-1 (17-27)ox [D1K,H7K,F10W]	Synthetic construct		KAACAAKCLWR	11	16226345, 18243710	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20260		Q27023		TEC-(17-27), Tenecin-1 (17-27)	Synthetic construct		DAACAAHCLFR	11	9693108	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20263		Q27023		TE-(33-43), Tenecin-1 (33-43)	Synthetic construct		YCNGKRVCVCR	11	9693108	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20396		P85870		Decoralin [S4P]	Synthetic construct		SLLPLIRKLIT	11	30013694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20397		P85870		Decoralin [S1R]	Synthetic construct		RLLSLIRKLIT	11	30013694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20398		P85870		Decoralin [L2F]	Synthetic construct		SFLSLIRKLIT	11	30013694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20399		P85870		Decoralin [I6F]	Synthetic construct		SLLSLFRKLIT	11	30013694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20613				K6L4W1	Synthetic construct		KLKKLWKKLLK	11	22118542	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20637		P81861		Pardaxin P-4 (1-11)	Synthetic construct		GFFALIPKIIS	11	8620888	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20790				Undefined	Synthetic construct		RCFRRRGKLTC	11	30610885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20794		P0CG61		Ubiquitin (6-16)	Synthetic construct		KTLTGKTITLE	11	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20827		B9UIY3,		Mucroporin (7-17)	Synthetic construct		SLIGGLVSAFK	11	22536342	Antiviral		Experimentally Validated
+CAMPSQ20829				Undefined	Synthetic construct		KWLRWVRRRWW	11	31059203	Antibacterial	Gram+,Gram-	Experimentally Validated

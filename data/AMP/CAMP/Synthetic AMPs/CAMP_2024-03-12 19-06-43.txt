@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ17580		P49913		LL-37 (17-29)[I4N]	Synthetic construct		FKRNVQRIKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17581		P49913		LL-37 (17-29)[I4Q]	Synthetic construct		FKRQVQRIKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17582		P49913		LL-37 (17-29)[I4H]	Synthetic construct		FKRHVQRIKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17579		P49913		LL-37 (17-29)[I4S]	Synthetic construct		FKRSVQRIKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17578		P49913		LL-37 (17-29)[I4G]	Synthetic construct		FKRGVQRIKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17577		P49913		LL-37 (17-29)[L12A]	Synthetic construct		FKRIVQRIKDFAR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17576		P49913		LL-37 (17-29)[F11A]	Synthetic construct		FKRIVQRIKDALR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17575		P49913		LL-37 (17-29)[I8A]	Synthetic construct		FKRIVQRAKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17574		P49913		LL-37 (17-29)[V5A]	Synthetic construct		FKRIAQRIKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17573		P49913		LL-37 (17-29)[I4A]	Synthetic construct		FKRAVQRIKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17572		P49913		LL-37 (17-29)[F1A]	Synthetic construct		AKRIVQRIKDFLR	13	23894079,32567085	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17554		P80280	2DD6	NC4- Dermaseptin S4 (1-13)[M4K] -AMD	Synthetic construct		ALWKTLLKKVLKA	13	11847217,11937508,16436701,15917541,21741801,16870756	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally validated
+CAMPSQ17537		P80280		 Dermaseptin C12-S4(3–15)	Synthetic construct		WKTLLKKVLKAAA	13	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17536		P80280		 Dermaseptin S4(3–15)	Synthetic construct		WKTLLKKVLKAAA	13	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18068				Bp6	Synthetic construct		KLLLLLLCKKKKC	13	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18069				Bp7	Synthetic construct		KLKKLKKLCCLKL	13	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18370				SP1	Synthetic construct		AIKIRKLFKKLLR	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18371				SP2	Synthetic construct		GIKIRKLFKKLLR	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18372				SP3	Synthetic construct		GWAKLITKAIKKI	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18373				SP4	Synthetic construct		IRPAKLRWFKKIK	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18374				SP5	Synthetic construct		RLFIKKLKFITRR	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18375				SP6	Synthetic construct		NAMRGAKRVWRHI	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18376				SP7	Synthetic construct		KFRKFGKQVWVRL	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18377				SP8	Synthetic construct		KVWSRLRKIFSTR	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18378				SP10	Synthetic construct		AKVLKISRRAFRK	13	31163671	Antibacterial	Gram-ve	Experimentally Validated

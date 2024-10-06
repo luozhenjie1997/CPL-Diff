@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23926		P26663		HCV gp (715-725)	Synthetic construct		KWEYVLLLFLL	11	20156485	Antiviral		Experimentally Validated
+CAMPSQ23932		P26663		HCV gp (710-720)	Synthetic construct		VSFAIKWEYVL	11	20156485	Antiviral		Experimentally Validated
+CAMPSQ24045		P83412		Alloferon (3-13)	Synthetic construct		VSGHGQHGVHG	11	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24053		P83412		Alloferon (1-11)	Synthetic construct		HGVSGHGQHGV	11	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24232				S1	Synthetic construct		RRWCWWWCWRR	11	32328042	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24233				S2	Synthetic construct		RRWYWWWYWRR	11	32328042	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24234				S3	Synthetic construct		RRWNWWWNWRR	11	32328042	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24235				S4	Synthetic construct		RRWQWWWQWRR	11	32328042	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24236				S5	Synthetic construct		RRWTWWWTWRR	11	32328042	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24237				S6	Synthetic construct		RRWGWWWGWRR	11	32328042	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24238				S7	Synthetic construct		RRWSWWWSWRR	11	32328042	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24265		Q8IAS6		Rifin (313-323)[K323A], Peptide 35409-10	Synthetic construct		RYRRKKKMKKA	11	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24270		Q8IAS6		Rifin (316-326)[K323A], Peptide 35409-15	Synthetic construct		RKKKMKKALQY	11	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24324		A0A411G5W6		Ovalbumin (277-287)	Synthetic construct		RKIKVYLPRMK	11	32715598	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24325		A0A411G5W6		Ovalbumin (277-287)[P8R]	Synthetic construct		RKIKVYLRRMK	11	32715598	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24326		A0A411G5W6		Ovalbumin (277-287)[V5R, P8R]	Synthetic construct		RKIKRYLRRMK	11	32715598	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24327		A0A411G5W6		Ovalbumin (277-287)[V5R, P8R, K11I]	Synthetic construct		RKIKRYLRRMI	11	32715598	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24328		A0A411G5W6		Ovalbumin (277-287)[V5R, P8R, K11W]	Synthetic construct		RKIKRYLRRMW	11	32715598	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24329		A0A411G5W6		Ovalbumin (277-287)[K2L, V5R, P8R, K11W]	Synthetic construct		RLIKRYLRRMW	11	32715598	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24379		K7Z906		Ranacyclin-AJ (3-20)[G5,18;C6,16;T8;S10,12Del], AKK-2	Synthetic construct		FRWKYPKPLKR	11	32972753	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24382				AKK-5	Synthetic construct		RCVRWWKRVCK	11	32972753	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24451				Brevinin-1OS (1-11)[N11K]	Synthetic construct		FLPGILKVAAK	11	32751489	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24452				Brevinin-1OS (1-11)[G4K, N11K]	Synthetic construct		FLPKILKVAAK	11	32751489	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24453				Brevinin-1OS (1-11)[P3K, G4W, I5A, N11K]	Synthetic construct		FLKWALKVAAK	11	32751489	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24454				Brevinin-1OS (1-11)[P3K, G4W, I5A, V8W, N11K]	Synthetic construct		FLKWALKWAAK	11	32751489	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

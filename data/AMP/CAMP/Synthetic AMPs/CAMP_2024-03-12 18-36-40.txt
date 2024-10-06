@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1050				Gramicidin S	Synthetic construct		VXLFPPFLXV	10	Reference: Bull. Chem. Soc. Jpn., 58, 1469-1472 (1985)	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ24412				Undefined	Synthetic construct		XXXXXXXRN	9	32629881	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24413				Undefined	Synthetic construct		RXRRXXXRN	9	32629881	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24414				Undefined	Synthetic construct		RXRXXXXXN	9	32629881	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24415				Undefined	Synthetic construct		RXRXFXXXN	9	32629881	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24416				Undefined	Synthetic construct		RXXXFXXXN	9	32629881	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24417				Undefined	Synthetic construct		XXRXFXXXN	9	32629881	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24474				Deca-(ARG)7	Synthetic construct		wrrrrrrrG	9	23173037	Antiviral		Experimentally Validated
+CAMPSQ24477				Deca-(Arg-Lys) 44	Synthetic construct		rrrrkkkkG	9	23173037	Antiviral		Experimentally Validated
+CAMPSQ24632				P9Nal(SR)	Synthetic construct		XXKXXKKXX	9	29892005	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24633				P9Trp(SS)	Synthetic construct		XXKWWKKXX	9	29892005	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24652				D-Pal-GR9	Synthetic construct		GRRGGRGGR	9	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24727				Undefined	Synthetic construct		RQWRRWWQR	9	34097861	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24728				Undefined	Synthetic construct		RQIRRWWXR	9	34097861, 26972341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24729				Undefined	Synthetic construct		RKIRRKWKR	9	34097861	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24732				Undefined	Synthetic construct		RQPRRWPXR	9	34097861	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24738				Undefined	Synthetic construct		RQIIRRMWR	9	26972341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24739				Undefined	Synthetic construct		RQIIRRXWR	9	26972341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24740				Undefined	Synthetic construct		RQIIRRMQR	9	26972341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24741				Undefined	Synthetic construct		RQIIRRIQR	9	26972341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24742				Undefined	Synthetic construct		RQIRRWWMR	9	26972341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24743				Undefined	Synthetic construct		RQIRRIIQR	9	26972341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24744				Undefined	Synthetic construct		RQIWWWWQR	9	26972341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24751				Undefined	Synthetic construct		RIRIRWIIR	9	32130974	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24775		A8R0Q4		Myosin heavy chain fast skeletal type 2 (15291537)	Synthetic construct		GKKTAEIEK	9	30011734	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

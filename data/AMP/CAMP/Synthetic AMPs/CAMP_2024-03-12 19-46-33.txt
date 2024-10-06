@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14876				Peptide 132	Synthetic construct		RPDKPRPSLPRKRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14877				Peptide 133	Synthetic construct		RPDKPRPSLPRSRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14878				Peptide 134	Synthetic construct		RPDKPRPLDPRPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14879				Peptide 135	Synthetic construct		RPDKPRPLKPRPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14880				Peptide 136	Synthetic construct		RPDKPRPLSPRPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14881				Peptide 137	Synthetic construct		RPDKPRPLFPRPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14882				Peptide 138	Synthetic construct		RPDKPRPLLDRPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14883				Peptide 139	Synthetic construct		RPDKPRPLLKRPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14884				Peptide 140	Synthetic construct		RPDKPRPLLSRPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14885				Peptide 141	Synthetic construct		RPDKPRPLSPDPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14886				Peptide 142	Synthetic construct		RPDKPRPLSPSPRPPRPVR	19	35223768	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14887				Peptide 143	Synthetic construct		RPDKPRPLSPLPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14888				Peptide 144	Synthetic construct		RPDKPRPLSPFPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14889				Peptide 145	Synthetic construct		RPDKPRPLSPRKRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14890				Peptide 146	Synthetic construct		RPDKPRPLSPRSRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14891				Peptide 147	Synthetic construct		RPDKPRPYDDRPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14892				Peptide 148	Synthetic construct		RPDKPRPYDKRPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14893				Peptide 149	Synthetic construct		RPDKPRPYDSRPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14894				Peptide 150	Synthetic construct		RPDKPRPYDPDPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14895				Peptide 151	Synthetic construct		RPDKPRPYDPSPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14896				Peptide 152	Synthetic construct		RPDKPRPYDPLPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14897				Peptide 153	Synthetic construct		RPDKPRPYDPFPRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14898				Peptide 154	Synthetic construct		RPDKPRPYDPRDRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14899				Peptide 155	Synthetic construct		RPDKPRPYDPRKRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14900				Peptide 156	Synthetic construct		RPDKPRPYDPRSRPPRPVR	19	35223768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

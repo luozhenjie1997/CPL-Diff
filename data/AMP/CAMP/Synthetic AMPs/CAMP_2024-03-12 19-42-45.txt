@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ17175				RC-107G	Synthetic construct		GICRCICGGGICRCICGR	18	16790431	Antibacterial	Gram+	Experimentally validated
+CAMPSQ17176				RC-107GG	Synthetic construct		GICRCICGGGICRCICGG	18	16790431	Antibacterial	Gram+	Experimentally validated
+CAMPSQ17177				RC-107G2H2	Synthetic construct		GICHCICGGGICHCICGG	18	16790431	Antibacterial	Gram+	Experimentally validated
+CAMPSQ17178				RC-107G2Ha	Synthetic construct		GICRCICGGGICHCICGG	18	16790431	Antibacterial	Gram+	Experimentally validated
+CAMPSQ17179				RC-107G2Hb	Synthetic construct		GICHCICGGGICRCICGG	18	16790431	Antibacterial	Gram+	Experimentally validated
+CAMPSQ17180		P82271		RTD-2, Theta defensin 2 [L15I]	Synthetic construct		GVCRCLCRRGVCRCICRR	18	16790431	Antibacterial, Antiviral	Gram+	Experimentally validated
+CAMPSQ17181				RC-101	Synthetic construct		GICRCICGKGICRCICGR	18	16790431	Antibacterial	Gram+	Experimentally validated
+CAMPSQ17734				PR-39(1-18)	Synthetic construct		RRRPRPPYLPRPRPPPFF	18	24755622	Antibacterial	Gram -ve, Gram +ve	Experimentally validated
+CAMPSQ18057				WR18	Synthetic construct		WRRWWRRWWRWWRRWWRR	18	27046192	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18058				WK18	Synthetic construct		WKKWWKKWWKWWKKWWKK	18	27046192	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18087				Bp25	Synthetic construct		KCKKCLLKLLKKLLKLKL	18	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18088				Bp26	Synthetic construct		LKLCKKLLLCKLKKKLLK	18	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18089				Bp27	Synthetic construct		LKLLKKLKLKCKCLKLKL	18	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18090				Bp28	Synthetic construct		LKKLLCKLKLKCLKKKLL	18	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18091				Bp29	Synthetic construct		LKKKKLLKCKLLLKCLKL	18	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18092				Bp30	Synthetic construct		KLKLCKKLKLLKLKLCLK	18	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18093				Bp31	Synthetic construct		LLLKKLLLLCKKKKKCKL	18	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18457				D-SMAP-18=E2	Synthetic construct		rGlrrlGrkxahGvkkyG	18	26795535	Antibacterial, Mammalian Cell	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ19406		P49929		GGHG-Ovispirin-3	Synthetic construct		GGHGIRRIIRKIIHIIKK	18	29172482	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19404				A37 A1 guan / Apidaecin 1b O1 R10 O17 guan, Api134	Synthetic construct		XNNRPVYIPRPRPPHPXL	18	27285299	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19403		,Q06602		D-Apidaecin-1B [1Orn,10 R], D-Api88	Synthetic construct		XNNRPVYIPRPRPPHPRL	18	27285299, 22594381	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19281		P82741		Ranatuerin-1 (1-18)	Synthetic construct		SMLSVLKNLGKVGLGFVA	18	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19180		P14213		Tachyplesin ccTP [4,8,13R, 18K]	Synthetic construct		KWCRCVCRRGICRCRCRK	18	10673369	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19179		P14213		Tachyplesin ccTP [4,8,13R]	Synthetic construct		KWCRCVCRRGICRCRCRG	18	10673369	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19177		P14213		Tachyplesin ccTP [13R]	Synthetic construct		KWCFCVCYRGICRCRCRG	18	10673369	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

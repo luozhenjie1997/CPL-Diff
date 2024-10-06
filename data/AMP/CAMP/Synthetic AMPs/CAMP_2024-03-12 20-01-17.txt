@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13567				Pa-MAP 1.9	Synthetic construct		LAAKLTKAATKLTAALTKLAAALTAAAT	28	33501992	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13752				Ltc5_M6R	Synthetic construct		GFFGKRKEYFKKFGASFKRRFANLKKRL	28	19563807	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13958				Defb14-1CV?(1-17)	Synthetic construct		AAVLNALGKEEQIGRASNSGRKCARKKK	28	 20176896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13991				D20-S4	Synthetic construct		ALWMTLLKKVLKAAAKAALDAVLVGANA	28	10660589	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ13992				D4-S4	Synthetic construct		ALWDTLLKKVLKAAAKAALDAVLVGANA	28	10660589	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ13993				D4D20-S4	Synthetic construct		ALWDTLLKKVLKAAAKAALNAVLVGANA	28	10660589	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ13994				K20-S4	Synthetic construct		ALWMTLLKKVLKAAAKAALKAVLVGANA	28	10660589	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ13995				K4K20-S4	Synthetic construct		ALWKTLLKKVLKAAAKAALNAVLVGANA	28	10660589	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ14118				28AA-HBD3	Synthetic construct		VAVLSVLPKEEQIGKVSTRGRKVVRRKK	28	34112244	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14352				Fp6	Synthetic construct		AACEVAKNLNESLIDLQELGKYEQYIKW	28	34591335	Antiviral		Predicted
+CAMPSQ16601		U5KJM4		(GS)4-Ctn[15–34]	Synthetic construct		GSGSGSGSKKRLKKIFKKPMVIGVTIPF	28	30042491	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ18414				D5C	Synthetic construct		KRKRAVKRVGRRLKKKLARKIARLGVAF	28	12208971	Antiviral		Experimentally Validated
+CAMPSQ18455				D-SMAP-29-E2 	Synthetic construct		rGlrrlGrkxahGvkkyGptvlrxxrxa	28	26795535	Antibacterial, Mammalian Cell	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18456				D-SMAP-29-D2	Synthetic construct		RGLRRLGRKIAHGVKKYGptvlrxxrxa	28	26795535	Antibacterial, Mammalian Cell	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ19027				KISA28	Synthetic construct		KIAGKIASIAGKIAKIAGSIAKIAGKIA	28	28282123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19020				KIA7(28)	Synthetic construct		KIAGKIAAIAGKIAKIAGAIAKIAGKIA	28	28282123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19013				KIA28	Synthetic construct		KIAGKIAKIAGKIAKIAGKIAKIAGKIA	28	25807192, 32126225	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18586		P49913		A-KR12-GA-KR12-G	Synthetic construct		AKRIVQRIKDFLRGAKRIVQRIKDFLRG	28	32153522	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18583				A-KR12-GA-retroKR12-G	Synthetic construct		AKRIVQRIKDFLRGARLFDKIRQVIRKG	28	32153522	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20224		F8V1G1,F8V1E8		LLP-1, lentivirus lytic peptide	Synthetic construct		RVIEVVQGACRAIRHIPRRIRQGLERIL	28	10459808, 14612179	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20225		Q70626		Lentivirus Lytic Peptide LLP1 [E4,25R]	Synthetic construct		RVIRVVQGACRAIRHIPRRIRQGLRRIL	28	10459808	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20231		Q70626		C837Y, Lentivirus lytic peptide LLP1 [C10Y]	Synthetic construct		RVIEVVQGAYRAIRHIPRRIRQGLERIL	28	10459808	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20232		Q70626		SA5, Lentivirus lytic peptide LLP1 [E4,25R;G8R,P17V]	Synthetic construct		RVIRVVQRACRAIRHIVRRIRQGLRRIL	28	14612179	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20270		P01966		Bovine hemoglobin alpha chain (1-28)	Synthetic construct		VLSAADKGNVKAAWGKVGGHAAEYGAEA	28	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20444		P04002		Pa-MAP 1.7, Antifreeze peptide analogue	Synthetic construct		LKAALTAAKTALTAALTALKAALTAAKT	28	27161201	Antiviral	Gram+	Experimentally Validated

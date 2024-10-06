@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ12340				SP-E22	 Sus scrofa	Animalia	DKPKKKPPPPAGPPPPPPPPPG	22	30046246	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12452				Nisin 1-22	Lactococcus lactis	Monera (Bacteria)	IBaIZLaXPGaKXGALMGaNMK	22	28912758	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13591				NCR169C17-38	Medicago truncatula 	Plantae	KSKKPLFKIWKCVENVCVLWYK	22	33915930	Antifungal		Experimentally validated
+CAMPSQ13592				NCR169C17-38ox	Medicago truncatula 	Plantae	KSKKPLFKIWKCVENVCVLWYK	22	33915930	Antifungal		Experimentally validated
+CAMPSQ13599				Lyp2370	Lycosa poonaensis	Animalia	FLASHVAMEQLSKLGSKIATKL	22	33729438	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14153				MaSAMP-helix 2	Microcitrus australasica	Plantae	SHVEYANLFLANLEKVLVIDYK	22	33985900	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14165				Medipeptin A	Pseudomonas sp. EDOX	Monera	XPAAAVVXTVIBGAAVXTAOSI	22	34594316	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14221				CcG4-LTPI	Capsicum chinense	Plantae	NNGPLGICCNGIRISPSTDCTK	22	34671924	Antifungal		Experimentally validated
+CAMPSQ15008				Peptide 37	Saccharomyces cerevisiae	Fungi	PGGAAGGAAGGAPGGFPGGAPP	22	35215278	Antibacterial		Predicted
+CAMPSQ15018				Peptide 47	Saccharomyces cerevisiae	Fungi	APGGAAGGAPGGFPGGAPPAPE	22	35215278	Antibacterial		Predicted
+CAMPSQ15026				Peptide 55	Saccharomyces cerevisiae	Fungi	GSKADPYGEENQGNFPQRQQPQ	22	35215278	Antibacterial		Predicted
+CAMPSQ15164				Apo6 APOC167-88	Alligator mississippiensis	Animalia (Reptiles)	KTRNWFSEHFKKVKEKLKDTFA	22	27542832	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15198				Mini-ChBac7.5N alpha	Capra hircus 	Animalia (Mammals)	RRLRPRRPRLPRPRPRPRPRPR	22	27795854	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15206				Api794	Apis mellifera	Animalia (Arthropoda)	XWXWXWXRPVYXPRPRPPHPRL	22	27243004	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ15207				Api796	Apis mellifera	Animalia (Arthropoda)	XIXIXIXRPVYXPRPRPPHPRL	22	27243004	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16241				N6-Cys7-miniPEG	Arenicola marina	Animalia	GFAWNVXCVYRNGVRVCHRRAN	22	35549900	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16242				N6-Cys16-miniPEG	Arenicola marina	Animalia	GFAWNVCVYRNGVRVCXHRRAN	22	35549900	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16500		E4VP50		Meucin-22, MUC-22	Mesobuthus eupeus	Animalia	FFGHLFKLATKIIPSLFQRKKE	22	29599756	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16501		F6K5S7		Marcin-22, MAC-22	Mesobuthus martensii	Animalia	FFGHLFKLATKIIPSFFRRKNQ	22	29599756	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16509		Q571V3		Frenatin 4.2	Litoria infrafrenata	Animalia	GFLEKLKTGAKDFASAFVNSIK	22	27792198	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16666		A0A385I8C9		Ps Hepcidin	Platichthys stellatus	Animalia	AFKCKFCCGCCRAGVCGLCCRF	22	30195905	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ19732		A0A0A0R7M4		Daiyunin-2	Amolops daiyunensis	Animalia	FFGTKGIFSKVEPIFCKISHSC	22	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20683		Q1PG44		Hedistin	Hediste diversicolor	Animalia	LGAXLAGKVAGTVATYAXNRYV	22	17210178	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21263		D5MTI0		Peptide DF22	Rana tagoi okiensis	Animalia	DVNDLKNLCAKTHNLLPMCAMF	22	20457198	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21926		P84839		Brevinin CTcu3	Clinotarsus curtipes	Animalia	LPLLAGLAANFLPKIFCKITRK	22	24161537	Antibacterial	Gram+,Gram-	Experimentally Validated

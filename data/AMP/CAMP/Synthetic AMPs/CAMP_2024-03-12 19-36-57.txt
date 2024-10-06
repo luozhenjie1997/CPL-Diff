@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21230		P11006		Magainin-2 (1-17)[G3K,H7K,F5octAla,F12penAla,G13V,V17K]	Synthetic construct		GIKKXLKSAKKXVKAFK	17	33466998	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21231		P11006		Magainin-2 (1-17)[G3K,H7K,S8octAla,G13V,A15penAla,V17K]	Synthetic construct		GIKKFLKXAKKFVKXFK	17	33466998	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21232		P11006		Magainin-2 (1-17)[G3K,H7K,A9octAla,G13V,F16penAla,V17K]	Synthetic construct		GIKKFLKSXKKFVKAXK	17	33466998	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21256		Q8N2E6		Salusin-beta (1-17)	Synthetic construct		AIFIFIRWLLKLGHHGR	17	24881665	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21409		Q2IAL7		Fowlicidin-2(15-31)	Synthetic construct		RRFRPKVTITIQGSARF	17	20375584	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21463		Q9TUI9		Apelin-17	Synthetic construct		KFRRQRPRLSHKGPMPF	17	10802050	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21577		P49913		LL-37 (15-32)[E1G][K3A]	Synthetic construct		GFARIVQRIKDFLRNLV	17	22083479	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21578		P49913		LL-37 (15-32)[E1G][R4A]	Synthetic construct		GFKAIVQRIKDFLRNLV	17	22083479	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21579		P49913		LL-37 (15-32)[E1G][R8A]	Synthetic construct		GFKRIVQAIKDFLRNLV	17	22083479	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21580		P49913		LL-37 (15-32)[E1G][K10A]	Synthetic construct		GFKRIVQRIADFLRNLV	17	22083479	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21581		P49913		LL-37 (15-32)[E1G][R14A]	Synthetic construct		GFKRIVQRIKDFLANLV	17	22083479	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21718				Undefined	Synthetic construct		LLQLTVWGIKQLQARIL	17	11572974	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21735		P80214		C12 Plantaricin 149 (6-22), C12-CT	Synthetic construct		GATAIKQVKKLFKKKGG	17	21496212	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21736		P80214		C8 Plantaricin 149 (6-22)[F17W], C8-CT [F17W]	Synthetic construct		GATAIKQVKKLWKKKGG	17	21496212	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21860		P05866	1ULL	Rev (34-50)	Synthetic construct		TRQARRNRRRRWRERQR	17	20580677	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21932		E3SYG2		Brevinin CTcu5 (5-21)	Synthetic construct		LAANFLPQILCKIARKC	17	25997127	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22182				P2	Synthetic construct		KAGLAFPVGRVHRLLRK	17	22884922	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22184				P4	Synthetic construct		GLAKGIKEAAKALDKAL	17	22884922	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22199		B6S2X2		OH-CATH (18-34), Cathelicidin-OH (18-34)	Synthetic construct		AKKFFKKPRVIGVSIPF	17	20576537	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22438				VpAmp1.1	Synthetic construct		FFLLSLIPSAISAIKKI	17	26352292	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22557		P02649		ApoE (133-149), COG-133	Synthetic construct		LRVRLASHLRKLRKRLL	17	27028511	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22615				VR3-W	Synthetic construct		CVRVRVRpGRVRVRVCW	17	22391533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22644		E7EKD9		Odorranain-B1 (3-19)	Synthetic construct		LKGCWTKSIPPKPCFGK	17	17384140	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22647		E7EKD9		Odorranain-B1 (3-18)+F	Synthetic construct		LKGCWTKSIPPKPCFGF	17	17384140	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22648		E7EKD9		Odorranain-B1 (3-18)+G	Synthetic construct		LKGCWTKSIPPKPCFGG	17	17384140	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

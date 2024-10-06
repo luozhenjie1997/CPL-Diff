@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ57	116088	P01509		Cecropin-B	Antheraea pernyi	Animalia (Insects)	KWKIFKKIEKVGRNIRNGIIKAGPAVAVLGEAKAL	35	6754375	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ58	116090	P01508		Cecropin-B	Hyalophora cecropia	Animalia (Insects)	KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL	35	7140755, 28556271, 30823998	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ75	118414, 228858, 253414	P11477		Defensin-1 precursor 	Mus musculus 	Animalia (Mammals)	LRDLVCYCRSRGCKGRERMNGTCRKGHLLYTLCCR	35	1500431	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ191	1706339	P28309		Defensin-related cryptdin 2 precursor	Mus musculus	Animalia (Mammals)	LRDLVCYCRTRGCKRRERMNGTCRKGHLMYTLCCR	35	1500431, 1500163	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ192	1706340, 253416	P28310		Alpha-defensin 3	Mus musculus	Animalia (Mammals)	LRDLVCYCRKRGCKRRERMNGTCRKGHLMYTLCCR	35	1500431	Antibacterial		Experimentally validated
+CAMPSQ251	227386, 225797	Q27239		Cecropin A1, Lepidopteran C. 	Bombyx mori	Animalia (Insects)	RWKLFKKIEKVGRNVRDGLIKAGPAIAVIGQAKSL	35	2184991	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ286	25089858	P83413		Cecropin-A	Heliothis virescens	Animalia (Insects)	RWKVFKKIEKVGRNIRDGVIKAAPAIEVLGQAKAL	35		Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ321	2829412	P50714		Defensin-related cryptdin 16 precursor	Mus musculus	Animalia (Mammals)	LRDLVCYCRSRGCKGRERMNGTCRKGHLMYTLCCR	35	8188287	Antibacterial		Experimentally validated
+CAMPSQ367	34921480	P83619	2K38	Cupiennin-1	Cupiennius salei 	Animalia (Arachnida)	GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKQME	35	11792701	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ368	34921482	P83620		Cupiennin-1b	Cupiennius salei 	Animalia (Arachnida)	GFGSLFKFLAKKVAKTVAKQAAKQGAKYIANKQME	35	11792701	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ369	34921483	P83621		Cupiennin-1c	Cupiennius salei 	Animalia (Arachnida)	GFGSLFKFLAKKVAKTVAKQAAKQGAKYIANKQTE	35	11792701	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ370	34921485	P83622		Cupiennin-1d 	Cupiennius salei 	Animalia (Arachnida)	GFGSLFKFLAKKVAKTVAKQAAKQGAKYVANKHME	35	11792701	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ371	34921485	P83622		Cupiennin-1d*	Cupiennius salei 	Animalia (Arachnida)	GFGSLFKFLAKKVAKTVAKQAAKQGAKYVANKHMQ	35		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ471	46395677	P82290		Cecropin-A precursor	Anopheles gambiae	Animalia (Insects)	GRLKKLGKKIEGAGKRVFKAAEKALPVVAGVKALG	35	10672074	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ561	6225251	P81611		Defensin-B	Mytilus edulis 	Animalia (Molluscs (Bivalvia))	GFGCPNDYPCHRHCKSIPGRYGGYCGGXHRLRCTC	35	8702979	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15201				SMAP34	Ovis aries	Animalia (Mammals)	GLFGRLRDSLQRGGQKILEKAERIWCKIKDIFRG	34	10768969	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16583		B3VT96		Mytilin D	Mytilus galloprovincialis	Animalia	GCASRCKAKCAGRRCKGWASASFRRRCYCKCFRC	34	10777596	Antibacterial, Antifungal, Anti-protozoan	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ17698				FP-CATH	Deinagkistrodon acutus	Animalia	KRFKKFWKKIKNSVKKRAKKFFRKPRVIAVSIPF	34	33291852	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ19413		P13068,		Lantibiotic Nisin-A	Lactococcus lactis subsp. lactis (Streptococcus lactis)		IXxIXLXxPGXKxGALMGXNMKxAxXHXSIHVXK	34	19506061, 12540174, 23571533, 33346078, 20547041, 33398076	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22465				Cecropin Sb, SibaCec	Simulium bannaense	Animalia	GKLTKDKLKRGAKKALNVASKVAPIVAAGASIAR	34	26497304	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22466		A0A0H3YPL2		Cathelicidin 2 Cl, Cl-CATH2	Columba livia	Animalia	LIQRGRFGRFLGRIRRFRPRINFDIRARGSIRLG	34	26194630	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22732		A0A1B0Z2N7		Garvicin KA, GakA	Lactococcus garvieae KS1546	Bacteria	MGAIIKAGAKIVGKGVLGGGASWLGWNVGEKIWK	34	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22733		A0A1B0Z2M7		Garvicin KB, GakB	Lactococcus garvieae KS1546	Bacteria	MGAIIKAGAKIIGKGLLGGAAGGATYGGLKKIFG	34	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23646		A0A5C1K2V5		Sm-LEAP-2	Sebastiscus marmoratus	Animalia	SLLWRWNSMKPVGASCRDHLECGTKYCRRSICTF	34	31449978	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24623				PN-CATH1	Pelophylax nigromaculatus	Animalia	KKCNFFCKLKKKVKSVGSRNLIGSATHHHRIYRV	34	33242568	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

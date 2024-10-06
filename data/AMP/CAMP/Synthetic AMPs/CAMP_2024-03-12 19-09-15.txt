@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19718		P0C1Q4		Mastoparan-1 [K6,A10 METH-PENT-GLY][Q12K]	Synthetic construct		IDWKKXLNAXKKIL	14	29075946	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19719		P0C1Q4,		Polybia-MPI [L14L-S]	Synthetic construct		IDWKKLLDAAKQIX	14	20600424	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19722		P24605		BVP, LK+Mastoparan-M (3-11)+pEM-2 (1-3)	Synthetic construct		LKLKAIAALAKKKW	14	27591703	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19766				GS14K2K4K9K11	Synthetic construct		VKLKVyPLKVKLyP	14	10224074, 8810288, 20951594, 11682479, 19278255	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19794				Gramicidin S analog 2	Synthetic construct		PVXLXVfPLXVXLf	14	20951594	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19795				Gramicidin S analog 3	Synthetic construct		PXVXLXfPXVXLXf	14	20951594	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19796				Gramicidin S analog 4	Synthetic construct		PXVXXXfPXVXLXf	14	20951594	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19797				Gramicidin S analog 5	Synthetic construct		PXXXLXfPXVXLXf	14	20951594	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19798				Gramicidin S analog 6	Synthetic construct		PXXXXXfPXVXLXf	14	20951594	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19799				Gramicidin S analog 7	Synthetic construct		PXXXLXfPXXXLXf	14	20951594	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19800				Gramicidin S analog 8	Synthetic construct		PXVXXXfPXXXLXf	14	20951594	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19801				Gramicidin S analog 9	Synthetic construct		PXVXXXfPXVXXXf	14	20951594	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19802				Gramicidin S analog 10	Synthetic construct		PXVXXXfPXXXXXf	14	20951594	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19803				Gramicidin S analog 11	Synthetic construct		PXXXXXfPXXXLXf	14	20951594	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19804				Gramicidin S analog 12	Synthetic construct		PXXXXXfPXXXXXf	14	20951594	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19805				GS14K4 Y2/F2, V3/L3	Synthetic construct		LKLkLfPLKLKLfP	14	11682479, 12712499	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19806				GS14K4 V3/L3	Synthetic construct		LKLkLyPLKLKLyP	14	11682479, 12712499	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19807				GS14K4 Y2/F2	Synthetic construct		VKLkVfPLKVKLfP	14	11682479, 12712499	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19808				GS14K4 V3/A3	Synthetic construct		AKLkAyPLKAKLyP	14	11682479, 12712499	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19809				GS14K4 L3/A3	Synthetic construct		VKAkVyPAKVKAyP	14	11682479, 12712499	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19810				GS14K4 V3L3/A6	Synthetic construct		AKAkAyPAKAKAyP	14	11682479, 12712499	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19822				GS14 K3L4	Synthetic construct		VKKLVyPLKVKLyP	14	12712499	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19827		Q90ZD8		Parasin I (1-14)	Synthetic construct		KGRGKQGGKVRAKA	14	18406495	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19943				NK14	Synthetic construct		KILGVSKRILTGKK	14	17389605	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20030		,M9NXM1		Temporin-1DRa [L9Chg]	Synthetic construct		HFLGTLVNXAKKIL	14	17560323, 17767978	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

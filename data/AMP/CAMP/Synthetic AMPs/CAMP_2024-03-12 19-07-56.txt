@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22720		P51888		RRP9F4-NH2	Synthetic construct		RRPRPRPRPFFFF	13	21298015	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22766				Undefined	Synthetic construct		ILSLRWRWKWWKK	13	26902758	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22767				Undefined	Synthetic construct		ILSLRWWRKWWKK	13	26902758	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22768				Undefined	Synthetic construct		ILSLRWRWWKWKK	13	26902758	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22769				Undefined	Synthetic construct		IRKLKSWKWLRWL	13	26902758	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22899		Q19AZ8		Prothrombin (611-623)	Synthetic construct		KKWMQKVIDRFGG	13	27439393	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22907		Q90249		Bothropstoxin-I (105-117)[C115S]-AMD, Bthtx-I (105-117)[C115S]-AMD	Synthetic construct		KKYRYHLKPFSKK	13	26160494	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22908				Undefined	Synthetic construct		FFSLIPSLISGLI	13	31710627	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22941				Undefined	Synthetic construct		GLFDKWAWWRWRR	13	25985150	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22942				Undefined	Synthetic construct		GLFDIWAWWRWRR	13	25985150	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22943				Undefined	Synthetic construct		GLFDIWKWWRWRR	13	25985150	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22944				Undefined	Synthetic construct		GLFDIWKKWRWRR	13	25985150	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22945				Undefined	Synthetic construct		GLFDIWKKLRWRR	13	25985150	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23008		A0A1B1UZP1		Temporin-GHa [H4,11K]	Synthetic construct		FLQKIIGALGKLF	13	31752079	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23009		A0A1B1UZP1		Temporin-GHa [H4K]	Synthetic construct		FLQKIIGALGHLF	13	31752079	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23010		A0A1B1UZP1		Temporin-GHa [H11K]	Synthetic construct		FLQHIIGALGKLF	13	31752079	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23011		A0A0D6DQH8		Lily type lectin 2 (30-42), CsLTL-2 QP13	Synthetic construct		QGDGNFVIYTWKP	13	27729229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23063				Reverse Tachyplesin [C3,7,12,16Del]	Synthetic construct		rrryiGryvrfwk	13	28641565	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23155				1-RW	Synthetic construct		RWTWRGSGRWTWR	13	29193517, 25683050	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23277		P01516		Mastoparan-C (1-13)	Synthetic construct		LNLKALLAVAKKI	13	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23282		P01516		Mastoparan-C (1-13) [A5K]	Synthetic construct		LNLKKLLAVAKKI	13	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23286				A3 Single chain (1-20)[7-19]	Synthetic construct		rPYLPRPRPPRPV	13	28154813	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23311		A0A0N0BHM0		Sarconesin	Synthetic construct		TPFLLVGTQIDLR	13	30323791	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23348				Undefined	Synthetic construct		LKKLLKLLKLLKL	13	20185142	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23349		P83412		Alloferon-1 [H1K]	Synthetic construct		KGVSGHGQHGVHG	13	21766388	Antiviral	Gram+,Gram-	Experimentally Validated

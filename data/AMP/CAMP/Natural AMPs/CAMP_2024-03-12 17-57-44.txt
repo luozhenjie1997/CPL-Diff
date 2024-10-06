@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ179	160358716	P0C5X6		Temporin-1DYa	Rana dybowskii	Animalia (Amphibia)	FIGPIISALASLFG	14	17688900	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ229	20137309	P82389		Aurein-2.2	Litoria aurea	Animalia (Amphibia)	FDIVKKVVGALGSL	14	10951191	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ231	20137311	P82391		Aurein-2.4	Litoria aurea	Animalia (Amphibia)	FDIVKKVVGTIAGL	14	10951191	Antibacterial, Anticancer	Gram +ve	Experimentally validated
+CAMPSQ293	25453058	P83305		Japonicin-1	Rana japonica	Animalia (Amphibia)	FFPIGVFCKIFKTC	14	11835990	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ432	41017612	P82824		Ranatuerin-9	Rana catesbeiana	Animalia (Amphibia)	FLFPLITSFLSKVL	14	9784389	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ442	41018246	P82831		Temporin-1Lb	Rana luteiventris	Animalia (Amphibia)	NFLGTLINLAKKIM	14	10651828	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ443	41018247	P82832		Temporin-1Lc	Rana luteiventris	Animalia (Amphibia)	FLPILINLIHKGLL	14	10651828	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ498	51316202	P84073		Ribosome-inactivating protein luffacylin 	Luffa aegyptiaca	Plantae	PRGSPRTEYEAARR	14	12126727	Antifungal		Experimentally validated
+CAMPSQ533	56748934	P84292		Hylaseptin-P1 	Hypsiboas punctatus	Animalia (Amphibia)	GILDAIKAIAKAAG	14	14715660	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ557	60389882	P69436		Agelaia-mastoparan 	Agelaia pallipes 	Animalia (Insects)	INWLKLGKAIIDAL	14	15225564	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ711				OdR1	Odorrana grahami	Animalia (Amphibia)	GFSPNLPGKGLRIS	14	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ712		A6MBR9		OdS1	Odorrana grahami	Animalia (Amphibia)	FLPPSPWKETFRTS	14	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ713				OdT1	Odorrana grahami	Animalia (Amphibia)	TSRCYIGYRRKWCS	14	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ798				Temporin-1Gb	Rana grylio	Animalia (Amphibia)	SILPTIVSFLSKFL	14	9478010	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ799				Temporin-1Gd	Rana grylio	Animalia (Amphibia)	FILPLIASFLSKFL	14	Reference: Reid C.N., Bjourson A.J., Shaw C. (2001) Galensin, a novel homodimeric antimicrobial peptide from the defensive skin secretion of Kassina senegalensis: isolation, structural characterisation and cloning of precursor cDNA. Submitted (JUL-2001) t	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ800				Temporin-1Gc	Rana grylio	Animalia (Amphibia)	SILPTIVSFLTKFL	14	20167788	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1001				Temporin-1CSd	Rana cascadae	Animalia (Amphibia)	NFLGTLVNLAKKIL	14	17451843	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1069	68052006	P0C022		Eumenine mastoparan-AF	Anterhynchium flavomarginatum micado	Animalia (Insects)	INLLKIAKGIIKSL	14	15317499	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1075	223635832	Q7M0J8		Antibiotic GE2270	Planobispora rosea	Monera	SCNCVCGFCCSCSP	14	1908853	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1216	110810423	P0C1Q5		MASTP_PROSY Mastoparan 	Protonectarina sylveirae 	Animalia (Insects)	INWKALLDAAKKVL	14		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1784	110810424	P0C1Q7		Mastoparan-T	Vespa tropica	Animalia (Insects)	INLKAIAAFAKKLL	14		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1785	110810421	P0C1Q6		Mastoparan-A	Vespa analis	Animalia (Insects)	IKWKAILDAVKKVL	14		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1878	223635797	P0C8P9		Thiocillin GE37468	Streptomyces sp.	Monera	STNCFCYPCCSCSS	14		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1879	223635793	P0C8P6		Thiocillin	Bacillus cereus	Monera	SCTTCVCTCSCCTT	14		Antibacterial	Gram+ve	Predicted
+CAMPSQ1880	223635792	P0C8P7		Thiocillin	Bacillus badius	Monera	SCTTCVCTCSCCTT	14		Antibacterial	Gram+ve	Predicted

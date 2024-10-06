@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18302				Bacaucin-3	Synthetic construct		LSRVDEL	7	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18303				Bacaucin-4	Synthetic construct		SRVDELL	7	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18304				Bacaucin-5	Synthetic construct		RVDELLS	7	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18305				Bacaucin-6	Synthetic construct		VDELLSR	7	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18306				Bacaucin-7	Synthetic construct		DELLSRV	7	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18307				Bacaucin-9, Bacaucin [R5K]	Synthetic construct		ELLSKVD	7	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18308				Bacaucin-10, Bacaucin [R5Orn]	Synthetic construct		ELLSXVD	7	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18309				Bacaucin-11, Bacaucin [R5A]	Synthetic construct		ELLSAVD	7	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18310				Bacaucin-12, Bacaucin [D7N]	Synthetic construct		ELLSRVN	7	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ19443				Tryptophan-rich peptide PAF47	Synthetic construct		arkkwfw	7	17222805	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19442				Tryptophan-rich peptide PAF46	Synthetic construct		qrkkwfw	7	17222805	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19441				Tryptophan-rich peptide PAF45	Synthetic construct		trkkwfw	7	17222805	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19439				Tryptophan-rich peptide PAF43	Synthetic construct		yrkkwfw	7	17222805	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19440				Tryptophan-rich peptide PAF44	Synthetic construct		lrkkwfw	7	17222805	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19437				Tryptophan-rich peptide PAF41	Synthetic construct		frkkwfw	7	17222805	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19438				Tryptophan-rich peptide PAF42	Synthetic construct		wrkkwfw	7	17222805	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19436				Tryptophan-rich peptide PAF39	Synthetic construct		krkkwfw	7	17222805	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19388		P02788		LF11 [Q2,4Del,N6W,I7Del,K9W,V10Del]	Synthetic construct		FWRWRWR	7	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19385		P02788		LF11 [Q2,4Del,N6R,I7W,K9Del,V10Del]	Synthetic construct		FWRRWRR	7	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19271		P82741		Ranatuerin-1 (9-25)	Synthetic construct		CKINKQC	7	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19210				PAF38	Synthetic construct		rrkkwfw	7	17867640, 17222805	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ19211				PAF40	Synthetic construct		hrkkwfw	7	17867640, 17222805	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ19072		P24627		Lfcin B (20-25)+Beta-Ala	Synthetic construct		RRWQWRX	7	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19067		P33432		Puroindoline-A (38-44)	Synthetic construct		WRWWKWW	7	33207639	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19066		P33432		Puroindoline-A (39-45)	Synthetic construct		RWWKWWK	7	33207639	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20779		C7ENH5		Tigerinin-1R [H12K]	Synthetic construct		RVCSAIPLPICK	12	24530698	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20780		C7ENH5		Tigerinin-1R [H12R]	Synthetic construct		RVCSAIPLPICR	12	24530698	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20781		C7ENH5		Tigerinin-1R [A5W]	Synthetic construct		RVCSWIPLPICH	12	24530698	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20782		C7ENH5		Tigerinin-1R[I6W]	Synthetic construct		RVCSAWPLPICH	12	24530698	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20783		C7ENH5		Tigerinin-1R [L8W]	Synthetic construct		RVCSAIPWPICH	12	24530698	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20784		C7ENH5		Tigerinin-1R [I10W]	Synthetic construct		RVCSAIPLPWCH	12	24530698	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20788		A0A2L2DDP3	6FGM	Dissulfin-02 (38-49)	Synthetic construct		ACFLTRLGTYVC	12	30610885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20795				Scrambled Ubiquitin 2, Scrambled Ub2	Synthetic construct		RLGRLVSLHTLG	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20796		P0CG61		Ubiquitin 2 [S1A], Ub2 [S1A]	Synthetic construct		ATLHLVLRLRGG	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20797		P0CG61		Ubiquitin 2 [T2A], Ub2 [T2A]	Synthetic construct		SALHLVLRLRGG	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20798		P0CG61		Ubiquitin 2 [L3A], Ub2 [L3A]	Synthetic construct		STAHLVLRLRGG	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20799		P0CG61		Ubiquitin 2 [H4A], Ub2 [H4A]	Synthetic construct		STLALVLRLRGG	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20800		P0CG61		Ubiquitin 2 [L5A], Ub2 [L5A]	Synthetic construct		STLHAVLRLRGG	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20801		P0CG61		Ubiquitin 2 [V6A], Ub2 [V6A]	Synthetic construct		STLHLALRLRGG	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20802		P0CG61		Ubiquitin 2 [L7A], Ub2 [L7A]	Synthetic construct		STLHLVARLRGG	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20803		P0CG61		Ubiquitin 2 [R8A], Ub2 [R8A]	Synthetic construct		STLHLVLALRGG	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20804		P0CG61		Ubiquitin 2 [L9A], Ub2 [L9A]	Synthetic construct		STLHLVLRARGG	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20805		P0CG61		Ubiquitin 2 [R10A], Ub2 [R10A]	Synthetic construct		STLHLVLRLAGG	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20806		P0CG61		Ubiquitin 2 [G11A], Ub2 [G11A]	Synthetic construct		STLHLVLRLRAG	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20807		P0CG61		Ubiquitin 2 [G12A], Ub2 [G12A]	Synthetic construct		STLHLVLRLRGA	12	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20820		Q2LKX9		Ixosin (1-12)	Synthetic construct		GLHKVMREVLGY	12	27622949	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20821		Q2LKX9		Ixosin (12-23)	Synthetic construct		YERNSYKKFFLR	12	27622949	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20824		Q2LKX9		Ixosin (7-18)	Synthetic construct		REVLGYERNSYK	12	27622949	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20841				Undefined	Synthetic construct		KIKKIIKKIIKI	12	31448889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20864		Q9FWK4,		CL(14-25)	Synthetic construct		RRLMAAKAESRK	12	23270672, 25581614	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11521				FluAPep30	Synthetic construct		SDARIDARI	9	30597438	Antiviral		Predicted
+CAMPSQ11522				FluAPep34	Synthetic construct		SHARIDARI	9	30597438	Antiviral		Predicted
+CAMPSQ11523				FluAPep74	Synthetic construct		SRAKIDARI	9	30597438	Antiviral		Predicted
+CAMPSQ11524				FluAPep41	Synthetic construct		SQARIDARI	9	30597438	Antiviral		Predicted
+CAMPSQ11525				FluAPep122	Synthetic construct		SRARIDYRI	9	30597438	Antiviral		Predicted
+CAMPSQ11526				FluAPep76	Synthetic construct		SRAMIDARI	9	30597438	Antiviral		Predicted
+CAMPSQ11715				(HKK)3	Synthetic construct		HKKHKKHKK	9	30486512	Antifungal		Experimentally validated
+CAMPSQ11742				Peptide 4	Synthetic construct		KWRRWIRWL	9	30447380	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11746				Peptide D4	Synthetic construct		kwrrwirwl	9	30447380	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11761				Tet 127 	Synthetic construct		KRWWKWWRR	9	30423715	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11774				CopW3	Synthetic construct		LLWIALRKK	9	30393205	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11775				DCopW	Synthetic construct		llwialrkk	9	30393205	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11776				DCopW1	Synthetic construct		llwialrkk	9	30393205	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11777				DCopW2	Synthetic construct		llwialrkk	9	30393205	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11778				DCopW3	Synthetic construct		llwialrkk	9	30393205	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11779				DCopW4	Synthetic construct		llwialrkk	9	30393205	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11780				DCopW5	Synthetic construct		llwialrkk	9	30393205	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11781				DCopW6	Synthetic construct		llwialrkk	9	30393205	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11782				Retro-dCopW3	Synthetic construct		kkrlaiwll	9	30393205	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11874				P1	Synthetic construct		RRWWRHWRR	9	28372989	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11875				P2 	Synthetic construct		RRWHRWWRR	9	28372989	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11876				P3	Synthetic construct		RRHWRWWRR	9	28372989	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11877				P4 	Synthetic construct		RRWHRHWRR	9	28372989	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11878				P5 	Synthetic construct		RRWWRWWRR	9	28372989	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11879				P6 	Synthetic construct		HRWWRWWRR	9	28372989	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

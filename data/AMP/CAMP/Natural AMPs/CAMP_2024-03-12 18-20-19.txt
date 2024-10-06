@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1695	75266171	Q9SPL4		Vicin-like antimicrobial peptide 2c-1	Macadamia integrifolia 	Plantae	RQRDPQQQYEQCQERCQRHETEPRHMQTCQQRCERRYEKEKRKQQ	45	10571855	Antibacterial, Antifungal		Predicted
+CAMPSQ1701	75207035	Q9SPL3		Vicin-like antimicrobial peptide 2c-1	Macadamia integrifolia 	Plantae	RQRDPQQQYEQCQKRCQRRETEPRHMQICQQRCERRYEKEKRKQQ	45	10571855	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1872	152112317	A4H200		Beta-defensin103A	Pongo pygmaeus	Animalia (Mammals)	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	45		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1873	152112316	A4H1Z9		Beta-defensin103A	Gorilla gorilla gorilla	Animalia (Mammals)	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	45		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1874	122142466	Q0W9P9		Beta-defensin103A	Equus caballus	Animalia (Mammals)	GIINMLQKSYCKIRKGRCALLGCLPKEEQIGSCSVSGRKCCRKKK	45		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1893	122065140	Q8K3U4		Beta-defensin 36	 Mus musculus	Animalia (Mammals)	QKCWNLHGKCRHRCSRKESVYVYCTNGKMCCVKPKYQPKPKPWMF	45		Antibacterial		Predicted
+CAMPSQ2071	123780116	Q32ZH7		Beta-defensin14	Rattus norvegicus	Animalia (Mammals)	FIPKSLRRFFCRVRGGRCAILNCLGKEEQIGRCSNRGQKCCRKKK	45		Antibacterial		Predicted
+CAMPSQ2453	74817293	Q8MVA6		Antimicrobial peptide ISAMP	Ixodes scapularis	Animalia (Arachnida)	DPGQPWQVKAGRPPCYSIPCRKHDECRVGSCSRCNNGLWGDRTCR	45	12177149	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2771		Q28880		  Lingual antimicrobial peptide 	Bos taurus	Animalia (Mammals)	GFTQGVRNSQSCRRNKGICVPIRCPGSMRQIGTCLGAQVKCCRRK	45	7886453	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ2863				  VaD1 	Vigna angularis	Plantae	RTCMKKEGWGKCLIDTTCAHSCKNRGYIGGNCKGMTRTCYCLVNC	45	15713009	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2948				  Ee-CBP 	Euonymus europaeus L.	Plantae	QQCGRQAGNRRCANNLCCSQYGYCGRTNEYCCTSQGCQSQCRRCG	45	12387889	Antifungal		Experimentally validated
+CAMPSQ3093				  ABP-118 	Lactobacillus salivarius subsp. salivarius UCC118	Monera	KRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL	45	11932444	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3142				  Palustrin-3AR 	Rana areolata	Animalia (Amphibia)	GIFPKIIGKGIVNGIKSLAKGVGMKVFKAGLNNIGNTGCNNRDEC	45	12429503	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3261				  WAMP-1b 	Triticum kiharae	Plantae	AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGCR	45	19583772	Antifungal		Experimentally validated
+CAMPSQ3354				  Pp-AMP2 	Phyllostachys edulis	Plantae	KSCCRSTTARNIYNGCRVPGTARPVCAKKSGCKIQEAKKCEPPYD	45	15784998	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3357				  BIN1b 	Rattus norvegicus	Animalia (Mammals)	GIRNTVCFMQRGHCRLFMCRSGERKGDICSDPWNRCCVSSSIKNR	45	19007826	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3709	350008	P01544	2PLH	  Alpha-purothionin, Purothionin AII	Triticum aestivum	Plantae	KSCCRSTLGRNCYNLCRARGAQKLCAGVCRCKISSGLSCPKGFPK	45	5031563	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3710	229588	P01543	1BHP	  Beta-purothionin 	Triticum aestivum	Plantae	KSCCKSTLGRNCYNLCRARGAQKLCANVCRCKLTSGLSCPKDFPK	45	5031563	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ4498		Q9ZUL8		Defensin-like protein 10	Arabidopsis thaliana	Plantae	RTCESPSNKFQGVCLNSQSCAKACPSEGFSGGRCSSLRCYCSKAC	45	15955924	Antifungal		Predicted
+CAMPSQ8106		B9UJ32		Beta-defensin	Oryzias latipes 	Animalia (Pisces)	EEKDPVMQYWTCGYRGLCRRFCYAQEYIIGHHGCPRRYRCCAMRF	45	19084554	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9318				SB/WB Piscidin 3	Morone chrysops	Animalia (Pisces)	FIHHIFRGIVHAGRSIGRFLTGGKAQQEREQQDQRFMDRERDAFN	45	27552222	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10997				Lactococcin Z	Lactococcus lactis QU 7	Monera	ALQFIQNTASGALYYNTKTHKYQYQQTSGAMGAAINVFNQQGINW	45	26093857	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11084				MjPen-II SRR	Marsupenaeus Japonicus	Animalia	GSSSSSSSSRSSSSSYRSSGSSYRSPGSSYRSSGSYGTSGSRLSG	45	26855016	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11341				BM1	Astragalus membranaceus	Plantae (Angiosperms)	CEKPSKFFSGPCIGSSGKTQCAYLCRRGEGLQDGNCKGLKCVCAC	45	30758201	Antifungal		Experimentally validated
+CAMPSQ11388				Tbeta	Danio rerio	Animalia (Pisces)	MADKPNMTEITSFDKTKLRKTETQEKNPLPTKETIEQERQGESTP	45	30703548	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

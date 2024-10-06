@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11345				VIII	Synthetic construct		GKWMKLlKKILK	12	30753486	Antifungal		Experimentally validated
+CAMPSQ11347				Sub5 	Synthetic construct		RRWKIVVIRWRR	12	30742402	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11354				PA1	Synthetic construct		WKRSAAAAAAKX	12	30735368	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ11355				PA2	Synthetic construct		GDDSAAAAAAKX	12	30735368	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ11445				HGM-Hp3	Synthetic construct		RHPEYAVSVLLR	12	30634704	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11446				Ub2-MS	Synthetic construct		STLHLVLRLRGG	12	30630076	Antibacterial		Experimentally validated
+CAMPSQ11629				Qa	Synthetic construct		IHKFWRRWFKHI	12	30538681	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11630				Qna	Synthetic construct		IHFKWRRWKFHI	12	30538681	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11636				[Ala]1 -Pol-CP-NH2	Synthetic construct		ALGTILGLLKSL	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11637				[Ala]2-Pol-CP-NH2	Synthetic construct		IAGTILGLLKSL	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11638				[Ala]3-Pol-CP-NH2	Synthetic construct		ILATILGLLKSL	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11639				[Ala]4-Pol-CP-NH2	Synthetic construct		ILGAILGLLKSL	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11640				[Ala]5-Pol-CP-NH2	Synthetic construct		ILGTALGLLKSL	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11641				[Ala]6-Pol-CP-NH2	Synthetic construct		ILGTIAGLLKSL	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11642				[Ala]7-Pol-CP-NH2	Synthetic construct		ILGTILALLKSL	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11643				[Ala]8-Pol-CP-NH2	Synthetic construct		ILGTILGALKSL	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11644				[Ala]9-Pol-CP-NH2	Synthetic construct		ILGTILGLAKSL	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11645				[Ala]10-Pol-CP-NH2	Synthetic construct		ILGTILGLLASL	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11646				[Ala]11-Pol-CP-NH2	Synthetic construct		ILGTILGLLKAL	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11647				[Ala]12-Pol-CP-NH2	Synthetic construct		ILGTILGLLKSA	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11648				[Leu]5-[Lys]9-Pol-CP-NH2	Synthetic construct		ILGTLLGLKKSL	12	30534613	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11649				[Lys]5-Pol-CP-NH2	Synthetic construct		ILGTKLGLLKSL	12	30534613	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11650				[Lys]4-Pol-CP-NH2	Synthetic construct		ILGKILGLLKSL	12	30534613	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11651				[Lys]7-Pol-CP-NH2	Synthetic construct		ILGTILKLLKSL	12	30534613	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11652				[Phe]9-Pol-CP-NH2	Synthetic construct		ILGTILGLFKSL	12	30534613	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

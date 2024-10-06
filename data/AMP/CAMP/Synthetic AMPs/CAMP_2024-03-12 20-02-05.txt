@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21974		B6D434,		Cathelicidin-BF [E16K], Cbf-K16	Synthetic construct		KFFRKLKKSVKKRAKKFFKKPRVIGVSIPF	30	23389882, 27287456, 31704464	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21975		B6D434		Cathelicidin-BF [K7A][R13A], Cbf-A7A13	Synthetic construct		KFFRKLAKSVKKAAKEFFKKPRVIGVSIPF	30	23389882	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22239				BP200, BP134-AGPA x 2	Synthetic construct		KKLFKKILKYLAGPAKKLFKKILKYLAGPA	30	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22241				BP192, BP134-AGPA-BP134-KDEL	Synthetic construct		KKLFKKILKYLAGPAKKLFKKILKYLKDEL	30	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22242				BP213, BP134-AGPA-BP134rev-KDEL	Synthetic construct		KKLFKKILKYLAGPALYKLIKKFLKKKDEL	30	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22727		I4DKL6		Cecropin Px (5-34)	Synthetic construct		KIFKKIEKVGRNVRDGIIKAGPAVAVVEQA	30	27089856	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22849		P25230		CAP7 (2-31), CAP18 (136-165), CAP18-MP(FV)(2-31)	Synthetic construct		LRKRLRKFRNKIKEKLKKIGQKIQGFVPKL	30	27925615	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23117		P81534		TBP-1-GGG-hBD3-(32-45)	Synthetic construct		RKLPDAPGMHTWGGGGKCSTRGRKCCRRKK	30	29025642	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23429		P54228		3G-Cathelicidin-6	Synthetic construct		GGGGRFKRFRKKFKKLFKKLSPVIPLLHLG	30	29984452	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23430		P54228		3G-Cathelicidin-6 [F13C, L20C]	Synthetic construct		GGGGRFKRFRKKCKKLFKKCSPVIPLLHLG	30	29984452	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23678		P12724		RN3(5-17P22-36)[T4I]	Synthetic construct		RPFIRAQWFAIQHISPRTIAMRAINNYRWR	30	29763807	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23679		P12724		RN3(5-17P22-36)[W8I]	Synthetic construct		RPFTRAQIFAIQHISPRTIAMRAINNYRWR	30	29763807	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23680		P12724		RN3(5-17P22-36)[Q12I]	Synthetic construct		RPFTRAQWFAIIHISPRTIAMRAINNYRWR	30	29763807	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23837		P59594		SARS-CoV (11531182)	Synthetic construct		GINASVVNIQKEIDRLNEVAKNLNESLIDL	30	18983873	Antiviral		Experimentally Validated
+CAMPSQ23847		P82019	6M56	MBD-4 (11-40) / P9 [H21R,K23R,K28R], P9R	Synthetic construct		NGAICWGPCPTAFRQIGNCGRFRVRCCRIR	30	32843628	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23939		P02649		C-apoE (244272), hEP-3	Synthetic construct		CEEQAQQIRLQAEAFQARLKSWFEPLVEDM	30	22334503	Antiviral		Experimentally Validated
+CAMPSQ23943		P02649		ApoE (133162), hEP-7	Synthetic construct		LRVRLASHLRKLRKRLLRDADDLQKRLAVY	30	22334503	Antiviral		Experimentally Validated
+CAMPSQ23998		Q5DP94		SC30EK	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSEEQQKKNE	30	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24015		Q5DP94		MTSC28EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKSEEQQKK	30	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24087		P03377		LP-56	Synthetic construct		WEQKIEELLKKAEEQQKKNEEELKKAEEAX	30	30089693	Antiviral		Experimentally Validated
+CAMPSQ24243		P23064		HTLV-1 gp (400-429)	Synthetic construct		CCFLNITNSHVSILQERPPLENRVLTGWGL	30	18680566	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24425				Undefined	Synthetic construct		VCRKPVVCRKPVVCRKPVVCRKPVVCRKPV	30	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24429				Undefined	Synthetic construct		ICRKPIICRKPIICRKPIICRKPIICRKPI	30	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24478		P24627		Lactotransferrin (590-619), Lactofungin	Synthetic construct		LLCLDGTRKPVTEAQSCHLAVAPNHAVVSR	30	32690642	Antifungal		Experimentally Validated
+CAMPSQ24707		P24627		Lactotransferrin (17-46), bLFcin	Synthetic construct		FKCRRWQWRMKKLGAPSITCVRRAFALECI	30	33425692	Antibacterial	Gram+,Gram-	Experimentally Validated

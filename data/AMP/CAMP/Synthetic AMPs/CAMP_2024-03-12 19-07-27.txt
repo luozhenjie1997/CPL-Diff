@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20951		P33046		Indolicidin [W9L,W11L]	Synthetic construct		ILPWKWPWLPLRR	13	20196123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20952		P33046		Indolicidin [W9L,W11Y]	Synthetic construct		ILPWKWPWLPYRR	13	20196123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20953		P33046		Indolicidin [W9L,W11K]	Synthetic construct		ILPWKWPWLPKRR	13	20196123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20954		P33046		Indolicidin [W4K,W8K,W9L]	Synthetic construct		ILPKKWPKLPWRR	13	20196123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20955		P33046		Indolicidin [W6K,W8K,W9L]	Synthetic construct		ILPWKKPKLPWRR	13	20196123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20956		P33046		Indolicidin [W9L,R12K,R13K]	Synthetic construct		ILPWKWPWLPWKK	13	20196123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20957		P33046		Indolicidin [W8L,W9L] retro	Synthetic construct		RRWPLLPWKWPLI	13	20196123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20958		P33046		Indolicidin [W4K,W8K, W9L] retro	Synthetic construct		RRWPLKPWKKPLI	13	20196123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20959		P33046		Indolicidin [W6K,W8K,W9L] retro	Synthetic construct		RRWPLKPKKWPLI	13	20196123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20963		P33046		Indolicidin [W9A,W11A]	Synthetic construct		ILPWKWPWAPARR	13	20237682	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20964		P33046		Indolicidin [W8A,W9A,W11A]	Synthetic construct		ILPWKWPAAPARR	13	20237682	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20965		P33046		Indolicidin [W6A,W8A,W9A,W11A]	Synthetic construct		ILPWKAPAAPARR	13	20237682	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20966		P33046,		Indolicidin [W4,6,8,9,11A]	Synthetic construct		ILPAKAPAAPARR	13	20237682	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20971				Undefined	Synthetic construct		WQRRMKLGAPSIT	13	10679204	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21017		P56029,		HP(8-20) 50S ribosomal protein L1	Synthetic construct		RLEKLFSKIQNDK	13	17961502, 25313444	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21020		P56029		HP(2-14) 50S ribosomal protein L1	Synthetic construct		AKKVFKRLEKLFS	13	17961502	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21097		P51524,		Tritrpticin [W 6 5-OH-W]	Synthetic construct		VRRFPXWWPFLRR	13	25178967	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21098		P51524,		Tritrpticin [W 7 5-OH-W]	Synthetic construct		VRRFPWXWPFLRR	13	25178967	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21099		P51524,		Tritrpticin [W 8 5-OH-W]	Synthetic construct		VRRFPWWXPFLRR	13	25178967	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21100		P51524,P51525		Tritrpticin [W6Y]	Synthetic construct		VRRFPYWWPFLRR	13	27025758	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21101		P51524,P51525		Tritrpticin [W7Y]	Synthetic construct		VRRFPWYWPFLRR	13	27025758	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21102		P51524,P51525		Tritrpticin [W8Y]	Synthetic construct		VRRFPWWYPFLRR	13	27025758	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21103		P51524,P51525		Tritrpticin [W6,7Y]	Synthetic construct		VRRFPYYWPFLRR	13	27025758	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21104		P51524,P51525		Tritrpticin [W7,8Y]	Synthetic construct		VRRFPWYYPFLRR	13	27025758	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21105		P51524,P51525		Tritrpticin [W6,8Y]	Synthetic construct		VRRFPYWYPFLRR	13	27025758	Antibacterial	Gram-	Experimentally Validated

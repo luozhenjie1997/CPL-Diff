@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9830				I11S	Synthetic construct		KWCFRVCYRGSCYRRCR	17	26549611	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9831				I11R	Synthetic construct		KWCFRVCYRGRCYRRCR	17	26549611	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9843				Ala2Gly	Synthetic construct		IGSASCTTCICTCSCSS	17	26630475	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ9844				Ala2Met	Synthetic construct		IMSASCTTCICTCSCSS	17	26630475	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ9845				Ala2Phe	Synthetic construct		IFSASCTTCICTCSCSS	17	26630475	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ9846				Ala2Tyr	Synthetic construct		IYSASCTTCICTCSCSS	17	26630475	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ9930				Dc1	Synthetic construct		NLLNDALGTVNGLLGRS	17	28659061	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9931				Dc1.1	Synthetic construct		NLLNKALGTVNGLLGRS	17	28659061	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9932				Dc1.2	Synthetic construct		NLLKSALKTVNKLLAAS	17	28659061	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9963				LC	Synthetic construct		GKEFKRIVWLSKTAKKL	17	29282543	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9964				LI	Synthetic construct		GKEFKRIVKWPWWPWRR	17	29282543	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9965				LN	Synthetic construct		GKEFKRIVGRIYRLCCR	17	29282543	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9993				Ala4-uperin 3.6	Synthetic construct		GVIAAAKKVVNVLKNLF	17	10461748	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9994				Ala7-uperin 3.6	Synthetic construct		GVIDAAAKVVNVLKNLF	17	10461748	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9995				Ala14-uperin 3.6	Synthetic construct		GVIDAAKKVVNVLANLF	17	10461748	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10071				MAP-1	Synthetic construct		KLALKALKALKAALKLA	17	28921993	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10075				SMAP-1	Synthetic construct		KLALKALKKLKADLKLA	17	28921993	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10382				RP557	Synthetic construct		RFCWKVCYKGICFKKCK	17	31396193	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10494				17BIPHE2 b	Synthetic construct		GXKRIVQRIKDXLRNLV	17	28672834	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10548				NBC2254	Synthetic construct		CALKLTKAKRLVRKIGF	17	31119600	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10557				Tachyplesin II (TII)	Synthetic construct		RWCFRVCYRGICYRKCR	17	31455019	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10558				Tachyplesin III (TIII)	Synthetic construct		KWCFRVCYRGICYRKCR	17	31455019	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10563				LDP-NLS	Synthetic construct		KWRRKLKKLRPKKKRKV	17	29329747	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10564				Mut-LDP-NLS	Synthetic construct		AWRRKLKALAPAKKAKV	17	29329747	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10627				LL-37(17-32)-D form	Synthetic construct		gfkrivqrikdflrnlv	17	16637646	Antibacterial	Gram -ve	Experimentally validated

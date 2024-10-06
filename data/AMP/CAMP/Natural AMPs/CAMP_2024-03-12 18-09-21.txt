@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ12043				Dermaseptin DPS3	Phyllomedusa sauvagii	Animalia (Amphibia)	ALWKDILKNAGKAALNEINQIVQ	23	30087268	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12289				Peptide D1-23	Homo sapiens 	Animalia	FLPKTLRKFFARIRGGRAAVLNA	23	29872295	Antibacterial 	Gram +ve	Experimentally validated
+CAMPSQ12749				2586.07 Legumin-like	Cicer arietinum L.	Plantae (Angiosperms)	NPQAGRIKTVTSFDLPALRFLKL	23	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13559				Octominin	Octopus minor	Animalia	GWLIRGAIHAGKAIHGLIHRRRH	23	31952292	Antifungal		Experimentally validated
+CAMPSQ13646				NCR169CL	Medicago truncatula	Plantae (Angiosperms)	YKSKKPLFKIWKCVENVCVLWYK	23	33972675	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13751				Ltc2a_N-trim	Lachesana tarabaevi	Animalia (Arachnida)	GKLIKKFGRKAISYAVKKARGKH	23	19563807	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14242				GV23	Hylarana guentheri	Animalia (Amphibia)	GVIFNALKGVAKTVAAQLLKKAR	23	34584638	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14342				B1OS	Odorrana schmackeri	Animalia (Amphibia)	FPLIASLAGNVVPKIFCKITKRC	23	34564615	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14988				Peptide 17	Saccharomyces cerevisiae	Fungi	GAPGGAAGGAPGGFPGGAPPAPE	23	35215278	Antibacterial		Predicted
+CAMPSQ15002				Peptide 31	Saccharomyces cerevisiae	Fungi	IIAGGVGEFEAGISKDGQTREHA	23	35215278	Antibacterial		Predicted
+CAMPSQ15143				C_AMP1655	Bacteroides uniformis	Monera (Bacteria)	RGTCYNRVGLIIRNFSKLKGKKV	23	35241840	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16248				Bac7(1-23)	Bos taurus 	Animalia (Mammals)	RRIRPRPPRLPRPRPRPLPFPRP	23	35578204	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ16249				Bac7PS	Bos taurus 	Animalia (Mammals)	RRIRIRPPRLPRPRPRPYFMPRP	23	35578204	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ18475				Astacidin PcAst-1b/c	Procambarus clarkii	Animalia	SNVYRPPPYRPVYRPLRRPGYRP	23	31884202	Antibacterial, Anticancer	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ20617				Magainin-M1	Xenopus muelleri	Animalia	GIGKFLHSAGKFGKAFIGEIMKS	23	21664395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20770				Hymenochirin-5Pe	Pseudhymenochirus merlini	Animalia	ITIPPIVKDTLKKFIKGAISGVM	23	24212286	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20771				Hymenochirin-5Pg	Pseudhymenochirus merlini	Animalia	ITIPPIVKDTLKKFIKGAISSVM	23	24212286	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21925		P84839		Brevinin CTcu2	Clinotarsus curtipes	Animalia	FLPLLAGLAANFLPKIFCKITRK	23	24161537	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21927		P82833		Brevinin CTcu4	Clinotarsus curtipes	Animalia	FLPFIAGMAAKFLPKIFCAISKK	23	24161537	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21973				Lactoferricin B like peptide, LBLP	Scolopendra subspinipes mutilans	Animalia	RMKKLGNHKVSCERNTKRCRKAI	23	23896552	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23656				Tp-HAMP2	Takifugu pardalis	Animalia	RKRCRFCCNCCPGKQGCVFCCGF	23	31408729	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23778				Somuncurin-4.2	Pleurodema somuncurense	Animalia	YYQVSEERRRDLASLARLYALAR	23	32134261	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23780				Somuncurin-4.3	Pleurodema somuncurense	Animalia	NNEENELRRRVSFNRAVIHSLLG	23	32134261	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24390		P0C023,Q68Y23		M-myrmeciitoxin-Mp2b	Myrmecia pilosula		LIGLVSKGTCVLVKTVCKKVLKQ	23	28513074, 32629771	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24461		P0DSK0,		M-poneratoxin-Dq3a, Dq-2562	Dinoponera quadriceps		FWGTLAKWALKAIPAAMGMKQNK	23	32585881, 28976889, 32861765	Antibacterial, Antiparasitic, Antifungal	Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22063				Wollamide B [l3D-Phe(4Cl), V4I, N5D-Orn]	Synthetic construct		WLxIxx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22064				Wollamide B [L2I]	Synthetic construct		WIlVNx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22065				Wollamide B [l3I]	Synthetic construct		WLIVNx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22066				Wollamide B [W1l, l3W]	Synthetic construct		lLWVNx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22067				Wollamide B [L2Me-Leu, N5Me-Asn]	Synthetic construct		WXlVXx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22068				Wollamide B [L2Me-Leu, V4Me-Val]	Synthetic construct		WXlXNx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22069				Wollamide B [l3D-Me-Leu, N5Me-Asn]	Synthetic construct		WLxVXx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22100		Q6JWQ9		Epinecidin-1 (32-37)	Synthetic construct		FHAGAM	6	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22102		Q6JWQ9		Epinecidin-1 (26-31)	Synthetic construct		HIIKGL	6	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22116		G9M010		Antilipopolysacharide factor (49-72)del(53-70)	Synthetic construct		ECKFCP	6	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22119		G9M010		Antilipopolysacharide factor (49-72)del(51-68)	Synthetic construct		ECMWCP	6	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22120				Undefined	Synthetic construct		kWfHwK	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22121				Undefined	Synthetic construct		KwFfLh	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22122				Undefined	Synthetic construct		KwLfFk	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22123				Undefined	Synthetic construct		KwWfWk	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22124				Undefined	Synthetic construct		KwFwWk	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22125				Undefined	Synthetic construct		KwFkWs	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22126				Undefined	Synthetic construct		KwFkKl	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22127				Undefined	Synthetic construct		KwFlWh	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22128				Undefined	Synthetic construct		hWfHwK	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22129				Undefined	Synthetic construct		rWfHwK	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22130				Undefined	Synthetic construct		sWfHwK	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22131				Undefined	Synthetic construct		lWfHwK	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22132				Undefined	Synthetic construct		wWfHwK	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22133				Undefined	Synthetic construct		yWfHwK	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated

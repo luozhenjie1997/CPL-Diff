@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14217				89-106SlSN9 	Solanum lycopersicum	Plantae	GLCKYRCSLHSRPNVCFR	18	34698084	Antifungal	Gram +ve	Experimentally validated
+CAMPSQ14218				47-64SlSN10	Solanum lycopersicum	Plantae	GSCKTRCSKSSRQNLCNR	18	34698084	Antifungal		Experimentally validated
+CAMPSQ14220				CcG3-TI	Capsicum chinense	Plantae	LTNVPSVLNGSPVTKDFR	18	34671924	Antifungal		Experimentally validated
+CAMPSQ14247				GV18	Hylarana guentheri	Animalia (Amphibia)	TVAAQLLKKARCKLDKSC	18	34584638	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14263				Protegrin-1	Sus scrofa	Animalia (Mammals)	RGGRLCYCRRRFCVCVGR	18	34502403	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14399				S6	Bos taurus 	Animalia (Mammals)	GGLRSLGRKILRAWKKYG	18	34780520	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14653				Peptide F1	Lactobacillus paracasei	Monera	TONTXHPNTHLIXCVNXU	18	34869536	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ14691				Thanatin KEV isoform	Riptortus pedestris	Animalia (Insects)	GRVPIIYCNRKTGVCKEV	18	35069496	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ15000				Peptide 29	Saccharomyces cerevisiae	Fungi	GIGTVPVGRVETGVIKPG	18	35215278	Antibacterial		Predicted
+CAMPSQ15012				Peptide 41	Saccharomyces cerevisiae	Fungi	GGAPGGAAGGAPGGFPGG	18	35215278	Antibacterial		Predicted
+CAMPSQ15013				Peptide 42	Saccharomyces cerevisiae	Fungi	STGAAKAVGKVLPELQGK	18	35215278	Antibacterial		Predicted
+CAMPSQ15023				Peptide 52	Saccharomyces cerevisiae	Fungi	VLDQEPDAGLGNGGLGRL	18	35215278	Antibacterial		Predicted
+CAMPSQ15031				Pom-1A	Pomacea poeyana	Animalia	IGSGLFGGAKLIKIKKYI	18	35214049	Antifungal		Experimentally validated
+CAMPSQ15130				Protegrin-1	Sus scrofa	Animalia (Mammals)	RGGRLCYCRRRFCVCVGR	18	35254120	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ15151				Megin 1	Megophrys minor	Animalia (Amphibia)	FLKGCWTKWYSLKPKCPF	18	27114317	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15203				Api755	Apis mellifera	Animalia (Arthropoda)	XIXRPVYXPRPRPPHPRL	18	27243004	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ15204				Api760	Apis mellifera	Animalia (Arthropoda)	XWXRPVYXPRPRPPHPRL	18	27243004	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ15229				P3	Bovine 	Animalia (Mammals)	VNFKLLSHSLLVTLASHL	18	25753638	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15232				JH-2	Bovine 	Animalia (Mammals)	VRFKLLSHSLLVTLASHL	18	25753638	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15248				Analog-1	Impatiens balsamina	Plantae	WGRRCCGWGPGRRYCVRW	18	19778562	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15249				Analog-2	Impatiens balsamina	Plantae	WGRRCCGWGpGRRYCVRW	18	19778562	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15250				Analog-3	Impatiens balsamina	Plantae	WGRRCCGWGaGRRYCVRW	18	19778562	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15251				Analog-4	Impatiens balsamina	Plantae	WGRRCCGWGkGRRYCVRW	18	19778562	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16243				Hylin a1-2A	Hypsiboas albopunctatus 	Animalia (Amphibia)	IAGAILPLALGALKNLIK	18	35561952	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16244				Hylin a1-3K	Hypsiboas albopunctatus 	Animalia (Amphibia)	IAKAILPLALGALKNLIK	18	35561952	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

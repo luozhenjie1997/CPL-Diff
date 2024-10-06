@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19178		P14213		Tachyplesin ccTP [4,8R]	Synthetic construct		KWCRCVCRRGICYCRCRG	18	10673369	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19176		P14213		Tachyplesin ccTP	Synthetic construct		KWCFCVCYRGICYCRCRG	18	10673369	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19172		P82358		Gomesin [C2D][C15DAP]	Synthetic construct		XDRRLCYKQRCVTYXRGR	18	16235231	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19164		P82358		Gomesin [PYA1TOAC][C2S][C6S][C11S][C15S]	Synthetic construct		XSRRLSYKQRSVTYSRGR	18	16235231, 17027634	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19165		P82358		Gomesin [C2S][C15S]	Synthetic construct		XSRRLCYKQRCVTYSRGR	18	16235231	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19166		P82358		Gomesin [C6S][C11S]	Synthetic construct		XCRRLSYKQRSVTYCRGR	18	16235231	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19167		P82358		Gomesin [C2D][C6S][C11S][C15ORN]	Synthetic construct		XDRRLSYKQRSVTYXRGR	18	16235231	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19168		P82358		Gomesin [C2S][C6D][C11ORN][C15S]	Synthetic construct		XSRRLDYKQRXVTYSRGR	18	16235231	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19169		P82358		Gomesin [C6E][C11K]	Synthetic construct		XCRRLEYKQRKVTYCRGR	18	16235231	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19170		P82358		Gomesin [C6D][C11DAP]	Synthetic construct		XCRRLDYKQRXVTYCRGR	18	16235231	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19171		P82358		Gomesin [C2E][C15K]	Synthetic construct		XERRLCYKQRCVTYKRGR	18	16235231	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19163		,P82358	1KFP	Gomesin [PYA1TOAC]	Synthetic construct		XCRRLCYKQRCVTYCRGR	18	16235231, 23426877, 17027634	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19121		P49913,		LL-37 (15-32)[Q8K,D12K,N16K]	Synthetic construct		KEFKRIVKRIKKFLRKLV	18	21790937, 23689720	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19112		P49913		LL-37 (15-32)[E2L][Q8K][K11L][D12K][N16K]	Synthetic construct		KLFKRIVKRILKFLRKLV	18	15980359	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19094		P59665		HNP-1 (10-18, 20-28)[G3,8,13A]	Synthetic construct		IAAERRYATIYQARLWAF	18	16251296, 32663201	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19093		P59665		Neutrophil defensin 1/ HNP-1 AMD(10-18, 20-28)	Synthetic construct		IAGERRYGTIYQGRLWAF	18	16251296	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19048				OV-5	Synthetic construct		KNIRRIIRKIIHIIKKYG	18	11600395	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19046		P49928		Cathelin-related peptide SC5/SMAP-29/Myeloid antibacterial peptide MAP-29 (1-18)[R5A][K16A]	Synthetic construct		RGLRALGRKIAHGVKAYG	18	11600395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19043		P49928,P49929		D-SMAP-29 (1-18)	Synthetic construct		RGLRRLGRKIAHGVKKYG	18	11600395, 24221355, 21377841	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19041				[KIGAKI]3-14D	Synthetic construct		KIGAKIKIGAKIKXGAKI	18	23652359	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19040				[KIGAKI]3-12D	Synthetic construct		KIGAKIKIGAKXKIGAKI	18	23652359	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19039				[KIGAKI]3-8D	Synthetic construct		KIGAKIKXGAKIKIGAKI	18	23652359	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19038				[KIGAKI]3-6D	Synthetic construct		KIGAKXKIGAKIKIGAKI	18	23652359	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19037				Undefined	Synthetic construct		KIGAKIKIGAKIKIGAKI	18	23652359, 20692130	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18996		P32194		Protegrin 1/Neutrophil peptide 1/PG-1 [C6V][C8T][R10x][C13T][C15I]	Synthetic construct		RGGRLVYTRxRFTVIVGR	18	17176094	Antibacterial	Gram+,Gram-	Experimentally Validated

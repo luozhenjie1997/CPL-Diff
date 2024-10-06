@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ842	223635305	P86170		Melectin 	Melecta albifrons	Animalia (Insects)	GFLSILKKVLPKVMAHMK	18	18942691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ858	1730503	P32194	1PG1,1ZY6	Protegrin-1	Sus scrofa	Animalia (Mammals)	RGGRLCYCRRRFCVCVGR	18	8647100	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ860	1730505	P32196	1KWI,1LXE,1PFP	Protegrin-3	Sus scrofa	Animalia (Mammals)	RGGGLCYCRRRFCVCVGR	18	8335113	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ972	88909659	P84763		Bacteriocin thuricin-S	Bacillus thuringiensis serovar entomocidus	Monera	DWTAWSALVAAACSVELL	18	17496978	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1205		Q5GC92 , Q5GC91 , Q5GC94		Maximin S2	Bombina maxima	Animalia (Amphibia)	GSNKGFNFMVDMIQALSN	18	15649437	Antibacterial		Predicted
+CAMPSQ1206		Q5GC92 , Q5GC91 , Q5GC94		Maximin S3	Bombina maxima	Animalia (Amphibia)	GSNKGFNFMVDMINALSN	18	15649437	Antibacterial		Predicted
+CAMPSQ1207		Q5GC92 , Q5GC91 , Q5GC94		Maximin s5	Bombina maxima	Animalia (Amphibia)	GSNKGFNFMVDMIQALSK	18	15649437	Antibacterial		Predicted
+CAMPSQ2304	332310267	P86896		Putative antimicrobial peptide 2	Lippia sidoides  	Plantae	PPEAAYGPGNTNSDSGDK	18	21210197	Antifungal		Experimentally validated
+CAMPSQ2671	311334887	E3PQH3		Phylloseptin-1 precursor  	Phyllomedusa sauvagii	Animalia (Amphibia)	LSLIPHIVSGVASIAKHF	18	20451254	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2735				BTD-1 	Papio anubis	Animalia (Mammals)	RCVCTRGFCRCVCRRGVC	18	18852242	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2736			2LYE	BTD-2 	Papio anubis	Animalia (Mammals)	RCVCRRGVCRCVCRRGVC	18	18852242	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2819				  Maculatin 2.1	Litoria eucnemis	Animalia (Amphibia)	GFVDFLKKVAGTIANVVT	18	15203252	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2892				  BTD-3 	Papio anubis	Animalia (Mammals)	RCVCTRGFCRCVCTRGFC	18	18852242	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2917				  BTD-4 	Papio anubis	Animalia (Mammals)	RCVCTRGFCRCICLLGIC	18	18852242	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2918				  BTD-7 	Papio anubis	Animalia (Mammals)	RCVCTRGFCRCFCRRGVC	18	18852242	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2971				  Phylloseptin-L1 	Hylomantis lemur, Agalychnis callidryas	Animalia (Amphibia)	LLGMIPLAISAISALSKL	18	17561225	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ3408				  Shuchin 1  	Rana shuchinae	Animalia (Amphibia)	NALSMPRNKCNRALMCFG	18	20553780	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3409				  Shuchin 2  	Rana shuchinae	Animalia (Amphibia)	NALSSPRNKCDRASSCFG	18	20553780	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3414				  PhTD1 	Papio hamadryas	Animalia (Mammals)	RCVCRRGVCRCVCTRGFC	18	20155756	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3415				  PhTD3 	Papio hamadryas	Animalia (Mammals)	RCVCTRGFCRCVCTRGFC	18	20155756	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3416				  RTD-4 	Macaca mulatta	Animalia (Mammals)	GICRCICTRGFCRCICVL	18	21084627	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3417				  RTD-5 	Macaca mulatta	Animalia (Mammals)	GICRCLCRRGVCRCICVL	18	21084627	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3484				  Peptide 2 	Rapana venosa	Animalia (Molluscs (Gastropoda))	SPPNQPSIMTFDYAKTNK	18	21703315	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3532				  Andersonin-Y1 	Odorrana andersonii	Animalia (Amphibia)	FLPKLFAKITKKNMAHIR	18	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3820		L0P402		  Medusin-PH 	Agalychnis callidryas	Animalia (Amphibia)	LLGMIPVAISAISALSKL	18	23415652	Antibacterial, Antifungal	Gram +ve	Experimentally validated

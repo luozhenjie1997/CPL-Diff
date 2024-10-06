@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3	108533			Bactenecin 5 - bovine	Bos taurus 	Animalia (Mammals)	RFRPPIRRPPIRPPFYPPFRPPIRPPIFPPIRPPFRPPLRFP	42	2229048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ66	1168639	P46171		Beta-defensin 13 . BNDB-13	Bos taurus 	Animalia (Mammals)	SGISGPLSCGRNGGVCIPIRCPVPMRQIGTCFGRPVKCCRSW	42	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ129	1352070	P46164		Beta-defensin 6 	 Bos taurus 	Animalia (Mammals)	QGVRNHVTCRIYGGFCVPIRCPGRTRQIGTCFGRPVKCCRRW	42	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2075	122138580	Q30KU3		Beta-defensin 110	Canis familiaris	Animalia (Mammals)	NFDPKYRFERCAKVKGICKTFCDDDEYDYGYCIKWRNQCCI	41		Antibacterial		Predicted
+CAMPSQ2083	84028895	Q30KJ6		Beta-defensin133	Pan troglodytes	Animalia (Mammals)	VKCAVKDTYSCFIVRGKCRHECHDFEKPIGFCTKLNANCYM	41		Antibacterial		Predicted
+CAMPSQ3074				  Gallinacin 6 	Gallus gallus	Animalia (Aves)	DTLACRQSHGSCSFVACRAPSVDIGTCRGGKLKCCKWAPSS	41	17194828	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3197				  ADP-1 	Amblyomma hebraeum	Animalia (Arachnida)	FDNPFGCPADEGKCFDHCNNKAYDIGYCGGSYRATCVCYRK	41	14705963	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ3198				  ADP-2 	Amblyomma hebraeum	Animalia (Arachnida)	YENPYGCPTDEGKCFDRCNDSEFEGGYCGGSYRATCVCYRT	41	14705963	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3365				  Gallin 	Gallus gallus	Animalia (Aves)	LVLKYCPKIGYCSNTCSKTQIWATSHGCKMYCCLPASWKWK	41	20226050	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3480				  Arasin-likeSp 	Scylla paramamosain	Animalia (Crustaceans (Malacostraca))	SPRVSRRYGRPFGGRPFVGGQFGGRPGCVCIRSPCPCANYG	41	21220028	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3706				  MiAMP2b 	Macadamia integrifolia	Plantae	DPQTECQQCQRRCRQQESGPRQQQYCQRRCKEICEEEEEYN	41	10571855	Antifungal		Experimentally validated
+CAMPSQ3854		P86291		Bacteriocin	Lactococcus sp.	Monera	TSYGNGVHCNKSKCWIDVSELETYKAGTVSNPKDILWSLKE	41		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4324				Sakacin A	Lactobacillus sake Lb 706	Monera	ARSYGNGVYCNNKKCWVNRGEATQSIIGGMISGWASGKAGM	41	8633865	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8095		Q14QQ6		Beta-defensin (omDB-1)	Oncorhynchus mykiss 	Animalia (Pisces)	ASFPFSCPTLSGVCRKLCLPTEMFFGPLGCGKGFLCCVSHF	41	19709750	Antibacterial	Gram-ve	Predicted
+CAMPSQ8125		W0FEW1		Beta-defensin CFDB-1	Cynops fudingensis 	Animalia (Amphibia)	FAVWGCADYRGYCRAACFAFEYSLGPKGCTEGYVCCVPNTF	41	24386139	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9314				Cremycin-5	Caenorhabditis remanei	Animalia (nematode)	DVKSGHYKGPCYHDENCNGVCRDEGYKSGHCRWGGACWCDT	41	24434635	Antifungal		Experimentally validated
+CAMPSQ10910				EcAMP2	Echinochloa crus-galli	Plantae	DRCSQQCQHHDRCSQQCQHHRDPDRKQQCMRECRRHQGRSD	41	24275143	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11099				PaLEAP-2	Plecoglossus altivelis	Animalia (Pisces)	MTPLWRVMGNKPFGAYCQDHVECSTGICKGGHCIYSQPIKS	41	25749706	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12201				EtTI	Enterolobium timbouva	Plantae (Angiosperms)	KELLDSKGQILSNGGTYYILPALGQKDGVLQGAKTGDGTCG	41	30017979	Antifungal 		Experimentally validated
+CAMPSQ14580				Flounder beta-defensin	Paralichthys olivaceus	Animalia (Pisces)	PKADCSTIQGVCKDSCLSTEFSIGALGCSAESSTVCCVTKP	41	34943162	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14726				Hill-Def 8	Hermetia illucens 	Animalia (Insects)	QLPCDYLSGLGFGEDACNTDCIAKGHKSGFCTGLVCRCRTL	41	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16679				All D LS-stomoxyn	Lucilia sericata		GFRKRFNKLVKKVKHTIKETANVSKDVAIVAGSGVAVGAAM	41	30272195	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16681				LS-stomoxyn	Lucilia sericata		GFRKRFNKLVKKVKHTIKETANVSKDVAIVAGSGVAVGAAM	41	30272195	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ21351				ToAMP4	Taraxacum officinale	Plantae	GYGDGCYSEDDLSVCCKKKFKVIGKCFKSVRECQNSGCKYH	41	23771034	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24640				Bacteriocin Plantaricin LPL-1	Lactobacillus plantarum LPL-1	Bacteria	VIADKYYGNGVSCGKHTCTVDWGEAFSCSVSHLANFGHGKC	41	30323792	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

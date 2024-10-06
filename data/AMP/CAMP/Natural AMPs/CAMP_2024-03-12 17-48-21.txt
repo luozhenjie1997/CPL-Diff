@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11402				Sapecin B	Musca domestica	Animalia (Insects)	RSLCLLHCRLK	11	30674770	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11564				Thaumatin-PEP3	Thaumatococcus daniellii	Plantae (Angiosperms)	IVGQCPAKLKA	11	30577001	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11663				Cn-AMP2	Cocos nucifera	Plantae (Angiosperms)	TESYFVFSVGM	11	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11800				HLF1-11	Homo sapiens	Animalia (Mammals)	GRRRRSVQWCA	11	28470337	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11818				BCBS-11	Glycine max 	Plantae (Angiosperms)	RIRLLQRFNKR	11	28459130	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11958				VCP-VT2	Vespa tropica	Animalia (Wasp)	FLPIIGKLLSG	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11972				ATRA-1A	Naja atra	Animalia	KRAKKFFKKLK	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11976				HDH-LGBP	 Haliotis discus hannai 	Animalia (Sea snail)	WLWPAIWKLPT	11	27983632	Antibacterial		Predicted
+CAMPSQ12047				NOSO-95C (1-11)	Xenorhabdus sp	Monera (Gammaproteobacteria)	KXXGOPHKZKB	11	30086230	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ12114				Peptide 4	Oryza sativa Japonica Group	Plantae (Angiosperms)	SNNCANVCRTE	11	30061724	Antifungal		Experimentally validated
+CAMPSQ12876				LFMP-001	Limacus favus	Animalia (Mollusca)	AVAALKFEAGN	11	34086076	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13526				RP40-20/1	Rhinocricus sp	Animalia	LAIDQSVLLLK	11	33894375	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13574				Sarconesin III	Sarconesiopsis magellanica	Animalia (Insects)	PKINIKHVYDK	11	34287503	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13585				PN5	Pinus densiflora Sieb. et Zucc.	Plantae	FKFLARTGKFL	11	34093476	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13790				N11-(3-13) 	Rana rugosa 	Animalia (Amphibia)	GALFKVASKVL	11	14739294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14225				AS-hepc3(41-51)	Acanthopagrus schlegelii	Animalia	SPAGRNSRRRR	11	34676176	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14248				GV11	Hylarana guentheri	Animalia (Amphibia)	TVAAQLLKKAR	11	34584638	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14398				S52	Mesobuthus martensii	Animalia (Arachnida)	FIGAIARLLSK	11	34780520	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14403				KLK	Sarcophaga peregrina	Animalia (Insects)	KLKLLLLLKLK	11	34780520	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14433				Temporin-FLb	Pelophylax nigromaculatus	Animalia (Amphibia)	FIPVSGLFKLL	11	34738013	Antibacterial, antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14678				Checacin1 (1-11)	Chelifer cancroides	Animalia (Arachnida)	FFGAIAKLAMK	11	35051034	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14684				MpVT4	Vespa tropica	Animalia (Insects)	KAIAAFAKKFI	11	35056876	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16554				Plantaricin GZ1-27	Lactobacillus plantarum GZ1-27	Bacteria	VSGPAGPPGTH	11	29690762	Antibacterial, Antifungal	Gram+ve	Experimentally validated
+CAMPSQ16806		D1MEI9		EpVP3, VP3 protein	Eumenes pomiformis	Animalia	AINPKSVQSLL	11	21184791	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ17596				Bacitracin B3, Bacitracin B1A	Bacillus subtilis	Bacteria	XLeVKxIfHdN	11	7730158	Antibacterial	Gram+,Gram-	Experimentally validated

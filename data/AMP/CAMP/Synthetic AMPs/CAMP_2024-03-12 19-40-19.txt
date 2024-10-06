@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ15098				Pyrrhocoricin	Synthetic construct		VDKGGYLPRPTPPRPVYR	18	35260685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ16504		A0A238GSL3		Distinctin-Like-Peptide-PH (1-18), DLP-PHn 	Synthetic construct		NLVSALIEGRKYLKNVLK	18	29628917	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16505		A0A238GSL3		Distinctin-Like-Peptide-PH (19-36), DLP-PHc	Synthetic construct		KLNRLKEKNKAKNSKENN	18	29628917	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16534		Q01524		D6R-DEL-C	Synthetic construct		AFTRRRSYSTEYSYGTTV	18	26400692	Antibacterial, Antifungal	Gram-ve	Experimentally validated
+CAMPSQ16535				D6r-DEL-C	Synthetic construct		AFTrrrSYSTEYSYGTTV	18	26400692	Antibacterial, Antifungal	Gram-ve	Experimentally validated
+CAMPSQ16536				My D6R-DEL-C	Synthetic construct		AFTRRRSYSTEYSYGTTV	18	26400692	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16537				My D6r-DEL-C	Synthetic construct		AFTrrrSYSTEYSYGTTV	18	26400692	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16538		Q8WTQ1		L1U	Synthetic construct		ELDRIXGYGTARXRKKXR	18	25810238	Antifungal		Experimentally validated
+CAMPSQ16718				Peptide 8	Synthetic construct		RIVQRILKWLKKWYKLGK	18	26896660	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16719				Peptide 8.1	Synthetic construct		RIVQRIAKWAKKWYKAGK	18	26896660	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16741		P83189		Pse- T1	Synthetic construct		LNALKKVFQGIHEAIKLI	18	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16742		P83189		Pse- T2	Synthetic construct		LNALKKVFQKIHEAIKLI	18	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16743		P83189		Pse- T3	Synthetic construct		LNALKKVFQGIHEAIKKI	18	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16744		P83189		Pse- T4	Synthetic construct		LNALKKVFQKIHEAIKKI	18	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16824				IB-200	Synthetic construct		RGGRLCYCRRRFCVCVGR	18	10931444	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16825				IB-247	Synthetic construct		RGGRLCYCRRRFCVCVGR	18	10931444	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16827				IB-370	Synthetic construct		RLLRACYCRgRFCVCVGR	18	10931444	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16828				IB-226	Synthetic construct		RGGGLCYTRPRFTVCVGR	18	10931444	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16829				IB-356	Synthetic construct		RGWRGCYKRGRFKGCVGR	18	10931444	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16830				IB-786	Synthetic construct		RGGRLAYARRRFAVAVGR	18	10931444	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16831				IB-573	Synthetic construct		RTTRLCYCRRRFCVCVTR	18	10931444	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16832				IB-416	Synthetic construct		RGGRLCYCRRRFCvCVGR	18	10931444	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17142		A6XMY0		Arasin 1 (20-37)-Acm	Synthetic construct		FRPRPCNCYAPPCPCDRW	18	23326415	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ17148		P80054		PR-39 (1-18)	Synthetic construct		RRRPRPPYLPRPRPPPFF	18	24755622	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17174				RC-111	Synthetic construct		RGCICRCIGRGCICRCIG	18	16790431	Antibacterial	Gram+	Experimentally validated

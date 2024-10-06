@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23721				Undefined	Synthetic construct		KIRWWR	6	24946217	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23722				Undefined	Synthetic construct		KIKRWR	6	24946217	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23723				Undefined	Synthetic construct		KKIRWR	6	24946217	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23732				Undefined	Synthetic construct		CGCQLR	6	25966444	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23770				DIR1	Synthetic construct		IRPIRP	6	31775224	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23901				Surfactin-like peptide SLP2	Synthetic construct		EVlDlV	6	30973929	Antiviral		Experimentally Validated
+CAMPSQ24050		P83412		Alloferon (8-13)	Synthetic construct		QHGVHG	6	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24306				KL6	Synthetic construct		KLKLKL	6	32704013	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24337		A0A0L8FJ88		Transgelin (218-223)	Synthetic construct		QAGTNK	6	32717885	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24468				Undefined	Synthetic construct		CXKKWW	6	32852141	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24470				Undefined	Synthetic construct		CXXXWW	6	32852141	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24527		P49931		PMAP-36 (16-21), KV	Synthetic construct		KIGKVL	6	33101226	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24619				Undefined	Synthetic construct		WRWYCR	6	23380915	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24653				Pal-GR6	Synthetic construct		GRRGGR	6	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24749				Undefined	Synthetic construct		XGPGXG	6	32067003	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24777		A8R0Q4		Myosin heavy chain fast skeletal type 2 (871876)	Synthetic construct		KELEEK	6	30011734	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24796				Undefined	Synthetic construct		WWRXRR	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24797				Undefined	Synthetic construct		RWRXWR	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24798				Undefined	Synthetic construct		RWWXRR	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24799				Undefined	Synthetic construct		WRRXWR	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24800				Undefined	Synthetic construct		WRWXRR	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24801				Undefined	Synthetic construct		RRWXWR	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24802				Undefined	Synthetic construct		WRWXWR	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24804				Undefined	Synthetic construct		XWWXXX	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24805				Undefined	Synthetic construct		WXXXWX	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated

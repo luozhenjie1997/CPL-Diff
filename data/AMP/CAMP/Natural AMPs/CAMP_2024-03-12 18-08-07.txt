@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ696	110560590	A6MBM3		Odorranain-H1 antimicrobial peptide	Odorrana grahami	Animalia (Amphibia)	GIFGKILGVGKKVLCGLSGVC	21	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ699	110560345	A6MBA3 , P0C2A4, P85070		Nigrosin-OG20 , nigrocin-2GRa , Grahamin-1, nigrosin-OG17, Grahamin-2	Odorrana grahami	Animalia (Amphibia)	GLLSGILGAGKNIVCGLSGLC	21	17272268 , 16621155 , 16487561	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ700	110560319	A6MB90		Nigrosin-OG21 antimicrobial peptide	Odorrana grahami	Animalia (Amphibia)	GLLSGVLGVGKKVLCGLSGLC	21	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ701	110560301	A6MB81		Nigrosin-OG13 antimicrobial peptide	Odorrana grahami	Animalia (Amphibia)	GLLSGILGAGKHIVCGLSGLR	21	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ702				Nigrocin-OG4	Odorrana grahami	Animalia (Amphibia)	GLLSGILGAGKHIICGLSGLC	21	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ703				Nigrocin-OG5	Odorrana grahami	Animalia (Amphibia)	GLLSGILGAGKQKVCGLSGLC	21	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ754		P37046	1RPB	Rp 71955	Actinomycete Sp9440	Monera	CLGIGSCNDFAGCGYAVVCFW	21	8286361	Antiviral		Experimentally validated
+CAMPSQ776				Nigrocin-2GRb	Rana grahami	Animalia (Amphibia)	GLFGKILGVGKKVLCGLSGMC	21	16621155	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ806	158705988	P85090		Ocellatin-4	Leptodactylus ocellatus	Animalia (Amphibia)	GLLDFVTGVGKDIFAQLIKQI	21	11555873	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ838	223635182	B5LUQ4		Fallaxidin 4.1	Litoria fallax	Animalia (Amphibia)	GLLSFLPKVIGVIGHLIHPPS	21	18803332	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ869				Witch flounder GcSc4B7	Glyptocephalus cynoglossus	Animalia (Pisces)	GFWGKLFKLGLHGIGLLHLHL	21	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ988	126215668	P85078		Tricyclic peptide MS-271	Streptomyces sp.	Monera	CLGVGSCNNFAGCGYAIVCFW	21	8689231	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ995	124007192	P85070, P0C2A5, P85071		Nigrocin-2GRc, Grahamin-2, Grahamin-1	Rana grahami	Animalia (Amphibia)	GLLSGILGAGKHIVCGLSGLC	21	16621155 , 16487561	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1067	48429009	Q9X2V7	1PP5,1Q71,1S7P	MicrocinJ25	Escherichia coli	Monera	GGAGHVPEYFVGIGTPISFYG	21	1429464	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1078	224493152	P0C8U1		Nigrocin-2HSb	Rana hosii	Animalia (Amphibia)	GLLGSIFGAGKKIACALSGLC	21	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1079	224493151	P0C8U0		Nigrocin-2HSa	Rana hosii	Animalia (Amphibia)	GLLGSLFGAGKKVACALSGLC	21	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1092	123321624	Q09T02		Lantibiotic michiganin-A	Clavibacter michiganensis subsp. michiganensis	Monera	SSSGWLCTLTIECGTIICACR	21	16957199	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1098	223635234	A1Z0M0		Hepcidin	Larimichthys crocea	Animalia (Pisces)	RCRFCCRCCPRMRGCGICCRF	21		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1156	254674360	C7C1L1		Kasseptin 1Md	Kassina maculata	Animalia (Amphibia)	IIGAIAAALPHVINAIKNTFG	21	19427345	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1273	2842667	Q64263		DFR10_MOUSE Defensin-related cryptdin, related sequence 10 precursor 	Mus musculus	Animalia (Mammals)	CPPCPSCPSCPWCPMCPRCPS	21		Antibacterial		Predicted
+CAMPSQ1737	114149281	Q17UY8		Dermaseptin - H3	Phyllomedusa azurea 	Animalia (Amphibia)	GLWSTIKNVAAAAGKAALGAL	21		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1782	146324985	P0C2V0		Peptide2340	Lycosa singoriensis	Animalia (Arachnida)	MIASHLAFEKLSKLGSKHTML	21		Antibacterial		Predicted
+CAMPSQ2587	334305783	E5KIB6		Cypemycin	Streptomyces sp.	Monera	TPATPTVAQFVIQGSTICLVC	21	20805503	Antibacterial, Anticancer	Gram +ve	Experimentally validated
+CAMPSQ2711				  LP1A 	Manduca sexta	Animalia (Insects)	QRFSQPTFKLPQGRLTLSRKF	21	20096726	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2780		Q9X2V7	1Q71	  Microcin J25 	Escherichia coli AY25	Monera	VGIGTPIFSYGGGAGHVPEYF	21	1429464	Antibacterial	Gram -ve	Experimentally validated

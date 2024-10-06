@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20638		P22749		Granulysin (1-35)	Synthetic construct		GRDYRTSLTIVQKLKKMVDKPTQRSVSNAATRVSR	35	11120840	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20639		P22749		Granulysin (36-70)	Synthetic construct		TGRSRWRDVSRNFMRRYQSRVIQGLVAGETAQQIS	35	11120840	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20933		P32194		Syn-Protegrin-1, SynPG-1	Synthetic construct		GLRRLLRKIRGRWKGGGRGGRLCYCRRRFCVCVGR	35	32650576	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21773				Undefined	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSEEQQKKNEEELKK	35	12203417	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21777				Undefined	Synthetic construct		EEYTKKIEEYTKKIEEYTKKIEEYTKKIEEYTKKI	35	18662985	Antiviral	Gram-	Experimentally Validated
+CAMPSQ21798		P49928		SMAP-BSA	Synthetic construct		RGLRRLGRKIAHGVKKYGPTVLRIIRIAGGGGGSC	35	21377841	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22081		F1MQ17		Bactericidal permeability-increasing protein (65-99)	Synthetic construct		NSQIRPLPDKGLDLSIRDASIKIRGKWKARKNFIK	35	17975968	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22726		L8HVS0		Defensin Bm (6-40)	Synthetic construct		PLSCRRKIGICVLIRCSGNMRQIGTCLGALVKCCR	35	27089856	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23425		G1T9L4		3G-CAP18 (1-32)	Synthetic construct		GGGGLRKRLRKFRNKIKEKLKKIGQKIQGLLPKLA	35	29984452	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23426		G1T9L4		3G-CAP18 (1-32)[I16,23C]	Synthetic construct		GGGGLRKRLRKFRNKCKEKLKKCGQKIQGLLPKLA	35	29984452	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23467		R4V0N8		Sp Hyastatin (81-115)	Synthetic construct		SNCWARCPGYPNGDSLCCRQYGACCSTSYPVPYKG	35	27493644	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23609		O77234		SPO-1 protein (73-107), Sm16-p73	Synthetic construct		MDKYIRKEDLGMKMLDVAKILGRRIEKRMEYIAKK	35	23875042	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ23610				SmHDM-1p146	Synthetic construct		IDTYSRKDDLDKKLLEVAKIIGRRLEKRHEYLAMK	35	23875042	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23735		P01508		Cecropin-B [F5L,I8K,E9I,G12L,I15R,R16I,L29K,G30L,E31Q,K33L]	Synthetic construct		KWKVLKKKIKMLRNRINGLVKAGPALKVKLQALAL	35	23737519	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23736				Anti-Cecropin-B	Synthetic construct		EAQNLEKEIAALEQAIQGLEKEIPALAQQIQALEL	35	23737519	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23845		K9N5Q8		MERS-S (1252-1286)	Synthetic construct		LTQINTTLLDLTYEMLSLQQVVKALNESYIDLKEL	35	24067982	Antiviral		Experimentally Validated
+CAMPSQ23885		P59594,P0DTC2,		SARS-CoV-S (1151-1185), SR9, SARS-CoV-2-S (1169-1203), IPB01	Synthetic construct		ISGINASVVNIQKEIDRLNEVAKNLNESLIDLQEL	35	17942557, 18442051, 32376627	Antiviral		Experimentally Validated
+CAMPSQ23886		P59594		SR9EK13	Synthetic construct		ISGINASVVNIQEEIKKLNEEAKKLNESLIDLQEL	35	17942557	Antiviral		Experimentally Validated
+CAMPSQ23887				SR9EK1	Synthetic construct		IEEINKKVEEIQKKIEELNKKAEELNKKLEELQKK	35	17942557	Antiviral		Experimentally Validated
+CAMPSQ23890		P59594		SARS-Cov-S (916-950)	Synthetic construct		IQESLTTTSTALGKLQDVVNQNAQALNTLVKQLSS	35	18442051	Antiviral		Experimentally Validated
+CAMPSQ24010		Q5DP94		MTSC33EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNEKEL	35	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24041		P0DOH7		JEV Ep (418452)	Synthetic construct		AALGDTAWDFGSIGGVFNSIGRAVHQVFGGAFRTL	35	28232248	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24110		P03377		C34-C16	Synthetic construct		WMEWDREINNYTSLIHSLIEESQNQQEKNEQELLX	35	30089693	Antiviral		Experimentally Validated
+CAMPSQ24173		P03420		RSV Fgp (488-522)	Synthetic construct		FDASISQVNEKINQSLAFIRKSDELLHNVNAGKST	35	28137809	Antiviral		Experimentally Validated
+CAMPSQ24174		P03420		RSV Fgp (488-522)[A3,R20- R-ALA-7-oct;E10,H27- S-ALA-4-pen]	Synthetic construct		FDXSISQVNXKINQSLAFIXKSDELLXNVNAGKST	35	28137809	Antiviral		Experimentally Validated

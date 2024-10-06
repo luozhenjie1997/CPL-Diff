@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ16491				Syn-BNP (2)	Synthetic construct		kLGvPLKRK	9	28055186	Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16492				Syn-BNP (2S)	Synthetic construct		kSGxKHKKK	9	28055186	Antifungal		Experimentally validated
+CAMPSQ16493				Syn-BNP (2. Ala1)	Synthetic construct		aLGvPLKRK	9	28055186	Antifungal		Experimentally validated
+CAMPSQ16494				Syn-BNP (2. Ala5)	Synthetic construct		kLGvALKRK	9	28055186	Antifungal		Experimentally validated
+CAMPSQ16495				Syn-BNP (2. Ala7)	Synthetic construct		kLGvPLARK	9	28055186	Antifungal		Experimentally validated
+CAMPSQ16496				Syn-BNP (2. Ala8)	Synthetic construct		kLGvPLKAK	9	28055186	Antifungal		Experimentally validated
+CAMPSQ16497				Syn-BNP (2. Ala9)	Synthetic construct		kLGvPLKRA	9	28055186	Antifungal		Experimentally validated
+CAMPSQ16545		Q08GI9		CSPC12, Competence stimulating peptide (29-37)	Synthetic construct		LSTFFRLFN	9	29434779	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16587				Battacin GZ3.163	Synthetic construct		CxXXLfXXL	9	27992168	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16588				Battacin GZ3.160	Synthetic construct		xXXLfXXLC	9	27992168	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16625				Peptide-9	Synthetic construct		AWRRWIRWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16626				Peptide-10	Synthetic construct		KARRWIRWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16627				Peptide-11	Synthetic construct		KWARWIRWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16628				Peptide-12	Synthetic construct		KWRAWIRWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16629				Peptide-13	Synthetic construct		KWRRAIRWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16630				Peptide-14	Synthetic construct		KWRRWARWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16631				Peptide-15	Synthetic construct		KWRRWIAWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16632				Peptide-16	Synthetic construct		KWRRWIRAL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16633				Peptide-17	Synthetic construct		KWRRWIRWA	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16634				Peptide-18	Synthetic construct		LWRRWIRWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16635				Peptide-19	Synthetic construct		KLRRWIRWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16636				Peptide-20	Synthetic construct		KWLRWIRWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16637				Peptide-21	Synthetic construct		KWRLWIRWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16638				Peptide-22	Synthetic construct		KWRRLIRWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16639				Peptide-23	Synthetic construct		KWRRWLRWL	9	30103288	Antibacterial	Gram+ve	Experimentally validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10751				K13H	Synthetic construct		DSHAKRHHGYKRHFHEKHHSHRGY	24	31675138	Antifungal		Experimentally validated
+CAMPSQ10868				Pin2[G]	Synthetic construct		FWGALAKGALKLIGSLFSSFSKKD	24	26901176	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10929				Alpha 4-short	Synthetic construct		LKKWWKTSKGLLGGLLGKVTSVIK	24	30967458	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11257				L-14	Synthetic construct		RXRPRPYSPRPTSHPRPIRVCOZB	24	30807888	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11258				D-14	Synthetic construct		rXrprpysprptshprpirvcOZB	24	30807888	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11266				L-19	Synthetic construct		RXRRXRIKILFQNRRMKWKKCOZB	24	30807888	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11267				L-19m	Synthetic construct		RXRRXRIKILFQNRRMKWKKCOZJ	24	30807888	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11268				D-19	Synthetic construct		rXrrXrikilfqnrrmkwkkcOZB	24	30807888	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11373				LP-90	Synthetic construct		IEELLKKAEEQQKKNEEELKKLEK	24	30716118	Antiviral		Experimentally validated
+CAMPSQ11389				WLBU2	Synthetic construct		RRWVRRVRRWVRRVVRVVRRWVRR	24	30702120, 15616311	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11390				D8	Synthetic construct		RRWvRRvRRWvRRvvRvvRRWvRR	24	30702120	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11718				(HKK)8	Synthetic construct		HKKHKKHKKHKKHKKHKKHKKHKK	24	30486512	Antifungal		Experimentally validated
+CAMPSQ11903			2NCW	WWWKYE21	Synthetic construct		WWWKYEITTIHNLFRKLTHRLFRR	24	28303012	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13352				DS4 (1-24)a	Synthetic construct		ALWMTLLKKVLKAAAKAALNAVLV	24	33774792	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13355				DS4 (5-28)a	Synthetic construct		TLLKKVLKAAAKAALNAVLVGANA	24	33774792	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13738				TAT KP 13	Synthetic construct		YGRKKRRQRRRKGLRXFGAKRHRC	24	33892275	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13739				TAT KP 24	Synthetic construct		YGRKKRRQRRRKGLRXFGAXRHRC	24	33892275	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13740				TAT KP 13	Synthetic construct		YGRKKRRQRRRKGLRYFGAKRHRC	24	33892275	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14004				N11(3-13)	Synthetic construct		FLGALFKVASKVLPSVKLAITKKC	24	14739294	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14031				ASP13 Porcine NPY(13-36)	Synthetic construct		LAEDLARYYSALRHYINLITRQRY	24	9756788	Antifungal		Experimentally validated
+CAMPSQ14343				B1OS-L	Synthetic construct		FLPLIASLAGNVVPKIFCKITKRC	24	34564615	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14344				B1OS-D-L	Synthetic construct		FLPLIASLAGNVVPKIFCKITKRC	24	34564615	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14493				SK-24	Synthetic construct		SKEKIGKEFKRIVQRIKDFLRNLV	24	34959645	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15100				Delta lysin I	Synthetic construct		MAADIISTIGDLVKWIIDTVNKFK	24	35260685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ16508		Q571V3		Frenatin 4.1 [T8K,F17L]	Synthetic construct		GFLEKLKKGAKDFASALVNSIKGT	24	27792198	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated

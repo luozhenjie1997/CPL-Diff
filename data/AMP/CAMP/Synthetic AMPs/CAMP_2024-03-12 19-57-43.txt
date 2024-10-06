@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19670				HB25, FLAKO3 AMD	Synthetic construct		FALALKALKKLLKKLKKLAKKAL	23	15980369	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19879		P11006		Magainin-2 [S8ACPC,G13A,G18A]	Synthetic construct		GIGKFLHXAKKFAKAFVAEIMNS	23	26369301	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19880		P11006		Magainin-2 [S8A,G13ACPC,G18A]	Synthetic construct		GIGKFLHAAKKFXKAFVAEIMNS	23	26369301	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19881		P11006		Magainin-2 [S8A,G13A,G18ACPC]	Synthetic construct		GIGKFLHAAKKFAKAFVXEIMNS	23	26369301	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19997		A7BJK6		AR-23 [A1R]	Synthetic construct		RIGSILGALAKGLPTLISWIKNR	23	27271216	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19998		A7BJK6		AR-23 [A8R]	Synthetic construct		AIGSILGRLAKGLPTLISWIKNR	23	27271216	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19999		A7BJK6		AR-23 [I17K]	Synthetic construct		AIGSILGALAKGLPTLKSWIKNR	23	27271216	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20000		A7BJK6		AR-23 [I17R]	Synthetic construct		AIGSILGALAKGLPTLRSWIKNR	23	27271216	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20001		A7BJK6		AR-23 [A1,8R]	Synthetic construct		RIGSILGRLAKGLPTLISWIKNR	23	27271216	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20002		A7BJK6		AR-23 [A1R,I17K]	Synthetic construct		RIGSILGALAKGLPTLKSWIKNR	23	27271216	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20003		A7BJK6		AR-23 [A8R,I17K]	Synthetic construct		AIGSILGRLAKGLPTLKSWIKNR	23	27271216	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20004		A7BJK6		AR-23 [A1,8R;I17K]	Synthetic construct		RIGSILGRLAKGLPTLKSWIKNR	23	27271216	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20005		A7BJK6		AR-23 [A1,8R;I17R]	Synthetic construct		RIGSILGRLAKGLPTLRSWIKNR	23	27271216	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20013		P14213		Tachymut 5.4, Tachyplesin-1 (2-17)[W3Ins][C4,8,13,17V][R19p]-WTGPKK	Synthetic construct		WWVFRVVYpRIVYRRVRWTGPKK	23	27859052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20014		P14213		Tachymut 6.2, Tachyplesin-1 (2-17)[W3Ins][C4,8,13,17V][R19p][R14V][V16R]-WTGPKK	Synthetic construct		WWVFRVVYpRIVYVRRRWTGPKK	23	27859052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20101		H0USY4		Alyteserin-1c [E4k][A8K]	Synthetic construct		GLKKIFKKGLGSLVKGIAAHVAS	23	20603168	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20102		H0USY4		Alyteserin-1c [E4k][V14K]	Synthetic construct		GLKKIFKAGLGSLKKGIAAHVAS	23	20603168	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20103		H0USY4		Alyteserin-1c [E4k][A18K]	Synthetic construct		GLKKIFKAGLGSLVKGIKAHVAS	23	20603168	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20104		H0USY4		Alyteserin-1c [E4K][A18K-Pal]	Synthetic construct		GLKKIFKAGLGSLVKGIXAHVAS	23	20603168	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20226		P11006		MagG3C, Magainin 2 analogue	Synthetic construct		GICKFLHSAKKFGKAFVGEIMNS	23	10459808	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20272		P01966		Bovine hemoglobin alpha chain (1-23)	Synthetic construct		VLSAADKGNVKAAWGKVGGHAAE	23	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20388				Magainin-St1, Pxt-3	Synthetic construct		GLKEVAHSAKKFAKGFISGLTGS	23	23935531, 25312021	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20690		D3UA61		Esculentin-2CHa (15-37)	Synthetic construct		KGLGKDLAKLGVDLVACKISKQC	23	23159562	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20815		Q2LKX9		Ixosin [H3A]	Synthetic construct		GLAKVMREVLGYERNSYKKFFLR	23	27622949	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21135		P82656		H/V-peptide (6-28)	Synthetic construct		IKSIASKVANTVQKLKRKAKNAV	23	23403131	Antibacterial	Gram+,Gram-	Experimentally Validated

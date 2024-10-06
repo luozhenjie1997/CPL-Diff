@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10105				Lebocin?1 (SlLeb?1) subsequence, 124-155	Spodoptera litura	Animalia (Insect)	SLHLPDYKFPLPTLPPFNPRPRYPWDDNPRYP	32	31562754	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10107				Lebocin?1 (SlLeb?1) subsequence 3, 127-158	Spodoptera litura	Animalia (Insect)	LPDYKFPLPTLPPFNPRPRYPWDDNPRYPIYV	32	31562754	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10280				LadD64-95	Adenovirus 2	Virus	TERAKRRDRRRRSVCHARTWFCFRKYDYVRRS	32	31417238	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10452				Rpa	Rana pipiens	Animalia	SFLTTVKKLVTNLAALAGTVIDTIKCKVTGGC	32	31242693	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10523				T-32	Torpedo	Animalia	SGEWVMKDYRGWKHWVYYTCCPDTPYLDITYH	32	28587964	Antiviral		Experimentally validated
+CAMPSQ10524				H-32	Homo sapiens	Animalia	SGEWVIKESRGWKHWVFYACCPSTPYLDITYH	32	28587964	Antiviral		Experimentally validated
+CAMPSQ10525				C-32	Bos taurus	Animalia	SGEWVIKESRGWKHSVTYSCCPDTPYLDITYH	32	28587964	Antiviral		Experimentally validated
+CAMPSQ10537				Cathelicidin-PP	Polypedates puerensis	Animalia	ASENGKCNLLCLVKKKLRAVGNVIKTVVGKIA	32	28593346	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10687				SOT2	Pelodiscus sinensis	Animalia	KKSCHTGLDRSAGWVIPIGTLVKKAILPWDRK	32	28159460	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10716				LSer-Def7	Lucilia sericata	Animalia	FTCNSYACKAHCILQGHKSGSCARINLCKCQR	32	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10952				Leucocin N (Bacteriocin)	Leuconostoc pseudomesenteroides QU 15 	Monera	FIGSAIGDFVYFGAKGLRESGKLLNYYYKHKH	32	20070442	Antibacterial 	Gram +ve	Experimentally validated
+CAMPSQ11002				Plantaricin 163 	Lactobacillus plantarum 163 	Monera	VFHAYSARGNYYGNCPANWPSCRNNYKSAGGK	32	24228753	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11136				EeCentrocin 2	Echinus esculentus	Animalia	WGHKLRSSWNKVKHAVKKGAGYASGACRVLGH	32	27007817	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11559				Peptide-4	Rana dalmatina	Animalia (Amphibia)	NLLGFLQGAKDILKECEADNYQGWLCESYKPQ	32	30578771	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11735				Ps-CATH4	Pelodiscus sinensis	Animalia	TRGRWGRFKRRAGRFIRRNRWQIISTGLKLIG	32	30452933	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11857				HD5	Homo Sapiens	Animalia (Mammals)	ATCYCRTGRCATRESLSGVCEISGRLYRLCCR	32	28423004	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11858				HD6	Homo Sapiens	Animalia (Mammals)	AFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL	32	28423004	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12268				DVN32	Homo sapiens 	Animalia (Mammals )	DVNVFAIGVEDADEGALKEIASEPLNMHMFNL	32	29925677	Antibacterial 		Experimentally validated
+CAMPSQ12575				Myticalin D2	Mytilus galloprovincialis	Animalia (Mollusca)	WGRRWRIRIPRLPRPWPPRPKWPRSATINTDQ	32	28829401	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13607				CMB001	Paenibacillus sp	Monera	WKAQXFAZPGAVZGVLQBAFIQZAZANAHIXK	32	33582800	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ13659				IT32	Homo sapiens 	Animalia (Mammals)	IGRFGYGYGPYQPVPEQPLYPQPYQPQYQQYT	32	33740624	Antifungal		Experimentally validated
+CAMPSQ14322				Ba49	Bacillus subtilis subsp. spizizenii	Monera	WKJEJLCOPGCVOGALQOCFLQOLOCNCKIJK	32	33427970, 34489898	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14716				Hill-Knot 1	Hermetia illucens 	Animalia (Insects)	IKCTASICTQICRILKYKCGYCASASRCVCLK	32	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14721				Hill-Def 3	Hermetia illucens 	Animalia (Insects)	ATCTNWNCRTQCIARGKRGGYCVERNICKCTS	32	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15037				AMP1	Homo sapiens 	Animalia (Mammals)	NLPLLDILKPGGGTSGGLLGGLLGKVTSVIPG	32	35201913	Antifungal		Experimentally validated

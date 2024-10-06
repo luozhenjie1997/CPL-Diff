@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8161		P0DMF2		Peptide Ctry2346	Chaerilus tryznai 	Animalia (Arachnida)	LLGGLLQSLL	10	23415044	Antiviral		Experimentally validated
+CAMPSQ8168		P0DMF4		Peptide Ctry2606	Chaerilus tryznai 	Animalia (Arachnida)	GILDAITGLL	10	23415044	Antiviral		Experimentally validated
+CAMPSQ8172		P0DMF6		Peptide Ctri9293	Chaerilus tricostatus 	Animalia (Arachnida)	GILDALTGIL	10	23415044	Antiviral		Experimentally validated
+CAMPSQ8244				Cm-p1	Cenchritis muricatus	Animalia (Molluscs (Gastropoda))	SRSELIVHQR	10	25921828	Antifungal		Experimentally validated
+CAMPSQ8259				PaDBS1R6F9 	Pyrobaculum aerophilum	Archaea (Archaea)	LKKLRLKIAF	10	31016969	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8322				Comosusin	Ananas comosus	Plantae (Angiosperms)	ITKVFGDEAS	10	31141959	Antifungal		Experimentally validated
+CAMPSQ8900				PaDBS1R6F8 	Pyrobaculum aerophilum	Monera (Bacteria)	LLKKLRLKIA	10	31016969	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8901				PaDBS1R6F10	Pyrobaculum aerophilum	Monera (Bacteria)	KKLRLKIAFK	10	31016969	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9288				Margaratain B1	Odorrana andersonii 	Animalia (Amphibia)	FFSTSCRSGC	10	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9315				Labaditin 	Jatropha multifida	Plantae (Euphorbiaceae)	VWTVWGTIAG	10	20563613, 27665378	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ9610				B1	Cnidopus japonicus	Animalia	GIWTCRKKRA	10	29361893	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9611				B2	Cnidopus japonicus	Animalia	KKAKRRLLKK	10	29361893	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9613				B4	Cnidopus japonicus	Animalia	KVKYFKRWLR	10	29361893	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9614				C1	Cnidopus japonicus	Animalia	AKRRLLKKMK	10	29361893	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9615				C2	Cnidopus japonicus	Animalia	RLKKHLKKIK	10	29361893	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10135				P-119	Homo sapiens	Animalia	AKRHHGYKRK	10	11302797	Antifungal		Experimentally validated
+CAMPSQ10164				AI-hemocidins 4 (Hb-1  truncated peptide)	Arca inflata	Animalia	VLASKNFGDK	10	28661457	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10633				Peptide 6	Rapana venosa	Animalia	APPPGLSAGV	10	21703315	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10849		P84517		NADPH oxidoreductase	Bombyx mori 	Animalia	SMIGGVMSKG	10	17213661	Antiviral		Experimentally validated
+CAMPSQ10976				Peptide fraction II 	Antheraea mylitta	Animalia	GGGGGGHLVA	10	28302399	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11107				KAMP-10	Homo sapiens	Animalia	GGLSSVGGGS	10	27891122	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11123				YD1 	Bacillus amyloliquefaciens CBSYD1	Monera	APKGVQGPNG	10	28050849	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11665				P10	Bos taurus	Animalia (Mammals)	QKALNEINQF	10	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11814				Andricin 01	Andrias davidianus	Animalia (Amphibia)	AIGHCLGATL	10	28461043	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11949				Temporin-Eca	Euphlyctis cyanophlyctis	Animalia (Frog)	FLPGLLAGLL	10	28105725	Antifungal		Experimentally validated

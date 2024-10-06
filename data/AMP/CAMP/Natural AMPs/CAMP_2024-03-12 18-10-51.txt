@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ38	115056	P29002		Bombinin-like peptides 1	Bombina orientalis	Animalia (Amphibia)	GIGASILSAGKSALKGLAKGLAEHFAN	27	1744108	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ39	115057	P29003		Bombinin-like peptide 2 	Bombina orientalis	Animalia (Amphibia)	GIGSAILSAGKSALKGLAKGLAEHFAN	27	1744108	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ41	115060	P29006		Bombinin-like peptide 1	Bombina variegata	Animalia (Amphibia)	GIGGALLSAAKVGLKGLAKGLAEHFAN	27	1712299	Antibacterial		Experimentally validated
+CAMPSQ50	115502205	P84995		Ganodermin	Ganoderma lucidum 	Fungi	AGETHTVMINHAGRGAPKLVVGGKKLS	27	16039755	Antifungal		Experimentally validated
+CAMPSQ196	1708945	P54228	2KET	Antibacterial peptide BMAP-27 	Bos taurus 	Animalia (Mammals)	GRFKRFRKKFKKLFKKLSPVIPLLHLG	27	8910461, 29103679	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ256	24637996	P83080		Maximin 1	Bombina maxima	Animalia (Amphibia)	GIGTKILGGVKTALKGALKELASTYAN	27	11835991	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ258	24637997	P83081 , Q58T49		Maximin 2	Bombina maxima	Animalia (Amphibia)	GIGTKILGGVKTALKGALKELASTYVN	27	11835991	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12416				CATH-2	Gallus gallus	Animalia (Aves)	RFGRFLRKIRRFRPKVTITIQGSARF	26	29104934	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12717				Cruzioseptin-16 	Cruziohyla calcarifer	Animalia (Amphibia)	GFLDVLKGVGKAALGAVTHLINQGEQ	26	33942149	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12718				Cruzioseptin-17	Cruziohyla calcarifer	Animalia (Amphibia)	GFLDVVKGVGKAALGAVTHLINQGEQ	26	33942149	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12754				2890.28 Legumin Alike	Cicer arietinum L.	Plantae (Angiosperms)	RHIVDKLQGRDEDEEKGAIVKVKGGL	26	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14630				Dermaseptin-AC	Agalychnis callidryas	Animalia (Amphibia)	GMFTNMLKGIGKLAGKAALGAVKTLA	26	34908502	Antibacterial, antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15032				Pom-1B	Pomacea poeyana	Animalia	KCAGSIAWAIGSGLFGGAKLIKIKKY	26	35214049	Antifungal		Experimentally validated
+CAMPSQ16502		Q718F4		Marmelittin, Peptide BmKb1	Mesobuthus martensii	Animalia	FLFSLIPSAISGLISAFKGRRKRDLN	26	29599756	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ20633				CPF-LM1	Xenopus laevis x Xenopus muelleri	Animalia	GFGSFLGSLFKTGLKIIPKLLPSIQQ	26	22687652	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22338		Q52PA0		SmHep1P, Sm-Hepcidin-1	Scophthalmus maximus	Animalia	QSHISLCRWCCNCCKANKGCGFCCKF	26	24647314	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22745				Cereucin HA, CehA	Bacillus cereus	Bacteria	MAKIGKWVVKGAAGYLGWEIGEGIWK	26	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23035		R4QZ32		Pleurain-a1-thel	Theloderma kwangsiensis	Animalia	RILTMTKRVKMPQLYKQIVCRLFKTC	26	24004075	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23065		A0A1U7S6I2		As Cathelicidin 6, As-CATH6	Alligator sinensis	Animalia	TRWLWLLRGGLKAAGWGIRAHLNRNQ	26	28798159	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23312				Dermaseptin DMS-DA6	Pachymedusa dacnicolor	Animalia	GVWGIAKIAGKVLGNILPHVFSSNQS	26	30325956	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23645		A0A5C1K3A1		Sm-Hepcidin 1	Sebastiscus marmoratus	Animalia	QSHLSLCRWCCNCCNRYKGCGFCCKF	26	31449978	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23649		A0A5C1K2U6		Sm-NK-lysin	Sebastiscus marmoratus	Animalia	GLLKSLCRKFVKVHLPELIEELTTTD	26	31449978	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23682		W8PA68		Hymenochirin-7B	Hymenochirus boettgeri	Animalia	KIPPVVKDTLKKVAKGVLSAVAGALS	26	24466037	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24389		Q26464,		M-myrmeciitoxin-Mp2a	Myrmecia pilosula		IDWKKVDWKKVSKKTCKVMLKACKFL	26	28513074, 32629771	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24420				Ocellatin-1N	Leptodactylus nesiotus	Animalia	GAVVDILKGAGKNLLSLALNKLSEKV	26	33092132	Antibacterial	Gram+,Gram-	Experimentally Validated

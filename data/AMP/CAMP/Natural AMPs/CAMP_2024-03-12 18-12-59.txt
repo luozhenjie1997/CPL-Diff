@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ873	14423882	P81655	1EWS	Corticostatin-related peptide RK-1	Oryctolagus cuniculus	Animalia (Mammals)	MPCSCKKYCDPWEVIDGSCGLFNSKYICCREK	32	8631871	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ987	90109769	P84757		Defensin-1	Papio hamadryas	Animalia (Mammals)	RICRCRIGRCLGLEVYFGVCFLHGRLARRCCR	32	16978151	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ996		V9GZ92		Ranatuerin-2CSa	Rana cascadae	Animalia (Amphibia)	GILSSFKGVAKGVAKDLAGKLLETLKCKITGC	32	17451843, 18387372	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1054	123894504, 145579366	Q2IAL7	2GDL	Fowlicidin-2 , Myeloid antimicrobial peptide 27	Gallus gallus	Animalia (Aves)	LVQRGRFGRFLRKIRRFRPKVTITIQGSARFG	32	16326712, 17229147	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1112	90109770	P84758		Defensin-3	Papio hamadryas	Animalia (Mammals)	RTCRCRLGRCSRRESYSGSCNINGRIYSLCCR	32	16978151	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1148	261263168	A7UDM9		Ixosin-B	Ixodes sinensis  	Animalia (Arachnida)	QLKVDLWGTRSGIQPEQHSSGKSDVRRWRSRY	32	18295522	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1185	125975	P10946		Lantibiotic subtilin	Bacillus subtilis 	Monera	WKSESLCTPGCVTGALQTCFLQTLTCNCKISK	32		Antibacterial	Gram+ve	Predicted
+CAMPSQ1189	21542397	P28311	1TV0,2GW9,2GWP,2LEW,2LEY	Defensin-related cryptdin 4	Mus musculus	Animalia (Mammals)	GLLCYCRKGHCKRGERVRGTCGIRFLYCCPRR	32	15595831	Antibacterial		Predicted
+CAMPSQ1528	13959335	O93226		Dermaseptin AA-3-6	Agalychnis annae	Animalia (Amphibia)	GMWSTIRNVGKSAAKAANLPAKAALGAISEAV	32		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1688		P10891	1ICA	Phormicin	Protophormia terraenovae 	Animalia (Insects)	GTGINHSACAAHCLLRGNRGGYCNGKGVCVCR	32	7663941	Antibacterial		Predicted
+CAMPSQ2968				  Dermaseptin-L1 	Hylomantis lemur	Animalia (Amphibia)	GLWSKIKEAAKAAGKAALNAVTGLVNQGDQPS	32	17561225	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ3223				  Ranatuerin-2Ma 	Rana muscosa	Animalia (Amphibia)	GLLSSFKGVAKGVAKDLAGKLLEKLKCKITGC	32	16330099	Antifungal		Experimentally validated
+CAMPSQ3232				  Ranatuerin-2AUa 	Rana aurora aurora	Animalia (Amphibia)	GILSSFKGVAKGVAKNLAGKLLDELKCKITGC	32	15325526	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3300				  Lichenicidin 	Bacillus licheniformis ATCC 14580 or VK 21	Monera	TITLSTCAILSKPLGNNGYLCTVTKECMPSCN	32	19561184	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3410				  Callinectin 	Callinectes sapidus	Animalia (Crustaceans (Malacostraca))	WNSNRRFRVGRPPVVGRPGCVCFRAPCPCSNY	32	21115038, 10373609	Antibacterial		Experimentally validated
+CAMPSQ3411	6273112			  RMAD-5 	Macaca mulatta	Animalia (Mammals)	RTCRCRFGRCFRRESYSGSCNINGRIFSLCCR	32	10531277	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3412	6273114			  RMAD-7 	Macaca mulatta	Animalia (Mammals)	RTCRCRFGRCFRRESYSGSCNINGRISSLCCR	32	10531277	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3438	340561919	G0Z2H4		Entianin 	Bacillus subtilis DSM 15029T	Monera	WKSESVCTPGCVTGLLQTCFLQTITCNCKISK	32	21239550	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3445				  Ranatuerin-2PRb 	Rana pretiosa	Animalia (Amphibia)	GILDTFKGVAKGVAKDLAVHMLENLKCKMTGC	32	21295070	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3472	269819993	D1MJ08		Cc-CATH2 	Coturnix coturnix	Animalia (Aves)	LVQRGRFGRFLKKVRRFIPKVIIAAQIGSRFG	32	21375690	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3690				  YFGAP 	Thunnus albacares	Animalia (Pisces)	VKVGINGFGRIGRLVTRAAFHGKKVEVVAIND	32	22771964	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3790				  Oreoch-3 	Oreochromis niloticus	Animalia (Pisces)	IWDAIFHGAKHFLHRLVNPGGKDAVKDVQQKQ	32	Reference: Acostaa J, Monterob V, Carpioa Y, Velázqueza J, Garayc HE, Reyesc O, Cabralesc A, Masforrolc Y, Moralesa A, Estrada MP (2013) Cloning and functional characterization of three novel antimicrobial peptides from tilapia (Oreochromis niloticus). A	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ3880		P84928		Dermaseptin-8 	Phyllomedusa tarsius 	Animalia (Amphibia)	SLRGFLKGVGTALAGVGKVVADQFDKLLQAGQ	32		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4501		Q6GU94		Defensin-1	Centruroides limpidus limpidus	Animalia (Arachnida)	ACQFWSCNSSCISRGYRQGYCWGIQYKYCQCQ	32	15197474	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9778				Ixosin-B	I. sinensis	Animalia	QLKVDLWGTRSGIQPEQHSSGKSDVRRWRSRY	32	23570790	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

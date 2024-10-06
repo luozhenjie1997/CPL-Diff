@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19246		P24302		Dermaseptin-S1 (1-15)[W3Y]	Synthetic construct		ALYKTMLKKLGTMAL	15	18676150	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19247		P24302		Dermaseptin-S1 (1-15)[W3L]	Synthetic construct		ALLKTMLKKLGTMAL	15	18676150	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19245		P24302		Dermaseptin-S1 (1-15)[W3F]	Synthetic construct		ALFKTMLKKLGTMAL	15	18676150	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19244		P24302		Dermaseptin-S1 (1-15)	Synthetic construct		ALWKTMLKKLGTMAL	15	18676150	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19239		P24302,		Dermaseptin-S1 (1-15)[W3H]	Synthetic construct		ALHKTMLKKLGTMAL	15	18676150, 20718719	Antibacterial, Antiviral, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19238		P24302,		Dermaseptin-S1 (1-15)[W3HPA]	Synthetic construct		ALXKTMLKKLGTMAL	15	18676150, 20718719	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19148				ARP	Synthetic construct		ARRARKWARRALKLA	15	23324083	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19147				FRP	Synthetic construct		FRRFRKWFRRFLKLF	15	23324083	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19146				VRP	Synthetic construct		VRRVRKWVRRVLKLV	15	23324083	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19145				LRP	Synthetic construct		LRRLRKWLRRLLKLL	15	23324083	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19139		P01501		Melittin (12-26, G14G15)	Synthetic construct		GLPALISWIKRKRGG	15	15652642	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19099		P59665		HNP-1 [C15;ACPC23]	Synthetic construct		XYGTXIYQXRLWAFX	15	17548109	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19097		P59665,		HNP-1 [3Abz23,S29]	Synthetic construct		RYGTXIYQXRLWAFS	15	17548109, 32663201	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19022				KIKA15	Synthetic construct		KIAGKIAKIAKKIAK	15	28282123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19015				KIA7(15)	Synthetic construct		KIAGKIAKKAGKIAK	15	28282123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19007				KIA15	Synthetic construct		KIAGKIAKIAGKIAK	15	25807192, 32126225	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18982		P02775		Thrombocidin-1 (53-67)	Synthetic construct		PRIKKIVQKKLAGDE	15	22025617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18983		P02775		Thrombocidin-1 (54-68)	Synthetic construct		RIKKIVQKKLAGDES	15	22025617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18985		P32194		Protegrin 1 / Neutrophil peptide 1  (1-15)	Synthetic construct		RGGRLCYCRRRFCVC	15	9009324	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18979		P02775		Thrombocidin-1 (6-20)	Synthetic construct		MCIKTTSGIHPKNIQ	15	22025617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18980		P02775		Thrombocidin-1 (51-65)	Synthetic construct		DAPRIKKIVQKKLAG	15	22025617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18981		P02775		Thrombocidin-1 (52-66)	Synthetic construct		APRIKKIVQKKLAGD	15	22025617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18974		P02775		Thrombocidin-1 (1-15)	Synthetic construct		AELRCMCIKTTSGIH	15	22025617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18975		P02775		Thrombocidin-1 (2-16)	Synthetic construct		ELRCMCIKTTSGIHP	15	22025617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18976		P02775		Thrombocidin-1 (3-17)	Synthetic construct		LRCMCIKTTSGIHPK	15	22025617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

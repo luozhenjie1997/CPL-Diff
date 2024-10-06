@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ602	728982	P40840		Brevinin-2Ed	Rana esculenta (edible frog )	Animalia (Amphibia)	GILDSLKNLAKNAGQILLNKASCKLSGQC	29	8163497	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ604	728985	P40841		Brevinin-2Ee	Rana esculenta (edible frog )	Animalia (Amphibia)	GIFDKLKNFAKGVAQSLLNKASCKLSGQC	29	8163497	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ697	110560567	A6MBL3		Odorranain-F1 antimicrobial peptide	Odorrana grahami	Animalia (Amphibia)	GFMDTAKNAAKNVAVTLLDNLKCKITKAC	29	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ767	76364214	P84644		Circulin-F	Chassalia parviflora 	Plantae	AIPCGESCVWIPCISAAIGCSCKNKVCYR	29	10691702	Antiviral		Experimentally validated
+CAMPSQ851	129769	P01211		Enkelytin	Bos taurus 	Animalia (Mammals)	FAEPLPSEEEGESYSKEVPEMEKRYGGFM	29	8654396	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ877	1710861	P49928 , P49929	1FRY	Cathelin-related peptide SC5	Ovis aries	Animalia (Mammals)	RGLRRLGRKIAHGVKKYGPTVLRIIRIAG	29	8549789	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ957	75313070	Q9S8Z6, P27275	1MMC, 1ZNT, 1ZUV, 1ZWU	AC-AMP1	Amaranthus caudatus	Plantae	VGECVRGRCPSGMCCSQFGYCGKGPKYCG	29	1567877	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ968	146387256	Q2IAL6	2HFR	Fowlicidin 3	Gallus gallus	Animalia (Aves)	RVKRFWPLVPVAINTVAAGINLYKAIRRK	29	17229147	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ986	41016983	P83637		Dermaseptin-01 	Phyllomedusa oreades 	Animalia (Amphibia)	GLWSTIKQKGKEAAIAAAKAAGQAALGAL	29	12379643	Antibacterial, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1147	74764779	O96447		Lumbrican(6-34)	Lumbricus rubellus	Animalia (Annelida)	RQKDKRPYSERKNQYTGPQFLYPPERIPP	29	9784609	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1255	29336799	Q8QFQ3		RN2PA_RANPI Ranatuerin-2Pa precursor	Rana pipiens	Animalia (Amphibia)	GFLSTVKNLATNVAGTVIDTIKCKVTGGC	29	12413397	Antibacterial		Predicted
+CAMPSQ1294	160285698	Q17027	2E3E,2E3F,2E3G,2NY8,2NY9,2NZ3	Def-Acaa	Anopheles gambiae	Animalia (Insects)	VNHALCAAHCIARRYRGGYCNSKAVCVCR	29		Antibacterial	Gram+ve	Predicted
+CAMPSQ1296	160285479	Q17027	2E3E,2E3F,2E3G,2NY8,2NY9,2NZ3	Def-Daa	Anopheles gambiae	Animalia (Insects)	WNHTLCAAHCIARRYRGGYCNSKAVCVCR	29		Antibacterial	Gram+ve	Predicted
+CAMPSQ1885	114149284	P84600		Dermaseptin-5	Phyllomedusa hypochondrialis	Animalia (Amphibia)	GLWSTIKQKGKEAAIAAAKAAGQAALGAL	29		Antibacterial, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2598	357580501	F8J4S0	2L3I	Oxyopinin-4a	Oxyopes takobius  	Animalia (Arachnida)	IRCPKSWKCKAFKQRVLKRLLAMLRQHAF	29	21933345	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2738		P59665	3HJ2	 human neutrophil peptide-2 	Homo sapiens	Animalia (Mammals)	CYCRIPACIAGERRYGTCIYQGRLWAFCC	29	15616305	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2792				Ericin A  	Bacillus subtilis A1/3	Monera	VLSKSLCTPGCITGPLQTCYLCFPTFAKC	29	11872722	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2817				  human LL-29 	Homo sapiens	Animalia (Mammals)	LLGDFFRKSKEKIGKEFKRIVQRIKDFLR	29	17012259	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2869		P56254	1KAL	  Kalata B1 	Oldenlandia affinis	Plantae	GLPVCGETCVGGTCNTPGCTCSWPVCTRN	29	10430870	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2920				Palustrin -2AR	Rana areolata	Animalia (Amphibia)	GFISTVKNLATNVAGTVIDTIKCKVTGGC	29	12429503	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3004				  Circulin F 	Chassalia parvifolia	Plantae	KVCYRAIPCGESCVWIPCISAAIGCSCKN	29	10691702	Antiviral		Experimentally validated
+CAMPSQ3152				  Odorranain-F1 	Odorrana grahami	Animalia (Amphibia)	GFMDTAKNVAKNVAVTLLDNLKCKITKAC	29	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3172				  BHP 	Bos taurus	Animalia (Mammals)	FLSFPTTKTYFPHFDLSHGSAQVKGHGAK	29	11226440	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3221				  SgII peptide A 	Homo sapiens	Animalia (Mammals)	KQEGRDHDKSKGHFHMIVIHHKGGQAHHG	29	18714013	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3371				  Plantaricin W 	Lactobacillus plantarum	Monera	KCKWWNISCDLGNNGHVCTLSHECQVSCN	29	11238971	Antibacterial	Gram +ve	Experimentally validated

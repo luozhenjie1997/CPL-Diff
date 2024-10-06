@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2	103485139	Q8WTQ1		Human Defensin beta 104A 	Synthetic construct		ELDRICGYGTARCRKKCRSQEYRIGRCPNTYACCLRK	37	11481241	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ781				LL-37 pentamide	Synthetic construct		LLGNFFRKSKQKIGKQFKRIVQRIKNFFRNLVPRTQS	37	11557457	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8189				HBc147-183	Synthetic construct		TVVRRRGRSPRRRTPSPRRRRSQSPRRRRSQSRESQC	37	23785287	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8197				HBc147-183(34AA)	Synthetic construct		TVVRRRGRSPRRRTPSPRRAASQSPRRAASQSRESQC	37	23785287	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8505				RN8	Synthetic construct		KPKDMTSSQWFKTQHVQPSPQASNSAMSIINKYTERS	37	31540052	Antifungal		Experimentally validated
+CAMPSQ10579				LL-37A9 	Synthetic construct		LLGDFFRKAKEKIGKEFKRIVQRIKDFLRNLVPRTES	37	22185690	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10580				LL-37V9 	Synthetic construct		LLGDFFRKVKEKIGKEFKRIVQRIKDFLRNLVPRTES	37	22185690	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10773				PMAP-37(R13-I)	Synthetic construct		GLLSRLRDFLSDIGRRLGEKIERIGQKIKDLSEFFQS	37	31437351	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10774				PMAP-37(K20/27-I)	Synthetic construct		GLLSRLRDFLSDRGRRLGEIIERIGQIIKDLSEFFQS	37	31437351	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11426				HKU4-HR2P1	Synthetic construct		GPNFAEISKINTTLLDLSDEMAMLLQEVVKQLNDSYI	37	30646495	Antiviral		Experimentally validated
+CAMPSQ23094				Hl Defensin-2, HlDFS2	Synthetic construct		GFGCPLNQGACHRHCRSIRRRGGYCSGIIKQTCTCY	36	28969703	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23808				EK1-scrambled	Synthetic construct		LKVLLYEEFKLLESLIMEILEYQKDSDIKENAEDTK	36	32231345	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23810		Q3I5J5,Q0Q475		SARS-CoV-2-S(11681203)	Synthetic construct		DISGINASVVNIQKEIDRLNEVAKNLNESLIDLQEL	36	30989115, 32047258	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23817		Q8BB25		HCoV-OC43-HR2P	Synthetic construct		SLDYINVTFLDLQDEMNRLQEAIKVLNQSYINLKDI	36	30989115	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23818		Q8BB25		EK0-1, HCoV-OC43-HR2P [N17K,R18K,Q20E,V25K,N27E]	Synthetic construct		SLDYINVTFLDLQDEMKKLEEAIKKLEQSYINLKDI	36	30989115	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23819		Q8BB25		EK0-2, HCoV-OC43-HR2P [Q13E,N17K,R18K,Q20E,V25K,N27,Q28E,D35E]	Synthetic construct		SLDYINVTFLDLEDEMKKLEEAIKKLEESYINLKEI	36	30989115	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23820		Q8BB25		EK0-3, HCoV-OC43-HR2P [Y4Q,Q13E,D14Y,N17K,R18K,Q20E,V25K,N27,Q28E,N32D,D35E]	Synthetic construct		SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKEI	36	30989115	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23822		K9N5Q8		MERS-CoV-HR2P [T1263E,L1267R]	Synthetic construct		SLTQINTTLLDLEYEMRSLQQVVKALNESYIDLKEL	36	24473083	Antiviral		Experimentally Validated
+CAMPSQ23835		K9N5Q8,		HR2PM2, HR2P [T1263E;L1267K;S1268K;Q1270,1271E;A1275K;N1277E]	Synthetic construct		SLTQINTTLLDLEYEMKKLEEVVKKLEESYIDLKEL	36	30192544, 29442512	Antiviral		Experimentally Validated
+CAMPSQ23893		P59594		SARS-CoV-2-S (1169-1203)-K, IPB02	Synthetic construct		ISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELK	36	32376627	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23919		Q9BYF1		ACE2 (4-39)	Synthetic construct		EEQAKTFLDKFNHEAEDLFYQSSLASWNYNTNITEE	36	16510163	Antiviral		Experimentally Validated
+CAMPSQ23991		P10033		FCoV Sgp (1338-1373)	Synthetic construct		FNATYLNLTGEIDDLEFRSEKLHNTTVELAILIDNI	36	24312629	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24009		Q5DP94		MTSC34EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNEKELK	36	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24074				Undefined	Synthetic construct		EMTWEEWEKKIEEYIKKIEEILKKSQNQQIDLGSGX	36	30901967	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24239		P04578		Sifuvirtide	Synthetic construct		SWETWEREIENYTRQIYRILEESQEQQDRNERDLLE	36	29929981	Antiviral	Gram+,Gram-	Experimentally Validated

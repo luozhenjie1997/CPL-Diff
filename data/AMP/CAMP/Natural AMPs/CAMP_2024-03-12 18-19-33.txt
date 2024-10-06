@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ49	115502148	P84962		Bacteriocin divergicin M35	Carnobacterium divergens 	Monera	TKYYGNGVYCNSKKCWVDWGTAQGCIDVVIGQLGGGIPGKGKC	43	15541799	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ147	146737992	A5JSU6		Moricin-like peptide B	Galleria mellonella	Animalia (Insects)	GKIPVKAIKKGGQIIGKALRGINIASTAHDIISQFKPKKKKNH	43	18207081	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ268	2493576	Q27023		Tenecin-1 	Tenebrio molitor	Animalia (Insects)	VTCDILSVEAKGVKLNDAACAAHCLFRGRSGGYCNGKRVCVCR	43	7798186	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ461	3849841	Q9Z4J1		Divercin V41	Carnobacterium divergens 	Monera	TKYYGNGVYCNSKKCWVDWGQASGCIGQTVVGGWLGGAIPGKC	43	15205430	Antibacterial		Experimentally validated
+CAMPSQ535	584889	P38579		Bacteriocin carnobacteriocin BM1 	Carnobacterium maltaromaticum	Monera	AISYGNGVYCNKEKCWVNKAENKQAITGIVIGGWASSLAGMGH	43	8163526	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ537	585042	P37364		Defensin	Pyrrhocoris apterus 	Animalia (Insects)	ATCDILSFQSQWVTPNHAGCALHCVIKGYKGGQCKITVCHCRR	43	8002963	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ801	13345563	Q9AGM4		Listeriocin 743A	Listeria innocua	Monera	KSYGNGVQCNKKKCWVDWGSAISTIGNNSAANWATGGAAGWKS	43	22611416	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ802				Sakacin 5X	Lactobacillus sakei 5	Monera	KYYGNGLSCNKSGCSVDWSKAISIIGNNAVANLTTGGAAGWKS	43	15638766	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ805	498407133	Q47778		Bacteriocin 31	Enterococcus faecalis YI717	Monera	ATYYGNGLYCNKQKCWVDWNKASREIGKIIVNGWVQHGPWAPR	43	8655558	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ814	23503490	Q8GR39		Enterocin SE-K4 	Enterococcus faecalis	Monera	ATYYGNGVYCNKQKCWVDWSRARSEIIDRGVKAYVNGFTKVLG	43	16401077	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ822	3087781	Q7B2P2		Enterocin L50B	Enterococcus faecium 	Monera	MGAIAKLVTKFGWPLIKKFYKQIMQFIGQGWTIDQIEKWLKRH	43	Reference: Wang, C, Sun Z, Liu Y, Zhang X, Xu G (2007) A novel antimicrobial vermipeptide family from earthworm Eisenia fetida. Eur. J Soil Biol 2007; 43:S217-S134.	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ849	46395683	P83669		Defensin-A	Anomala cuprea	Animalia (Insects)	VTCDLLSFEAKGFAANHSICAAHCLAIGRKGGSCQNGVCVCRN	43	11719071	Antibacterial 	Gram +ve	Experimentally validated
+CAMPSQ891				Defensin C	Zophobas atratus 	Animalia (Insects)	FTCDVLGFEIAGTKLNSAACGAHCLALGRTGGYCNSKSVCVCR	43	1761552	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ892	46395682	P83668		Defensin-B	Anomala cuprea	Animalia (Insects)	VTCDLLSFEAKGFAANHSICAAHCLVIGRKGGACQNGVCVCRN	43	11719071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ893	1706353	Q10745		Defensin	Allomyrina dichotoma	Animalia (Insects)	VTCDLLSFEAKGFAANHSLCAAHCLAIGRRGGSCERGVCICRR	43	8607799	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ898	81867362	Q91X12		Neutrophil cationic antibacterial polypeptide of 11 kDa 	Cavia porcellus	Animalia (Mammals)	GLRKKFRKTRKRIQKLGRKIGKTGRKVWKAWREYGQIPYPCRI	43	8644997	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ966	159163764	Q4GWV4	2B68	Recombinant Crassostrea Gigas Defensin	Crassostrea gigas	Animalia (Molluscs (Bivalvia))	GFGCPGNQLKCNNHCKSISCRAGYCDAATLWLRCTCTDCNGKK	43	16246846	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1012	3122418	P80925		Mundticin	Enterococcus mundtii	Monera	KYYGNGVSCNKKGCSVDWGKAIGIIGNNSAANLATGGAAGWSK	43	9733915	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1100	75457088	Q6E3K9		Propionicin-F	Propionibacterium freudenreichii subsp. freudenreichii	Monera	WFYQGMNIAIYANIGGVANIIGYTEAAVATLLGAVVAVAPVVP	43	15574930	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1121	47115696	Q7M426		Holotricin-1	Holotrichia diomphalia	Animalia (Insects)	VTCDLLSLQIKGIAINDSACAAHCLAMRRKGGSCKQGVCVCRN	43	7550103	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1178	114907	P11494	1BDS,2BDS	Antihypertensive protein BDS-1 	Anemonia sulcata	Animalia (Cnidaria)	AAPCFCSGKPGRGDLWILRGTCPGGYGYTSNCYKWPNICCYPH	43		Antiviral		Experimentally validated
+CAMPSQ1180	1169263	P80407		Defensin	Palomena prasina	Animalia (Insects)	ATCDALSFSSKWLTVNHSACAIHCLTKGYKGGRCVNTICNCRN	43		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ14151				SAMPDeltaNDeltaC	Microcitrus australasica	Plantae	HIFESTFESTEGVAEYVSHPSHVEYANLFLANLEKVLVIDYK	42	33985900	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ20354		A0A084GET2		Scedosporium apiospermum Defensin-like peptide	Scedosporium apiospermum	Fungi	GFGCPGNEKKCHNHCKGIKGYKGGYCDGPYIPFVGRPRCKCY	42	31025073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23122				Pc-arasin1	Procambarus clarkii	Animalia	LPLNTIPRPPYFPGKLPPRGGHLFPPTCVCVRSPCPCDQNWG	42	28951220	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23636				Undefined	Synthetic construct		LRRLLRWLRRLLRR	14	25069749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23637				Undefined	Synthetic construct		LRRAARWARRLLRR	14	25069749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23638				Undefined	Synthetic construct		LRRPPRWPRRLLRR	14	25069749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23644		P39084		Ranalexin (7-20)	Synthetic construct		KIVPAMICAVTKKC	14	29649587	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23772				DIR3	Synthetic construct		IRIRIRPIRIRIRP	14	31775224	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23798				C6	Synthetic construct		WKWKWKNGKWKWKW	14	31969663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23801				C4	Synthetic construct		WKWKWENGKWKWKW	14	31969663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23803				C3	Synthetic construct		WKWKWENGKWKWQW	14	31969663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23865				Undefined	Synthetic construct		ADLEVVAATYVDVA	14	14694985	Antiviral		Experimentally Validated
+CAMPSQ23866				Undefined	Synthetic construct		ADLEVVAATHVLVA	14	14694985	Antiviral		Experimentally Validated
+CAMPSQ23869				Undefined	Synthetic construct		DDSVVSAAMSYSYA	14	14694985	Antiviral		Experimentally Validated
+CAMPSQ23871				Undefined	Synthetic construct		ADLEVVAATFVLVA	14	14694985	Antiviral		Experimentally Validated
+CAMPSQ23872				Undefined	Synthetic construct		ADLEVVAATYVLVA	14	14694985	Antiviral		Experimentally Validated
+CAMPSQ23874				Undefined	Synthetic construct		AECVVSCSMSYTKA	14	14694985	Antiviral		Experimentally Validated
+CAMPSQ23877				Undefined	Synthetic construct		ADLEVVAATYVLDD	14	14694985	Antiviral		Experimentally Validated
+CAMPSQ23922		P26663		HCV gp (712-725)	Synthetic construct		FAIKWEYVLLLFLL	14	20156485	Antiviral		Experimentally Validated
+CAMPSQ23929		P26663		HCV gp (710-723)	Synthetic construct		VSFAIKWEYVLLLF	14	20156485	Antiviral		Experimentally Validated
+CAMPSQ24064		Q84HW0		L-PLNC8-alpha (9-22)	Synthetic construct		SWGYYLGKKARWNL	14	32107445	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24069		Q84HW1		L-PLNC8-beta (7-20)	Synthetic construct		YTLGIKILWSAYKH	14	32107445	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24199		O95832		Claudin-1 (1-14)	Synthetic construct		MANAGLQLLGFILA	14	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24259		Q8IAS6		Rifin (319-332)[K323A], Peptide 35409-4	Synthetic construct		KMKKALQYIKLLKE	14	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24264		Q8IAS6		Rifin (313-326)[K323A], Peptide 35409-9	Synthetic construct		RYRRKKKMKKALQY	14	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24268		Q8IAS6		Rifin (319-332)[K323A], Peptide 35409-13	Synthetic construct		KKMKKALQYIKLLK	14	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24308				KL14	Synthetic construct		KLKLKLKLKLKLKL	14	32704013	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24332		A0A411G5W6		Ovalbumin (277-290) [V5R, P8R, K11I, M12I, E13I, E14W]	Synthetic construct		RKIKRYLRRMIIIW	14	32715598	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

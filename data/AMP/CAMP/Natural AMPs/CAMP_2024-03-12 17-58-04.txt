@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10513				VK25	Varanus komodoensis	Animalia	SPKKTKPVKPKKVA	14	28649410	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10599				Las[des15-27, Ala8]-NH2	Lasioglossum laticeps	Animalia	GLPRKILAAIAKKK	14	22038181	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10759				Ctn[1-14]	Crotalus durissus terrificus	Animalia	KRFKKFFKKVKKSV	14	31626724	Antifungal		Experimentally validated
+CAMPSQ10782				Agelaia-MPI 	Agelaia pallipes pallipes	Animalia	INWLKLGKAIIDAL	14	30974767	Antibacterial, Antibiofilm	Gram -ve	Experimentally validated
+CAMPSQ10783				Polybia-MPII 	Pseudopolybia vespiceps testacea	Animalia	INWLKLGKMVIDAL	14	30974767	Antibacterial, Antibiofilm	Gram -ve	Experimentally validated
+CAMPSQ10786				NDBP-5.8 	Opisthacanthus cayaporum	Animalia	GILGKIWEGVKSLI	14	30974767	Antibacterial, Antibiofilm	Gram -ve	Experimentally validated
+CAMPSQ10800				Eumenine mastoparan-EM1 (EMP-EM1)	Eumenes micado 	Animalia	LKLMGIVKKVLGAL	14	30857348	Antibacterial, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10801				Eumenine mastoparan-EM2)	Eumenes micado 	Animalia	LKLLGIVKKVLGAI	14	30857348	Antibacterial, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10802				H2  	Holothuria tubulosa	Animalia	ASHLGHHALDHLLK	14	30857142	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10917				Atlantic Mackerel GAPDH-related peptide (AMGAP)	Scomber scombrus	Animalia	KVEIVAINDPFIDL	14	31336895	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10924				CF-14	Catfish	Animalia	RIVELTLPRVSVRL	14	31291603	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10944				Ovispirin-2	Ovis aries	Animalia	LRRIIRKIIHIIKK	14	11557478	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10945				Ovispirin-3	Ovis aries	Animalia	IRRIIRKIIHIIKK	14	11557478	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10996				Temporin-1Ga 	Rana grylio 	Animalia	SILPTIVSFLSKVF	14	10828493, 29842923	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11076				PDC213 	Homo sapiens	Animalia	VTQPLAPVHNPISV	14	28093229	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11083				MjPen-II PD	Marsupenaeus Japonicus	Animalia	SSRSYRTGFRTAGS	14	26855016	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11403				Defensin	Musca domestica	Animalia (Insects)	HSACAAHCLLRGNR	14	30674770	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11405				Defensin-like 2	Musca domestica	Animalia (Insects)	HSVCAAHCLLLGKS	14	30674770	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11406				Defensin-like 3	Musca domestica	Animalia (Insects)	KVSCQAHCLLLKKR	14	30674770	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11440				KR-14	Homo sapiens	Animalia (Mammals)	KRIVQRIKDFLRNL	14	30635992	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11489				Pep8	Physcomitrella patens	Plantae (Angiosperms)	INIINAPLQGFKIA	14	30616513	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11565				Thaumatin-PEP4	Thaumatococcus daniellii	Plantae (Angiosperms)	CAADIVGQCPAKLK	14	30577001	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11587				YL14	Homo sapiens	Animalia (Mammals)	YYHFWHRGVTKRSL	14	30555984	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11601				Nigrocin-HLD	Hylarana latouchii	Animalia (Amphibia)	GLLSGILGAGKKIV	14	30555431	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11666				P14	Bos taurus	Animalia (Mammals)	TKKTKLTEEEKNRL	14	30508634	Antibacterial	Gram -ve	Experimentally validated

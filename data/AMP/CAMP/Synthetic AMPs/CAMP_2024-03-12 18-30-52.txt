@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1170				E07LKK	Synthetic construct		LKLLKKL	7	7726486	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8278				2IH1	Synthetic construct		IHHIHHH	7	31199117	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8282				3IH1	Synthetic construct		IHHIHHI	7	31199117	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8935				P5	Synthetic construct		KCCYTLP	7	31243959	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8936				P6	Synthetic construct		VLTRCCG	7	31243959	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8937				P7	Synthetic construct		TGFLVNV	7	31243959	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8938				P8	Synthetic construct		HYIDFRW	7	31243959	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9260				L3K3W4 	Synthetic construct		LLKWLKK	7	19544481	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9261				L4K2W4 	Synthetic construct		LLKWLLK	7	19544481	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9278				Synthetic 8	Synthetic construct		KLLLLLK	7	8093007	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9704				L2K3W2 	Synthetic construct		KWLKKWL	7	20736034	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9705				L3K2W2	Synthetic construct		KWLLKWL	7	20736034	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9751				19L-30R-NH2 fragment 9	Synthetic construct		CLAIGRR	7	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9807				GG1	Synthetic construct		GKLWLKG	7	26530005	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9811				AA1	Synthetic construct		AKLWLKA	7	26530005	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9818				RIP-W	Synthetic construct		YSPWTNF	7	26571297	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ9819				RIP-I	Synthetic construct		YKPITNF	7	26571297	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ24806				Undefined	Synthetic construct		WXWXXX	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24807				Undefined	Synthetic construct		XXWXWX	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24808				Undefined	Synthetic construct		WXWXWX	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24809				Undefined	Synthetic construct		RRFXFR	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24810				Undefined	Synthetic construct		FRFXFR	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24811				Undefined	Synthetic construct		XXFXFX	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24812				Undefined	Synthetic construct		FXFXFX	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24813				Undefined	Synthetic construct		XXWWXR	6	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated

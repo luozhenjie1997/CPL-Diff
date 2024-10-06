@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20969				Undefined	Synthetic construct		YQWQRRMKLGAPSIT	15	10679204	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20972				Undefined	Synthetic construct		YQWQRRMRLGAPSIT	15	10679204	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20973				Undefined	Synthetic construct		YQWQRMRKLGAPSIT	15	10679204	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21016		P56029		HP(6-20) 50S ribosomal protein L1	Synthetic construct		FKRLEKLFSKIQNDK	15	17961502	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21019		P56029		HP(2-16) 50S ribosomal protein L1	Synthetic construct		AKKVFKRLEKLFSKI	15	17961502	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21024		P56029		A3-NT, HP(6-20) [Q17W,D19W]	Synthetic construct		FKRLEKLFSKIWNWK	15	17961502	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21025		P56029		HP(6-20) [E10K,Q17W,D19W] 50S ribosomal protein L1	Synthetic construct		FKRLKKLFSKIWNWK	15	17961502	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21026		P56029		HP(6-20) [S14K,Q17W,D19W] 50S ribosomal protein L1	Synthetic construct		FKRLEKLFKKIWNWK	15	17961502	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21027		P56029		HP(2-16) [E10R,S14K] 50S ribosomal protein L1	Synthetic construct		AKKVFKRLRKLFKKI	15	17961502	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21055				Alpha/Beta Peptide 1	Synthetic construct		XLXKXLXLXKXLXLX	15	17212422	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21056				Alpha/Beta Peptide 2	Synthetic construct		XLXLXLXKXLXKXLX	15	17212422	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21057				Alpha/Beta Peptide 3	Synthetic construct		XLXKXLXKXLXLXLX	15	17212422	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21058				Alpha/Beta Peptide 4	Synthetic construct		XLXLXKXLXLXLXKX	15	17212422	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21059				Alpha/Beta Peptide 5	Synthetic construct		XLXLXLXLXLXKXLX	15	17212422	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21060				Alpha/Beta Peptide 6	Synthetic construct		XFXLXLXFXFXKXLX	15	17212422	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21061				Alpha/Beta Peptide 7	Synthetic construct		XLXKXAXAXKXAXLX	15	17212422	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21062				Alpha/Beta Peptide 8	Synthetic construct		XLXAXAXKXLXKXAX	15	17212422	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21063				Alpha/Beta Peptide 9	Synthetic construct		XAXKXLXKXAXAXLX	15	17212422	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21112		P51524		Rec-Tritrpticin [F6,12X]	Synthetic construct		GTVRRXPWWWPXLRR	15	32142822	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21113		P51524		Rec-Tritrpticin [F6Y, F12X]	Synthetic construct		GTVRRYPWWWPXLRR	15	32142822	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21114		P51524		Rec-Tritrpticin [F6X, F12Y]	Synthetic construct		GTVRRXPWWWPYLRR	15	32142822	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21115		P51524		Rec-Tritrpticin [F6X]	Synthetic construct		GTVRRXPWWWPFLRR	15	32142822	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21116		P51524		Rec-Tritrpticin [F12X]	Synthetic construct		GTVRRFPWWWPXLRR	15	32142822	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21117		P51524		Rec-Tritrpticin [W8X]	Synthetic construct		GTVRRFPXWWPFLRR	15	32142822	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21118		P51524		Rec-Tritrpticin [W9X]	Synthetic construct		GTVRRFPWXWPFLRR	15	32142822	Antibacterial	Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ12	110279027	Q2LKX9		Ixosin	Ixodes sinensis  	Animalia (Arachnida)	GLHKVMREVLGYERNSYKKFFLR	23	16087274	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ88	122056005	P85056		Brevinin-1SE	Rana sevosa	Animalia (Amphibia)	FLPLVRGAAKLIPSVVCAISKRC	23	16386333	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ109	126683	P11006	1DUM,2MAG	Magainin-1 	Xenopus laevis	Animalia (Amphibia)	GIGKFLHSAGKFGKAFVGEIMKS	23	3299384	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ110	126683	P11006	1DUM,2MAG	Magainin 2	Xenopus laevis	Animalia (Amphibia)	GIGKFLHSAKKFGKAFVGEIMNS	23	1717472 , 3299384, 35073323	Antibacterial, Antifungal, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ155	154347366	A7BJK5		Prepromelittin-related peptide 	Rana sakuraii	Animalia (Amphibia)	VIGSILGALASGLPTLISWIKNR	23	17174009	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ156	154347368	A7BJK6		Prepromelittin-related peptide 	Rana tagoi 	Animalia (Amphibia)	AIGSILGALAKGLPTLISWIKNR	23	12804591, 35055066	Antibacterial, Antifungal, Anticancer, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ167	156767193	A7YL71		Antimicrobial peptide odorranin-HP	Odorrana grahami	Animalia (Amphibia)	GLLRASSVWGRKYYVDLAGCAKA	23	17698252	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ197	1709080	P49930		Antibacterial peptide PMAP-23 	Sus scrofa	Animalia (Mammals)	RIIDLLWRVRRPQKPKFVTVWVR	23	8132502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ206	17529687	Q8UUG2		Moronecidin	Morone chrysops	Animalia (Pisces)	FFHHIFRGIVHVGKTIHKLVTGG	23	11739390	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ207	17940118	Q8UUG0	2JOS,2OJM	Moronecidin	Morone saxatilis	Animalia (Pisces)	FFHHIFRGIVHVGKTIHRLVTGG	23	11739390	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ208	18034013	Q8UUG2		Moronecidin	Morone chrysops	Animalia (Pisces)	FFHHIFRGIVHVGRTIHKLVTGG	23	11739390	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ209	18034015	Q8UUG0	2JOS,2OJM	Moronecidin	Morone saxatilis	Animalia (Pisces)	FFHHIFRGIVHVGRTIHRLVTGG	23	11739390	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ235	20138938	P82067		Maculatin-1.2	Litoria genimaculata 	Animalia (Amphibia)	GLFGVLAKVASHVVPAIAEHFQA	23	9620615	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ244	21542190	P83190		Pseudin-3	Pseudis paradoxa	Animalia (Amphibia)	GINTLKKVIQGLHEVIKLVSNHE	23	11689009	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ245	21542191	P83191		Pseudin-4	Pseudis paradoxa	Animalia (Amphibia)	GINTLKKVIQGLHEVIKLVSNHA	23	11689009	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ280	2499726	P80952		Skin peptide tyrosine-tyrosine 	Phyllomedusa bicolor	Animalia (Amphibia)	PEEMNKYLTALRHYINLVTRQRY	23	8601432	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ304	26393019	P81569		Antimicrobial peptide D4 	Spinacia oleracea	Plantae	MFFSSKKCKTVSKTFRGPCVRNA	23	9762899	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ22330		A0A151PG40		Nothepsin, NOTS (17-38)	Alligator mississippiensis	Animalia	VERIPLVRFKSIKKQLHERGDL	22	25671663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22339		H9C3L9		SmHep2P, Sm-Hepcidin-2	Scophthalmus maximus	Animalia	GMKCKFCCNCCNLNGCGVCCRF	22	24647314	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22817		R9UE70		Piscidin-like peptide, Pc-Piscidin	Larimichthys crocea (Pseudosciaena crocea)	Animalia	IWGLIAHGVGHVGRLIHGLIRG	22	23727503	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22821		O85486		Phenol soluble modulin alpha, PSMa	Staphylococcus epidermidis	Bacteria	MADVIAKIVEIVKGLIDQFTQK	22	25869678	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22834				Trichoplaxin	Trichoplax adhaerens	Animalia	FFGRLKSVWSAVKHGWKAAKSR	22	24530880	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23172		A0A286T629		Brevinin-1ULf	Rana ulma	Animalia	FFGSTIGALANFLPSLISKIRN	22	29219046	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23648		A0A5C1K3L1		Sm-Moronecidin	Sebastiscus marmoratus	Animalia	FFRHIVGAISRIFGQKQRDMAD	22	31449978	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24278		A0A4Y1PGC5		Piscidin Trematocine	Trematomus bernacchii (Pseudotrematomus bernacchii)	Animalia	FFGHLLRGIVSVGKHIHGLITG	22	32041161	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

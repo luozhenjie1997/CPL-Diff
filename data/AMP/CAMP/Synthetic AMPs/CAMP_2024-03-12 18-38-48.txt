@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23296				Undefined	Synthetic construct		CwWwKkKkKC	10	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23316		H9MYY4		ALF6 (50-59)[V3L,P5L,R8L,S9R], Crab-ALF2A	Synthetic construct		FRLMLRLLRW	10	30336284	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23366				DKDKC12K4	Synthetic construct		KKKKXDKDKX	10	30354128	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23432				AMP-L1	Synthetic construct		DWRXWRRWWR	10	30004546	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23433				AMP-A2	Synthetic construct		DWRXRWWRWR	10	30004546	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23434				AMP-A3	Synthetic construct		DWWXWWRRRR	10	30004546	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23441				Undefined	Synthetic construct		KKXRKXLAKK	10	23716061	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23566				Gramicidin S [f4,9p; P5,10F], GS [f4,9p; P5,10F]	Synthetic construct		VXLpFVXLpF	10	20411945	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23567				Gramicidin S [f4,9p; P5,10MePhe], GS [f4,9p; P5,10MePhe]	Synthetic construct		VXLpXVXLpX	10	20411945	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23657				Myrmicitoxin U-MYRTX-MANr1	Synthetic construct		IDPKVLESLV	10	31557881	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23658				Myrmicitoxin U-MYRTX-MRArub1	Synthetic construct		IDPKLLESLA	10	31557881, 30717163	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23669				DM-PC (1-10)[A10Cha, L>l, K>k]	Synthetic construct		ALWKKLLKKX	10	31653005, 32967333	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23672				Dermaseptin-PC (1-10), DM-PC (1-10)	Synthetic construct		ALWKKLLKKA	10	31653005	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23746		C0HLN5		Turgencin A (18-27)[C26K]	Synthetic construct		GKKPGGWKAK	10	32751755	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23747		C0HLN5		Turgencin A (18-27)[P21W,C26K]	Synthetic construct		GKKWGGWKAK	10	32751755	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23748		C0HLN5		Turgencin A (18-27)[G22W,C26K]	Synthetic construct		GKKPWGWKAK	10	32751755	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23749		C0HLN5		Turgencin A (18-27)[G23W,C26K]	Synthetic construct		GKKPGWWKAK	10	32751755	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23750		C0HLN5		Turgencin A (18-27)[P21W,G22W,C26K]	Synthetic construct		GKKWWGWKAK	10	32751755	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23751		C0HLN5		Turgencin A (18-27)[P21W,G23W,C26K]	Synthetic construct		GKKWGWWKAK	10	32751755	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23752		C0HLN5		Turgencin A (18-27)[G22W,G23W,C26K]	Synthetic construct		GKKPWWWKAK	10	32751755	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23753		C0HLN5		Turgencin A (18-27)[P21W,G22W,G23W,C26K]	Synthetic construct		GKKWWWWKAK	10	32751755	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23754				Turgencin A (18-27)[K19,20,25,27R;G22,23W,C26K]	Synthetic construct		GRRPWWWRAR	10	32751755	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23755				Turgencin A (18-27)[K19,20,25,27R;P21W;G22,23W,C26K]	Synthetic construct		GRRWWWWRAR	10	32751755	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23756				Turgencin A (18-27)[K19,20,25,27R;G22,23L;W24L;C26K]	Synthetic construct		GRRPLLLRAR	10	32751755	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23771				DIR2	Synthetic construct		IRIRPIRIRP	10	31775224	Antibacterial	Gram+,Gram-	Experimentally Validated

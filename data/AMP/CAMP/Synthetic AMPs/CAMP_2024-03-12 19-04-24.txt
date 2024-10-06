@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20868				SP1-D	Synthetic construct		RKKRLKLLKRLV	12	23951222, 23901070	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20869				SP2	Synthetic construct		RKRAARLLKRLV	12	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20870				SP3	Synthetic construct		RKRFARFAKRAV	12	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20871				SP4	Synthetic construct		KKKAARALKRAL	12	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20872				SP5	Synthetic construct		LLIAAFKKLVKK	12	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20873				SP6	Synthetic construct		ALAHFLKKAIKK	12	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20874				SP7-D	Synthetic construct		LLIKFLKRFIKH	12	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20875				SP8	Synthetic construct		LLIRAAKKFIKK	12	23951222, 23901070	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20877				SP10-D	Synthetic construct		LRFLKKILKHLF	12	23951222, 23901070	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20878				SP11	Synthetic construct		LRALAKALKHKL	12	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20879				SP12	Synthetic construct		LKALRKALKHLA	12	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20884				SP1-1	Synthetic construct		RKKRLKLLKRLL	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20885				SP1-2	Synthetic construct		RKKRVKLLKRLV	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20886				SP1-3	Synthetic construct		RKKKVKLLKRLV	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20887				SP1-4	Synthetic construct		RKKRLKVVKRLV	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20888				SP1-5	Synthetic construct		RKKRLRVVRRLV	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20889				SP1-6	Synthetic construct		RKKKLKVVKRLV	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20890				SP1-7	Synthetic construct		RKKKLKIIKRLI	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20891				SP1-8	Synthetic construct		RKKKIKIIKRLI	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20892				SP1-9	Synthetic construct		RKKKIKIIKKII	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20893				SP1-10	Synthetic construct		RKKKAKIIKKII	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20894				SP1-11	Synthetic construct		RKKKLKFFKRLF	12	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20895				SP1-12	Synthetic construct		RKKKFKFFKRLF	12	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20896				SP1-13	Synthetic construct		RKKKFKFFKRFF	12	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20897				SP1-14	Synthetic construct		RKKKFKIFKRLF	12	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated

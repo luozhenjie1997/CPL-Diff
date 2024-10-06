@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22036				Desotamide B [V2I]	Synthetic construct		NIlLWG	6	29431987, 29125222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22037				Wollamide B [D-Orn 6 IPr-D-Orn]	Synthetic construct		NVlLWx	6	29431987, 29125222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22038				Wollamide B [N1Q]	Synthetic construct		QVlLWx	6	29431987	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22039				Wollamide B [N1D]	Synthetic construct		DVlLWx	6	29431987	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22040				Wollamide B [V2MeAla]	Synthetic construct		NXlLWx	6	29431987	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22041				Wollamide B [W5Y]	Synthetic construct		NVlLYx	6	29431987	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22042				Wollamide B [W5F]	Synthetic construct		NVlLFx	6	29431987	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22043				Wollamide B [Orn6r]	Synthetic construct		NVlLWr	6	29431987	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22044				Wollamide B [Orn6k]	Synthetic construct		NVlLWk	6	29431987	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22045				Wollamide B [L1l,N4n,V5v]	Synthetic construct		LWxnvl	6	29431987	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22048				Desotamide B [l3L]	Synthetic construct		NVLLWG	6	29125222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22049				Desotamide B [V2I;l3i]	Synthetic construct		NIiLWG	6	29125222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22050				Wollamide B [L2A]	Synthetic construct		WAlVNx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22051				Wollamide B [W1A]	Synthetic construct		ALlVNx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22052				Wollamide B [N5A]	Synthetic construct		WLlVAx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22053				Wollamide B [l3a]	Synthetic construct		WLaVNx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22054				Wollamide B [V4M]	Synthetic construct		WLlMNx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22055				Wollamide B [N5D-ORN]	Synthetic construct		WLlVxx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22056				Wollamide B [V4I,N5S]	Synthetic construct		WLlISx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22057				Wollamide B [V4I, N5TERT BU SER]	Synthetic construct		WLlIXx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22058				Wollamide B [V4I, N5I]	Synthetic construct		WLlIIx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22059				Wollamide B [V4I, D-Orn6D-Arg]	Synthetic construct		WLlINr	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22060				Wollamide B [W1Phe(4-OMe)]	Synthetic construct		xLlVNx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22061				Wollamide B [l3D-Phe(4Cl)]	Synthetic construct		WLxVNx	6	28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22062				Wollamide B [L2D-Phe(4Cl)]	Synthetic construct		WxlVNx	6	28423019	Antibacterial	Gram+	Experimentally Validated

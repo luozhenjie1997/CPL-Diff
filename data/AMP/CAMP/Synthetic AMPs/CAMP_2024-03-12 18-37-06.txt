@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11683				BP450	Synthetic construct		KkVVFWVKFK	10	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11684				BP451	Synthetic construct		kKVVFWVKFK	10	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11948				A9K	Synthetic construct		AAAAAAAAAK	10	28105725	Antifungal		Experimentally validated
+CAMPSQ11952				Anoplin-3	Synthetic construct		KLLKWWKKLL	10	28105725	Antifungal		Experimentally validated
+CAMPSQ11953				BF2	Synthetic construct		RWRLLLLKKH	10	28105725	Antifungal		Experimentally validated
+CAMPSQ11954				[RW]5	Synthetic construct		RWRWRWRWRW	10	28105725	Antifungal		Experimentally validated
+CAMPSQ11955				Y2	Synthetic construct		RGRKYYRRKK	10	28105725	Antifungal		Experimentally validated
+CAMPSQ11956				V2	Synthetic construct		RGRKVVRRKK	10	28105725	Antifungal		Experimentally validated
+CAMPSQ11957				RK1/D5	Synthetic construct		RWKRWWRRKK	10	28105725	Antifungal		Experimentally validated
+CAMPSQ12040				Pm15 	Synthetic construct		KFFKKFFKKW	10	27341459	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12048				NOSO-95C (1-10)	Synthetic construct		KXXGOPHKZK	10	30086230	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ12052				NOSO-95C (2-11) 	Synthetic construct		XXGOPHKZKB	10	30086230	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ12119				OsAFP1 mutant K35A	Synthetic construct		ASHGLERKCF	10	30061724	Antifungal		Experimentally validated
+CAMPSQ12120				OsAFP1 mutant H37A	Synthetic construct		KSAGLERKCF	10	30061724	Antifungal		Experimentally validated
+CAMPSQ12121				OsAFP1 mutant L39A	Synthetic construct		KSHGAERKCF	10	30061724	Antifungal		Experimentally validated
+CAMPSQ12122				OsAFP1 mutant R41A	Synthetic construct		KSHGLEAKCF	10	30061724	Antifungal		Experimentally validated
+CAMPSQ12123				OsAFP1 mutant K42A	Synthetic construct		KSHGLERACF	10	30061724	Antifungal		Experimentally validated
+CAMPSQ12402				LDP (Latarcin-derived peptide)	Synthetic construct		KWRRKLKKLR	10	29108892	Antifungal		Experimentally validated
+CAMPSQ12442				BPC086W	Synthetic construct		LKKKLWKKLQ	10	29072606	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12443				BPC108W	Synthetic construct		LKKKKWLLKQ	10	29072606	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12862				(WRL)3	Synthetic construct		WRLWRLWRL	10	33829758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12866				(WRF)3	Synthetic construct		WRFWRFWRF	10	33829758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12869				(WRW)3	Synthetic construct		WRWWRWWRW	10	33829758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12940				PepGAT	Synthetic construct		GATIRAVNSR	10	34399551	Antifungal		Experimentally validated
+CAMPSQ12941				PepKAA	Synthetic construct		KAANRIKYFQ	10	34399551	Antifungal		Experimentally validated

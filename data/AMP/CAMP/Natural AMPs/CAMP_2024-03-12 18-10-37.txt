@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ43	115311721	Q1ELU1	2G9P	Latarcin-2a 	Lachesana tarabaevi	Animalia (Arachnida)	GLFGKLIKKFGRKAISYAVKKARGKH	26	16735513, 19563807	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ44	115311722	Q1ELU0		Latarcin-2b 	Lachesana tarabaevi	Animalia (Arachnida)	GLFGKLIKKFGRKAISYAVKKARGKN	26	16735513	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ99	122064230	P84859		NGU Guentherin 	Rana guentheri	Animalia (Amphibia)	VIDDLKKVAKKVRRELLCKKHHKKLN	26	16979798	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ112	129279021	A4GUC3		Midgut defensin	Haemaphysalis longicornis 	Animalia (Arachnida)	ACHAHCQSVGRRGGYCGNFRMTCYCY	26	17521774	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ159	156619799	A8DY01, B5L1I4		Pleurain-a1	Rana pleuraden	Animalia (Amphibia)	SIITMTKEAKLPQLWKQIACRLYNTC	26	17764786, 19028675	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ168	156778015	A8B5P0		Pleurain-a2	Rana pleuraden	Animalia (Amphibia)	SIITMTKEAKLPQSWKQIACRLYNTC	26	17764786	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ221	18202408	P82425		Ponericin-W3	Pachycondyla goeldii 	Animalia (Insects)	GIWGTLAKIGIKAVPRVISMLKKKKQ	26	11279030	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ222	18202409	P82426		Ponericin-W4	Pachycondyla goeldii 	Animalia (Insects)	GIWGTALKWGVKLLPKLVGMAQTKKQ	26	11279030	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ270	2493581	Q24395		Metchnikowin	Drosophila melanogaster	Animalia (Insects)	HRHQGPIFDTRPSPFNPNQPRPGPIY	26	7588819	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ311	27806725	P19661	4JWC, 4JWD	Cathelicidin antimicrobial peptide 	Bos taurus 	Animalia (Mammals)	QCVGTITLDQSDDLFDLNCNELQSVR	26	8706679	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ327	29123270	Q800R4		Dermaseptin-like PBN2	Phyllomedusa bicolor	Animalia (Amphibia)	GLVTSLIKGAGKLLGGLFGSVTGGQS	26	12709067	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ353	32396178	Q7SZH4		Pleurocidin-like peptide AP1	Hippoglossoides platessoides	Animalia (Pisces)	GWKSVFRKAKKVGKTVGGLALDHYLG	26	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ20392				XPF-St7	Silurana tropicalis	Animalia	GLLSNVAGLLKQFAKGGVNAVLNPK	25	23935531	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20626				XPF-F1	Xenopus fraseri	Animalia	GWASKIGQTLGKMAKVGLQEIIQPK	25	25463057	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20767				Hymenochirin-5Pb	Pseudhymenochirus merlini	Animalia	FKIPPIVKDTLKKFFKGGIAGVMGQ	25	24212286	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20769				Hymenochirin-5Pd	Pseudhymenochirus merlini	Animalia	ITIPPIVKDTLKKFFKGGIAGVMGQ	25	24212286	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21262		D5MTI0		Peptide DK25	Rana tagoi okiensis	Animalia	DVNDLKNLCAKTHNLLPMCAMFGKK	25	20457198	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22362		C0HJZ6,		Ocellatin-PT1	Leptodactylus pustulatus		GVFDIIKDAGKQLVAHAMGKIAEKV	25	26107622, 27463422	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ22363		C0HJZ7,		Ocellatin-PT2	Leptodactylus pustulatus		GVFDIIKDAGKQLVAHATGKIAEKV	25	26107622, 27463422, 29308671	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ22364		C0HJZ8,		Ocellatin-PT3	Leptodactylus pustulatus		GVIDIIKGAGKDLIAHAIGKLAEKV	25	26107622, 27463422, 29308671	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ22365		C0HJZ9,		Ocellatin-PT4	Leptodactylus pustulatus		GVFDIIKGAGKQLIAHAMGKIAEKV	25	26107622, 27463422, 29308671	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ22366		C0HK00,		Ocellatin-PT5	Leptodactylus pustulatus		GVFDIIKDAGRQLVAHAMGKIAEKV	25	26107622, 27463422, 29308671	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ23515		P85095,P40841		Brevinin 2R	Pelophylax ridibundus,Pelophylax esculentus	Animalia	KLKNFAKGVAQSLLNKASCKLSGQC	25	30811391, 18494941	Antibacterial, Antiparasitic	Gram-	Experimentally Validated
+CAMPSQ23613		P05484	1DW5	Omega-conotoxin MVIIA, Ziconotide	Conus magus	Animalia	CKGKGAKCSRLMYDCCTGSCRSGKC	25	28245769	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23650		A0A3G2LYX4		Sd-Piscidin	Seriola dumerili	Animalia	FIHHIIKGIFHIGKMIHSAINRRRH	25	31450183	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22504				Octyl Tridecaptin A1 [w5a]	Synthetic construct		vxGsaSXxFEVxA	13	24816483	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22505				Octyl Tridecaptin A1 [S6A]	Synthetic construct		vxGswAXxFEVxA	13	24816483	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22506				Octyl Tridecaptin A1 [DAB7A]	Synthetic construct		vxGswSAxFEVxA	13	24816483	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22507				Octyl Tridecaptin A1 [D-DAB8a]	Synthetic construct		vxGswSXaFEVxA	13	24816483	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22508				Octyl Tridecaptin A1 [F9A]	Synthetic construct		vxGswSXxAEVxA	13	24816483	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22509				Octyl Tridecaptin A1 [E10A]	Synthetic construct		vxGswSXxFAVxA	13	24816483	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22510				Octyl Tridecaptin A1 [V11A]	Synthetic construct		vxGswSXxFEAxA	13	24816483	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22511				Octyl Tridecaptin A1 [D-AlloILE10a]	Synthetic construct		vxGswSXxFEVaA	13	24816483	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22512				Oct-Tridecaptin A2 [2,8-D-Orn, 7-Orn]	Synthetic construct		vxGswSXxFEVvA	13	31015912	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22513				Oct-Tridecaptin A1 [2-D-Lys, 7-Lys]	Synthetic construct		vkGswSKxFEVxA	13	31015912	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22514				Oct-Tridecaptin A1 [2,8-D-Lys, 7-Lys]	Synthetic construct		vkGswSKkFEVxA	13	31015912	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22515				Oct-Tridecaptin A2 [2,8-D-Lys, 7-Lys]	Synthetic construct		vkGswSKkFEVvA	13	31015912	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22516				Octyl Tridecaptin A1 [w5D-AGL, F9AGL]	Synthetic construct		vxGsxSXxXEVxA	13	30179243	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22517				Octyl Tridecaptin A1 [w5D-Cys, F9Cys]	Synthetic construct		vxGscSXxCEVxA	13	30179243	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22542				L-K6 [L5,11W]	Synthetic construct		IKKIWSKIKKWLK	13	23710779	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22543				L-K6 [L5,12W]	Synthetic construct		IKKIWSKIKKLWK	13	23710779	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22544				L-K6 [L11,12W]	Synthetic construct		IKKILSKIKKWWK	13	23710779	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22545				L-K6 [L5,11,12W]	Synthetic construct		IKKIWSKIKKWWK	13	23710779	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22573				N1	Synthetic construct		KRKRKILILIKRK	13	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22580				C1	Synthetic construct		KRKILILIKRKRK	13	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22588				H1	Synthetic construct		KRKILILILIKRK	13	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22643		E7EKD9		Odorranain-B1 (5-17)	Synthetic construct		GCWTKSIPPKPCF	13	17384140	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22651		B5A9T1		Chensinin-1 (1-13) [A2K, G4,7,11W, L12H ]	Synthetic construct		SKVWRHWRRFWHR	13	27060618	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22711		P51888		GRR10W3-NH2	Synthetic construct		GRRPRPRPRPWWW	13	21298015	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22714		P51888		GRR10F3-NH2	Synthetic construct		GRRPRPRPRPFFF	13	21298015	Antibacterial	Gram+,Gram-	Experimentally Validated

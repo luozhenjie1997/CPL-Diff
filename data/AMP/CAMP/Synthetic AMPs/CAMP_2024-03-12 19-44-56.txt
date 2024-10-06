@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13272				TB2U-6K	Synthetic construct		GVIIKKLKGAAKKVAAKLL	19	34438945	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13648				[I2] ascaphin-8	Synthetic construct		GIKDLLKGAAKALVKTVLF	19	33932712, 23094651	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13649				[K19] ascaphin-8	Synthetic construct		GFKDLLKGAAKALVKTVLK	19	33932712, 23094651	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13650				[I2, K19] ascaphin-8	Synthetic construct		GIKDLLKGAAKALVKTVLK	19	33932712, 23094651	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13942				K19Hc	Synthetic construct		KWLNALLHHGLNCAKGVLA	19	16469314, 12878508	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13950				K19HcKK	Synthetic construct		KWLNALLKKGLNCAKGVLA	19	12878508	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14041				NPG750	Synthetic construct		XRGGRLCYCRRRFCVCVGR	19	34196552	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14042				NPG1000	Synthetic construct		XRGGRLCYCRRRFCVCVGR	19	34196552	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14043				NPG2000	Synthetic construct		XRGGRLCYCRRRFCVCVGR	19	34196552	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14044				CPG750	Synthetic construct		RGGRLCYCRRRFCVCVGRX	19	34196552	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14045				CPG1000	Synthetic construct		RGGRLCYCRRRFCVCVGRX	19	34196552	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14046				CPG2000	Synthetic construct		RGGRLCYCRRRFCVCVGRX	19	34196552	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14049				OmIL-8alpha80-97	Synthetic construct		VSAPWVKRVIEKMLANNK	19	34166719	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14050				Lynronne-1	Synthetic construct		LPRRNRWSKIWKKVVTVFS	19	34028161	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14051				Lynronne-1 R4L S8L	Synthetic construct		LPRLNRWLKIWKKVVTVFS	19	34028161	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14052				Lynronne-1 V15T	Synthetic construct		LPRRNRWSKIWKKVTTVFS	19	34028161	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14053				Lynronne-1 I10T V15T	Synthetic construct		LPRRNRWSKTWKKVTTVFS	19	34028161	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14106				CysB27(1-18)	Synthetic construct		XGRFKRFRKKFKKLFKKLS	19	33853003	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14107				B27(1-18)Cys	Synthetic construct		GRFKRFRKKFKKLFKKLSX	19	33853003	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14108				Biot-N-B27(1-18)	Synthetic construct		JGRFKRFRKKFKKLFKKLS	19	33853003	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14109				B27(1-18)-C-Biot	Synthetic construct		GRFKRFRKKFKKLFKKLSJ	19	33853003	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14350				Fp4	Synthetic construct		GVFVFNGTSWFITQRNFFS	19	34591335	Antiviral		Predicted
+CAMPSQ14410				T22	Synthetic construct		RRWCYRKCYKGYCYRKCRK	19	34834337	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14412				NKC	Synthetic construct		APKAMKLLKKLLKLQKKGI	19	34769345	Antibacterial		Experimentally validated
+CAMPSQ14419				CTPQ	Synthetic construct		RWGRFLRKIRRFRRKDVTQ	19	34769113	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

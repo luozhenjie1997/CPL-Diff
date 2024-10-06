@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18612				Undefined	Synthetic construct		YVLAKRKRAIFI	12	19520860	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18614				BP100-A	Synthetic construct		KKLFKKILKYLA	12	29750913	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18610				Undefined	Synthetic construct		YVLFKRKRFIFI	12	19520860	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18611				Undefined	Synthetic construct		YVLLKRKRLIFI	12	19520860	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18609				Undefined	Synthetic construct		YVLWKRKRYIFI	12	19520860	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18608				Undefined	Synthetic construct		YVLWKRKRWIFI	12	19520860	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18607				Undefined	Synthetic construct		YVLWKRKRFIFI	12	19520860	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18579		P49913		LL-37 KR-12 [I7K,L11K]	Synthetic construct		KRIVQRKKDFKR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18580			2NAL	Retro-KR-12	Synthetic construct		RLFDKIRQVIRK	12	32153522	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18578		P49913		LL-37 KR-12 [I7K,F10K,L11K]	Synthetic construct		KRIVQRKKDKKR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18576		P49913		LL-37 KR-12 [V4A,D9A]	Synthetic construct		KRIAQRIKAFLR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18577		P49913		LL-37 KR-12 [I3A,V4A,D9A]	Synthetic construct		KRAAQRIKAFLR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18573		P49913		LL-37 KR-12 [Q5K,D9A]	Synthetic construct		KRIVKRIKAFLR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18574		P49913		LL-37 KR-12 [I3K,Q5K,D9K]	Synthetic construct		KRKVKRIKKFLR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18575		P49913		LL-37 KR-12 [Q5A,D9A,F10A]	Synthetic construct		KRIVARIKAALR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18572		P49913		LL-37 KR-12 [Q5K,D9K]	Synthetic construct		KRIVKRIKKFLR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18571		P49913		LL-37 KR-12 [Q5A,D9A]	Synthetic construct		KRIVARIKAFLR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18570		P49913		LL-37 KR-12 [R12K]	Synthetic construct		KRIVQRIKDFLK	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18569		P49913		LL-37 KR-12 [L11K]	Synthetic construct		KRIVQRIKDFKR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18567		P49913		LL-37 KR-12 [D9K]	Synthetic construct		KRIVQRIKKFLR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18568		P49913		LL-37 KR-12 [F10K]	Synthetic construct		KRIVQRIKDKLR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18566		P49913		LL-37 KR-12 [I7K]	Synthetic construct		KRIVQRKKDFLR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18565		P49913		LL-37 KR-12 [R6K]	Synthetic construct		KRIVQKIKDFLR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18564		P49913		LL-37 KR-12 [Q5K]	Synthetic construct		KRIVKRIKDFLR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18563		P49913		LL-37 KR-12 [V4K]	Synthetic construct		KRIKQRIKDFLR	12	29430821	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

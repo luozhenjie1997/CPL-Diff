@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ380	38502899	P82320		Neutrophil defensin 6  	Macaca mulatta	Animalia (Mammals)	RRTCRCRFGRCFRRESYSGSCNINGRISSLCCR	33	10531277	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ386	3913450	P81465		Neutrophil defensin 1 	Mesocricetus auratus	Animalia (Mammals)	VTCFCRRRGCASRERHIGYCRFGNTIYRLCCRR	33	8890190	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ387	3913452	P81467		Neutrophil defensin 3 	Mesocricetus auratus	Animalia (Mammals)	VTCFCRRRGCASRERLIGYCRFGNTIYGLCCRR	33	8890190	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ388	3913453	P81468		Neutrophil defensin 4 	Mesocricetus auratus	Animalia (Mammals)	VTCFCKRPVCDSGETQIGYCRLGNTFYRLCCRQ	33	8890190	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ396	399352	P12838	1ZMM	Neutrophil defensin 4 	Homo sapiens 	Animalia (Mammals)	VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV	33	2500436, 17088326, 30658057	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ418	41016984	P83638	2JX6,2K9B	Dermadistinctin-K 	Phyllomedusa distincta	Animalia (Amphibia)	GLWSKIKAAGKEAAKAAAKAAGKAALNAVSEAV	33	10477123	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ423	41017603	P82740		Ranatuerin-1T 	Rana temporaria	Animalia (Amphibia)	GLLSGLKKVGKHVAKNVAVSLMDSLKCKISGDC	33	10422869	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ454	416724	P32424		Brevinin-2	Rana porosa brevipoda 	Animalia (Amphibia)	GLLDSLKGFAATAGKGVLQSLLSTASCKLAKTC	33	1449472	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ455	416725	P32413		Brevinin-2E	Rana esculenta (edible frog )	Animalia (Amphibia)	GIMDTLKNLAKTAGKGALQSLLNKASCKLSGQC	33	8508915	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ538	585056, 260423	P31107		Adenoregulin 	Phyllomedusa bicolor	Animalia (Amphibia)	GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV	33	8306981	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ562	6225739	P81614		Mytimycin	Mytilus edulis 	Animalia (Molluscs (Bivalvia))	DCCRKPFRKHCWDCTAGTPYYGYSTRNIFGCTC	33	8702979	Antifungal		Experimentally validated
+CAMPSQ574	67460988	P0C008		Nigrocin-1	Rana nigromaculata (dark-spotted frog )	Animalia (Amphibia)	GLLDSIKGMAISAGKGALQNLLKVASCKLDKTC	33	11682065	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ599	728979	P40837		Brevinin-2Ea	Rana esculenta (edible frog )	Animalia (Amphibia)	GILDTLKNLAISAAKGAAQGLVNKASCKLSGQC	33	8163497	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ600	728980	P40838		Brevinin-2Eb	Rana esculenta (edible frog )	Animalia (Amphibia)	GILDTLKNLAKTAGKGALQGLVKMASCKLSGQC	33	8163497	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ603	728983	P40842		Brevinin-2Ef 	Rana esculenta (edible frog )	Animalia (Amphibia)	GIMDTLKNLAKTAGKGALQSLVKMASCKLSGQC	33	8163497	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ662				Brevinin-2SKb	Rana sakuraii	Animalia (Amphibia)	GLFNVFKKVGKNVLKNVAGSLMDNLKCKVSGEC	33	17174009	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ689	160380515	P0C5X1		Brevinin-2DYa	Rana dybowskii	Animalia (Amphibia)	GLLSAVKGVLKGAGKNVAGSLMDKLKCKLFGGC	33	17688900	Antibacterial		Experimentally validated
+CAMPSQ704				OdC1, Brevinin -2 GrB	Odorrana grahami	Animalia (Amphibia)	GVLGTVKNLLIGAGKSAAQSVLKTLSCKLSNDC	33	17272268 , 16621155	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ705				OdD1	Odorrana grahami	Animalia (Amphibia)	GFLDTFKNLALNAAKSAGVSVLNSLSCKLFKTC	33	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ768				Cycloviolacin Y1	Viola yedoensis	Plantae	GGTIFDCGETCFLGTCYTPGCSCGNYGFCYGTN	33	18081258	Antiviral		Experimentally validated
+CAMPSQ773	160380517	P0C5X3		Dybowskin-3 , Brevinin-2DYc	Rana dybowskii	Animalia (Amphibia)	GLFDVVKGVLKGVGKNVAGSLLEQLKCKLSGGC	33	17698251 , 17688900	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ847	2506343	P50704		Defensin-related cryptdin-6/12	Mus musculus	Animalia (Mammals)	DLVCYCRARGCKGRERMNGTCRKGHLLYMLCCR	33	7927786 , 1500163	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ980	1706115	P51437		Cathelin-related antimicrobial peptide 	 Mus musculus	Animalia (Mammals)	GLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPE	33	9148921	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ992	110560015, 110560722	A6MAU3, A6MBT9		Brevinin -2 Gra , Brevinin-2E-OG1, Brevinin-2E-OG6	Rana grahami	Animalia (Amphibia)	GLLDTFKNLALNAAKSAGVSVLNSLSCKLSKTC	33	16621155 , 17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1010				Brevinin-2TSa	Rana tsushimensis	Animalia (Amphibia)	GIMSLFKGVLKTAGKHVAGSLVDQLKCKITGGC	33	16413829	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

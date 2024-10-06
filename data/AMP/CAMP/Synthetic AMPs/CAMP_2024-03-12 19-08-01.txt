@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23350		P83412		Alloferon-1 [H1R]	Synthetic construct		RGVSGHGQHGVHG	13	21766388	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23351		P83412		Alloferon-1 [H1A]	Synthetic construct		AGVSGHGQHGVHG	13	21766388	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23352		P83412		Alloferon-1 [V11T]	Synthetic construct		HGVSGHGQHGTHG	13	25636224	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23386		H6S4F4,		WAMP-2 (1-13)	Synthetic construct		AQRCGDQARGAKC	13	33114433, 33291849	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23389		H6S4F4,		WAMP-2 (33-45)	Synthetic construct		GKGSCQSQCRGCR	13	33114433, 33291849	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23444				Undefined	Synthetic construct		KKWRKWLAKKXXX	13	23716061	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23447				Undefined	Synthetic construct		KKWRKWLAKKKKK	13	23716061	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23452		P24605		Myotoxin II (105-117)[Y3,6W][Y5K,P9A,C11A], PEM-2 [W5K]	Synthetic construct		KKWRKWLKALAKK	13	20865718	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23453		P24605		Myotoxin II (105-117)[Y3,6W][Y5A,P9W,C11A], PEM-2 [W5A,A9W]	Synthetic construct		KKWRAWLKWLAKK	13	20865718	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23517		A0A3D9UDN3		NlpC/P60 family peptide (47-59)[L8,9A;A10K;T13A], KL0A10	Synthetic construct		AAKAAAKAAAKAA	13	26385363	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23518		A0A3D9UDN3		NlpC/P60 family peptide (47-59)[L4,5,6A;L10K;T13A], KL6A4	Synthetic construct		AAKLLLKLLLKAA	13	26385363	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23519		A0A3D9UDN3		KL10A0	Synthetic construct		LLKLLLKLLLKLL	13	26385363	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23568				Undefined	Synthetic construct		GKKLGLWLGLKKG	13	30919848	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23590		Q96DR5,		GL13, BPIFA2 (141-153)	Synthetic construct		GQIINLKASLDLL	13	22484285, 31071184	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23662		P51524		Tritrpticin [P5,9NLYS]	Synthetic construct		VRRFXWWWXFLRR	13	17059217	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23663		P51524		Tritrpticin [P5,9K]	Synthetic construct		VRRFKWWWKFLRR	13	17059217	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23694		D8L127		Papiliocin (25-37)	Synthetic construct		AVAVVGQAATVVK	13	26156126	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23710		Q8MMJ7		IsCT [G3K,E7K,G8p,S11K]	Synthetic construct		ILKKIWKPIKKLF	13	16040002	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23711		Q8MMJ7		IsCT [G3K,E7K,G8NAla,S11K]	Synthetic construct		ILKKIWKXIKKLF	13	16871429	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23789				Tn CRT2	Synthetic construct		RKGSRMGKKCECP	13	32206496	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23790				Tn CRT3	Synthetic construct		RKGSQMGKKCECP	13	32206496	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23868				Undefined	Synthetic construct		KKKKVAAATYVLV	13	14694985	Antiviral		Experimentally Validated
+CAMPSQ23870				Undefined	Synthetic construct		KKKKVTAATYVLV	13	14694985	Antiviral		Experimentally Validated
+CAMPSQ23873				Undefined	Synthetic construct		KKKKVVKATYVLV	13	14694985	Antiviral		Experimentally Validated
+CAMPSQ23875				Undefined	Synthetic construct		KKKKVVLPFLFFF	13	14694985	Antiviral		Experimentally Validated

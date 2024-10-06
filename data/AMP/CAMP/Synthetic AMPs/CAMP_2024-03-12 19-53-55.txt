@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14071				AMPR-11 d72A	Synthetic construct		KKMMKKGGKFGTFMIGMGIR	20	34361008	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14072				AMPR-11 d73I	Synthetic construct		KKMMKKGGKFGTFMAGMGIR	20	34361008	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14073				AMPR-11 d74G	Synthetic construct		KKMMKKGGKFGTFMAIMGIR	20	34361008	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14074				AMPR-11 d75M	Synthetic construct		KKMMKKGGKFGTFMAIGGIR	20	34361008	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14075				AMPR-11 d76G	Synthetic construct		KKMMKKGGKFGTFMAIGMIR	20	34361008	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14076				AMPR-11 d77I	Synthetic construct		KKMMKKGGKFGTFMAIGMGR	20	34361008	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14077				AMPR-11 d78R	Synthetic construct		KKMMKKGGKFGTFMAIGMGI	20	34361008	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14117				20AAHBD3	Synthetic construct		KEEQIGKVSTRGRKVVRRKK	20	34112244	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14494				GI-20	Synthetic construct		GIKEFKRIVQRIKDFLRNLV	20	34959645	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15108				U5	Synthetic construct		IPLRGAFINGRWDSQCHRFS	20	35259078	Antiviral		Experimentally validated
+CAMPSQ16270				Ak-N’	Synthetic construct		FKGLAKLLKIGLKALAKVIQ	20	35432369	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16271				Ak-N’m	Synthetic construct		NKGLAKLLKIGLKALESVIQ	20	35432369	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16511				Di PGLa-H [V5G], Kiadin-2	Synthetic construct		KIAKGALKALKIAKVALKAL	20	29553266	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16512				Di PGLa-H [V5,15G], Kiadin-3	Synthetic construct		KIAKGALKALKIAKGALKAL	20	29553266	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16513				Kiadin-4	Synthetic construct		KIGKALGKALKALGKALGKA	20	29553266	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16514				Kiadin-5	Synthetic construct		KIAGKAGKIAKIAGKAGKIA	20	29553266	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16515				Kiadin-6	Synthetic construct		KIALKALKALKALGKALKAL	20	29553266	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16532		Q01524		D6H	Synthetic construct		AFTHCRRSYSTEYSYGTCTV	20	26400692	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16533		Q01524		D6R	Synthetic construct		AFTRCRRSYSTEYSYGTCTV	20	26400692	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16550		Q08GI9		CSPC12 - hLF1-11	Synthetic construct		LSTFFRLFNGRRRRSVQWCA	20	29434779	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16598		C3Z937		PTN (42-61)	Synthetic construct		CKILSKTIKCRIPCGRRKEY	20	30096337	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16664		K6R2D0		LGH2	Synthetic construct		GNPLKLFLPSTWVHFFKFLR	20	30177656	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16668				T1	Synthetic construct		SVFGQLVMGLILSSVFYNDD	20	30118800	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16669				T2	Synthetic construct		DDRGAAMFAVLFNAFSSLLE	20	30118800	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16670				T3	Synthetic construct		KLAMSMSFNFVFYFMVNFDD	20	30118800	Antibacterial	Gram+ve	Experimentally validated

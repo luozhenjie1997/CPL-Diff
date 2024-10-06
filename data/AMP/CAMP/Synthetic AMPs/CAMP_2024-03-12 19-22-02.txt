@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ655	913452			Antimicrobial peptide , immobilized peptide E17HSA magainin 2 deletion	Synthetic construct		SNMIEGVFAKGFKKASH	17	7726486	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ726	913448			Antimicrobial peptide , immobilized peptide E17KGG	Synthetic construct		LKLLKKLLKLLKKLGGK	17	7726486	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3082			2RLG	  RP-1 	Synthetic construct		ALYKKFKKKLLKSLKRL	17	12435692	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8202				Model amphipathic peptide (MAP)	Synthetic construct		KLALKALKALKAALKLA	17	23689723	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8215				RN7-IN10	Synthetic construct		FLGGLIKWKWPWWPWRR	17	26046345	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8257				Bac2A-NH2	Synthetic construct		RLARIVVIRVAR-NH2	17	10898680	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8267				GF-17 	Synthetic construct		GFKRIVQRIKDFLRNLV	17	31319057	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8438				6K-F17	Synthetic construct		KKKKKKAAFAAWAAFAA	17	31194548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8439				5Kamp	Synthetic construct		KKKKKAAFAKAWAAFAA	17	31194548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8440				4Kamp	Synthetic construct		KKKKAAFAKAWAKAFAA	17	31194548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8441				3Kamp	Synthetic construct		KKKAAFAKAWAKAFKAA	17	31194548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8442				2Kamp	Synthetic construct		KKAKAFAKAWAKAFKAA	17	31194548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8443				1Kamp	Synthetic construct		KAAKKFAKAWAKAFKAA	17	31194548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8444				6K-F17-4L	Synthetic construct		KKKKKKALFALWLAFLA	17	31194548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8445				5Kamp-4L	Synthetic construct		KKKKKALFLKLWAAFLA	17	31194548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8446				4Kamp-4L	Synthetic construct		KKKKAAFLKLWLKLFAA	17	31194548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8447				3Kamp-4L	Synthetic construct		KKKAAFLKLWAKLFKAL	17	31194548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8448				2Kamp-4L	Synthetic construct		KKLKAFLKAWAKLFKAL	17	31194548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ24701		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2W;G5,12L;E9W;Q13W;H14N;T15W]	Synthetic construct		LWKILKKIWRVLWNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24702		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2W;G5,12L;E9W;Q13K;H14N;T15W]	Synthetic construct		LWKILKKIWRVLKNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24703		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2W;G5,12W;K6W;E9W;Q13W;H14N;T15W]	Synthetic construct		LWKIWWKIWRVWWNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24704		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2W;G5,12W;K6W;E9W;Q13K;H14N;T15W]	Synthetic construct		LWKIWWKIWRVWKNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24705		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2W;G5,12L;K6W;E9W;Q13W;H14N;T15W]	Synthetic construct		LWKILWKIWRVLWNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24706		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2W;G5,12L;K6W;E9W;Q13K;H14N;T15W]	Synthetic construct		LWKILWKIWRVLKNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24768		P07498		Kappa-casein (81-96)	Synthetic construct		YANPAVVRPHAQIPQR	16	33673498	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3942		P85982		Hylin-a1 	Hypsiboas albopunctatus 	Animalia (Amphibia)	IFGAILPLALGALKNLIK	18	19056441, 33742508, 20560142	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3961		Q10722		30 kDa antifungal protein 	Engelmannia peristenia	Plantae	XXTKFDFFTLALQXPAXF	18	8670144	Antifungal		Experimentally validated
+CAMPSQ4010		P81838		Citropin-1.1.3	Litoria citropa 	Animalia (Amphibia)	GLFDVIKKVASVIGLASP	18	10504394	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ4134	403399460	E4VP50		Venom antimicrobial peptide-9	Mesobuthus eupeus 	Animalia (Arachnida)	FFGHLFKLATKIIPSLFQ	18	19088182, 29896190	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4596		P0CF03		Dinoponeratoxin Da-1837	Dinoponera australis	Animalia (Insects)	FLGGLIGPLMSLIPGLLK	18	19879289	Antibacterial		Predicted
+CAMPSQ7558		C0HJF8		Longipin	Acutisoma longipes 	Animalia (Arachnida)	SGYLPGKEYVYKYKGKVF	18		Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ8182	803374877	A0A0A1I6E7		Antimicrobial peptide AcrAP1	Androctonus crassicauda	Animalia (Arachnida)	FLFSLIPHAISGLISAFK	18	25332684	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8183	803374878	A0A0A1I6N9		Antimicrobial peptide AcrAP2	Androctonus crassicauda	Animalia (Arachnida)	FLFSLIPNAISGLLSAFK	18	25332684	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8750				Phes	Hypsiboas punctatus	Animalia (Amphibia)	FFFDTLKNLAGKVIGALT	18	23029273	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8844				Api88	Apis mellifera	Animalia (Arthropoda)	ONNRPVYIPRPRPPHPRL	18	26448548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8845				Api137	Apis mellifera	Animalia (Arthropoda)	ONNRPVYIPRPRPPHPRL	18	26448548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8853				MytC[1-18]	Mytilus galloprovincialis	Animalia (Mollusc )	QSVACTSYYCSKFCGSAG	18	26444944	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8970				At03	Arabidopsis thaliana	Plantae (Angiosperms)	GAKLAKKQVRALGKFFSF	18	29038271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8974				Cs02	Citrus sinensis	Plantae (Angiosperms)	FFGHIWHGARTLFRDVFA	18	29038271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8975				Cs03	Citrus sinensis	Plantae (Angiosperms)	FFYNVIKIYGNMAGRISK	18	29038271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9292				Wuchuanin D1	Odorrana andersonii 	Animalia (Amphibia)	DADVEPELYHWGKVWLPN	18	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9295				Dybowskin-2CDYa (Frogs, amphibians, animals)	Rana dybowskii	Animalia (Amphibia)	SAVGRHGRRFGLRKHRKH	18	19539775	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9302				Uy234	Urodacus yaschenkoi	Animalia (Arthropoda)	FPFLLSLIPSAISAIKRL	18	28067810	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9406				MrDN 	Macrobrachium rosenbergii	Animalia	DKGRRRSKFVLHRRQCAN	18	27648859	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9505				XT-7 (CPF-ST3)	Silurana tropicalis	Animalia	GLLGPLLKIAAKVGSNLL	18	31102497	Antibacterial		Experimentally validated
+CAMPSQ9571				C(4-21)	Gallus gallus	Animalia	RFLRKIRRFRPKVTITIQ	18	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9841				AmyI-1-18	Oryza sativa	Plantae	HLNKRVQRELIGWLDWLK	18	26643956	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9895				Api88	Apis mellifera	Animalia	ONNRPVYIPRPRPPHPRL	18	29309652	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9896				Api137	Apis mellifera	Animalia	ONNRPVYIPRPRPPHPRL	18	29309652	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10125				P-103	Homo sapiens	Animalia	KRHHGYKRKFHEKHHSHR	18	11302797	Antifungal		Experimentally validated

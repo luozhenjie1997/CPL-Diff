@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23698		C0HKN6		Magainin-R1 [G3,18K; F5W; A9P; A15K; E19K]	Synthetic construct		GIKKWLHSPKKFGKKFVKKIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23699		C0HKN6		Magainin-R1 [G3,18K; F5W; F12P; A15K; E19K]	Synthetic construct		GIKKWLHSAKKPGKKFVKKIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23700		C0HKN6		Magainin-R1 [G3,18K; F5W; G13P; A15K; E19K]	Synthetic construct		GIKKWLHSAKKFPKKFVKKIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23701		C0HKN6		Magainin-R1 [G3,18K; F5W; A9P; A15K; E19K]	Synthetic construct		GIKKWLHSPKKPGKKFVKKIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23702		C0HKN6		Magainin-R1 [G3,18K; F5W; A9P; G13P; A15K; E19K]	Synthetic construct		GIKKWLHSPKKFPKKFVKKIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23703		C0HKN6		Magainin-R1 [G3,18K; F5W; F12P; G13P; A15K; E19K]	Synthetic construct		GIKKWLHSAKKPPKKFVKKIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23704		C0HKN6		Magainin-R1 [G3,18K; F5W; L6P; A9P; A15K; E19K]	Synthetic construct		GIKKWPHSPKKFGKKFVKKIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23705		C0HKN6		Magainin-R1 [G3,18K; F5W; A9P; A15K; V17P; E19K]	Synthetic construct		GIKKWLHSPKKFGKKFPKKIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23706		C0HKN6		Magainin-R1 [G3,18K; F5W; S8K; A9P; G13P; A15K; E19K]	Synthetic construct		GIKKWLHKPKKFPKKFVKKIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23707		C0HKN6		Magainin-R1 [G3,18K; F5W; L6P; S8K; A9P; A15K; E19K]	Synthetic construct		GIKKWPHKPKKFGKKFVKKIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23708		C0HKN6		Magainin-R1 [G3,18K; F5W; L6P; S8K; A9P; A15K; E19K; M21K]	Synthetic construct		GIKKWPHKPKKFGKKFVKKIKNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23709		C0HKN6		Magainin-R1 [G3,18K; F5W; L6P; S8K; A9P; A15K; E19K; M21K; N22K]	Synthetic construct		GIKKWPHKPKKFGKKFVKKIKKS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23838		P59594		SARS-CoV (11531175)	Synthetic construct		GINASVVNIQKEIDRLNEVAKNL	23	18983873	Antiviral		Experimentally Validated
+CAMPSQ23896				SARS-CoV-2-S (1183-1205), IPB06	Synthetic construct		IDRLNEVAKNLNESLIDLQELGK	23	32376627	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23918		Q9BYF1		ACE2 (4-26)	Synthetic construct		EEQAKTFLDKFNHEAEDLFYQSS	23	16510163	Antiviral		Experimentally Validated
+CAMPSQ23958		O41892		GBV-A2	Synthetic construct		LLDCWVRLGRYLLRRLKTPFTRL	23	23175359	Antiviral		Experimentally Validated
+CAMPSQ24004		Q5DP94		SC23EK	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSE	23	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24021		Q5DP94		MTSC21EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKK	23	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24088		P03377		LP-57	Synthetic construct		WEQKIEELLKKAEEQQKKNEEEX	23	30089693	Antiviral		Experimentally Validated
+CAMPSQ24097		P03377		LP-66	Synthetic construct		EELLKKAEEQQKKNEEELKKLEX	23	30089693	Antiviral		Experimentally Validated
+CAMPSQ24220		P60603		ROS modulator 1 (57-79)	Synthetic construct		GKTMMQSGGTFGTFMAIGMGIRC	23	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24225		P60603		ROS modulator 1 (56-78)	Synthetic construct		IGKTMMQSGGTFGTFMAIGMGIR	23	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24241				2P23	Synthetic construct		EMTWEEWEKKVEELEKKIEELLK	23	29929981	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24242				LP-19	Synthetic construct		EMTWEEWEKKVEELEKKIEELLX	23	29929981	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24396		P0C023,Q68Y23		M-myrmeciitoxin-Mp2b [C10,17S]	Synthetic construct		LIGLVSKGTSVLVKTVSKKVLKQ	23	28513074, 32629771	Antibacterial	Gram+,Gram-	Experimentally Validated

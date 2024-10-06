@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8982				TP1[F4A]	Synthetic construct		KWCARVCYRGICYRRCR	18	28960954	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9011				P5	Synthetic construct		KWKKLLKKPLLKKLLKKL	18	31363941	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9067				AMP-018	Synthetic construct		GlyLWDVIRKVASVIGGL	18	31336137	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9161				E1P37	Synthetic construct		PVPNLTCAVACELKWESE	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9162				E1P37-1	Synthetic construct		VPNLTCAVACELKWESEF	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9163				E1P37-2	Synthetic construct		PNLTCAVACELKWESEFR	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9164				E1P38	Synthetic construct		NLTCAVACELKWESEFWR	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9165				E1P38-1	Synthetic construct		LTCAVACELKWESEFWRW	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9166				E1P38-2	Synthetic construct		TCAVACELKWESEFWRWT	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9167				E1P39	Synthetic construct		CAVACELKWESEFWRWTE	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9168				E1P39-1	Synthetic construct		AVACELKWESEFWRWTEQ	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9169				E1P39-2	Synthetic construct		VACELKWESEFWRWTEQL	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9170				E1P40	Synthetic construct		ACELKWESEFWRWTEQLA	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9171				E1P40-1	Synthetic construct		CELKWESEFWRWTEQLAS	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9172				E1P40-2	Synthetic construct		ELKWESEFWRWTEQLASN	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9173				E1P41	Synthetic construct		LKWESEFWRWTEQLASNY	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9174				E1P41-1	Synthetic construct		KWESEFWRWTEQLASNYW	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9175				E1P41-2	Synthetic construct		WESEFWRWTEQLASNYWI	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9176				E1P42	Synthetic construct		ESEFWRWTEQLASNYWIL	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9177				E1P42-1	Synthetic construct		SEFWRWTEQLASNYWILE	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9178				E1P42-2	Synthetic construct		EFWRWTEQLASNYWILEY	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9179				E1P43	Synthetic construct		FWRWTEQLASNYWILEYL	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9180				E1P43-1	Synthetic construct		WRWTEQLASNYWILEYLW	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9181				E1P43-2	Synthetic construct		RWTEQLASNYWILEYLWK	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9182				E1P44	Synthetic construct		WTEQLASNYWILEYLWKV	18	26905802	Antiviral		Experimentally validated

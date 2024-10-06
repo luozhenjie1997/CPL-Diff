@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19002		P32194		WR-Protegrin 1 (8-13)-RW	Synthetic construct		WRCRRRFCRW	10	24952979	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19000		P32194		FR-Protegrin 1 (8-13)-RF	Synthetic construct		FRCRRRFCRF	10	24952979	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18998		P32194		IR-Protegrin 1 (8-13)-RI	Synthetic construct		IRCRRRFCRI	10	24952979	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18990		P32194		Protegrin 1 (6-15), PC73	Synthetic construct		CYCRRRFCVC	10	9009324	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18723				KSL5	Synthetic construct		KKVVPKVKFK	10	9756752	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18722				KSL4	Synthetic construct		KKVLFKLKFK	10	9756752	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18721				KSL3	Synthetic construct		KKLLFKLKFK	10	9756752	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18720				KSL2	Synthetic construct		KKVVFKFKFK	10	9756752	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18719				KSL1	Synthetic construct		KKVVVKVKFK	10	9756752	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18626				GS10	Synthetic construct		VKLyPVKLyP	10	23209509, 19278255, 12712499	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18621				Undefined	Synthetic construct		LKLlLLKLlL	10	2440729	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18489				KLK-L4	Synthetic construct		KLKLLLLKLK	10	16434018, 24243600	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19465		B5B3R8		Caseicin A -E10	Synthetic construct		IKHQGLPQEE	10	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19466		B5B3R8		Caseicin A -D10	Synthetic construct		IKHQGLPQED	10	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19523		P82389		Aurein 2.2 (1-10)	Synthetic construct		GLFDIVKKVV	10	21144817	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19589		P81835		Citropin 1.1 (1-5)(12-16)	Synthetic construct		GLFDVVIGGL	10	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19604		P24627		LfcinB (2025)Cyc	Synthetic construct		CRRWQWRXC	10	28287494	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19768				GS10	Synthetic construct		yPVKLyPVKL	10	8810288	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19774				Gramicidin S D-TIC	Synthetic construct		VXLxPVXLxP	10	19132829	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19778				Phenycidine A	Synthetic construct		VXLfPFfNQF	10	24752256, 27328781	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19779				Tryptocidine C	Synthetic construct		VXLfPWwNQW	10	24752256, 27328781	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19783				Gramicidin S [V1,5K], GS [V1,5K]	Synthetic construct		KXLfPKXLfP	10	22976321	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19784				Gramicidin S [Orn2,7K], GS [Orn2,7K]	Synthetic construct		VKLfPVKLfP	10	22976321	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19786				Gramicidin S [f4,9k], GS [f4,9k]	Synthetic construct		VXLkPVXLkP	10	22976321	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19787				Gramicidin S [P5,10K], GS [5,10PK]	Synthetic construct		VXLfKVXLfK	10	22976321	Antibacterial	Gram+,Gram-	Experimentally Validated

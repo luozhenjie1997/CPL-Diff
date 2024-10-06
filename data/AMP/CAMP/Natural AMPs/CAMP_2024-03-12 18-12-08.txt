@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1843	62286499	Q5G863		Neutrophil defensin1	Pan troglodytes	Animalia (Mammals)	ACYCRIPACLAGERRYGTCIYQGRLWAFCC	30		Antibacterial, Antifungal, Antiviral	Gram+ve, Gram-ve	Predicted
+CAMPSQ1861	221271917	P86152		Brevinin-2Ej	Rana ridibunda	Animalia (Amphibia)	GIFLDKLKNFAKGVAQSLLNKASCKLSGQC	30		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1883	209572996	P86013		Lantibiotic paenibacillin	Paenibacillus polymyxa	Monera	ASIIKTTIKVSKAVCKTLTCICTGSCSNCK	30		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2303	338817703	B6D434		Cathelicidin-BF antimicrobial peptide	Bungarus fasciatus	Animalia (Reptiles)	KFFRKLKKSVKKRAKEFFKKPRVIGVSIPF	30	18795096	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2478	290543571	Q64365		Neutrophil cationic peptide 1 type B preproprotein  	Cavia porcellus	Animalia (Mammals)	RCICTTRTCRFPYRRLGTCIFQNRVYTFCC	30	8243060	Antibacterial, Antiviral, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2590	391359323	B3EWI9		L-amino-acid oxidase	Bothropoides matogrossensis  	Animalia (Reptiles)	KFEPPLPPKKAHKKFWEDDGIYYPPNHNFP	30	22438972	Antibacterial, Antiparasitic		Experimentally validated
+CAMPSQ2592	74837090	Q5H7N5		Cecropin-P3	Ascaris suum	Animalia	WLSKTAKKLENSAKKRISEGIAIAIKGGSR	30	15850460	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2593	74837091	Q5H7N6		Cecropin-P2	Ascaris suum	Animalia	WLSKTYKKLENSAKKRISEGIAIAIQGGPR	30	15850460	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2594	74837089	Q5H7N4		Cecropin-P4	Ascaris suum	Animalia	WLSKTYKKLENSAKKRISEGVAIAILGGLR	30	15850460	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2599	380876852	B3EWF0		Antifungal protein 1	Passiflora alata  	Plantae	GAGSQEERMQGQMEGQDFSHEERFLSMVRE	30	20955745	Antifungal		Experimentally validated
+CAMPSQ2604	306755860	P86696		Antifungal protein 1	Musca domestica	Animalia (Insects)	SAPAPEVSGDAVFSAIQNGXLKNLGNAFFW	30	19728925	Antifungal		Experimentally validated
+CAMPSQ2814				  human KS-30 	Homo sapiens	Animalia (Mammals)	KSKEKIGKEFKRIVQRIKDFLRNLVPRTES	30	14978112	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2847				  HFIAP-3 	Myxine glutinosa	Animalia (Pisces)	GWFKKAWRKVKNAGRRVLKGVGIHYGVGLI	30	15019197	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3001	158562877	P85231		  Vhl-2 	Viola hederacea	Plantae	GLPVCGETCFTGTCYTNGCTCDPWPVCTRN	30	15824119	Antiviral		Experimentally validated
+CAMPSQ3002				  Circulin C 	Chassalia parvifolia	Plantae	GIPCGESCVFIPCITSVAGCSCKSKVCYRN	30	10691702	Antiviral		Experimentally validated
+CAMPSQ3098				  Plantaricin EF	Lactobacillus plantarum C1	Monera	FNRGGYNFGKSVRHVVDAIGSVAGILKSIR	30	9603847	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3337				  Mfa-hst5 	Macaca fascicularis	Animalia (Mammals)	DSHEERRQGRHGHHEYGRKFHEKHHSHRGY	30	20423320	Antifungal		Experimentally validated
+CAMPSQ3340		C2TQ80	2L9X	  Thuricin CD 	Bacillus thuringiensis DPC 6431	Monera	GNAACVIGCIGSCVISEGIGSLVGTAFTLG	30	20435915	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3343				  Centrocin 1 	Strongylocentrotus droebachiensis	Animalia (Echinoidea)	GWFKKTFHKVSHAVKSGIHAGQRGCSALGF	30	20438753	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3344				  Centrocin 2 	Strongylocentrotus droebachiensis	Animalia (Echinoidea)	SWFSRTVHNVGNAVRKGIHAGQGVCSGLGL	30	20438753	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3372				  Staphylococcin C55 	Staphylococcus aureus C55	Monera	CSTNTFSLSDYWGNKGNWCTATHECMSWCK	30	9835565	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3374				  Epilancin 15X 	Staphylococcus epidermidis 15X154	Monera	AUIVKTTIKASKKLCRGFTLTCGCHFTGKK	30	22524291	Antibacterial		Experimentally validated
+CAMPSQ3397				  Brevinin-2-RN1 	Rana nigrovittata	Animalia (Amphibia)	GAFGNFLKGVAKKAGLKILSIAQCKLSGTC	30	21171145	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3398				  Brevinin-2-RN2 	Rana nigrovittata	Animalia (Amphibia)	GAFGNFLKGVAKKAGLKILSIAQCKLFGTC	30	21171145	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3496				  Cliotide T1 	Clitoria ternatea	Plantae	GIPCGESCVFIPCITGAIGCSCKSKVCYRN	30	21596752	Antibacterial	Gram -ve	Experimentally validated

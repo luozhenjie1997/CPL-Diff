@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ12745				2268.58 Legumin	Cicer arietinum L.	Plantae (Angiosperms)	KLQGRNEDEEKGAIVKVKGGL	21	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13583				MccY	Salmonella enterica	Monera	GGRGHIAEYFSGPITQVSFYG	21	34314160	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13584				MccJ25	E. coli AY25	Monera	GGAGHVPEYFVGIGTPISFYG	21	34314160	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13589				NCR335C13-33	Medicago truncatula 	Plantae	KDCPKLRRANVRCRKSYCVPI	21	33915930	Antifungal		Experimentally validated
+CAMPSQ14054				Peptide 2	Bombina maxima	Animalia (Amphibia)	LVGKLLKGAVGDVCGLLPIC	21	33689880	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14119				MccJ25	Homo sapiens 	Animalia (Mammals)	GGAGHVPEYFVGIGTPISFYG	21	34112244	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14125				Mac1-NH2	Litoria genimaculata 	Animalia (Amphibia)	GLFGVLAKVAAHVVPAIAEHF	21	33891157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14126				Mac1-OH	Litoria genimaculata 	Animalia (Amphibia)	GLFGVLAKVAAHVVPAIAEHF	21	33891157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14147				Ctx(Ile21)-Ha	Hypsiboas albopunctatus	Animalia (Amphibia)	GWLDVAKKIGKAAFNVAKNFI	21	23585852, 34064051	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14152				MaSAMP-helix1	Microcitrus australasica	Plantae	THIFESTFESTEGVAEYVSHP	21	33985900	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14243				GV21	Hylarana guentheri	Animalia (Amphibia)	GVIFNALKGVAKTVAAQLLKK	21	34584638	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14548				T-DPH1	Phyllomedusa hypochondrialis	Animalia (Amphibia)	GLWSKIKNVAAAAGKAALGAL	21	34943741	Antibacterial, antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14664				Lycosin-II	Lycosa singoriensis	Animalia (Arachnida)	VWLSALKFIGKHLAKHQLSKL	21	34506798	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14680				Checacin1 (1-21)	Chelifer cancroides	Animalia (Arachnida)	FFGAIAKLAMKFLPAIYKQIQ	21	35051034	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14940				BCts	Bos taurus 	Animalia (Mammals)	RSMRLSFRARGYGFRGPGLQL	21	35216181	Antifungal		Experimentally validated
+CAMPSQ14953				HCts	Homo sapiens 	Animalia (Mammals)	SSMKLSFRARAYGFRGPGPQL	21	35216181	Antifungal		Experimentally validated
+CAMPSQ14978				Peptide 7	Saccharomyces cerevisiae	Fungi	KIGGIGTVPVGRVETGVIKPG	21	35215278	Antibacterial		Predicted
+CAMPSQ14979				Peptide 8	Saccharomyces cerevisiae	Fungi	VDIGKNEGATLITGGERLGSK	21	35215278	Antibacterial		Predicted
+CAMPSQ14989				Peptide 18	Saccharomyces cerevisiae	Fungi	GGAPGGAAGGAPGGFPGGAPP	21	35215278	Antibacterial		Predicted
+CAMPSQ14991				Peptide 20	Saccharomyces cerevisiae	Fungi	DWRGGRTASGNIIPSSTGAAK	21	35215278	Antibacterial		Predicted
+CAMPSQ15015				Peptide 44	Saccharomyces cerevisiae	Fungi	GAPAPPPPPPPPALGGSAPKP	21	35215278	Antibacterial		Predicted
+CAMPSQ15016				Peptide 45	Saccharomyces cerevisiae	Fungi	GGFGGPGGPGGQGFGRQGPQG	21	35215278	Antibacterial		Predicted
+CAMPSQ15199				Mini-ChBac7.5N beta	Capra hircus 	Animalia (Mammals)	RRLRPRRPRLPRPRPRPRPRP	21	27795854	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16236				N6-NH2-miniPEG	Arenicola marina	Animalia	GFAWNVCVYRNGVRVCHRRAN	21	35549900	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16237				N6-NH2-PEG6	Arenicola marina	Animalia	GFAWNVCVYRNGVRVCHRRAN	21	35549900	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

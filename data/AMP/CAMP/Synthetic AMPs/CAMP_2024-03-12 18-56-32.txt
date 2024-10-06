@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ15072				L8S3	Synthetic construct		KRIRQRIKKWSR	12	35203875	Antibacterial	Gram --ve	Experimentally validated
+CAMPSQ15082				KR-12-a4	Synthetic construct		KRIVKLIKKWLR	12	35288606	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15093				BCp12	Synthetic construct		YLGYLEQLLRLK	12	35267305	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15113				UGR1	Synthetic construct		LDAPPSYSELFP	12	35257734	Antiviral		Experimentally validated
+CAMPSQ15114				UGR2	Synthetic construct		LDSLPSYSELFP	12	35257734	Antiviral		Experimentally validated
+CAMPSQ15116				UGR1-E2S	Synthetic construct		LDAPPSYSSLFP	12	35257734	Antiviral		Experimentally validated
+CAMPSQ15117				UGR1-LYG	Synthetic construct		LDAPPSYSELYG	12	35257734	Antiviral		Experimentally validated
+CAMPSQ15123				HTLV1	Synthetic construct		SDPQIPPPYVEP	12	35257734	Antiviral		Experimentally validated
+CAMPSQ16269				K7-Pol	Synthetic construct		ILGTILKLLSKL	12	35486889	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16457				OsDef2 (11-22)	Synthetic construct		CKGAFKQTCKCY	12	31713951	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16458				OsDef2 (11-22)	Synthetic construct		CKGAFKQTCKCY	12	31713951,34866278	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ16460				Bactenecin-1 [L2R, C3F, V10W, C11L]	Synthetic construct		RRFRIVVIRWLR	12	31749789	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16461				Bactenecin-1 [L2R, C3W, V10W, C11R]	Synthetic construct		RRWRIVVIRWRR	12	31749789	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16462				Bactenecin-1 [L2K, C3W, C11R]	Synthetic construct		RKWRIVVIRVRR	12	31749789	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16463				Bactenecin-1 [L2W; C3,11R]	Synthetic construct		RWRRIVVIRVRR	12	31749789	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16464				Bactenecin-1 [L2W, C3K, V10K, C11R]	Synthetic construct		RWKRIVVIRKRR	12	31749789	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16465				Bactenecin-1 [L2K, C3R, V10R, C11K]	Synthetic construct		RKRRIVVIRRKR	12	31749789	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16468				FW-WF	Synthetic construct		FWRRWQWRRRWF	12	30262770	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16614		A1DBL3		NFAP2 (1-12)	Synthetic construct		IATSPYYACNCP	12	29563903	Antifungal		Experimentally validated
+CAMPSQ16833				IB-235	Synthetic construct		LCYCRRRFCVCV	12	10931444	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16834				IB-315	Synthetic construct		aCYCRRRFCVCV	12	10931444	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16883				12p1	Synthetic construct		RINNIPWSEAMM	12	14967033	Antiviral	Gram+,Gram-	Experimentally validated
+CAMPSQ17184		P80280		C12- Dermaseptin S4 (4-15)AMD[M4K]	Synthetic construct		KTLLKKVLKAAA	12	17043126	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17730		P35318		Pro-adrenomedullin PAMP (9-20)	Synthetic construct		FRKKWNKWALSR	12	32439180	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17728				RY12WY	Synthetic construct		RRWYRRWYRRWY	12	33316868	Antibacterial	Gram+,Gram-	Experimentally validated

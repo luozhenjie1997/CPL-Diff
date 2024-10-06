@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14928				ECPep-L	Synthetic construct		RPFTRAQWFAIQHISPRTIAMRAINNYRWR	30	35203595	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14929				ECPep-D	Synthetic construct		rpftraqwfaiqhisprtiamrainnyrwr	30	35203595	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14930				ECPep-2D-Orn	Synthetic construct		OpFTOAQWFAIQHISPOTIAMOAINNYOWO	30	35203595	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16445				Syn+GNU7	Synthetic construct		RLLRPLLQLLKQKLRGLRRLLRKIRGRWK	30	27242337	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16600		U5KJM4		E10-Ctn[15–34]	Synthetic construct		EEEEEEEEEEKKRLKKIFKKPMVIGVTIPF	30	30042491	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ19254		P24302		Dermaseptin (1-7)-Pleurocidin (8-22)-Dermaseptin (23-26)-RRRK	Synthetic construct		ALWKTMLKKAAHVGKHVGKAALGAAARRRK	30	10788362	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19095		P59665		HNP-1 [G17A]	Synthetic construct		ACYCRIPACIAGERRYATCIYQGRLWAFCC	30	22496447	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18585		P49913		AG-KR12-GAG-KR12-G	Synthetic construct		AGKRIVQRIKDFLRGAGKRIVQRIKDFLRG	30	32153522	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18582				AG-KR12-GAG-retroKR12-G	Synthetic construct		AGKRIVQRIKDFLRGAGRLFDKIRQVIRKG	30	32153522	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20190		P81694		CT1-long (C-ternimus of CsTx-1), Omega-ctenitoxin-Cs1a (45-74)	Synthetic construct		GRPMGHQAIETGLNIFRGLFKGKKKNKKTK	30	22613721	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ20288		P01966,P01967		Bovine hemoglobin alpha chain (107-136)	Synthetic construct		VTLASHLPSDFTPAVHASLDKFLANVSTVL	30	18342399, 16730859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20296		P02070		Bovine hemoglobin beta chain (1-30)	Synthetic construct		MLTAEEKAAVTAFWGKVKVDEVGGEALGRL	30	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20687		D3UA61		Esculentin-2CHa (1-30)	Synthetic construct		GFSSIFRGVAKFASKGLGKDLAKLGVDLVA	30	23159562	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20708		P85170		RFR-ChBac3.4-1-NH2	Synthetic construct		RFRRFRLPFRRIHPPPFVRIHPPPFYRRFL	30	33194795	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21543		P04578		WQ-SDLD	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSQNQQSDLD	30	27795416	Antiviral		Experimentally Validated
+CAMPSQ21550		K9N5Q8		MERS-S (1257-1286)	Synthetic construct		TTLLDLTYEMLSLQQVVKALNESYIDLKEL	30	27795416	Antiviral		Experimentally Validated
+CAMPSQ21592				AG-30	Synthetic construct		MLSLIFLHRLKSMRKRLDRKLRLWHRKNYP	30	18410525	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21712		Q5H7N6		Cecropin-P2 Propeptide, P2P	Synthetic construct		RRRFVVQQDTISPRLEVDERFLPNSVQEQI	30	21418660	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21713		Q5H7N6		Cecropin-P2 Propeptide [D9,18N][E16,19,28Q], NP2P	Synthetic construct		RRRFVVQQNTISPRLQVNQRFLPNSVQQQI	30	21418660	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21714		Q5H7N5		Cecropin-P3 Propeptide, 3	Synthetic construct		RRRSVGEEDAIPSHIEVNKFFLRKPAKEHI	30	21418660	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21715		Q5H7N5		Cecropin-P3 Propeptide [E7,8,16,28Q][D9N], NP3P	Synthetic construct		RRRSVGQQNAIPSHIQVNKFFLRKPAKQHI	30	21418660	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21716		Q5H7N4		Cecropin-P4 Propeptide, P4P	Synthetic construct		HRRSVAHQEEASLHVKTDELPSPDTVREQL	30	21418660	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21717		Q5H7N4		Cecropin-P4 Propeptide [E9,10,19,28Q][D18,24N], NP4P	Synthetic construct		HRRSVAHQQQASLHVKTNQLPSPNTVRQQL	30	21418660	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21751		P02070		Hemoglobin subunit beta (62-91)	Synthetic construct		HGKKVLDSFSNGMKHLDDLKGTFAALSELH	30	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21815		P12724		Eosinophil cationic protein (16-45) [C23,37S]	Synthetic construct		ISLNPPRSTIAMRAINNYRWRSKNQNTFLR	30	21696142	Antibacterial	Gram+,Gram-	Experimentally Validated

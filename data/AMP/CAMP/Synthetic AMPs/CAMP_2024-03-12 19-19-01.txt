@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19494		P01501		Cecropin A (1-7) + Melittine (2-9) [V14K]	Synthetic construct		KWKLFKKIGAVLKKL	15	18852279	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19495		P01507		Cecropin A (1-7) + Melittine (2-9) [L4K][A10K]	Synthetic construct		KWKKFKKIGKVLKVL	15	18852279	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19496		P01501		Cecropin A (1-7) + Melittine (2-9) [L4K][V14K]	Synthetic construct		KWKKFKKIGAVLKKL	15	18852279	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19497		P01507		Cecropin A (1-7) + Melittine (2-9) [A10K][V14K]	Synthetic construct		KWKLFKKIGKVLKKL	15	18852279	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19498		P01507		Cecropin A (1-7)+Melittine (2-9) [8DHPhe]	Synthetic construct		KWKLFKKXGAVLKVL	15	17394119	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19499		P01507		Cecropin A (1-7)+Melittine (2-9) [5,12DHPhe]	Synthetic construct		KWKLXKKIGAVXKVL	15	17394119	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19500		P01507		Cecropin A (1-7)+Melittine (2-9) [5,8,12DHPhe]	Synthetic construct		KWKLXKKXGAVXKVL	15	17394119	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19524				ADAMP1	Synthetic construct		SNNFGAKLSSTKVGK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19525				ADAMP2	Synthetic construct		SNKGAIKGLMVKGVK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19526				ADAMP3	Synthetic construct		VTNVGGKVVTGKTAK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19527				ADAMP4	Synthetic construct		GAAAAGKVVGGKGGK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19528				ADAMP5	Synthetic construct		ALLSPYKYSTTKVVK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19529				ADAMP6	Synthetic construct		GKSNFLKSYVSKHPK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19530				ADAMP7	Synthetic construct		SQSSVDKLNWYKQRK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19531				ADAMP8	Synthetic construct		GKAPKLKIFDTKNLK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19532				ADAMP9	Synthetic construct		RSGTDFKLTISKLQK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19533				ADAMP10	Synthetic construct		PDDFATKYSQQKYTK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19534				ADAMP11	Synthetic construct		SNGPVKKWGSIKGLK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19535				ADAMP12	Synthetic construct		DVSIEDKVISLKGDK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19536				ADAMP13	Synthetic construct		HSIIGRKLVVHKKAK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19537				ADAMP14	Synthetic construct		KHGATVKTALGKILK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19538				ADAMP15	Synthetic construct		VKYLEFKSESIKQVK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19539				ADAMP16	Synthetic construct		DMQSLFKQYFQKMTK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19540				ADAMP17	Synthetic construct		AGTSLVKFFSSKMNK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19541				ADAMP18	Synthetic construct		LPGSSKKFSVYKDQK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated

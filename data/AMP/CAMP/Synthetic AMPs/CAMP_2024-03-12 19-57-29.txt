@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11377				Dadapin-1	Synthetic construct		GLLRASSKWGRKYYVDLAGCAKA	23	30710514	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12044				K5, 17-DPS3	Synthetic construct		ALWKKILKNAGKAALNKINQIVQ	23	30087268	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12045				L10, 11-DPS3	Synthetic construct		ALWKDILKNLLKAALNEINQIVQ	23	30087268	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12276				Melittin derived  MDP1	Synthetic construct		GIGAVLKVLTTGLPALIKRKRQQ	23	29905903	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12280				Mastoparan-C tMP-C	Synthetic construct		RKKRRQRRRLNLKALLAVAKKIL	23	29904274	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12334				Pro-WMR	Synthetic construct		AcEEEEAAAGwglrrllkygkrs-NH2	23	29799150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13267				TB2U	Synthetic construct		GVIIDTLKGAAKTVAAELLRKAH	23	34438945	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14345				PMAP-PA	Synthetic construct		RIIDLLWRVRRAQKAKFVTVWVR	23	34575916	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14346				PMAP-PG	Synthetic construct		RIIDLLWRVRRGQKGKFVTVWVR	23	34575916	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14348				Fp2	Synthetic construct		ATAGWTFGAGAALQIPFAMQMAY	23	34591335	Antiviral		Predicted
+CAMPSQ14370				R23R	Synthetic construct		RKKRRQRRRGGGGLHITDMAWKR	23	34575940	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14371				R23L	Synthetic construct		RKKRRQRRRGGGGITDFGIFIGL	23	34575940	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14372				R23R*	Synthetic construct		RKKRRQRRRGGJGLHITDOAWKR	23	34575940	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14373				R23L*	Synthetic construct		RKKRRQRRRGGJGITDFGIFIGL	23	34575940	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14374				Peptide gamma	Synthetic construct		CLPKEEQIGKSSTRGRKSCRRKK	23	34818435	Antibacterial		Predicted
+CAMPSQ14672				Hybrid peptide R23F	Synthetic construct		RKKRRQRRRGGJGVVVHIOGGKF	23	35008951	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14673				Hybrid peptide R23DI	Synthetic construct		RKKRRQRRRGGJGLTQFGAFIDI	23	35008951	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14674				Hybrid peptide R23EI	Synthetic construct		RKKRRQRRRGGJGVQGLVHISEI	23	35008951	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ15257				PR-TR	Synthetic construct		RFRRLRWKTRWRLKKIWWPFLRR	23	25818457	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16519		P84853		Ribosome-inactivating protein PD-L1/PD-L2 (47-69), IKY23	Synthetic construct		IKYLLVKLQGASQKTITLMLRRN	23	29684330	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16567		O97395		Clavaspirin [I5,12A],  CSP-1  	Synthetic construct		FLRFAGSVIHGAGHLVHHIGVAL	23	29643997	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16568		O97395		Clavaspirin [I5,12K], CSP-2	Synthetic construct		FKRFKGSVKHGKGHLVHHIGVAL	23	29643997	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16569		O97395		Clavaspirin [L2K, I9K], CSP-3	Synthetic construct		FKRFIGSVKHGIGHLVHHIGVAL	23	29643997	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16570		O97395		Clavaspirin [I9K, I12K], CSP-4	Synthetic construct		FLRFIGSVKHGKGHLVHHIGVAL	23	29643997	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16608		A1DBL3		NFAP2 (1-23)	Synthetic construct		IATSPYYACNCPNNCKHKKGSGC	23	29563903	Antifungal		Experimentally validated

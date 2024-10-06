@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23876				Undefined	Synthetic construct		KKKKFVAATYVLV	13	14694985	Antiviral		Experimentally Validated
+CAMPSQ23878				Undefined	Synthetic construct		KKKKVVLATYVLV	13	14694985	Antiviral		Experimentally Validated
+CAMPSQ23879				Undefined	Synthetic construct		KKKKLLAAFLFFF	13	14694985	Antiviral		Experimentally Validated
+CAMPSQ23880				Undefined	Synthetic construct		KKKKLVLPFLFVF	13	14694985	Antiviral		Experimentally Validated
+CAMPSQ23923		P26663		D-HCV gp (713-725)	Synthetic construct		AIKWEYVLLLFLL	13	20156485	Antiviral		Experimentally Validated
+CAMPSQ23924				D-Retro-HCV gp (713-725)	Synthetic construct		LLFLLLVYEWKIA	13	20156485	Antiviral		Experimentally Validated
+CAMPSQ23930		P26663		HCV gp (710-722)	Synthetic construct		VSFAIKWEYVLLL	13	20156485	Antiviral		Experimentally Validated
+CAMPSQ23933				HCV gp (713-724) scrambled	Synthetic construct		LKLFEVYLILWLA	13	20156485	Antiviral		Experimentally Validated
+CAMPSQ24035		P14340		DENV-2 gp (376-388)	Synthetic construct		MVDRGWGNGCGLF	13	29709564	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24037		P14340		DENV-2 gp (662-674)	Synthetic construct		VEPGQLKLNWFKK	13	29709564	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24057		P83412		Alloferon [H1F]	Synthetic construct		FGVSGHGQHGVHG	13	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24058		P83412		Alloferon [H1Y]	Synthetic construct		YGVSGHGQHGVHG	13	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24059		P83412		Alloferon [H1W]	Synthetic construct		WGVSGHGQHGVHG	13	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24060		P83412		Alloferon [H1PHE(4-OMe)]	Synthetic construct		XGVSGHGQHGVHG	13	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24127				Cathelicidin-DM (5-17)	Synthetic construct		KPCKGWLCKLKLR	13	32363280	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24260		Q8IAS6		Rifin (320-332)[K323A], Peptide 35409-5	Synthetic construct		MKKALQYIKLLKE	13	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24300		Q6GXJ1		AvBD-4 (26-38)	Synthetic construct		GLCRPKYSCCRWL	13	22587782	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24301		Q6GXJ1		AvBD-4 (26-38)[C3,9,10I]	Synthetic construct		GLIRPKYSIIRWL	13	22587782	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24302		Q6GXJ1		AvBD-4 (26-38)[C3,9,10I;P5R]	Synthetic construct		GLIRRKYSIIRWL	13	22587782	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24303		Q6GXJ1		AvBD-4 (26-38)[C3,9,10I;P5R;Y7R]	Synthetic construct		GLIRRKRSIIRWL	13	22587782	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24304		Q6GXJ1		AvBD-4 (26-38)[C3,9,10I;P5R;Y7R;S8R]	Synthetic construct		GLIRRKRRIIRWL	13	22587782	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24305		Q6GXJ1		AvBD-4 (26-38)[G1R;C3,9,10I;P5R;Y7R;S8R]	Synthetic construct		RLIRRKRRIIRWL	13	22587782	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24331		A0A411G5W6		Ovalbumin (277-289)[V5R, P8R, K11I, M12I, E13W]	Synthetic construct		RKIKRYLRRMIIW	13	32715598	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24348				Undefined	Synthetic construct		RKLDLKLDLKLDL	13	25934283	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24357		A7WNV3		Brevinin-1PLb (12-24)	Synthetic construct		FLPKIFCAITKKC	13	32781587	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ15104				U1	Synthetic construct		IPLRGAFINGRWD	13	35259078	Antiviral		Experimentally validated
+CAMPSQ15119				P53BP2	Synthetic construct		EYPPYPPPPYPSG	13	35257734	Antiviral		Experimentally validated
+CAMPSQ16264				GHaR6R	Synthetic construct		FLQRIRGALGRLF	13	35538042	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16265				GHaR7R	Synthetic construct		FLQRIIRALGRLF	13	35538042	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16266				GHaR8R	Synthetic construct		FLQRIIGRLGRLF	13	35538042	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16267				GHaR9W	Synthetic construct		FLQRIIGAWGRLF	13	35538042	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16479		P51524		TPk	Synthetic construct		VRRPkWWWkFLRR	13	17604338	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16481				Ink	Synthetic construct		ILkWKWkWWkWRR	13	17604338,32593681	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16487				Syn-BNP (1)	Synthetic construct		fxisfSSxFSViX	13	28055186	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16488				Syn-BNP (1.HMA)	Synthetic construct		fxisfSSxFSViX	13	28055186	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16489				Syn-BNP (1N)	Synthetic construct		fxiswSSxWSViX	13	28055186	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16490				Syn-BNP (1S)	Synthetic construct		fxisvSSxVSViX	13	28055186	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16546		Q08GI9		CSPC13, Competence stimulating peptide (30-42)	Synthetic construct		STFFRLFNRSFTQ	13	29434779	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16676				Dermaseptin DRS-DU-1 (1-13), DP-1	Synthetic construct		ALWKSLLKNVGKA	13	30258724	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16685		P0ABH3		Ac-FtsA13	Synthetic construct		GSWIKRLNSWLRK	13	30279152	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ17158				Indopt 1	Synthetic construct		FIKWKKRWWKKRT	13	31849888	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17159				Indopt 2	Synthetic construct		FIKWRFRRWKKRT	13	31849888	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17160				Indopt 3	Synthetic construct		FIKWRSRWWKKRT	13	31849888	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17161				Indopt 4	Synthetic construct		FIKWRFRRWKKRK	13	31849888	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17162				Indopt 5	Synthetic construct		FIKWKFRPWKKRT	13	31849888	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17163				Indopt 6	Synthetic construct		FIKRKSRWWKWRT	13	31849888	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17164				Indopt 7	Synthetic construct		ILKWKRKWWKWFR	13	31849888	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17165				Indopt 8	Synthetic construct		ILKWKKGWWKWFR	13	31849888	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17166				Indopt 9	Synthetic construct		ILKWKRKWWKWRR	13	31849888	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17167				Indopt 10	Synthetic construct		ILKWKIFKWKWFR	13	31849888	Antibacterial	Gram-	Experimentally validated

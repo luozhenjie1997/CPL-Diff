@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9345				TWF 	Synthetic construct		VRRFPFFFPFLRR	13	12207877	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9346				TWA	Synthetic construct		VRRFPAAAPFLRR	13	12207877	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9353				Temporin-PEa	Synthetic construct		FLYIVAKLLSGLL	13	29191658	Antibacterial, Antifungal, Anticancer	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9443				NN2_0024	Synthetic construct		ALKKMLRLAKRLS	13	29259134	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9480				LfcinB 19-31	Synthetic construct		CRRWQWRMKKLGA	13	28613262	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9483				LfcinB 17-29	Synthetic construct		FKCRRWQWRMKKL	13	28613262	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9566				C-9 (analog of P18)	Synthetic construct		KWKLFKKIPLKKF	13	12005420	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9567				C-10 (analog of P18)	Synthetic construct		KWKLFKKIPKFLH	13	12005420	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9617				Eval151	Synthetic construct		QDYNHDRDIVPPR	13	29290802	Antiviral		Experimentally validated
+CAMPSQ9619				Eval418	Synthetic construct		LWGEIWNTVKGLI	13	29290802	Antiviral		Experimentally validated
+CAMPSQ9620				Eval655	Synthetic construct		IWGALLSGVADLL	13	29290802	Antiviral		Experimentally validated
+CAMPSQ9621				Eval418-FH2	Synthetic construct		LWGHIWNFVHGLI	13	29290802	Antiviral		Experimentally validated
+CAMPSQ9622				Eval418-FH3	Synthetic construct		LWHHIWNFVHGLI	13	29290802	Antiviral		Experimentally validated
+CAMPSQ9623				Eval418-FH4	Synthetic construct		LWHHIWNFVHHLI	13	29290802	Antiviral		Experimentally validated
+CAMPSQ9624				Eval418-FH5	Synthetic construct		LWHHIWHFVHHLI	13	29290802	Antiviral		Experimentally validated
+CAMPSQ9679				BacP1 	Synthetic construct		RLCRIVPVIRVCR	13	10223951	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9680				BacW	Synthetic construct		RLCRIVWVIRVCR	13	10223951	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9720				Pen13	Synthetic construct		KIWFQNRRMKWKK	13	23085001	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9721				Pen13Arg	Synthetic construct		RIWFQNRRMRWRR	13	23085001	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9722				Pen13Lys	Synthetic construct		KIWFQNKKMKWKK	13	23085001	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9731				DASamP1	Synthetic construct		FFGKVLKLIRKIF	13	22445495	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9733				Uperin 7.1KRF	Synthetic construct		GWFDVVKHIAKRF	13	22445495	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9776				PMM-5 (PMM analog)	Synthetic construct		KIASIGKEVLKAL	13	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9777				PMM-9 (PMM analog)	Synthetic construct		INWKKIASIGKEV	13	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9805				Kn2-7 (BmKn2 peptide derivative)	Synthetic construct		FIKRIARLLRKIF	13	22792229	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

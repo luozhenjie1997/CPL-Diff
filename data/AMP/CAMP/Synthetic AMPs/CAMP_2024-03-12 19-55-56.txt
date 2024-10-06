@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19927				Magainin-derived MSI-94	Synthetic construct		GIGKFLKKAKKFGKAFVKMKK	21	17888907	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ19947		Q5SC60,		Arenicin-1 [R11A]	Synthetic construct		RWCVYAYVRVAGVLVRYRRCW	21	21241661, 20872168	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19948		Q5SC60		Arenicin-1 [W2G]	Synthetic construct		RGCVYAYVRVRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19949		Q5SC60		Arenicin-1 [W2S]	Synthetic construct		RSCVYAYVRVRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19950		Q5SC60		Arenicin-1 [W2R]	Synthetic construct		RRCVYAYVRVRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19951		Q5SC60		Arenicin-1 [V4G]	Synthetic construct		RWCGYAYVRVRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19952		Q5SC60		Arenicin-1 [V4S]	Synthetic construct		RWCSYAYVRVRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19953		Q5SC60		Arenicin-1 [V4R]	Synthetic construct		RWCRYAYVRVRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19954		Q5SC60		Arenicin-1 [A6G]	Synthetic construct		RWCVYGYVRVRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19955		Q5SC60		Arenicin-1 [A6S]	Synthetic construct		RWCVYSYVRVRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19956		Q5SC60		Arenicin-1 [A6R]	Synthetic construct		RWCVYRYVRVRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19957		Q5SC60		Arenicin-1 [V8G]	Synthetic construct		RWCVYAYGRVRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19958		Q5SC60		Arenicin-1 [V8S]	Synthetic construct		RWCVYAYSRVRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19959		Q5SC60,	5M9U	Arenicin-1 [V8R]	Synthetic construct		RWCVYAYRRVRGVLVRYRRCW	21	25557880, 27940358	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19960		Q5SC60		Arenicin-1 [V10G]	Synthetic construct		RWCVYAYVRGRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19961		Q5SC60		Arenicin-1 [V10S]	Synthetic construct		RWCVYAYVRSRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19962		Q5SC60		Arenicin-1 [V10R]	Synthetic construct		RWCVYAYVRRRGVLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19963		Q5SC60		Arenicin-1 [V13G]	Synthetic construct		RWCVYAYVRVRGGLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19964		Q5SC60		Arenicin-1 [V13S]	Synthetic construct		RWCVYAYVRVRGSLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19965		Q5SC60		Arenicin-1 [V13R]	Synthetic construct		RWCVYAYVRVRGRLVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19966		Q5SC60		Arenicin-1 [L14G]	Synthetic construct		RWCVYAYVRVRGVGVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19967		Q5SC60		Arenicin-1 [L14S]	Synthetic construct		RWCVYAYVRVRGVSVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19968		Q5SC60		Arenicin-1 [L14R]	Synthetic construct		RWCVYAYVRVRGVRVRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19969		Q5SC60		Arenicin-1 [V15G]	Synthetic construct		RWCVYAYVRVRGVLGRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19970		Q5SC60		Arenicin-1 [V15S]	Synthetic construct		RWCVYAYVRVRGVLSRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated

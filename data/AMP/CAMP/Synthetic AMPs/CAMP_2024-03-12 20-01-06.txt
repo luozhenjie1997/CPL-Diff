@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8281				2IH4	Synthetic construct		IHHIHHHIHHIHHHIHHIHHHIHHIHHH	28	31199117	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8285				3IH4	Synthetic construct		IHHIHHIIHHIHHIIHHIHHIIHHIHHI	28	31199117	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8453				K7I 	Synthetic construct		IKPIIKPIIKPIIKPIIKPIIKPIIKPI	28	30742437	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8458				K7L 	Synthetic construct		LKPLLKPLLKPLLKPLLKPLLKPLLKPL	28	30742437	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8461				K7V 	Synthetic construct		VKPVVKPVVKPVVKPVVKPVVKPVVKPV	28	30742437	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8465				R7I 	Synthetic construct		IRPIIRPIIRPIIRPIIRPIIRPIIRPI	28	30742437	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ23615		P05484		Omega-conotoxin MVIIA-GS [C1,16Abu]	Synthetic construct		XKGKGAKCSRLMYDCXTGSCRSGKCGS	27	28245769	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23616		P05484		Omega-conotoxin MVIIA-GS [C8,20Abu]	Synthetic construct		CKGKGAKXSRLMYDCCTGSXRSGKCGS	27	28245769	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23617		P05484		Omega-conotoxin MVIIA-GS [C15,25Abu]	Synthetic construct		CKGKGAKCSRLMYDXCTGSCRSGKXGS	27	28245769	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23618		P05484		Omega-conotoxin MVIIA-GS [C8,20Abu][C1,16Acm-C]	Synthetic construct		XKGKGAKXSRLMYDCXTGSXRSGKCGS	27	28245769	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23619		P05484		Omega-conotoxin MVIIA-GS [C1,16Acm-C][C15,25Abu]	Synthetic construct		XKGKGAKCSRLMYDXXTGSCRSGKXGS	27	28245769	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23620		P05484		Omega-conotoxin MVIIA-GS [C8,20Acm-C][C15,25Abu]	Synthetic construct		CKGKGAKXSRLMYDXCTGSXRSGKXGS	27	28245769	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23621		P05484		Omega-conotoxin MVIIA-GS [C1,8,15,16,20,25A]	Synthetic construct		AKGKGAKASRLMYDAATGSARSGKAGS	27	28245769	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23734				Anti-BMAP-27	Synthetic construct		GEFAQFEQEAQSLEQELSQLEQQLESL	27	23737519	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23892		P59594,P0DTC2		SARS-CoV-2-S (1179-1205), IPB05	Synthetic construct		IQKEIDRLNEVAKNLNESLIDLQELGK	27	32376627, 15184046	Antiviral		Experimentally Validated
+CAMPSQ24000		Q5DP94		SC27EK	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSEEQQK	27	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24018		Q5DP94		MTSC25EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKSEEQ	27	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24093		P03377		LP-62	Synthetic construct		EQKIEELLKKAEEQQKKNEEELKKLEX	27	30089693	Antiviral		Experimentally Validated
+CAMPSQ24129				Dermaseptin-AC4 [A10L,A12K,A17V,L18A,V25A], DRP-AC4a	Synthetic construct		SLWGKLKEMLAKAGKAVANAVNGLANQ	27	32397600	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24130				Dermaseptin-AC4 [A10L,A17V,L18A,V25A], DRP-AC4b	Synthetic construct		SLWGKLKEMLAAAGKAVANAVNGLANQ	27	32397600	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24146		Q9DHD5		Envelope glycoprotein H (617-643)	Synthetic construct		HGLASTLTRWAHYNALIRAFGGGKKKK	27	32238858	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24223		P60603		ROS modulator 1 (52-78)	Synthetic construct		LMGGIGKTMMQSGGTFGTFMAIGMGIR	27	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24342		H2XRV9		Ciona intestinalis Uncharacterized protein (23-49)	Synthetic construct		SRRRFDFSRRRIYVARRRSLAFAHRRR	27	32724213	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24375				Pept_352	Synthetic construct		KKGKSFKQLHIIVHLVKSWLRTILTHI	27	32992666	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24680		P20930		FLG (528-554)	Synthetic construct		QGSHHEQSVNRSGHSGSHHSHTTSQGR	27	30833614	Antibacterial	Gram+,Gram-	Experimentally Validated

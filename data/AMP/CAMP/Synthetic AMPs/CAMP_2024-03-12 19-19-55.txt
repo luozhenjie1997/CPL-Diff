@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ724	913450			Antimicrobial peptide , immobilized peptide E16LKL	Synthetic construct		KGLKKLLKLLKKLLKL	16	7726486	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ727	913447			Antimicrobial peptide , immobilized peptige E16KGL	Synthetic construct		LKLLKKLLKLLKKLGK	16	7726486	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8216				RN7-IN9	Synthetic construct		FLGGLIKKWPWWPWRR	16	26046345	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8450				K4I	Synthetic construct		IKPIIKPIIKPIIKPI	16	30742437	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8455				K4L 	Synthetic construct		LKPLLKPLLKPLLKPL	16	30742437	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8462				R4I 	Synthetic construct		IRPIIRPIIRPIIRPI	16	30742437	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8467				R4L 	Synthetic construct		LRPLLRPLLRPLLRPL	16	30742437	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8629				P17	Synthetic construct		EPCSPKNNYHDLFYRT	16	29307492	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8663				PMM-2 (PMM analog)	Synthetic construct		NWKKIASIGKEVLKAL	16	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8666				PMM-6 (PMM analog)	Synthetic construct		INWKKIASIGKEVLKA	16	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8708				MC-04	Synthetic construct		LLKKLLRAASKALSLL	16	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8709				MC-05	Synthetic construct		AAKKLSKLLKTLLKLL	16	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8716				MB-15	Synthetic construct		ESLAKALSKEALKALK	16	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8723				MB-34	Synthetic construct		EKAAAKSAAAKTLARR	16	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8803				AP16	Synthetic construct		NWFNITNWLWYIKKKK	16	26875765	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8804				AP16-A 	Synthetic construct		NWFAITNWLWYIKKKK	16	26875765	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8805				AP16-D	Synthetic construct		NWFDITNWLWYIKKKK	16	26875765	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8806				AP16-K	Synthetic construct		NWFKITNWLWYIKKKK	16	26875765	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8808				AP16-I 	Synthetic construct		NWFDITNWIWYIKKKK	16	26875765	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8809				AP16-2W	Synthetic construct		NWFDITNKLWYIKKKK	16	26875765	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8837				CAR-PEG-DK5 	Synthetic construct		AHXIKKILSkIKKLL	16	26473368	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8865				RP437	Synthetic construct		CKLRFRGPGRIKVRLC	16	29242901	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ24723				Undefined	Synthetic construct		RRWVQRWIRRWRPKV	15	34147544	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24724				Undefined	Synthetic construct		RRWVQRWIRRWRKWV	15	34147544	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24785		P05814		Beta-casein (211-225)	Synthetic construct		YPVTQPLAPVHNPIS	15	32104859	Antibacterial	Gram+,Gram-	Experimentally Validated

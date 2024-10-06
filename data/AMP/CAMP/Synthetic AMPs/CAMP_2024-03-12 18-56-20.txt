@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ12178				BP387	Synthetic construct		KKLFKKIKXKYL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12179				BP388	Synthetic construct		KKLFKKILKXYL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12180				BP389	Synthetic construct		KKLFKKILKKXL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12181				BP390	Synthetic construct		KKLFKKILKYKX	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12182				BP391	Synthetic construct		XKKLFKKILKYL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12183				BP392	Synthetic construct		KXKLFKKILKYL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12184				BP393	Synthetic construct		KKXLFKKILKYL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12185				BP394	Synthetic construct		KKKXFKKILKYL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12186				BP395	Synthetic construct		KKLKXKKILKYL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12187				BP396	Synthetic construct		KKLFKXKILKYL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12188				BP397	Synthetic construct		KKLFKKXILKYL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12189				BP398	Synthetic construct		KKLFKKKXLKYL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12190				BP399	Synthetic construct		KKLFKKIKXKYL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12191				BP400	Synthetic construct		KKLFKKILKXYL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12192				BP401	Synthetic construct		KKLFKKILKKXL	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12193				BP402	Synthetic construct		KKLFKKILKYKX	12	30052685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12367				Parental peptide	Synthetic construct		TPVVNPPFLQQT	12	30046138	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12378				R-Omiganan	Synthetic construct		KRRWPWWPWRLI	12	30043322	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12407				IDR-1002	Synthetic construct		VQRWLIVWRIRK	12	29107983	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12506				Nal-P-113	Synthetic construct		AKRXXGYKRKFX	12	28851350	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12714				Des-Phe1 TPF	Synthetic construct		LPLIAGLFGKIF	12	33925935	Antibacterial, Antibiofilm	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12715				W-des-Phe1 TPF	Synthetic construct		LPLIAGLWGKIW	12	33925935	Antibacterial, Antibiofilm	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12716				DW-des-Phe1 TPF	Synthetic construct		LPLIAGLWGKIW	12	33925935	Antibacterial, Antibiofilm	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12859				(WRI)4	Synthetic construct		WRIWRIWRIWRI	12	33829758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12867				(WRF)4	Synthetic construct		WRFWRFWRFWRF	12	33829758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

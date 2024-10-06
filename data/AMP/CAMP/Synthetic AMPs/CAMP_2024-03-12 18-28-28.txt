@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20298		P01966		Bovine hemoglobin alpha chain (138-141)	Synthetic construct		SKYR	4	21262306	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20307				Undefined	Synthetic construct		XRXR	4	26489599, 24302996	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20308				Undefined	Synthetic construct		WKWK	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20309				Undefined	Synthetic construct		WXWX	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20310				Undefined	Synthetic construct		ARAR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20311				Undefined	Synthetic construct		LRLR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20312				Undefined	Synthetic construct		IRIR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20313				Undefined	Synthetic construct		SRSR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20314				Undefined	Synthetic construct		TRTR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20315				Undefined	Synthetic construct		NRNR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20316				Undefined	Synthetic construct		QRQR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20317				Undefined	Synthetic construct		DRDR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20318				Undefined	Synthetic construct		ERER	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20319				Undefined	Synthetic construct		KRKR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20320				Undefined	Synthetic construct		FRFR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20321				Undefined	Synthetic construct		YRYR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20322				Undefined	Synthetic construct		HRHR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20325				Undefined	Synthetic construct		ARXR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20326				Undefined	Synthetic construct		XAXR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20327				Undefined	Synthetic construct		XRAR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20328				Undefined	Synthetic construct		XRXA	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20329				Undefined	Synthetic construct		RXRX	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20330				Undefined	Synthetic construct		XXRR	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20331				Undefined	Synthetic construct		RRXX	4	26489599, 29969522	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20332				Undefined	Synthetic construct		RXXR	4	26489599	Antibacterial	Gram+	Experimentally Validated

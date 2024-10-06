@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10033				A3-APO	Synthetic construct		RPDKPRPYLPRPRPPRPVR	19	29051620	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10177				Lys-a1	Synthetic construct		KIFGAIWPLALGALKNLIK	19	23340019	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10179				PGP	Synthetic construct		GRFRRLGRKFKKLFKKYGP	19	9428709	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10264				GGH-Cit1.1	Synthetic construct		GGHGLFDVIKKVASVIGGL	19	31448597	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10265				VIH-Cit1.1	Synthetic construct		VIHGLFDVIKKVASVIGGL	19	31448597	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10304				G19Q 	Synthetic construct		GSKKPVPIIYCNRRTGKCQ	19	8577744	Antibacterial, Antifungal 	Gram +ve	Experimentally validated
+CAMPSQ10341				B19R	Synthetic construct		FRKKLKKLFKKLSPVIPRL	19	31506312	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10459				PaDBS1R6	Synthetic construct		PMARNKKLLKKLRLKIAFK	19	30926365, 29928920	Antibacterial, Antibiofilm	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10474				CAY1	Synthetic construct		CFLPKLFAKITKKNMAHIR	19	30872680	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10475				AY1C	Synthetic construct		FLPKLFAKITKKNMAHIRC	19	30872680	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10492				P19(9/G7)	Synthetic construct		GLLKKIGKKAKKALKKLGY	19	28707817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10555				Pep19-4LF	Synthetic construct		GKKYRRFRWKFKGKLFLFG	19	31112769	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10683				[D4k]Ascaphin-8	Synthetic construct		GFKkLLKGAAKALVKTVLF	19	22374306	Antibacterial 	Gram +ve	Experimentally validated
+CAMPSQ10788				Nle-LFcinB	Synthetic construct		NleFKCRRWQWRNleKKLG	19	30959143	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10789				Nle-LFcinB	Synthetic construct		NleFKCRRWQWRNleKKLG	19	30959143	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11242				EcDBS1R5	Synthetic construct		PMKKLKLALRLAAKIAPVW	19	30346140	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11330				PSPHa1	Synthetic construct		FLSLIPKAISAVSALANHF	19	30774309	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11331				PSPHa2	Synthetic construct		FLSLIPKAISAISALANHF	19	30774309	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11332				PSPHa3	Synthetic construct		FLSLIPKAISAISALINHF	19	30774309	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11333				PSPHa4	Synthetic construct		FLSLIPKIISAISALINHF	19	30774309	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11334				PSPHa5	Synthetic construct		FLSLIPKIISAISALIKHF	19	30774309	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11361				FP	Synthetic construct		MGRFKRFRKKFKKLFKKLS	19	30716944	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11616				Peptide 9	Synthetic construct		KHRCRVYNNGLPTGLYRWC	19	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11659				PEP-NJSM	Synthetic construct		RYAKMKRRRRRVARRHRRR	19	30521892	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11727				MBjAMP-del	Synthetic construct		NLASLRARHTIPQRKFGRR	19	30475621	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

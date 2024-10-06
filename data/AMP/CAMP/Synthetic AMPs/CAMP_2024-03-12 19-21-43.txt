@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ24351				Undefined	Synthetic construct		RRRRKLDLKLDLKLDL	16	25934283	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24361		A7WNV3		K2-Brevinin-1PLb (1-3)-W-(15-24)	Synthetic construct		KKFLPWKIFCAITKKC	16	32781587	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24434				Undefined	Synthetic construct		IIICRKPIICRKPIII	16	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24444		P86711		Ocellatin-K1 (1-16)	Synthetic construct		GVVDILKGAAKDLAGH	16	32060388	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24463		B6D434		Cathelicidin-BF-15-L	Synthetic construct		VKRFKKFFRKLKKSVL	16	28664269	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24465		A0A2U9BC16		Putative myosin-binding protein C cardiac-type-like  (327-342)	Synthetic construct		GITDLRGMLKRLKKMK	16	32841003	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24490				Undefined	Synthetic construct		DILIIVGGKERKKRRR	16	32924418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24494				Undefined	Synthetic construct		DILIIVGGRRRRRRRR	16	32924418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24495				Undefined	Synthetic construct		DILIIVGGKRRKKRRR	16	32924418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24496				Undefined	Synthetic construct		DILIIVGGKQRKKRRR	16	32924418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24497				Undefined	Synthetic construct		DILIIVGGKDRKKRRR	16	32924418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24502				Undefined	Synthetic construct		LIGIIDGVKERKKRRR	16	32924418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24564				PA-16	Synthetic construct		KIAKRIWKILRRRLFR	16	32499514	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24588		Q036I7		LSEI_2135 (53-68), LHH1	Synthetic construct		AFALIAGALYRIFHRR	16	33175275	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24685		A0A1I8M6I1		Cecropin A-like 4 (3-18)[E9W,Q13W,H14N]	Synthetic construct		LKKIGKKIWRVGWNTR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24686		A0A1I8M6I1		Cecropin A-like 4 (3-18)[E9W,Q13W,H14N,T15W]	Synthetic construct		LKKIGKKIWRVGWNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24688		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K3W,E9W,Q13W,H14N,T15W]	Synthetic construct		LKWIGKKIWRVGWNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24689		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K3,7W;E9W;Q13W;H14N;T15W]	Synthetic construct		LKWIGKWIWRVGWNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24692		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2W,E9W,Q13W,H14N,T15W]	Synthetic construct		LWKIGKKIWRVGWNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24693		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2,6W;E9W;Q13W;H14N;T15W]	Synthetic construct		LWKIGWKIWRVGWNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24696		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2W,G5W,E9W,Q13W,H14N,T15W]	Synthetic construct		LWKIWKKIWRVGWNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24697		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2W,E9W,G12W,Q13W,H14N,T15W]	Synthetic construct		LWKIGKKIWRVWWNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24698		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2W;G5,12W;E9W;Q13W;H14N;T15W]	Synthetic construct		LWKIWKKIWRVWWNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24699		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2W;G5,12W;E9W;Q13K;H14N;T15W]	Synthetic construct		LWKIWKKIWRVWKNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24700		A0A1I8M6I1		Cecropin A-like 4 (3-18)[K2W;G5L;E9W;Q13W;H14N;T15W]	Synthetic construct		LWKILKKIWRVGWNWR	16	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1063				CGA 47-60	Synthetic construct		RILSILRHQNLLKE	14	10753865	Antifungal		Experimentally validated
+CAMPSQ24372		A0A6I2LLK0		Pept_148	Synthetic construct		VLIRGLIHMLRGG	13	32992666	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24515				Undefined	Synthetic construct		EIEYGNPGVGTDR	13	32954133	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24516				Undefined	Synthetic construct		TLPEWDDRRVVNS	13	32954133	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24567				PA-13	Synthetic construct		KIAKRIWKILRRR	13	32499514	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24569		I0Z3W2		COCSUDRAFT_22596 (97-109)[A7L,A11I,A12T]	Synthetic construct		KLVKKLLKKYITF	13	33063186	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24571		A0A0L7KPW9		TRASSc9 (130-142)	Synthetic construct		IPLLRKGKKIIWW	13	33063186	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24572		A0A0L7L9V8		Putative endonuclease and reverse transcriptase-like protein (291-303)[Q3K,K5V,W7K]	Synthetic construct		GLKKVIKLLRPLL	13	33063186	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24645		Q86YZ3		HRNR (26562668)[H3,9,13R]	Synthetic construct		GRRGSGLGRSSSR	13	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24647				Pal-GH13	Synthetic construct		GHHGGHGGHGHGH	13	30833614	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24648				GR13	Synthetic construct		GRRGGRGGRGRGR	13	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24649				Pal-GK13	Synthetic construct		GKKGGKGGKGKGK	13	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24650				Pal-GOrn13	Synthetic construct		GXXGGXGGXGXGX	13	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24657		Q5TA77		LCE-3B (5668)	Synthetic construct		SHHRCCRSHRCRR	13	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24660		Q5T5A8		Pal-LCE-3C (5567)	Synthetic construct		SHHRHFRSHQCRR	13	30833614	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24664		O14633		LCE-2B (74-86)	Synthetic construct		SHHRPRLFHRRRH	13	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24669		Q5TA79		LCE2A (70-82)	Synthetic construct		SHHRPRLFHRHRH	13	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24711				Undefined	Synthetic construct		RkRwWvVkRkWwV	13	33469079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24712				Undefined	Synthetic construct		RkRwLwLkRkWlW	13	33469079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24713				Undefined	Synthetic construct		KkKwWvKkKwWvV	13	33469079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24714				Undefined	Synthetic construct		WwKkKvWvKkKwW	13	33469079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24715				Undefined	Synthetic construct		KkKvVvKkKvVwK	13	33469079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24734				Undefined	Synthetic construct		RQIKIWRRMKWKK	13	26972341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24735				Undefined	Synthetic construct		RQIKIWRRXKWKK	13	26972341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24778		A8R0Q4		Myosin heavy chain fast skeletal type 2 (14601472)	Synthetic construct		YEESQAELEGSLK	13	30011734	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

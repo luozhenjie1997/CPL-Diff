@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8323				NZ2114	Synthetic construct		GFGCNGPWNEDDLRCHNHCKSIKGYKGGYCAKGGFVCKCY	40	28229435	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8324				H1	Synthetic construct		GFGCNGPWNEDDLRCKNHCKSIKGYKGGYCAKGGFVCKCY	40	28229435	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8325				H2	Synthetic construct		GFGCNGPWNEDDLRCRNHCKSIKGYKGGYCAKGGFVCKCY	40	31138863, 28229435	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8326				H3	Synthetic construct		GFGCNGPWNEDDLRCHNKCKSIKGYKGGYCAKGGFVCKCY	40	28229435	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8327				H6	Synthetic construct		GFGCNGPWNEDDLRCKNRCKSIKGYKGGYCAKGGFVCKCY	40	28229435	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8328				H8	Synthetic construct		GFGCNGPWNEDDLRCRNRCKSIKGYKGGYCAKGGFVCKCY	40	28229435	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8329				BF2-parasin (B-P)	Synthetic construct		TRSSRAGLQWPVGRVHRLLRKKGRGKQGGKVRWKAKTRSS	40	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8331				Parasin-BF2 (P-B)	Synthetic construct		KGRGKQGGKVRWKAKTRSSTRSSRAGLQWPVGRVHRLLRK	40	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8333				BF2-magainin (B-M)	Synthetic construct		TRSSRAGLQWPVGRVHRLLRKGIGKWLHSAKKFGKAFVGE	40	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8338				DesHDAP1-A-parasin (D-A-P)	Synthetic construct		ARDNKKTRIWPRHLQLAVRNAKGRGKQGGKVRWKAKTRSS	40	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8340				Parasin-A-DesHDAP1 (P-A-D)	Synthetic construct		KGRGKQGGKVRWKAKTRSSAARDNKKTRIWPRHLQLAVRN	40	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8502				RN5	Synthetic construct		QDNSRYTHFLTQHYDAKPQGRDDRYSESIMRRRGLTSPSK	40	31540052	Antifungal		Experimentally validated
+CAMPSQ10344				Cec4-7	Synthetic construct		GWLKKIGKKIERVGQHTRDATIQAIGVAQQAANVAATLKG	40	31496754	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10345				Cec4-8	Synthetic construct		GWVKKIGKKIERVGQNTRDATIQVIGVAQQAANVAATLKG	40	31496754	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10902				Def-AcAA 	Synthetic construct		ATCDLASIFNVNHALCAAHCIARRYRGGYCNSKAVCVCRN	40	18214975	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10990				HPAB-beta (a hBD-2 variant; beta-defensins)	Synthetic construct		GDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKPN	40	15808901	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11656				AP138	Synthetic construct		GFGCNGPWSEDDLRCHRHCKSIKGYRGGYCAKGGFVCKCY	40	30532539, 28848347	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11796				AP114 	Synthetic construct		GFGCNGPWNEDDLRCHNHCKSIKGYKGGYCAKGGFVCKCY	40	28476579, 28848347	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12436				CAP	Synthetic construct		ATCDLLSGTGVKHSACAAHCLLRGNRGGYCNGRAICVCRN	40	29082578	Antibacterial		Predicted
+CAMPSQ13338				Peptide 1	Synthetic construct		GFGCNGPWSEDDIRCHNHCKSIKGYKGGYCAKGGFVCKCY	40	34063982	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ13339				Peptide 2	Synthetic construct		GFGCNGPWSEDDLKCHNHCKSIKGYKGGYCARGGFVCKCY	40	34063982	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ13340				Peptide 3	Synthetic construct		GFGCNGPWTEDDLKCHNHCKSIKGYKGGYCASKGFVCKCY	40	34063982	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ13341				Peptide 4	Synthetic construct		GFGCNGPWTEDDIKCHNHCKSIKGYKGGYCAKGGFVCKCY	40	34063982	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ13342				Peptide 5	Synthetic construct		GFGCNGPWTEDDIRCHNHCKSIKGYKGGYCASKGFVCKCY	40	34063982	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ24299				Armyworm Cecropin-1	Synthetic construct		EPRWKVFKKIEKMGRNIRDGIIKAGPAVAVLGDAKALGK	39	32738898	Antibacterial	Gram+,Gram-	Experimentally Validated

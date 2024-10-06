@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9561				C-4 (analog of P18)	Synthetic construct		KWKLFKKIPKFLHLAK	16	12005420	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9636				LR11	Synthetic construct		RIKRFWPVVIRTVVAG	16	PMCID: PMC4131589	Antifungal 		Experimentally validated
+CAMPSQ9717				PenArg	Synthetic construct		RQIRIWFQNRRMRWRR	16	23085001	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9718				PenLys	Synthetic construct		KQIKIWFQNKKMKWKK	16	23085001	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9719				PenLeu	Synthetic construct		RQIKIWFQNRRLKWKK	16	23085001	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9723				PenShuf	Synthetic construct		RWFKIQMQIRRWKNKK	16	23085001	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9724				PenShufLeu	Synthetic construct		RWFKIQLQIRRWKNKK	16	23085001	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9725				PenShufLysLeu	Synthetic construct		KWFKIQLQIKKWKNKK	16	23085001	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9726				PenShufArgLeu	Synthetic construct		RWFRIQLQIRRWRNRR	16	23085001	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9823				16P	Synthetic construct		YKPVTNFSTYKPVTNF	16	26571297	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ9824				16P-AC	Synthetic construct		YKPVTNFSTYKPVTNF	16	26571297	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ10216				Bac_WT	Synthetic construct		RRIRPRPPRLPRPRPR	16	31209863	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10217				Bac_R4K/P5K	Synthetic construct		RRIKKRPPRLPRPRPR	16	31209863	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10218				Bac_R4K/R16K	Synthetic construct		RRIKPRPPRLPRPRPK	16	31209863	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10219				Bac_P5K/R16K	Synthetic construct		RRIRKRPPRLPRPRPK	16	31209863	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10220				Bac_R4K/P5K/R16K	Synthetic construct		RRIKKRPPRLPRPRPK	16	31209863	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10285				HI2	Synthetic construct		RRIHIHiPGIHIHIRR	16	31416220	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10286				HW2	Synthetic construct		RRWHWHwPGWHWHWRR	16	31416220	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10287				HV2	Synthetic construct		RRVHVHvPGVHVHVRR	16	31416220	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10288				HF2	Synthetic construct		RRFHFHfPGFHFHFRR	16	31416220	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10301				V16M 	Synthetic construct		VPIIYCNRRTGKCQRM	16	8577744	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10480				 [W7]KR12-KAEK	Synthetic construct		KRIVQRWKDFLRKAEK	16	28967271	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10667				W4G-pleurain-R1	Synthetic construct		CVHGMTNTARTACIAP	16	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10668				M5G-pleurain-R1	Synthetic construct		CVHWGTNTARTACIAP	16	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10669				P16G-pleurain-R1	Synthetic construct		CVHWMTNTARTACIAG	16	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated

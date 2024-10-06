@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ172	157874740	P01507, P11006	1F0E	Chain A, Cecropin A	Synthetic construct		KWKLFKKIPKFLHSAKKF	18	11009597	Antibacterial		Experimentally validated
+CAMPSQ725	913449			Antimicrobial peptide , immobilized peptide E18KGG 	Synthetic construct		LKLLKKLLKLLKKLGGGK	18	7726486	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ753				P18	Synthetic construct		KWKLFKKIPKFLHLAKKF	18	12005420	Antibacterial, Antitumor		Experimentally validated
+CAMPSQ963	159162438		1HU7	T7 Novispirin	Synthetic construct		KNLRRITRKIIHIIKKYG	18	11932493	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1017				CA	Synthetic construct		KWKLFKKIGIGAVLKVLT	18	1733777	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1165	193885211		2RLH, 2RLG	 Rp-1	Synthetic construct		ALYKKFKKKLLKSLKRLG	18	18712851	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3107				  Retrocyclin-1 	Synthetic construct		GICRCICGRGICRCICGR	18	15210812	Antiviral		Experimentally validated
+CAMPSQ3108			2LZI	  Retrocyclin-2 	Synthetic construct		GICRCICGRRICRCICGR	18	15210812	Antiviral		Experimentally validated
+CAMPSQ3109				  Retrocyclin-3 	Synthetic construct		RICRCICGRRICRCICGR	18	15210812	Antiviral		Experimentally validated
+CAMPSQ3125				  CM-3 	Synthetic construct		ALKAALLAILKIVRVIKK	18	Reference: Patel S, Stott I P, Bhakoo M, Elliott P (1988) Patenting computer-designed peptides. Journal of Computer-Aided Molecular Design, 12: 543–556.	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4148	453055539		2M1P	[Aba5-14] BTD-2	Synthetic construct		GVCRXVCRRGVCRXVCRR	18	23430740	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8184				AcrAP1a	Synthetic construct		FLFKLIPKAIKGLIKAFK	18	25332684	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8185				AcrAP2a	Synthetic construct		FLFKLIPKAIKGLLKAFK	18	25332684	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8256				CP11CN	Synthetic construct		ILKKWPWWPWRRK-NH2	18	10898680	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8268				17tF-W 	Synthetic construct		GX1KRlVQRlKDWlRKLV	18	31319057	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8269				17mF-W 	Synthetic construct		GX1KRlVQRlKDWlRKLV	18	31319057	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8270				17W2 	Synthetic construct		GX1KRlVQRlKDWlRKLV	18	31319057	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8271				17tF2 	Synthetic construct		GX1KRlVQRlKDWlRKLV	18	31319057	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8272				17B-tF 	Synthetic construct		GX1KRlVQRlKDWlRKLV	18	31319057	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ24552				Undefined	Synthetic construct		IWWAKWGLKLLRYRRWY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24553				Undefined	Synthetic construct		IWWAKLGLKLLRYRRWY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24554				Undefined	Synthetic construct		WWWAKLGLKLLRYRRWY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24555				Undefined	Synthetic construct		YYYAXYGLXLLXYXXYY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24556				Undefined	Synthetic construct		FFFAXYGLXLLXFXXFY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24563				PA-17	Synthetic construct		KIAKRIWKILRRRLFRR	17	32499514	Antibacterial	Gram+,Gram-	Experimentally Validated

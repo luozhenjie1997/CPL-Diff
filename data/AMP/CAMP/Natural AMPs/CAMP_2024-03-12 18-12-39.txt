@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ394	3915043	O18494		Styelin-C	Styela clava	Animalia	GWFGKAFRSVSNFYKKHKTYIHAGLSAATLL	31	9257708	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ420	41016986	P83640		Dermadistinctin-M 	Phyllomedusa distincta	Animalia (Amphibia)	ALWKTMLKKLGTMALHAGKAAFGAAADTISQ	31	10477123	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ425	41017605	P82742		Ranatuerin-2	Rana catesbeiana	Animalia (Amphibia)	GLFLDTLKGAAKDVAGKLEGLKCKITGCKLP	31	9784389	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ439	41017619	P82878		Ranatuerin-2Ca	Rana clamitans	Animalia (Amphibia)	GLFLDTLKGAAKDVAGKLLEGLKCKIAGCKP	31	10822101	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ528	55976283	P84278		Palustrin-2a	Rana palustris	Animalia (Amphibia)	GFLSTVKNLATNVAGTVLDTIRCKVTGGCRP	31	11087945	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ529	55976284	P84279		Palustrin-2b	Rana palustris	Animalia (Amphibia)	GFFSTVKNLATNVAGTVIDTLKCKVTGGCRS	31	11087945	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ530	55976285	P84280		Palustrin-2c	Rana palustris	Animalia (Amphibia)	GFLSTVKNLATNVAGTVIDTLKCKVTGGCRS	31	11087945	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ534	58430587	P14661		Cecropin P1	Ascaris suum	Animalia (Nematode)	SWLSKTAKKLENSAKKRISEGIAIAIQGGPR	31	2512577, 11772394, 28544962	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ673	3913451	P81466		Neutrophil defensin 2 	Mesocricetus auratus	Animalia (Mammals)	CFCKRPVCDSGETQIGYCRLGNTFYRLCCRQ	31	8890190	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ758	76364163	P84637		Cycloviolin-A	Leonia cymosa	Plantae	GVIPCGESCVFIPCISAAIGCSCKNKVCYRN	31	10813905	Antiviral		Experimentally validated
+CAMPSQ763	66361400	P84522	1ZA8	Vhl-1	Viola hederacea	Plantae	CGESCAMISFCFTEVIGCSCKNKVCYLNSIS	31	15824119	Antiviral	 	Experimentally validated
+CAMPSQ956	152032551	P85175	2B38	Kalata-B8	Oldenlandia affinis 	Plantae	GSVLNCGETCLLGTCYTTGCTCNKYRVCTKD	31	16207177	Antiviral		Experimentally validated
+CAMPSQ1053	399355	P11478, Q64365		Neutrophil cationic peptide 1 	Cavia porcellus	Animalia (Mammals)	RRCICTTRTCRFPYRRLGTCIFQNRVYTFCC	31	2473036 , 3623703	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1521	13959337	O93452		Dermaseptin PD-2-2	Pachymedusa dacnicolor	Animalia (Amphibia)	ALWKTLLKKVGKVAGKAVLNAVTNMANQNEQ	31		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1884	122546963	Q2QBT0		Lantibiotic nisin-U	Streptococcus uberis	Monera	ITSKSLCTPGCKTGILMTCPLKTATCGCHFG	31		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1947	3122337	P81052		Bacteriocin leucocin-B	Leuconostoc mesenteroides	Monera	KGKGFWSWASKATSWLTGPQQPGSPLLKKHR	31		Antibacterial	Gram+ve	Predicted
+CAMPSQ2206	254808355	P86047	1W9N	Lantibiotic epilancin 15X	Staphylococcus epidermidis 	Monera	SASIVKTTIKASKKLCRGFTLTCGCHFTGKK	31		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2581	308154251	P86720		Lantibiotic lichenicidin A2	Bacillus licheniformis DSM 13 = ATCC 14580  	Monera	TPATTSSWTCITAGVTVSASLCPTTKCTSRC	31	15383718	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2815				  human RK-31 	Homo sapiens	Animalia (Mammals)	RKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	31	14978112	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2899				  Caerulein precursor-related fragment Ea 	Rana esculenta	Animalia (Amphibia)	GLGSILGKILNVAGKVGKTIGKVADAVGNKE	31	14726199	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2900				  Caerulein precursor-related fragment Eab 	Rana esculenta	Animalia (Amphibia)	GLGSFLKNAIKIAGKVGSTIGKVADAIGNKE	31	14726199	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2901				  Caerulein precursor-related fragment Ec 	Rana esculenta	Animalia (Amphibia)	GLGSFFKNAIKIAGKVGSTIGKVADAIGNKE	31	14726199	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2907				  Ranatuerin-2G 	Rana grylio	Animalia (Amphibia)	GLLLDTLKGAAKDIAGIALEKLKCKITGCKP	31	10828493	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3000		P84522	1ZA8	  Vhl-1 	Viola hederacea	Plantae	SISCGESCAMISFCFTEVIGCSCKNKVCYLN	31	15824119	Antiviral		Experimentally validated
+CAMPSQ3003				  Circulin D 	Chassalia parvifolia	Plantae	KIPCGESCVWIPCVTSIFNCKCKENKVCYHD	31	10691702	Antiviral		Experimentally validated

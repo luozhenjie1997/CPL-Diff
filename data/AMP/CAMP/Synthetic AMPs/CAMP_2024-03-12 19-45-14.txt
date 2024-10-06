@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14524				Onc268	Synthetic construct		VDKPPYLPRPFPPRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14525				Onc269	Synthetic construct		VDKPPYLPRPXPPRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14526				Onc270	Synthetic construct		VDKPPYLPRPRPPRrIXNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14527				Onc271	Synthetic construct		VDKPPYLPRPRPPRrIXNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14528				Onc272	Synthetic construct		VDKPPYLPRPRWPRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14529				Onc273	Synthetic construct		VDKPPYLPRPRWERrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14530				Onc274	Synthetic construct		VDKPPYLPRPRWRRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14531				Onc275	Synthetic construct		VDKPPYLPRPRWWRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14532				Onc276	Synthetic construct		VDKPPYLPRPRWKRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14533				Onc277	Synthetic construct		VDKPPYLPRPRWHRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14534				Onc278	Synthetic construct		VDKPPYLPRPRWIRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14535				Onc279	Synthetic construct		VDKPPYLPRPRWFRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14536				Onc280	Synthetic construct		VDKPPYLPRPRWLRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14537				Onc281	Synthetic construct		VDKPPYLPRPRWARrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14538				Onc282	Synthetic construct		VDKPPYLPRPRWNRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14539				Onc283	Synthetic construct		VDKPPYLPRPRWVRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14540				Onc284	Synthetic construct		VDKPPYLPRPRWGRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14541				Onc285	Synthetic construct		VDKPPYLPRPRWSRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14542				Onc286	Synthetic construct		VDKPPYLPRPRWQRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14543				Onc287	Synthetic construct		VDKPPYLPRPRWYRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14544				Onc288	Synthetic construct		VDKPPYLPRPRWDRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14545				Onc289	Synthetic construct		VDKPPYLPRPRWTRrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14546				Onc290	Synthetic construct		VDKPPYLPRPRWORrIYNr	19	34902208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14559				OM19R	Synthetic construct		VDKPPYLPRPRPIRRPGGR	19	34943677	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14560				Peptide 1	Synthetic construct		ADKPPYLPRPRPIRRPGGR	19	34943677	Antibacterial	Gram -ve	Experimentally validated

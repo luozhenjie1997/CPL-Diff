@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ7	109894868	P84868		Sesquin	Vigna unguiculata subsp. sesquipedalis 	Plantae	KTCENLADTY	10	15949629	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ17	110287794	P84869		Antifungal lectin PVAP	Phaseolus vulgaris 	Plantae	SNDIYFNFQR	10	16026901	Antifungal		Experimentally validated
+CAMPSQ225	19924221	P56923		Temporin-K	Rana temporaria	Animalia (Amphibia)	LLPNLLKSLL	10	9022710	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ519	55583845	P84200		Gymnin	Gymnocladus chinensis 	Plantae	KTCENLADDY	10	14499273	Antifungal, Antiviral		Experimentally validated
+CAMPSQ593	71153693	P84528		Antimicrobial ribonuclease	Lentinus sajor-caju	Fungi	DNGEAGRAAR	10	15003351	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ652	90183454	P84785		Coccinin	Phaseolus coccineus 	Plantae	KQTENLADTY	10	15572193	Antifungal, Antiviral		Experimentally validated
+CAMPSQ654	91208279	P84796		Alliumin	Allium sativum	Plantae	DDFLCAGGCL	10	15629528	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ771				Antifungal protein from coconut	Cocos nucifera	Plantae	EQCREEEDDR	10	16308082	Antifungal, Antiviral		Experimentally validated
+CAMPSQ890	3913442	O16137		Defensin 2a 	Stomoxys calcitrans	Animalia (Insects)	ATCDLLSMWN	10	9326639	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ927	67460129	P0C005		Anoplin	Anoplius samariensis	Animalia (Insects)	GLLKRIKTLL	10	11738089, 34180670, 31676352, 34966367	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1744	224493406	P0C8W2		Non - disulfide - bridged peptide 5.6 	Hadrurus gertschi	Animalia (Arachnida)	FIFDLLKKLV	10		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1940	88909607	P84710		Curvalicin-28b	Lactobacillus curvatus	Monera	VAPFPEQFLX	10	16680519	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2462	308191395	P86706		Antimicrobial peptide 2	Cocos nucifera	Plantae	ESYFVFSVGM	10	19111587	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2474	306755921	C5J886		Non-disulfide-bridged peptide 57	Opisthacanthus cayaporum  	Animalia (Arachnida)	LSAIWSGIKS	10	19379768	Antibacterial		Predicted
+CAMPSQ2476	380876853	B3EWE8		Antifungal peptide 1	Trapa natans  	Plantae	MCTHPLDCSN	10	21736910	Antifungal		Experimentally validated
+CAMPSQ3263				  Neurotensin 	Homo sapiens	Animalia (Mammals)	ERPPGFSPFR	10	12074933	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ3266				  Neurokinin A 	Homo sapiens	Animalia (Mammals)	HKTDSFVGLM	10	18603306	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3486				  Peptide 7 	Rapana venosa	Animalia (Molluscs (Gastropoda))	APPPGLSAGV	10	21703315	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3525				  PGLa-H 	Xenopus laevis	Animalia (Amphibia)	KIAKVALKAL	10	22014884	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3639				  Temporin-ALk 	Amolops loloensis	Animalia (Amphibia)	FFPIVGKLLS	10	19843479	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3841				  HaA4	Harmonia axyridis	Animalia (Insects)	IGGYCSWLRL	10	23124352	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3842		C0HJB9		  Temporin-ECa  	Euphlyctis cyanophlyctis	Animalia (Amphibia)	FLPGLLAGLL	10		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4136	403399465	F1CJ89		Amphipathic peptide Hj0164	Buthotus judaicus 	Animalia (Arachnida)	FLGALLSKIF	10	21329713	Antibacterial		Predicted
+CAMPSQ4155	408407809	B3EWP8		Rondonin	Acanthoscurria rondoniae 	Animalia (Arachnida)	IIIQYEGHKH	10		Antifungal		Experimentally validated
+CAMPSQ7535		P86977		Chitinase	Streptomyces violaceusniger	Monera	GDGTGPGPGP	10	22915152	Antifungal		Experimentally validated

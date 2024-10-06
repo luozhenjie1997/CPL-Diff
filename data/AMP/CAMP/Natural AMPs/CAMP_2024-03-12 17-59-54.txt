@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ661				Brevinin-2SKa	Rana sakuraii	Animalia (Amphibia)	FLPVILPVIGKLLNGIL	17	17174009	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ684				Temporin-1SKb	Rana sakuraii	Animalia (Amphibia)	FLPVILPVIGKLLSGIL	17	17174009	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ690	160380514	P0C5X0		Brevinin-1DYe , Dybowskin-2	Rana dybowskii	Animalia (Amphibia)	FLIGMTQGLICLITRKC	17	17688900 , 17698251	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ691	160380513	P0C5W9		Brevinin-1DYd , Dybowskin-1	Rana dybowskii	Animalia (Amphibia)	FLIGMTHGLICLISRKC	17	17688900,  17698251	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ723	59800386	P69135		Tachyplesin-1 	Tachypleus gigas	Animalia	KWCFRVCYRGICYRRCR	17	2229025	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ752				PlnA -17	Lactobacillus plantarum	Monera	GATAIKQVKKLFKKWGW	17	15805109	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ836	197239656	B5LUR1, B5LUQ3, B5LUQ7 , B5LUR0 		Fallaxidin 3.2	Litoria fallax	Animalia (Amphibia)	GLLDFAKHVIGIASKLG	17	18803332	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1008				Temporin-1TGc	Rana tagoi 	Animalia (Amphibia)	FLPVILPVIGKLLSGIL	17	16675060	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1169	193794764	B8QP36		Temporin-1CEa antimicrobial peptide	Rana chensinensis	Animalia (Amphibia)	FVDLKKIANIINSIFGK	17	19341344	Antibacterial, Anticancer	Gram +ve	Experimentally validated
+CAMPSQ1214	50401869	P62571		Caerin-2.2	Litoria caerulea	Animalia (Amphibia)	ALGGLLADVVKSKEQPA	17		Antibacterial		Predicted
+CAMPSQ1236	109940031	P81904		Histone H2B 3 	Ictalurus punctatus	Animalia (Pisces)	PDPAKTAPKKKSKKAVT	17	9645227	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1258	59800387	P69136		TAC1_CARRO Tachyplesin-1 	Carcinoscorpius rotundicauda	Animalia	KWCFRVCYRGICYRRCR	17	2229025	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1726	74837073	Q5G8B5		Putative antimicrobial peptide clone 4	Tityus costatus	Animalia (Arachnida)	FLGMIPGLIGGLISAFK	17		Antibacterial		Predicted
+CAMPSQ1727	74837072	Q5G8B4		Putative antimicrobial peptide clone 5	Tityus costatus	Animalia (Arachnida)	FFSLIPSLIGGLVFAIK	17		Antibacterial		Predicted
+CAMPSQ1728	74837071	Q5G8B3		Putative antimicrobial peptide clone 6	Tityus costatus	Animalia (Arachnida)	FFSLIPSLIGGLVSAIK	17		Antibacterial		Predicted
+CAMPSQ1811	223635796			Thiostrepton	Streptomyces azureus	Monera	IASASCTTCICTCSCSS	17		Antibacterial		Predicted
+CAMPSQ1938	172046669	P85443		Ocellatin-5	Leptodactylus ocellatus	Animalia (Amphibia)	GLLDFLKAAGKGLVTNL	17		Antibacterial		Experimentally validated
+CAMPSQ2026	57013024	P84334		Thaumatin-like protein	Cassia didymobotrya	Plantae	ATITFTNKCTRTVWPGG	17		Antifungal		Experimentally validated
+CAMPSQ2305	332310247	P86895		Putative antimicrobial peptide 1	Lippia sidoides  	Plantae	ALYNSEDLYEETSDSDD	17	21210197	Antifungal		Experimentally validated
+CAMPSQ2455	395455154	G8YYA6		Antimicrobial peptide 2	Androctonus amoreuxi  	Animalia (Arachnida)	PFSLIPHAIGGLISAIK	17	22484288	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2456	395455153	G8YYA5		Antimicrobial peptide 1	Androctonus amoreuxi  	Animalia (Arachnida)	LFSLIPHAIGGLISAFK	17	22484288	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2576	288561897	B5A9T1		Dybowskin-2CDYa	Rana dybowskii 	Animalia (Amphibia)	AVGRHGRRFGLRKHRKH	17	19539775	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2786				  CPF-AM1 	Xenopus amieti	Animalia (Amphibia)	GLGSVLGKALKIGANLL	17	20226221	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3064				  CPF-AM4 	Xenopus amieti	Animalia (Amphibia)	GLGSLVGNALRIGAKLL	17	20226221	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3179				Temporin-LTa 	Hylarana latouchii	Animalia (Amphibia)	FFPLVLGALGSILPKIF	17	19022312	Antibacterial	Gram +ve	Experimentally validated

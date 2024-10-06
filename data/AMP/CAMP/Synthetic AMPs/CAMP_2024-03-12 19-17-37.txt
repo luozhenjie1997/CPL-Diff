@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1018				CA	Synthetic construct		KWKLFKKGIGAVLKV	15	1733777	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1019	152149152		2JMY	CA	Synthetic construct		KWKLFKKIGAVLKVL	15	1733777, 30043322, 30720915, 31448597	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1020				CA	Synthetic construct		KWKLFKKGAVLKVLT	15	1733777	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1021				CA	Synthetic construct		KWKLFKKAVLKVLTT	15	1733777	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1022				CA	Synthetic construct		KWKLFKKVLKVLTTG	15	1733777	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1023				CA	Synthetic construct		KWKLFKKLKVLTTGL	15	1733777	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3126				  MB-21 	Synthetic construct		FASLLGKALKALAKQ	15	Reference: Patel S, Stott I P, Bhakoo M, Elliott P (1988) Patenting computer-designed peptides. Journal of Computer-Aided Molecular Design, 12: 543–556.	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8217				RN7-IN8	Synthetic construct		FLGGLIKWPWWPWRR	15	26046345	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8240				Mastoparan analogue 5	Synthetic construct		inLKALAALAKKIIL	15	26114809	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ24610				KL [L3P]	Synthetic construct		KLPKLLKKLLKLLK	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24611				KL [K7P]	Synthetic construct		KLLKLLPKLLKLLK	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24612				KL [K8P]	Synthetic construct		KLLKLLKPLLKLLK	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24613				KL [L5P]	Synthetic construct		KLLKPLKKLLKLLK	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24614				KL [L10P]	Synthetic construct		KLLKLLKKLPKLLK	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24615				KL [L12P]	Synthetic construct		KLLKLLKKLLKPLK	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24616				KL [L13P]	Synthetic construct		KLLKLLKKLLKLPK	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24617				KL [L6P]	Synthetic construct		KLLKLPKKLLKLLK	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24618				KL [L9P]	Synthetic construct		KLLKLLKKPLKLLK	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24659		Q86YZ3		Pal-HRNR (26062619)[H1,14R]	Synthetic construct		RGSRSGQSSRGERR	14	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24666				Pal-GR13-C	Synthetic construct		GRRGGRGGRGRGRX	14	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24667				GR13-8-Cys-C16	Synthetic construct		GRRGGRGXGRGRGR	14	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24683		P0C1Q4		Mastoparan I [K4,5,11H], HMPI	Synthetic construct		IDWHHLLDAAHQIL	14	32369105	Antifungal	Gram-	Experimentally Validated
+CAMPSQ24756		P0C1Q4		Mastoparan I [D8Lys(N3),Q12Pra]	Synthetic construct		IDWKKLLXAAKXIL	14	28833783	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24757		P0C1Q4		Mastoparan I [D2Lys(N3),D8Pra]	Synthetic construct		IXWKKLLXAAKQIL	14	28833783	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24758				Murepavadin [T1L,W2S,I3Y,DAB10tBuGly]	Synthetic construct		LSYXXxXWXXASpP	14	31645764	Antibacterial	Gram+,Gram-	Experimentally Validated

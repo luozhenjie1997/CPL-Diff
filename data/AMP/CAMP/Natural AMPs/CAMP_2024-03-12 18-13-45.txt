@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ89	122056007	P84860		Brevinin-2GHa 	Rana guentheri	Animalia (Amphibia)	GFSSLFKAGAKYLLKSVGKAGAQQLACKAANNCA	34	16979798	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ107	125973	P13068		Lantibiotic nisin-A	Lactococcus lactis subsp. lactis 	Monera	ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK	34		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ186	1703044	P15450		Abaecin precursor	Apis mellifera	Animalia (Insects)	YVPLPNVPQPGRRPFPTFPGQGPFNPKIKWPQGY	34	2298215	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ284	2506269, 299496	P31529		Sapecin-B	Sarcophaga peregrina	Animalia (Insects)	LTCEIDRSLCLLHCRLKGYLRAYCSQQKVCRCVQ	34	8471044	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ308	266446	P29559	1WCO	Lantibiotic nisin-Z	Lactococcus lactis subsp. lactis 	Monera	ITSISLCTPGCKTGALMGCNMKTATCNCSIHVSK	34	1935953	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ332	29337160, 740957	P24302		Dermaseptin-1 	Phyllomedusa sauvagii	Animalia (Amphibia)	ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ	34	9614066 , 1909573	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ341	3024115	P56425		Antibacterial peptide BMAP-34 precursor	Bos taurus 	Animalia (Mammals)	GLFRRLRDSIRRGQQKILEKARRIGERIKDIFRG	34	9409740	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ458	416897	P80223		Corticostatin-6 	Oryctolagus cuniculus	Animalia (Mammals)	GICACRRRFCLNFEQFSGYCRVNGARYVRCCSRR	34	8397087	Antibacterial, Antifungal, Antiviral		Experimentally validated
+CAMPSQ465	461936, 740958	P80278		Dermaseptin-2 	Phyllomedusa sauvagii	Animalia (Amphibia)	ALWFTMLKKLGTMALHAGKAALGAAANTISQGTQ	34	8306981	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ473	46395785	Q86PR4		Cecropin-B2	Culex pipiens pipiens	Animalia (Insects)	GRSKKLGKKIEKAGKRVFNAAQKGLPVAAGVQAL	34		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ474	46395786	Q86PR5		Cecropin-B1	Culex pipiens pipiens	Animalia (Insects)	GRLKKLGKKIEKAGKRVFNAVQKGLPVAAGVQAL	34		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ545	5915804	P56685		Buthinin	Androctonus australis	Animalia (Arachnida)	SIVPIRCRSNRDCRRFCGFRGGRCTYARQCLCGY	34	8939880	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ563	6225740	P81612		Mytilin-A	Mytilus edulis 	Animalia (Molluscs (Bivalvia))	GCASRCKAKCAGRRCKGWASASFRGRCYCKCFRC	34	8702979	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ564	6225741	P81613	2EEM	Mytilin-B	Mytilus edulis 	Animalia (Molluscs (Bivalvia))	SCASRCKGHCRARRCGYYVSVLYRGRCYCKCLRC	34	8702979, 17628674	Antibacterial, Antiviral		Experimentally validated
+CAMPSQ571	66864905	Q863C8		Canine beta-defensin 	Canis lupus familiaris	Animalia (Mammals)	KCWNLRGSCREKCIKNEKLYIFCTSGKLCCLKPK	34	15845463	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ601	728981	P40839 , P84842		Brevinin-2Ec	Rana esculenta (edible frog )	Animalia (Amphibia)	GILLDKLKNFAKTAGKGVLQSLLNTASCKLSGQC	34	8163497	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ619	73915343	P46157		Antimicrobial peptide CHP2 	Gallus gallus 	Animalia (Aves)	GRKSDCFRKNGFCAFLKCPYLTLISGLCSXFHLC	34	7964174	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ740	41016817	P83651		Antimicrobial peptide Alo-1	Acrocinus longimanus	Animalia (Insects)	CIKNGNGCQPDGSQGNCCSRYCHKEPGWVAGYCR	34	14661954	Antifungal		Experimentally validated
+CAMPSQ741	41016818	P83652		Antimicrobial peptide Alo-2	Acrocinus longimanus	Animalia (Insects)	CIANRNGCQPDGSQGNCCSGYCHKEPGWVAGYCR	34	14661954	Antifungal		Experimentally validated
+CAMPSQ819	110832851	Q7WYZ9		Enterocin Q 	Enterococcus faecium 	Monera	MNFLKNGIAKWMTGAELQAYKKKYGCLPWEKISC	34	Reference: Patel S, Stott I P, Bhakoo M, Elliott P (1988) Patenting computer-designed peptides. Journal of Computer-Aided Molecular Design, 12: 54:556.	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ883	113829	P21663		Andropin	Drosophila melanogaster	Animalia (Insects)	VFIDILDKVENAIHNAAQVGIGFAKPFEKLINPK	34	1899226	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ902	74823386	Q9BKM2		Naegleriapore A pore-forming peptide	Naegleria fowleri	Protista	DAECEICKFVIQQVEAFIESNHSQAEIQKELNKL	34	11948186	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1002				OH-CATH	Ophiophagus hannah	Animalia (Reptiles)	KRFKKFFKKLKNSVKKRAKKFFKKPRVIGVSIPF	34	18620012	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1006				RK-2	Oryctolagus cuniculus	Animalia (Mammals)	KPYCSCKWRCGIGEEEKGICHKFPIVTYVCCRRP	34	9663443	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1107	205829605	P82592		Cecropin-A	Aedes aegypti	Animalia (Insects)	GGLKKLGKKLEGAGKRVFNAAEKALPVVAGAKAL	34	10400619	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

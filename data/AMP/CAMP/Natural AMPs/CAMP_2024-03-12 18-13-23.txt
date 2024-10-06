@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1070	224487680	P0C8T7		Brevinin-2PTe	Rana picturata	Animalia (Amphibia)	GFLDSFKNAMIGVAKSVGKTALSTLACKIDKSC	33	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1071	224487679	P0C8T6		Brevinin-2PTd	Rana picturata	Animalia (Amphibia)	GFLDSFKNAMIGVAKSAGKTALNTLACKIDKTC	33	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1072	224487675	P0C8T0		Brevinin-2HSb	Rana hosii	Animalia (Amphibia)	GLLDTLKNMAINAAKGAGQSVLNTLSCKLSKTC	33	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1073	224487674	P0C8S9		Brevinin-2HSa	Rana hosii	Animalia (Amphibia)	GLLDSLKNLAINAAKGAGQSVLNTLSCKLSKTC	33	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1082	224487678	P0C8T5		Brevinin-2PTc	Rana picturata	Animalia (Amphibia)	GLLDSFKNAMIGIAKSAGKTALNKIACKIDKTC	33	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1083	224487677	P0C8T4		Brevinin-2PTb	Rana picturata	Animalia (Amphibia)	GFKGAFKNVMFGIAKSAGKSALNALACKIDKSC	33	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1298	160285476	Q17027	2E3E,2E3F,2E3G,2NY8,2NY9,2NZ3	Def-Bbb	Anopheles gambiae	Animalia (Insects)	SQWVTPNDSLCAAHCLVKGYRGGYCKNKICHCR	33		Antibacterial	Gram+ve	Predicted
+CAMPSQ1303	6453640	P82268		Brevinin 2Ta	Rana temporaria	Animalia (Amphibia)	GILDTLKNLAKTAGKGILKSLVNTASCKLSGQC	33		Antibacterial		Predicted
+CAMPSQ1523	13959338	O93453		Dermaseptin PD-3-3	Pachymedusa dacnicolor	Animalia (Amphibia)	GMWSKIKNAGKAAAKASKKAAGKAALGAVSEAL	33		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1569	13959312	P82269		Brevinin-2Tb	Rana temporaria	Animalia (Amphibia)	GILDTLKHLAKTAGKGALQSLLNHASCKLSGQC	33		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1662	50401307	O18496		Styelin-E	Styela clava	Animalia	GWLRKAAKSVGKFYYKHKYYIKAAWKIGRHALG	33		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1762	221271916	P86154		Brevinin-2Eg	Rana ridibunda	Animalia (Amphibia)	GIMDTLKNLAKTAGKGALQSLLNHASCKLSGQC	33		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1763	221271915	P86153		Brevinin - 2Ef	Rana ridibunda	Animalia (Amphibia)	GIMDTLKNLAKTAGKGALQSLVKMASCKLSGQC	33		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2233	255503824	C6ZEC5		Defensin 4	Triatoma brasiliensis	Animalia (Insects)	SKWVTPNHAACAAHCLLRGNRGGQCKGTICHCR	33		Antibacterial		Predicted
+CAMPSQ2234	255503822	C6ZEC4		Defensin 3	Triatoma brasiliensis	Animalia (Insects)	SQWVTPNHAACAAHCLLRGNRGGECKGTICHCR	33		Antibacterial		Predicted
+CAMPSQ2903				  Brevinin-20a 	Rana ornativentris	Animalia (Amphibia)	GLFNVFKGALKTAGKHVAGSLLNQLKCKVSGGC	33	11892844	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2904				  Brevinin-20b 	Rana ornativentris	Animalia (Amphibia)	GIFNVFKGALKTAGKHVAGSLLNQLKCKVSGEC	33	11892844	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2987				  Latarcin 6a 	Lachesana tarabaevi	Animalia (Arachnida)	QAFQTFKPDWNKIRYDAMKMQTSLGQMKKRFNL	33	16735513	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3018				  Cycloviolacin Y2 	Viola philippica	Plantae	GGTIFDCGESCFLGTCYTAGCSCGNWGLCYGTN	33	18081258	Antiviral		Predicted
+CAMPSQ3019				  Cycloviolacin Y3 	Viola philippica	Plantae	GGTIFDCGETCFLGTCYTAGCSCGNWGLCYGTN	33	18081258	Antiviral		Predicted
+CAMPSQ3151		A6MBF6		  Odorranain-C1 	Odorrana grahami	Animalia (Amphibia)	GVLGAVKDLLIGAGKSAAQSVLKTLSCKLSNDC	33	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3369				  Bovicin HJ50  	Streptococcus bovis HJ50	Monera	ADRGWIKTLTKDCPNVISSICAGTIITACKNCA	33	14702402	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3370				  Thermophilin 1277 	Streptococcus thermophilus SBT1277	Monera	ADRGWIKTLTKDCPNVISSICAGTIITACKNCA	33	17381740	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3413				  PhD1 	Papio hamadryas	Animalia (Mammals)	RRICRCRIGRCLGLEVYFGVCFLHGRLARRCCR	33	16978151	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3433				  Brevinin-2ISa  	Odorrana ishikawae	Animalia (Amphibia)	SLLDTFKNLAVNAAKSAGVSVLNALSCKISRTC	33	 21193000	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

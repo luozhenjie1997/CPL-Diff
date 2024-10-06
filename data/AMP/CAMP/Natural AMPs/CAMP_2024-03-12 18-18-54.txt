@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ108	12644272	P46163		Beta-defensin 5 precursor 	Bos taurus 	Animalia (Mammals)	QVVRNPQSCRWNMGVCIPISCPGNMRQIGTCFGPRVPCCR	40	8454635	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ128	134863	P18312		Sarcotoxin-1D	Sarcophaga peregrina	Animalia (Insects)	GWIRDFGKRIERVGQHTRDATIQTIAVAQQAANVAATLKG	40	3182836	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ130	1352071	P46165		Beta-defensin 7 	 Bos taurus 	Animalia (Mammals)	QGVRNFVTCRINRGFCVPIRCPGHRRQIGTCLGPRIKCCR	40	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ275	2494049	Q28880		Lingual antimicrobial peptide 	Bos taurus 	Animalia (Mammals)	VRNSQSCRRNKGICVPIRCPGSMRQIGTCLGAQVKCCRRK	40	7886453	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ291	25091208	P83411		Spodomicin	Spodoptera littoralis 	Animalia (Insects)	VHVGPCDQVCSRIDPEKDECCRAHGYRGHSSCYYGRMECY	40		Antifungal		Experimentally validated
+CAMPSQ292	25452970	P83171		Ginkbilobin 	Ginkgo biloba	Plantae	ANTAFVSSAHNTQKIPAGAPFNRNLRAMLADLRQNAAFAG	40	11118300	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ336	298770			Beta-defensin 5 , BNBD-5	Bos taurus 	Animalia (Mammals)	EVVRNPQSCRWNMGVCIPISCPGNMRQIGTCFGPRVPCCR	40	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ338	298772			Beta-defensin 7 , BNBD-7	Bos taurus 	Animalia (Mammals)	EGVRNFVTCRINRGFCVPIRCPGHRRQIGTCLGPRIKCCR	40	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ339	298774			Beta-defensin 9 , BNBD-9	Bos taurus 	Animalia (Mammals)	EGVRNFVTCRINRGFCVPIRCPGHRRQIGTCLGPQIKCCR	40	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ340	298775			Beta-defensin 10 , BNBD-10	Bos taurus 	Animalia (Mammals)	EGVRSYLSCWGNRGICLLNRCPGRMRQIGTCLAPRVKCCR	40	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ397	401061	P31530		Sapecin-C	Sarcophaga peregrina	Animalia (Insects)	ATCDLLSGIGVQHSACALHCVFRGNRGGYCTGKGICVCRN	40	8471044	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ472	46395690	P91793		Defensin-A	Aedes aegypti	Animalia (Insects)	ATCDLLSGFGVGDSACAAHCIARGNRGGYCNSKKVCVCRN	40	7633471 , 7568275	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ546	5921174	P46167		Beta-defensin 9 , BNDB-9	Bos taurus 	Animalia (Mammals)	QGVRNFVTCRINRGFCVPIRCPGHRRQIGTCLAPQIKCCR	40	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ739	20138667	Q969E1	2L1Q	LEAP-2	Homo sapiens 	Animalia (Mammals)	MTPFWRGVSLRPIGASCRDDSECITRLCRKRRCSLSVAQE	40	12493837	Antibacterial		Experimentally validated
+CAMPSQ792				CLEAP-2	Gallus gallus	Animalia (Aves)	MTPFWRGVSLRPVGASCRDNSECITMLCRKNRCFLRTASE	40	15557621	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ809				Phormicin peptide B	Phormia terranovae	Animalia (Insects)	ATCDLLSGTGINHSACAAHCLLRGNRGGYCNRKGVCVCRN	40	11555873	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ848	61252268	P83404		Defensin	Phlebotomus duboscqi	Animalia (Insects)	ATCDLLSAFGVGHAACAAHCIGHGYRGGYCNSKAVCTCRR	40	15557638	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ854	6647599	P82103		Myticin-A	Mytilus galloprovincialis	Animalia (Molluscs (Bivalvia))	HSHACTSYWCGKFCGTASCTHYLCRVLHPGKMCACVHCSR	40	10491159	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ855	6647598	P82102		Myticin-B	Mytilus galloprovincialis	Animalia (Molluscs (Bivalvia))	HPHVCTSYYCSKFCGTAGCTRYGCRNLHRGKLCFCLHCSR	40	10491159	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ886	116086	P14954		Cecropin-A1/A2	Drosophila melanogaster	Animalia (Insects)	GWLKKIGKKIERVGQHTRDATIQGLGIAQQAANVAATARG	40	2390977	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ894	544149	P36192		Defensin	Drosophila melanogaster	Animalia (Insects)	ATCDLLSKWNWNHTACAGHCIAKGFKGGYCNDKAVCVCRN	40	8168509	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ906	134214	P18313	1L4V	Sapecin	Sarcophaga peregrina	Animalia (Insects)	ATCDLLSGTGINHSACAAHCLLRGNRGGYCNGKAVCVCRN	40	3182836	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ942	74639078	Q53I06	1ZFU,3E7R,3E7U	Plectasin	Pseudoplectania nigrella	Fungi	GFGCNGPWDEDDMQCHNHCKSIKGYKGGYCAKGGFVCKCY	40	16222292	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ974	145566913	P85115		Ostricacin-3	Struthio camelus	Animalia (Aves)	IPRPLDPCIAQNGRCFTGICRYPYFWIGTCRNGKSCCRRR	40	16459058	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1081	82074983	Q5F378		Cathelicidin-B1	Gallus gallus	Animalia (Aves)	PIRNWWIRIWEWLNGIRKRLRQRSPFYVRGHLNVTSTPQP	40	17827276	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

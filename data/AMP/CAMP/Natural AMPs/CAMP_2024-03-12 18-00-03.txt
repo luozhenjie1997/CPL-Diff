@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9347				SolyC 	Solanum lycopersicum	Plantae	FSGGNCRGFRRRCFCTK	17	23124812	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9502				CPF-AM1	Xenopus amieti	Animalia	GLGSVLGKALKIGANLL	17	31102497	Antibacterial		Experimentally validated
+CAMPSQ9572				C(5-21)	Gallus gallus	Animalia	FLRKIRRFRPKVTITIQ	17	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9847				Thiostrepton A	Streptomyces laurentii ATCC 31255	Monera	IASASCTTCICTCSCSS	17	26630475	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ9903				ToAP1	Tityus obscurus	Animalia	FIGMIPGLIGGLISAFK	17	27917162	Antibacterial, Antibiofilm, Antifungal		Experimentally validated
+CAMPSQ9905				ToAP3	Tityus obscurus	Animalia	FIGMIPGLIGGLISAIK	17	27917162	Antibacterial, Antibiofilm, Antifungal		Experimentally validated
+CAMPSQ9908				NDBP-4.23	T. costatus	Animalia	FLGMIPGLIGGLISAFK	17	27917162	Antibacterial, Antibiofilm, Antifungal		Experimentally validated
+CAMPSQ9968				P1	Crotalus durissus terrificus	Animalia	KQSHKKGGHSFPKEKIS	17	23022146	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9996				Uperin 3.5	Uperoleia mjobergii 	Animalia	GVGDLIRKAVSVIKNIV	17	10461748	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9997				Uperin 3.6	Uperoleia mjobergii 	Animalia	GVIDAAKKVVNVLKNLF	17	10461748	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10289				Protegrin-1 (PG-1)	Sus scrofa	Animalia	RGGRLCYCRRFCVCVGR	17	31416220	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10422				CPF-AN1	Xenopus andrei	Animalia	GFASVLGKALKLGANLL	17	21498136	Antibacterial, Antifungal		Predicted
+CAMPSQ10487				8h -CHH	Crocodylus siamensis	Animalia	QAIIHNEKVQAHGKKVL	17	28712131	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10516				Bombinin H-BO	Bombina orientalis	Animalia	IIGPVLGLIGKALGGLL	17	28636781	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10526				?-Casein 197	Homo sapiens	Animalia	LLNQELLLNPTHQIYPV	17	28591979	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10571				VK6 	Varanus komodoensis	Animalia	AVKPKTAKPKTAKPKTA	17	28164707	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10572				VK7 	Varanus komodoensis	Animalia	AKKPVAKKAAGGVKKPK	17	28164707	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10598				Las[des1-10, Ala25]-NH2	Lasioglossum laticeps	Animalia	AKKKGKCKGPLKLVAKC	17	22038181	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10676				Temporin-LK1	Limnonectes kuhlii	Animalia	FFPLLFGALSSMMPKLF	17	23054029	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10842				TO17	Sciaenops ocellatus	Animalia	KCRRRKVHGPMIRIRKK	17	29183811	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11034				Maximin H24  	Bombina maxima	Animalia	ILGPVLGLVGDTLGDLL	17	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11057				Maximin H48	Bombina maxima	Animalia	ILGPVLGLVGSALGGLI	17	21338048	Antibacterial, Antifungal	Gram+ve,Gram-ve	Predicted
+CAMPSQ11163				Xac-1, Xylopin	Xylocopa appendiculata	Animalia	GFVALLKKLPLILKHLH	17	28546807, 28855917	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ11164				Xac-2	Xylocopa appendiculata	Animalia	GFVALLKKLPLILKHLP	17	28546807	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ11167				Temporin-ITa	Rana italica	Animalia	VFLGAIAQALTSLLGKL	17	28699258	Antibacterial, Antifungal	Gram +ve	Experimentally validated

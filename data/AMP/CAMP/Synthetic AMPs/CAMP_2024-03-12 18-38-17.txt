@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20358		P0C005,		Anoplin [R5K]	Synthetic construct		GLLKKIKTLL	10	24019229	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20359		P0C005,		Anoplin [T8K]	Synthetic construct		GLLKRIKKLL	10	24019229	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20360		P0C005		Anoplin [L2,10Meth-Leu]	Synthetic construct		GXLKRIKTLX	10	24019229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20361		P0C005,		Anoplin [R5K,T8K]	Synthetic construct		GLLKKIKKLL	10	24019229	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20362		P0C005,	2MJS	Anoplin [R5K,T8W]	Synthetic construct		GLLKKIKWLL	10	24019229	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20363		P0C005		Anoplin [R5W,T8K]	Synthetic construct		GLLKWIKKLL	10	24019229	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20364		P0C005,		Anoplin [R5F,T8K]	Synthetic construct		GLLKFIKKLL	10	24019229, 27862650	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20365		P0C005	2MJT	Anoplin [R5F,T8W]	Synthetic construct		GLLKFIKWLL	10	24019229	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20366		P0C005		Anoplin [L2Beta-Ala]	Synthetic construct		GXLKRIKTLL	10	24019229, 23719232, 32654770	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20367		P0C005		Anoplin [L3Beta-Ala]	Synthetic construct		GLXKRIKTLL	10	24019229, 32654770	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20368		P0C005		Anoplin [I6Beta-Ala]	Synthetic construct		GLLKRXKTLL	10	24019229, 23719232, 32654770	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20369		P0C005		Anoplin [L9Beta-Ala]	Synthetic construct		GLLKRIKTXL	10	24019229, 32654770	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20370		P0C005		Anoplin [L10Beta-Ala]	Synthetic construct		GLLKRIKTLX	10	24019229, 23719232, 32654770	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20373		P0C005		Anoplin [G1K,R5F,T8K]	Synthetic construct		KLLKFIKKLL	10	27862650	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20374		P0C005		Anoplin [G1R,R5F,T8K]	Synthetic construct		RLLKFIKKLL	10	27862650	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20377		P0C005		Anoplin [K4Beta-Ala]	Synthetic construct		GLLXRIKTLL	10	32654770	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20378		P0C005		Anoplin [K7Beta-Ala]	Synthetic construct		GLLkRIxTLL	10	32654770	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20379		P0C005		Anoplin [R5Beta-Ala]	Synthetic construct		GLLKXIKTLL	10	32654770	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20380		P0C005		Anoplin [G1Beta-Ala]	Synthetic construct		XLLKRIKTLL	10	32654770	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20381		P0C005		Anoplin [T8Beta-Ala]	Synthetic construct		GLLKRIKXLL	10	32654770	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20382		P0C005		Anoplin [G1Beta-Ala, T8Beta-Ala]	Synthetic construct		XLLKRIKXLL	10	32654770	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20400		P85870		Decoralin [I6F,T11Del]	Synthetic construct		SLLSLFRKLI	10	30013694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20642				Polymyxin B3 [f6w]	Synthetic construct		XTXXXwLXXT	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20643				Polymyxin B3 [L7W]	Synthetic construct		XTXXXfWXXT	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20644				Polymyxin B3 [f6G]	Synthetic construct		XTXXXGLXXT	10	19252313	Antibacterial	Gram-	Experimentally Validated

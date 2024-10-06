@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13701				MUC 7 12-mer	Homo sapiens 	Animalia (Mammals)	RKSYKCLHKRCR	12	33742508	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13708				KR12	Homo sapiens 	Animalia (Mammals)	KRIVQRIKDFLR	12	34146653	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ13727				PCergo	Bothrops godmani	Animalia (Reptiles)	NLRTYKKRYMFY	12	34130109	Antibacterial, Antiparasitic, Anticancer	Gram -ve	Experimentally validated
+CAMPSQ13943				12Hc	Halocynthia aurantium.	Animalia	WLNALLHHGLNC	12	12878508	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14113				CNC-4 (1-12)	Caenorhabditis elegans	Animalia (nematode)	QWGYGPYGGYGG	12	34184732	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14234				Peptide 1	Bos taurus	Animalia	SKHSSLDCVLRP	12	28878220	Antiviral		Experimentally validated
+CAMPSQ14236				Peptide 6	Bos taurus	Animalia	TNGESTADWAKN	12	28878220	Antiviral		Experimentally validated
+CAMPSQ14245				GV12	Hylarana guentheri	Animalia (Amphibia)	GVIFNALKGVAK	12	34584638	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14259				ChDode	Capra hircus 	Animalia (Mammals)	RICQFVLIRVCR	12	34484167	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14432				Temporin-FLa	Pelophylax nigromaculatus	Animalia (Amphibia)	FIPLVSGLFKLL	12	34738013	Antibacterial, antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14583				Coleoptericin B	Zophobas morio	Animalia (Insects)	GQDHDFNAGWGK	12	34941846	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14676				Chromogranin A N-12	Homo sapiens 	Animalia (Mammals)	ALQGAKERAHQQ	12	35034584	Antifungal		Experimentally validated
+CAMPSQ14685				MpVT5	Vespa tropica	Animalia (Insects)	KAIAAFAKKFFI	12	35056876	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14686				MpVT6	Vespa tropica	Animalia (Insects)	KAIAAFAKALFI	12	35056876	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14687				MpVT7	Vespa tropica	Animalia (Insects)	KAIAAFAAKLFI	12	35056876	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14977				Peptide 6	Saccharomyces cerevisiae	Fungi	GAPGGFPGGAPP	12	35215278	Antibacterial		Predicted
+CAMPSQ14984				Peptide 13	Saccharomyces cerevisiae	Fungi	VGKVLPELQGKL	12	35215278	Antibacterial		Predicted
+CAMPSQ15014				Peptide 43	Saccharomyces cerevisiae	Fungi	IGGIGTVPVGRV	12	35215278	Antibacterial		Predicted
+CAMPSQ15020				Peptide 49	Saccharomyces cerevisiae	Fungi	APPLPRAPPVPP	12	35215278	Antibacterial		Predicted
+CAMPSQ15230				JH-0	Bovine 	Animalia (Mammals)	KLLSHSLLVTLA	12	25753638	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15231				JH-1	Bovine 	Animalia (Mammals)	KLLRHRLLVTLA	12	25753638	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15264				KR-12-a1	Homo sapiens 	Animalia (Mammals)	KRIVQRIKDWLR	12	24105706	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15265				KR-12-a2	Homo sapiens 	Animalia (Mammals)	KRIVQRIKKWLR	12	24105706	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15266				KR-12-a3	Homo sapiens 	Animalia (Mammals)	KRIVKRIKKWLR	12	24105706	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15267				KR-12-a6	Homo sapiens 	Animalia (Mammals)	LRIVKLILKWLR	12	24105706	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

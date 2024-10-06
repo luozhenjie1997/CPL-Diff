@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ16671				T4	Synthetic construct		DDRFFFYWLMCIWCTFVMSH	20	30118800	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16672				T11	Synthetic construct		LATLLFTMCLNFCGVLAGDD	20	30118800	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16673				T12	Synthetic construct		DDGIFIAFIAINIILTVIFY	20	30118800	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ17136		A6XMY0		Arasin 1 (1-20)	Synthetic construct		SRWPSPGRPRPFPGRPKPIF	20	23326415	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ17151		P80054		PR-39 (20-39)	Synthetic construct		PRLPPRIPPGFPPRFPPRFP	20	24755622	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17737				PR-39(20-39)	Synthetic construct		PRLPPRIPPGFPPREFPPREP	20	24755622	Antibacterial	Gram -ve, Gram +ve	Experimentally validated
+CAMPSQ17724		Q7L9L4		MOB kinase activator 1B (144–163), Hs06	Synthetic construct		FMSVAKTILKRLFRVYAHIY	20	33321627	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18265		A0A2R7WNA0		Oncocin [D2P]-G	Synthetic construct		VPKPPYLPRPRPPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18266		A0A2R7WNA0		Oncocin [D2R]-G	Synthetic construct		VRKPPYLPRPRPPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18267		A0A2R7WNA0		Oncocin [P4K]-G	Synthetic construct		VDKKPYLPRPRPPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18268		A0A2R7WNA0		Oncocin [P12F]-G	Synthetic construct		VDKPPYLPRPRFPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18269		A0A2R7WNA0		Oncocin [P12G]-G	Synthetic construct		VDKPPYLPRPRGPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18270		A0A2R7WNA0		Oncocin [P12K]-G	Synthetic construct		VDKPPYLPRPRKPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18271		A0A2R7WNA0		Oncocin [P12L]-G	Synthetic construct		VDKPPYLPRPRLPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18272		A0A2R7WNA0		Oncocin [P12M]-G	Synthetic construct		VDKPPYLPRPRMPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18273		A0A2R7WNA0		Oncocin [P12Q]-G	Synthetic construct		VDKPPYLPRPRQPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18274		A0A2R7WNA0		Oncocin [P12R]-G	Synthetic construct		VDKPPYLPRPRRPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18275		A0A2R7WNA0		Oncocin [P12S]-G	Synthetic construct		VDKPPYLPRPRSPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18276		A0A2R7WNA0		Oncocin [P12W]-G	Synthetic construct		VDKPPYLPRPRWPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18277		A0A2R7WNA0		Oncocin [P12Y]-G	Synthetic construct		VDKPPYLPRPRYPRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18278		A0A2R7WNA0		Oncocin [P13R]-G	Synthetic construct		VDKPPYLPRPRPRRRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18279		A0A2R7WNA0		Oncocin [R14K]-G	Synthetic construct		VDKPPYLPRPRPPKRIYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18280		A0A2R7WNA0		Oncocin [I16C]-G	Synthetic construct		VDKPPYLPRPRPPRRCYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18281		A0A2R7WNA0		Oncocin [I16F]-G	Synthetic construct		VDKPPYLPRPRPPRRFYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18282		A0A2R7WNA0		Oncocin [I16K]-G	Synthetic construct		VDKPPYLPRPRPPRRKYNRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8334				BF2-A-magainin (B-A-M)	Synthetic construct		TRSSRAGLQWPVGRVHRLLRKAGGIGKWLHSAKKFGKAFVGEIMNS	46	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12071				AvBD10A/W	Synthetic construct		DPLFPDTVACRTQGNFCRAGACPPTFTISGQCHGGLLNCCAKIPWQ	46	30078596	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13746				HBD3 	Synthetic construct		MGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	46	33865931	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14357				Fp11	Synthetic construct		NQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLIT	46	34591335	Antiviral		Predicted
+CAMPSQ16586		P49913		AL32-P113	Synthetic construct		ALGDFFRKSKEKIGKEFKRIVQRIKDFLRNLAKRHHGYKRKFHLEY	46	29859288	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ21189				Recombinant Cy-AMP1, rCy-AMP1	Synthetic construct		GSKGAPCAKKPCCGPLGHYKVDCSTIPDYPCCSKYGFCGSGPQYCG	46	19466694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21190				Recombinant Cy-AMP1 [S33G], rCy-AMP1 [S33G]	Synthetic construct		GSKGAPCAKKPCCGPLGHYKVDCSTIPDYPCCGKYGFCGSGPQYCG	46	19466694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21191				Recombinant Cy-AMP1 [Y35V], rCy-AMP1 [Y35V]	Synthetic construct		GSKGAPCAKKPCCGPLGHYKVDCSTIPDYPCCSKVGFCGSGPQYCG	46	19466694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21192				Recombinant Cy-AMP1 [Y35N], rCy-AMP1 [Y35N]	Synthetic construct		GSKGAPCAKKPCCGPLGHYKVDCSTIPDYPCCSKNGFCGSGPQYCG	46	19466694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21193				Recombinant Cy-AMP1 [F37V], rCy-AMP1 [F37V]	Synthetic construct		GSKGAPCAKKPCCGPLGHYKVDCSTIPDYPCCSKYGVCGSGPQYCG	46	19466694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21722				Undefined	Synthetic construct		RMKQIEDKIEEIESKPKKIENEIARIKKLLQLTVWGPKQLQARIL	45	11572974	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21723				Undefined	Synthetic construct		RMKQIEDKIEEIESKQKKIENEIARIKKLLQLTVWDIKQLQARIL	45	11572974	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21730				Undefined	Synthetic construct		RMKQIEDKIEEIESKIKKIENEIARIKKLLQLTVWGIKQLQARIL	45	11572974	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21899		Q9H1E1		RNase 7 (84-128)	Synthetic construct		TSGKYPNCRYKEKRQNKSYVVACKPPQKKDSQQFHLVPVHLDRVL	45	23183439	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21900		Q9H1E1		RNase 7 (1-45)	Synthetic construct		KPKGMTSSQWFKIQHMQPSPQACNSAMKNINKHTKRCKDLNTFLH	45	23183439	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22006		Q8TDE3		Ribonuclease 8 (1-45)[C23,37S]	Synthetic construct		KPKDMTSSQWFKTQHVQPSPQASNSAMSIINKYTERSKDLNTFLH	45	23962023	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22248				BP216, (BP134-AGPA)2-BP134-KDEL	Synthetic construct		KKLFKKILKYLAGPAKKLFKKILKYLAGPAKKLFKKILKYLKDEL	45	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22685		Q4G3V1,Q9FPM3		MsDef1 [R38Q]	Synthetic construct		RTCENLADKYRGPCFSGCDTHCTTKENAVSGRCRDDFQCWCTKRC	45	15299136, 21533249	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23232		Q6QLQ7		AvBD-12 [C5,12,17,27,34,35A][D3H,D8V,E21L,E29I]	Synthetic construct		GPHSANHVRGLARVGNANPGLYLAKYAFIPVILAAKPLSPTPTKT	45	28231771	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23233		Q6QLQ7		AvBD-12 [C5,12,17,27,34,35S][D3R,D8K,E21K,E29R]	Synthetic construct		GPRSSNHKRGLSRVGNSNPGKYLAKYSFRPVILSSKPLSPTPTKT	45	28231771	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23234		Q6QLQ7		AvBD-12 [C5,12,17A][C27,34,35S][D3R,D8K,E21K,E29R]	Synthetic construct		GPRSANHKRGLARVGNANPGKYLAKYSFRPVILSSKPLSPTPTKT	45	28231771	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23235		Q6QLQ7		AvBD-12 [C5,34Abu]	Synthetic construct		GPDSXNHDRGLCRVGNCNPGEYLAKYCFEPVILXCKPLSPTPTKT	45	28231771	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23236		Q6QLQ7		AvBD-12[C5,12,27,34,Abu]	Synthetic construct		GPDSXNHDRGLXRVGNCNPGEYLAKYXFEPVILXCKPLSPTPTKT	45	28231771	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23237		Q6QLQ7		AvBD-12 [C5,12,17,27,34,35Abu]	Synthetic construct		GPDSXNHDRGLXRVGNXNPGEYLAKYXFEPVILXXKPLSPTPTKT	45	28231771	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23238		Q6QLQ7		AvBD-12 [D3H,D8Q,E21Y,E29S], AvBD-12/6	Synthetic construct		GPHSCNHQRGLCRVGNCNPGYYLAKYCFSPVILCCKPLSPTPTKT	45	28231771	Antibacterial	Gram+,Gram-	Experimentally Validated

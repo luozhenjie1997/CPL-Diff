@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ395	3915049	P81469		Styelin-A	Styela clava 	Animalia	GXFGKAFXSVSNFAKKHKTA	20	9467865	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ398	41016799	P82232		Brevinin-1T	Rana temporaria	Animalia (Amphibia)	VNPIILGVLPKFVCLITKKC	20	10333736	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ437	41017617	P82876		Ranalexin-1Ca	Rana clamitans	Animalia (Amphibia)	FLGGLMKAFPALICAVTKKC	20	10822101	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ438	41017618	P82877		Ranalexin-1Cb	Rana clamitans	Animalia (Amphibia)	FLGGLMKAFPAIICAVTKKC	20	10822101	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ480	46577583	P83547		Chrysophsin-3	Pagrus major	Animalia (Pisces)	FIGLLISAGKAIHDLIRRRH	20	12581207	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ490	50401824	P83988		Arietin	Cicer arietinum	Plantae	GVGYKVVVTTTAAADDDDVV	20	12084511	Antifungal		Experimentally validated
+CAMPSQ540	585769	P37362		Pyrrhocoricin	Pyrrhocoris apterus 	Animalia (Insects)	VDKGSYLPRPTPPRPIYNRN	20	10076062	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ543	5915685	P80392		Antimicrobial peptide THP2 precursor 	Meleagris gallopavo 	Animalia (Aves)	LFCKRGTCHFGRCPSHLIKV	20	7964174	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ568	66773820	P84529		Antibacterial napin	Brassica rapa subsp. chinensis 	Plantae	PAQPFRFPKHPQGPQTRPPI	20	15062997	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ586	68053347	P83986		Cicerarin	Cicer arietinum	Plantae	VKSTGRADDDLAVKTKYLPP	20	12895650	Antifungal		Experimentally validated
+CAMPSQ587	68053357	P83987		Cicerin	Cicer arietinum	Plantae	ARCENFADSYRQPPISSSQT	20	12084511	Antifungal		Experimentally validated
+CAMPSQ608	730091	Q07932		Pilosulin-1 	Myrmecia pilosula	Animalia (Insects)	GLGSVFGRLARILGRVIPKV	20	15639237	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ610	730587	P39084		Ranalexin	Rana catesbeiana	Animalia (Amphibia)	FLGGLIKIVPAMICAVTKKC	20	8144672	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ650	8928534	P82285	2AP7,2AP8	Bombinin-H5	Bombina variegata	Animalia (Amphibia)	IIGPVLGLVGSALGGLLKKI	20	8223491	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ658		P83477		Antiviral protein Y3 - Pleurotus citrinopileatus	Pleurotus citrinopileatus	Fungi	VYINKLTPPCGTMYYACEAV	20		Antiviral, Anticancer		Experimentally validated
+CAMPSQ667	2342597	O24006		Ib-AMP1	Impatiens balsamina	Plantae	QWGRRCCGWGPGRRYCVRWC	20	9305910	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ668	2342597	O24006		Ib-AMP2	Impatiens balsamina	Plantae	QYGRRCCNWGPGRRYCKRWC	20	9305910	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ669	2342597	O24006		Ib-AMP3	Impatiens balsamina	Plantae	QYRHRCCAWGPGRKYCKRWC	20	9305910	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ670	2342597	O24006		Ib-AMP4	Impatiens balsamina	Plantae	QWGRRCCGWGPGRRYCRRWC	20	9305910	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ680				Phylloseptin-4 	Phyllomedusa hypochondrialis	Animalia (Amphibia)	FLSLIPHAINAVSTLVHHSG	20	16963159	Antibacterial		Experimentally validated
+CAMPSQ685		Q58T61 , Q58T60		Maximin H4	Bombina maxima	Animalia (Amphibia)	ILGPVISKIGGVLGGLLKNL	20	11835991	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ695	110560616	A6MBN6		Odorranain-J1 antimicrobial peptide	Odorrana grahami	Animalia (Amphibia)	GLFTLIKCAYQLIAPTVACN	20	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ698	110560423	A6MBD9		Odorranain-B1 antimicrobial peptide	Odorrana grahami	Animalia (Amphibia)	AALKGCWTKSIPPKPCFGKR	20	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ775				Dybowskin-6	Rana dybowskii	Animalia (Amphibia)	FLPLLLAGLPLKLCFLFKKC	20	17698251	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ810	547305	Q9S8M3		Pseudothionin-St1, Pth-St1	Solanum tuberosum	Plantae	RNCESLSHRFKGPCTRDSNC	20	11555873	Antibacterial	Gram +ve	Experimentally validated

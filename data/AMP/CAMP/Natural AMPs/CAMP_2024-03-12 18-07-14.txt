@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10388				Hs04	Homo sapiens	Animalia (Mammals)	LFNNYITAALKLLEKLYKV	19	31386688	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10426				KAMP-19	Homo sapiens	Animalia	RAIGGGLSSVGGGSSTIKY	19	27891122	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10433				Ranalexin-Va 	Rana virgatipes 	Animalia	FFGLHNLVPSMLCVVRKKC	19	15996769	Antibacterial		Predicted
+CAMPSQ10486				CLP-19 	Tachypleus tridentatus and Limulus polyphemus	Animalia (Merostomata)	CRKPTFRRLKWKIKFKFKC	19	28915566	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10529				Sph20-38	Scylla paramamosain	Animalia	RSARAGLQFPVGRIHRHLK	19	28600196	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10686				B2RP-ERa	Hylarana erythraea	Animalia	GVIKSVLKGVAKTVALGML	19	22374306	Antibacterial 	Gram +ve	Experimentally validated
+CAMPSQ10805				Citrocin	Citrobacter pasteurii	Monera	GGVGKIIEYFIGGGVGRYG	19	30846564	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10836				TO19 (TO17 peptide derivative)	Sciaenops ocellatus	Animalia	KCRRRKVHGPMIRIRKKNL	19	29183811	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10963				Chensinin-1ZHa 	Rana zhenhaiensis	Animalia	LALKSGGWLRLFGLKDKKH	19	22943778	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11018				Os-C	Ornithodoros savignyi	Animalia	KGIRGYKGGYKGAFKQTKY	19	26662999	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11102				HP-3(Ranacyclin-ca)	Lithobates catesbeianus	Animalia (Amphibia)	SLSGCWTKSFPRKPCLRNR	19	30728430	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11214				Phylloseptin-1.1TR	Phyllomedusa trinitatis	Animalia (Amphibia)	FLSLIPKIAGGIASLVKNL	19	29980138	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11215				Phylloseptin-1.2TR	Phyllomedusa trinitatis	Animalia (Amphibia)	FLSLIPKIAGGIASLVKDL	19	29980138	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11216				Phylloseptin-2.1TR	Phyllomedusa trinitatis	Animalia (Amphibia)	FLSLIPHIATGIAALAKHL	19	29980138	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11217				Phylloseptin-3.1TR	Phyllomedusa trinitatis	Animalia (Amphibia)	FFSMIPKIATGIASLVKNL	19	29980138	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11218				Phylloseptin-3.3TR	Phyllomedusa trinitatis	Animalia (Amphibia)	FFSMIPKIATGIASLVKDL	19	29980138	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11219				Phylloseptin-3.2TR	Phyllomedusa trinitatis	Animalia (Amphibia)	FFSMIPKIATGIASLVKNL	19	29980138	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11237				HD5(14-32)	Homo sapiens	Animalia (Mammals)	ESLSGVCEISGRLYRLCCR	19	30808760	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11329				PSPHa	Pithecopus hypochondrialis	Animalia (Amphibia)	FLSLIPAAISAVSALANHF	19	30774309	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11473				NP-6	Zanthoxylum bungeanum	Plantae (Angiosperms)	AGDKKIKIGINGFGRIGRL	19	30623204	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11494				Bac5(1-19)	Bos taurus	Animalia (Mammals)	RFRPPIRRPPIRPPFYPPF	19	30615305	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11500				Phylloseptin-PBa1	Phyllomedusa burmeisteri	Animalia (Amphibia)	FLSLIPHIASGIASLVKNF	19	30612735	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11501				Phylloseptin-PBa2	Phyllomedusa burmeisteri	Animalia (Amphibia)	FLSLLPHIASGIASLVSKF	19	30612735	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11502				Phylloseptin-PBa3	Phyllomedusa burmeisteri	Animalia (Amphibia)	FLSLIPHIVSGVAALANHL	19	30612735	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11694				RP19	Homo sapiens	Animalia (Mammals)	RLEFKLQQTSCRKRDWKKP	19	30504221	Antibacterial	Gram +ve	Experimentally validated

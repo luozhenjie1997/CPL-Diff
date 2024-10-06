@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1143				Pexiganan	Synthetic construct		GIGKFLKKAKKFGKAFVKILKK	22	10103181	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ23860		K9N5Q8		MERS-S (1260-1280) [Q12,A16Ala-4-pen; Y21F]	Synthetic construct		LDLTYEMLSLQXVVKXLNESF	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23861		K9N5Q8		MERS-S (1260-1280) [M7Nle; Q12,A16Ala-4-pen; Y21F]	Synthetic construct		LDLTYEXLSLQXVVKXLNESF	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23941		P02649		C-apoE (250269), hEP-5	Synthetic construct		CIRLQAEAFQARLKSWFEPLV	21	22334503	Antiviral		Experimentally Validated
+CAMPSQ23959		O41892		GBV-A3	Synthetic construct		LLDCWVRLGRYLLRRLKTPFT	21	23175359	Antiviral		Experimentally Validated
+CAMPSQ24005		Q5DP94		SC21EK	Synthetic construct		WEEWDKKIEEYTKKIEELIKK	21	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24023		Q5DP94		MTSC19EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELI	21	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24063		Q84HW0		L-PLNC8-alpha (9-29)	Synthetic construct		SWGYYLGKKARWNLKHPYVQF	21	32107445	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24089		P03377		LP-58	Synthetic construct		WEQKIEELLKKAEEQQKKNEX	21	30089693	Antiviral		Experimentally Validated
+CAMPSQ24098		P03377		LP-67	Synthetic construct		LLEQAEEQQKKNEEELKKLEX	21	30089693	Antiviral		Experimentally Validated
+CAMPSQ24099		P03377		LP-69	Synthetic construct		IEELLKKAEEQQKKNEEELKX	21	30089693	Antiviral		Experimentally Validated
+CAMPSQ24290				SM-985	Synthetic construct		GAGIGPGHRRTWRRWPRRRWR	21	32636825	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24319				Brevinin-1H with transferred Rana-box, Brevinin-1Ha	Synthetic construct		FALGAVTCLIRTKCKVLPKLF	21	32812694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24320				Brevinin-1H [P11Y]	Synthetic construct		FALGAVTKVLYKLFCLITRKC	21	32812694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24343		F6SEN4		Ciona intestinalis Uncharacterized protein (1-21)	Synthetic construct		TINKKFRWHGKRKWWLRFVKQ	21	32724213	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24439				CAR3	Synthetic construct		LKKLCARLKKLCARLKKLCAR	21	31887002	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24442				ACR3	Synthetic construct		LKKLACRLKKLACRLKKLACR	21	31887002	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24445		P86711		Ocellatin-K1 (1-21)	Synthetic construct		GVVDILKGAAKDLAGHLASKV	21	32060388	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24661		Q5T5A8		LCE-3C (55-75)	Synthetic construct		SHHRHFRSHQCRRQRSNSCDR	21	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24684		A0A1I8M6I1		Cecropin A-like 4 (3-23)[E9W,Q13W,H14N]	Synthetic construct		LKKIGKKIWRVGWNTRDATIQ	21	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24718		D4HRB8		Gaduscidin-1 [H3A]	Synthetic construct		FIAHIIGWISHGVRAIHRAIH	21	33770667	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24719		D4HRB8		Gaduscidin-1 [H4A]	Synthetic construct		FIHAIIGWISHGVRAIHRAIH	21	33770667	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24720		D4HRB8		Gaduscidin-1 [H11A]	Synthetic construct		FIHHIIGWISAGVRAIHRAIH	21	33770667	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24721		D4HRB8		Gaduscidin-1 [H17A]	Synthetic construct		FIHHIIGWISHGVRAIARAIH	21	33770667	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24722		D4HRB8		Gaduscidin-1 [H21A]	Synthetic construct		FIHHIIGWISHGVRAIHRAIA	21	33770667	Antibacterial	Gram-	Experimentally Validated

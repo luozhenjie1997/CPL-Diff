@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ137	135798	P07504		Thionin	Pyrularia pubera	Plantae	KSCCRNTWARNCYNVCRLPGTISREICAKKCDCKIISGTTCPSDYPK	47	3985614	Antibacterial		Experimentally validated
+CAMPSQ237	20139323	P81930	6NOM	Defense-related peptide 2 , Psd2	Pisum sativum	Plantae	KTCENLSGTFKGPCIPDGNCNKHCRNNEHLLSGRCRDDFRCWCTNRC	47	10860545, 30639288	Antifungal		Experimentally validated
+CAMPSQ238	20141302	P81605	2KSG,2YMK	Dermcidin 	Homo sapiens 	Animalia (Mammals)	SSLLEKGLDGAKKAVGGLGKLGKDAVEDLESVGKGAVHDVKDVLDSV	47	11694882	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ390	3913645	P81456		Fabatin-1	Vicia faba	Plantae	LLGRCKVKSNRFHGPCLTDTHCSTVCRGEGYKGGDCHGLRRRCMCLC	47	9103978	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ732	157881028	Q962A7	1XV3	Penaeidin 4	Litopenaeus setiferus	Animalia (Crustaceans (Malacostraca))	HSSGYTRPLRKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHL	47	15699044	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ772				White cloud bean defensin 	Phaseolus vulgaris	Plantae	KTCENLADTFRGPCFATSNCDDHCKNKEHLLSGRCRDDFRCWCTRNC	47	16687191	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ857	3913646	P81457		Fabatin-2	Vicia faba	Plantae	LLGRCKVKSNRFNGPCLTDTHCSTVCRGEGYKGGDCHGLRRRCMCLC	47	9103978	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ916	44887846	Q8H6Q1	1N4N	Floral defensin-like protein 1PhD1	Petunia x hybrida	Plantae	ATCKAECPTWDSVCINKKPCVACCKKAKFSDGHCSKILRRCLCTKEC	47	12644678	Antifungal		Experimentally validated
+CAMPSQ935	44887844	Q8GTM0	4AAZ,4AB0	Flower-specific defensin precursor 	Nicotiana alata	Plantae	RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC	47	12644678	Antifungal		Experimentally validated
+CAMPSQ1058	55583802	P82243	2B9K	Antimicrobial peptide LCI	Bacillus subtilis 	Monera	AIKLVQSPNGNFAASFVLDGTKWIFKSKYYDSSKGYWVGIYEVWDRK	47		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1238	25090983	Q963C3		Penaeidin-4c 	Litopenaeus vannamei	Animalia (Crustaceans (Malacostraca))	YSSGYTRPLPKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHR	47	12242595	Antibacterial, Antifungal		Predicted
+CAMPSQ1487	25090972	Q95NT0		Penaeidin-4a	Litopenaeus vannamei	Animalia (Crustaceans (Malacostraca))	HSSGYTRPLPKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHR	47		Antibacterial, Antifungal		Predicted
+CAMPSQ1493	159162710	P32026	1MR4	Nad1	Nicotiana tabacum	Plantae	RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC	47	12473460	Antifungal		Predicted
+CAMPSQ1541	17373811	O65740		Defensin J1-2	Capsicum annuum	Plantae	RTCESQSHRFKGLCFSKSNCGSVCHTEGFNGGHCRGFRRRCFCTRHC	47	8883377	Antifungal		Predicted
+CAMPSQ1694	75266171	Q9SPL4		Vicin-like antimicrobial peptide 2c-2	Macadamia integrifolia 	Plantae	RQRDPQQQYEQCQERCQRHETEPRHMQTCQQRCERRYEKEKRKQQKR	47	10571855	Antibacterial, Antifungal		Predicted
+CAMPSQ1700	75207035	Q9SPL3		Vicin-like antimicrobial peptide 2c-2	Macadamia integrifolia 	Plantae	RQRDPQQQYEQCQKRCQRRETEPRHMQICQQRCERRYEKEKRKQQKR	47	10571855	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1905	152112501	Q8N687		Beta-defensin 125	Homo sapiens 	Animalia (Mammals)	SFEPQKCWKNNVGHCRRRCLDTERYILLCRNKLSCCISIISHEYTRR	47		Antibacterial		Predicted
+CAMPSQ1906	152112499	A4H236		Beta-defensin123	Pongo pygmaeus	Animalia (Mammals)	GTQRCWNLYGKCRHRCSKKERVYVYCVNNKMCCVKPKYQPKERWWRF	47		Antibacterial		Predicted
+CAMPSQ19090		P84965		TK-AMP-D1.1/R46C	Triticum kiharae	Plantae	RDCESDSHKFHGACFSDTNCANVCQTEGFAGKCVGVQRHCHCTKDC	46	27208129	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22427				Esculentin-1AA1	Amolops afghanus	Animalia	GIFSKFAGRGLKNLFMKGAKKIGKEVGMDVLRTGIDIAGCKIRGEC	46	26452973	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22431				Esculentin-1RL1	Rana limnocharis	Animalia	GIFSKFAGKGLKNLFMKGAKTIGKEVGMDVLRTGIDIAGCKIKGEC	46	26452973	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22435				Esculentin-1RE1	Rana exilispinosa	Animalia	GIFSKFVGKGLKNLFMKGAKTIGREVGMDVLRTGIDIAGCKIKGEC	46	26452973	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22483		A0A0C5IAF5		SibaDef, Defensin Siba	Simulium bannaense	Animalia	ATCDLLSISTPWGSVNHAACAAHCLALNRGFRGGYCSSKAVCTCRK	46	25649358	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22815		F1CNA8		Piscidin-2, emPis-2	Epinephelus malabaricus	Animalia	FFFHIIKGLFHAGRMIHGLVNRRRHRHGMEELDLDQRAFEREKAFA	46	27554395	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22978		F1CNA7		Piscidin-2, ecPis-2	Epinephelus coioides	Animalia	FFFHIVKGLFHAGRMIHGLVNRRRHRHGMEELDLDQRAFEREKAFA	46	28433718	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated

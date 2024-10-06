@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ346	3121854	P80710		Clavanin-A	Styela clava	Animalia	VFQFLGKIIHHVGNFVHGFSHVF	23	9001389	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ347	3121863	O18493		Clavanin-C	Styela clava	Animalia	VFHLLGKIIHHVGNFVYGFSHVF	23	9001389	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ348	3121864	P80711		Clavanin-B	Styela clava	Animalia	VFQFLGRIIHHVGNFVHGFSHVF	23	9001389	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ349	3121865	P80713		Clavanin-D	Styela clava	Animalia	AFKLLGRIIHHVGNFVYGFSHVF	23	9001389	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ456	41688509	Q95NH6		Attacin-C	Drosophila melanogaster	Animalia (Insects)	QRPYTQPLIYYPPPPTPPRIYRA	23	14744858	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ572	67460433	O97395		Clavaspirin	Styela clava	Animalia	FLRFIGSVIHGIGHLVHHIGVAL	23	12005415	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ675	32396182	Q7SZH2		Pleurocidin-like peptide AP3	Hippoglossoides platessoides	Animalia (Pisces)	GWRTLLKKAEVKTVGKLALKHYL	23	12878506	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ716				OdW1	Odorrana grahami	Animalia (Amphibia)	GLFGKSSVHGRKYYVDLAGCAKA	23	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ920	461480	P30226		Cysteine-rich antifungal protein 2 (Bn-AFP2)	Brassica napus	Plantae	QKLCERPSGTWSGVCGNNNACKN	23	8422949	Antifungal		Experimentally validated
+CAMPSQ1056	224487871	P0C8S6		Conolysin-Mt2	Conus mustelinus	Animalia (Molluscs (Gastropoda))	FHPSLWVLIPQYIQLIRKILKSG	23	17927208	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1220	3023578	P56244		Caerin-4.3	Litoria caerulea	Animalia (Amphibia)	GLWQKIKNAAGDLASGIVEGIKS	23		Antibacterial		Predicted
+CAMPSQ1221	3023577	P56243		Caerin-4.2	Litoria caerulea	Animalia (Amphibia)	GLWQKIKSAAGDLASGIVEAIKS	23		Antibacterial		Predicted
+CAMPSQ1222	3023576	P56242		Caerin-4.1	Litoria caerulea	Animalia (Amphibia)	GLWQKIKSAAGDLASGIVEGIKS	23		Antibacterial		Predicted
+CAMPSQ1304	29123268	Q800R5		Caerin 1.15	Litoria caerulea	Animalia (Amphibia)	GLFGLAKGSVAKPHVVPVISQLV	23		Antibacterial		Predicted
+CAMPSQ1525	13959339	O93454		Dermaseptin PD-3-6	Pachymedusa dacnicolor	Animalia (Amphibia)	GVVTDLLNTAGGLLGNLVGSLSG	23		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2322	318055783, 318055781	E7EKC3		Brevinin-1HN1 antimicrobial peptide precursor, Brevinin-1HN1_2 antimicrobial peptide precursor   	Odorrana hainanensis  	Animalia (Amphibia)	LPLIASLAANFVPKIFCKITKKC	23		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2339	304442852	E1B228		Brevinin-1CG5 antimicrobial peptide precursor  	Amolops chunganensis	Animalia (Amphibia)	LPMLAGLAANFLPKIVCKITKKC	23	22951323	Antibacterial, Antifungal		Predicted
+CAMPSQ2473	306756309	C5J888		Non-disulfide-bridged peptide 43	Opisthacanthus cayaporum  	Animalia (Arachnida)	WATLAKGALKLIPTIANAFSSKS	23	19379768	Antibacterial		Predicted
+CAMPSQ2586	374110672	G3ETQ2		Jindongenin-1a	Amolops sp. jingdongensis	Animalia (Amphibia)	SMGAVKLAKLLIDKMKCEVTKAC	23	21816202	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2641	291220457	D4P8J1		Nahymenoptaecin-2 precursor  	Nasonia vitripennis	Animalia (Insects)	IRPRPTARPPYINRPPNPFKPRW	23		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2760			0W78	  Galensin 	Kassina senegalensis 	Animalia (Amphibia)	CYSAAKYPGFQEFINRKYKSSRF	23	Reference: Reid C.N., Bjourson A.J., Shaw C. (2001) Galensin, a novel homodimeric antimicrobial peptide from the defensive skin secretion of Kassina senegalensis: isolation, structural characterisation and cloning of precursor cDNA. Submitted (JUL-2001) t	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2816		P49913	2LMF	  human LL-23 	Homo sapiens	Animalia (Mammals)	LLGDFFRKSKEKIGKEFKRIVQR	23	17012259	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2885				  NRC-13 	Glyptocephalus cynoglossus L.	Animalia (Pisces)	GWRTLLKKAEVKTVGKLALKHYL	23	Reference: Wang, C, Sun Z, Liu Y, Zhang X, Xu G (2007) A novel antimicrobial vermipeptide family from earthworm Eisenia fetida. Eur. J Soil Biol 2007; 43:S217-S134.	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2886				  NRC-17 	Glyptocephalus cynoglossus L.	Animalia (Pisces)	GWKKWLRKGAKHLGQAAIKGLAS	23	Reference: Wang, C, Sun Z, Liu Y, Zhang X, Xu G (2007) A novel antimicrobial vermipeptide family from earthworm Eisenia fetida. Eur. J Soil Biol 2007; 43:S217-S134.	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3063				  Magainin-AM2 	Xenopus amieti	Animalia (Amphibia)	GVSKILHSAGKFGKAFLGEIMKS	23	20226221	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

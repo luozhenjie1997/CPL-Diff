@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20830				Undefined	Synthetic construct		KWLRRPWRRWR	11	31059203	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20831				Undefined	Synthetic construct		KWLRRPWRWWR	11	31059203	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20865		Q9FWK4		CL(15-25)	Synthetic construct		RLMAAKAESRK	11	23270672	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20866		Q9FWK4		CL(14-24)	Synthetic construct		RRLMAAKAESR	11	23270672	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20935				Gramicidin S [4 ins L]	Synthetic construct		VXLLfPVXLfP	11	20449481	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20936				Gramicidin S [4 ins A]	Synthetic construct		VXLAfPVXLfP	11	20449481	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20937				Gramicidin S [4 ins Orn]	Synthetic construct		VXLXfPVXLfP	11	20449481	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20938				Gramicidin S [4 ins K]	Synthetic construct		VXLKfPVXLfP	11	20449481	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20939				Gramicidin S [4 ins R]	Synthetic construct		VXLRfPVXLfP	11	20449481	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20999				Trichogin GA IV [G2K]	Synthetic construct		XKLXGGLXGIX	11	25306964	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21000				Trichogin GA IV [G6K] Ome	Synthetic construct		XGLXGKLXGIL	11	25306964	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21001				Trichogin GA IV [G9K]	Synthetic construct		XGLXGGLXKIX	11	25306964	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21002				Trichogin GA IV [G9K] Ome	Synthetic construct		XGLXGGLXKIL	11	25306964	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21021		P56029		HP(4-14) 50S ribosomal protein L1	Synthetic construct		KVFKRLEKLFS	11	17961502	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21050				Undefined	Synthetic construct		KKLFKKIKKFL	11	20603106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21051				Undefined	Synthetic construct		KKLFKKALKFL	11	20603106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21052				Undefined	Synthetic construct		KKLFKKGLKFL	11	20603106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21053				Undefined	Synthetic construct		GKLFKKILKFL	11	20603106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21054				Undefined	Synthetic construct		GKLFKKILKIL	11	20603106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21143		P82656		H/V-peptide (19-29)	Synthetic construct		KLKRKAKNAVA	11	23403131	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21149				Undefined	Synthetic construct		KPLLKKLLKKL	11	14514057	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21150				Undefined	Synthetic construct		KLLKKPLKLKL	11	14514057	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21246				Undefined	Synthetic construct		VKEEVKFSKKW	11	24254748	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21255		Q8N2E6		Salusin-beta (1-11)	Synthetic construct		AIFIFIRWLLK	11	24881665	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21257		Q8N2E6		Salusin-beta (7-17)	Synthetic construct		RWLLKLGHHGR	11	24881665	Antibacterial	Gram+	Experimentally Validated

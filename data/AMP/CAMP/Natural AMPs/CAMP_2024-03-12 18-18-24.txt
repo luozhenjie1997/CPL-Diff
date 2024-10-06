@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8810				IP	Ixodes persulcatus	Animalia (Arthropoda)	GFGCPFNQGACHRHCRSIGRRGGYCAGLFKQTCTCYSR	38	26873587	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8906				EcAMP4	Echinochloa	Plantae (Commelinids)	SRGGRCERKCRRHSDWQTRQRCLQQCEQRERQEEGGRD	38	31012001	Antifungal		Experimentally validated
+CAMPSQ8907				EcAMP4.1	Echinochloa	Plantae (Commelinids)	SRGGRCERKCRRHSDWQTRQRCLQQCEQRERQEEGGRD	38	31012001	Antifungal		Experimentally validated
+CAMPSQ10061				As-CATH4	Alligator sinensis	Animalia	RRGLFKKLRRKIKKGFKKIFKRLPPVGVGVSIPLAGRR	38	29017942	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10441				Propionicin T1	Propionibacterium thoeniiP127	Monera	VPGGCTYTRSNRDVIGTCKTGSGQFRIRLDCNNAPDKT	38	11010864	Antibacterial 	Gram -ve	Predicted
+CAMPSQ10531				Sphistin	Scylla paramamosain	Animalia	MAGGKAGKDSGKAKAKAVSRSARAGLQFPVGRIHRHLK	38	28600196	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10717				LSer-PRP1	Lucilia sericata	Animalia	EWRPHGSNGGSSLRPGRPQTLPPQRPIQPDFNGPRQRF	38	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10718				LSer-PRP2	Lucilia sericata	Animalia	EWRPHGSIGGSGLRPGRPQTLPPQRPRRPDFNGPRHRF	38	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11211				Paralithocin 1	Paralithodes camtschaticus	Animalia	WQQPSCSSICDYSCGKSACISYSGRCGCCASCRRGPIY	38	29338238	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11245				Triintsin	Trichophyton interdigitale 	Fungi	GFGCPLNERECHSHCQSIGRKFGYCGGTLRLTCICGKE	38	30102941	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12017				Persulcatusin	Ixodes persulcatus	Animalia (Insect )	GFGCPFNQGACHRHCRSIGRRGGYCAGLFKQTCTCYSR	38	27531221	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12018				IR	Ixodes ricinus	Animalia (Insect )	GGYYCPFFQDKCHRHCRSFGRKAGYCGGFLKKTCICV	38	27531221	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13371				Satanin 1	Dichotomius satanas	Animalia (Insecta)	RSKKWRKIEKRVKKIFEKTKEALPVIQGVATIVGAVGR	38	34391826	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13372				Satanin 2	Dichotomius satanas	Animalia (Insecta)	GSKRWRKFEKRVKKIFEETKEALPVIQGVATIVGAVGR	38	34391826	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13641				NCR169-OX1	Medicago truncatula	Plantae (Angiosperms)	EDIGHIKYCGIVDDCYKSKKPLFKIWKCVENVCVLWYK	38	33972675	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13642				NCR169-OX2	Medicago truncatula	Plantae (Angiosperms)	EDIGHIKYCGIVDDCYKSKKPLFKIWKCVENVCVLWYK	38	33972675	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13700				LL-37	Homo sapiens 	Animalia (Mammals)	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRITES	38	33742508	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13710				Octopromycin 	Octopus minor	Animalia	RRLIRTDTGPIIYDYFKDQLLKKGMVILRESMKNLKGM	38	34311097	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ15141				C_AMP518	Bacteroides	Monera (Bacteria)	GINLKRKGNIMKKVKNIFHKIANADPMIWGYVMLSESK	38	35241840	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ20350		T5C0W3,F2TFD3		Defensin Bd, Bldesin	Blastomyces gilchristii,Ajellomyces dermatitidis	Fungi	GWGCNIFGGNDYRCHRHCKSISGYKGGYCKLGGICKCY	38	31025073, 30381903	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20355		A0A0H1BJF3		Emmonsia parva Defensin-like peptide	Emmonsia parva UAMH 139 (Blastomyces silverae)	Fungi	GWGCNIFGGNDYRCHRHCKSIKGYKGGYCKLGGICKCY	38	31025073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20356		A0A0G2J9H9		Emmonsia sp. Defensin-like peptide	Emmonsia sp. CAC-2015a	Fungi	GWGCTIFGGNDSRCHRHCKSIRGYRGGYCKLGGICKCY	38	31025073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22372		A0A089VRA3,W6I0G2		Defensin MT3	Ixodes ricinus		GYYCPFRQDKCHRHCRSFGRKAGYCGNFLKRTCICVKK	38	26255244, 27822206	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22374				Defensin MT2	Ixodes ricinus		GYFCPYNGYCDHHCRKKLRWRGGYCGGRWKLTCICVRG	38	26255244, 27822206	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22375				Defensin MT5	Ixodes ricinus		GFFCPYNGYCDRHCRKKLRRRGGYCGGRWKLTCICIMN	38	26255244, 27822206	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated

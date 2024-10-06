@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23156				2-RW	Synthetic construct		RWRWNRRTGRWRWY	14	29193517	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23259		P01516		Mastoparan-C [L1A]	Synthetic construct		ANLKALLAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23260		P01516		Mastoparan-C [N2A]	Synthetic construct		LALKALLAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23261		P01516		Mastoparan-C [L3A]	Synthetic construct		LNAKALLAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23262		P01516		Mastoparan-C [K4A]	Synthetic construct		LNLAALLAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23263		P01516		Mastoparan-C [L6A]	Synthetic construct		LNLKAALAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23264		P01516		Mastoparan-C [L7A]	Synthetic construct		LNLKALAAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23265		P01516		Mastoparan-C [V9A]	Synthetic construct		LNLKALLAAAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23266		P01516		Mastoparan-C [K11A]	Synthetic construct		LNLKALLAVAAKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23267		P01516		Mastoparan-C [K12A]	Synthetic construct		LNLKALLAVAKAIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23268		P01516		Mastoparan-C [I13A]	Synthetic construct		LNLKALLAVAKKAL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23269		P01516		Mastoparan-C [L14A]	Synthetic construct		LNLKALLAVAKKIA	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23270		P01516		Mastoparan-C [L1G]	Synthetic construct		GNLKALLAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23271		P01516		Mastoparan-C [L7G]	Synthetic construct		LNLKALGAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23272		P01516		Mastoparan-C [L1K]	Synthetic construct		KNLKALLAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23273		P01516		Mastoparan-C [L1G, L7A]	Synthetic construct		GNLKALAAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23274		P01516		Mastoparan-C [K4,11,12R]	Synthetic construct		LNLRALLAVARRIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23275		P01516		Mastoparan-C [A5K]	Synthetic construct		LNLKKLLAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23276		P01516		Mastoparan-C [A5,8K]	Synthetic construct		LNLKKLLKVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23280		P01516		Mastoparan-C [L1G, A5K]	Synthetic construct		GNLKKLLAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23281		P01516		Mastoparan-C [A5K, L7A]	Synthetic construct		LNLKKLAAVAKKIL	14	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23485				Undefined	Synthetic construct		GLLDLLKLLLKAAG	14	30839209	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23507		P01514		Mitoparan [L14S], Mastoparan [A5,8K;A10Aib;L14S]	Synthetic construct		INLKKLAKLXKKIS	14	29337270	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23508		P01514		Mitoparan [K8Orn,L14S], Mastoparan [A5,A8Orn,A10Aib,L14S]	Synthetic construct		INLKKLAXLXKKIS	14	29337270	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23509		P01514		Mitoparan [L14T], Mastoparan [A5,8K;A10Aib;L14T]	Synthetic construct		INLKKLAKLXKKIT	14	29337270	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ811	98960797	Q1JV78		Lactococcin Q beta 	Lactococcus lactis QU 4	Monera	KKWGWLAWVEPAGEFLKGFGKGAIKEGNKDKWKNI	35	11555873	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1196	46395945	Q963A8, Q9Y0X9		Cecropin-C type 1, Cecropin-C type 2	Aedes albopictus	Animalia (Insects)	GGLKKLGKKLEGAGKRVFNAAEKALPVVAGAKALG	35	10413113	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1197	46397850	P81417		Cecropin-A1 , Cecropin-A	Aedes albopictus	Animalia (Insects)	GGLKKLGKKLEGVGKRVFKASEKALPVAVGIKALG	35		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1201	5915771	O18815		Beta-defensin C7 precursor 	 Bos taurus 	Animalia (Mammals)	PLSCRRKGGICILIRCPGPMRQIGTCFGRPVKCCR	35	9488394	Antibacterial	Gram-ve	Predicted
+CAMPSQ1241	116082	P14666		CEC4_BOMMO Cecropin 	Bombyx mori	Animalia (Insects)	RWKIFKKIEKVGQNIRDGIVKAGPAVAVVGQAATI	35	3318666	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1246	1705741	P50720		Hyphancin-3D 	Hyphantria cunea	Animalia (Insects)	RWKIFKKIERVGQNVRDGIIKAGPAIQVLGTAKAL	35		Antibacterial		Predicted
+CAMPSQ1247	1705742	P50721		Hyphancin-3E 	Hyphantria cunea	Animalia (Insects)	RWKFFKKIERVGQNVRDGLIKAGPAIQVLGAAKAL	35		Antibacterial		Predicted
+CAMPSQ1248	1705743	P50722		Hyphancin-3F 	Hyphantria cunea	Animalia (Insects)	RWKVFKKIEKVGRNIRDGVIKAGPAIAVVGQAKAL	35		Antibacterial		Predicted
+CAMPSQ1249	1705744	P50723		Hyphancin-3G 	Hyphantria cunea	Animalia (Insects)	RWKVFKKIEKVGRHIRDGVIKAGPAITVVGQATAL	35		Antibacterial		Predicted
+CAMPSQ1256	15029359, 15029356	Q9Y0Y0, Q963A9		Antibiotic peptide cecropin B1, Antibiotic peptide cecropin B2	Aedes albopictus	Animalia (Insects)	GGLKKLGKKLEGVGKRVFKASEKALPVLTGYKAIG	35		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1517	46395947	Q963B0		Cecropin-A2	Aedes albopictus	Animalia (Insects)	GGLKKFGKKLEGVGKRVFKASEKALPVAVGIKALG	35		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1615	52782746	Q91V82	1E4R	Beta-defensin 8	Mus musculus	Animalia (Mammals)	NEPVSCIRNGGICQYRCIGLRHKIGTCGSPFKCCK	35		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1696	75266171	Q9SPL4		Vicin-like antimicrobial peptide 2d	Macadamia integrifolia 	Plantae	KRDPQQREYEDCRRRCEQQEPRQQYQCQRRCREQQ	35	10571855	Antibacterial, Antifungal		Predicted
+CAMPSQ1697	75207035	Q9SPL3		Vicin-like antimicrobial peptide 2a 	Macadamia integrifolia 	Plantae	QCMQLETSGQMRRCVSQCDKRFEEDIDWSKYDNQE	35	10571855	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1702	75207035	Q9SPL3		Vicin-like antimicrobial peptide 2d	Macadamia integrifolia 	Plantae	KRDPQQREYEDCRRHCEQQEPRLQYQCQRRCQEQQ	35	10571855	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1844	62286496	Q5G860		Defensin-6	Pan troglodytes	Animalia (Mammals)	STRAFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL	35		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2130	161784301	Q8MUF3		Cecropin-C	Anopheles gambiae	Animalia (Insects)	RRFKKFLKKVEGAGRRVANAAQKGLPLAAGVKGLV	35		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2479	310696240	E3SZN3		Andersonin-C peptide precursor  	Odorrana andersonii (golden crossband frog)  	Animalia (Amphibia)	IFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQ	35		Antibacterial		Predicted
+CAMPSQ2693	356483035	G5ELM2		Palustrin-2ISb precursor protein  	Odorrana ishikawae 	Animalia (Amphibia)	LWNSIKIAGKKLFVNVLDKIRCKVAGGCKTSPDVE	35	21911019	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2753	5902769	P80391		  THP-1 	Meleagris gallopavo 	Animalia (Aves)	GKREKCLRRNGFCAFLKCPTLSVISGTCSRFQVCC	35	7964174	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2803				  Dendrocin 	Dendrocalamus latiflorus Munro	Plantae	TTLTLHNLCPYPVWWLVTPNNGGFPIIDNTPVVLG	35	12893287	Antifungal		Experimentally validated
+CAMPSQ2989				  Latarcin 6b 	Lachesana tarabaevi	Animalia (Arachnida)	QAFKTFTPDWNKIRNDAKRMQDNLEQMKKRFNLNL	35	16735513	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ2990				  Latarcin 6c 	Lachesana tarabaevi	Animalia (Arachnida)	QAFKTFTPDWNKIRNDAKRMQDNLEQMKKKFNLNL	35	16735513	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ3160				  T07C4.4 	Caenorhabditis elegans	Animalia (Chromadorea)	MTRILPCLFLVLLAAAPLLANPANPLNLKKHHGVF	35	9920402	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3164				  Mucroporin 	Lychas mucronatus	Animalia (Arachnida)	GRRKRQMEARFEPQNRNYRKRELDLEKLFANMPDY	35	18779362	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

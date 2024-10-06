@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11936				LF11-9	Homo Sapiens	Animalia	PFWRIRIRR	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11941				K108W111	Homo Sapiens	Animalia	RKWVWWRNR	9	28105725	Antifungal		Experimentally validated
+CAMPSQ12113				Peptide 3	Oryza sativa Japonica Group	Plantae (Angiosperms)	VSSNNCANV	9	30061724	Antifungal		Experimentally validated
+CAMPSQ12115				Peptide 5	Oryza sativa Japonica Group	Plantae (Angiosperms)	RTESFPDGE	9	30061724	Antifungal		Experimentally validated
+CAMPSQ12228				?-lactoglobulin f(14-22)	Bos taurus	Animalia (Mammals )	KVAGTWYSL	9	29931710	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12757				1093.29 Legumin Alike	Cicer arietinum L.	Plantae (Angiosperms)	VNRHIVDKL	9	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13370				Xenopep	Xenorhabdus khoisanae J194	Monera (Bacteria)	KXPPFLQPV	9	33859975	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ13635				DR9	Homo sapiens 	Animalia (Mammals)	DXXEEKFLR	9	34417532, 33740624	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ13741				A0	Crassostrea virginica	Animalia (Molluscs  (Bivalvia))	CAGSLRLTC	9	34436290	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14078				Feleucin-K3	Bombina orientalis	Animalia (Amphibia)	FLKLLKKLL	9	34069651	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14161				Pep 3	Triticum aestivum	Plantae	IPFVHPSIL	9	34710691	Antifungal		Experimentally validated
+CAMPSQ14226				AS-hepc3(48-56)	Acanthopagrus schlegelii	Animalia	RRRRCRFCC	9	34676176	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14405				KLK2	Sarcophaga peregrina	Animalia (Insects)	KLKLLLLLK	9	34780520	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14976				Peptide 5	Saccharomyces cerevisiae	Fungi	GLIKSPIKV	9	35215278	Antibacterial		Predicted
+CAMPSQ14997				Peptide 26	Saccharomyces cerevisiae	Fungi	IDDVDSIIK	9	35215278	Antibacterial		Predicted
+CAMPSQ14999				Peptide 28	Saccharomyces cerevisiae	Fungi	VDLNVPAKL	9	35215278	Antibacterial		Predicted
+CAMPSQ15024				Peptide 53	Saccharomyces cerevisiae	Fungi	IGDSIFDKA	9	35215278	Antibacterial		Predicted
+CAMPSQ15158				Feleucin-BO1	Bombina orientalis	Animalia (Amphibia)	FLGLLGSLL	9	25056849	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ15159				Feleucin-K3	Bombina orientalis	Animalia (Amphibia)	FLKLLKKLL	9	25056849	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15215				Pal-ano-9	Anoplius samariensis	Animalia (Insects)	GLLKRIKTL	9	29614317	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ21393				PE2	Paenibacillus ehimensis B7	Bacteria	XIXfLXvLT	9	23594351	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22446		X5JAN0		Feleucin-BV1	Bombina variegata	Animalia	FLGLLGGLL	9	25003126	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22447		X5JB11		Feleucin-BV2	Bombina variegata	Animalia	FLGLIGSLL	9	25003126	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22873				Callyaerin F	Callyspongia aerizusa	Animalia	VPVFPXPLF	9	20599387	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ23392				Paenipeptin C	Paenibacillus elgii B69		XIXfLXvLS	9	20618851, 22203557	Antibacterial	Gram+,Gram-	Experimentally Validated

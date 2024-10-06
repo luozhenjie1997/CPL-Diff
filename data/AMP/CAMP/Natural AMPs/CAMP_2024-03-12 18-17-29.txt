@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8902				EcAMP1	Echinochloa	Plantae (Commelinids)	GSGRGSCSQCMRRHEDEPWRVQECVSQCRRRRGGGD	36	31012001	Antifungal		Experimentally validated
+CAMPSQ9982				Neuropeptide Y (NPY)	Sus scrofa	Animalia	YPSKPDNPGEDAPAEDLARYYSALRHYINLITRQRY	36	9756788	Antifungal		Experimentally validated
+CAMPSQ9985				Palustrin-2ISb	Odorrana ishikawae	Animalia	GLWNSIKIAGKKLFVNVLDKIRCKVAGGCKTSPDVE	36	21911019	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10077				An1a	Alopecosa nagpag	Animalia (Insect)	GFGCPLDQMQCHNHCQSVRYRGGYCTNFLKMTCKCY	36	31658707	Antiviral		Experimentally validated
+CAMPSQ10427				KAMP-46	Homo sapiens	Animalia	YGSGLGVGGGFSSSSGRAIGGGLSSVGGGSSTIKYT	36	27891122	Antibacterial		Predicted
+CAMPSQ11412				PLP6	Odontomachus monticola	Animalia (Insects)	IKGKKIMKNMGKAMKIAGKVAKAMAPIVVPLIVSAA	36	30658410	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11605				CLFchimera	Lactococcus lactis	Monera	DLIWKLLVKAQEKFGRGKPSKRVKKMRRQWQACKSS	36	30552573	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11859				HBD1	Homo Sapiens	Animalia (Mammals)	DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK	36	28423004	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12010				Saha-CATH2	Sarcophilus harrisii	Animalia (Mammals)	TFKRKNGSRKNGHRPGGYSLIALGNKKVLKAPYMES	36	27725697	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ12019				HAE	Haemaphysalis longicornis	Animalia (Insect)	GCPLNQGACHNHCRSIGRRGGYCAGIIKQTCTCYRK	36	27531221	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12587				Crassicorin-I	Urticina crassicornis	Animalia (Cnidaria)	GASXDXHPFVGTYWFGISNXPSGHGYRKKXASFFGV	36	28796463	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14111				CNC-4 (1-36)	Caenorhabditis elegans	Animalia (nematode)	QWGYGPYGGYGGGYPGMYGGYGMRPYGMYGGYGMGM	36	34184732	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14122				K1	Lactococcus lactis	Monera	MKFKFNPTGTIVKKLTQYEIAWFKNKHGYYPWEIPR	36	34230527	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14709				Hill-Alo 2	Hermetia illucens 	Animalia (Insects)	CIANGNGCQPDGRQGNCCSGFCYKQRGWVAGYCRRR	36	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15040				AMP3	Homo sapiens 	Animalia (Mammals)	PIQGLLDSLTGILNKVLPELVQGNVCPLVNEVLRGL	36	35201913	Antifungal		Experimentally validated
+CAMPSQ15137				C_AMP67	Bacteroides	Monera (Bacteria)	AMTLRKRKFAWYVLSSSLKWLIKKAKKIGVQVCGFE	36	35241840	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15138				C_AMP69	Bacteroides ovatus	Monera (Bacteria)	AMTSRKRKFVWYVLSSSLKWLIKKAKKIGVQVCGFE	36	35241840	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15140				C_AMP250	Bacteroides uniformis	Monera (Bacteria)	DRDRPECSTMVKYEQKLPSLGKYALKRAIKIKFGRK	36	35241840	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ19267				Cathelicidin AM, AM-CATH36	Alligator mississippiensis		GLFKKLRRKIKKGFKKIFKRLPPIGVGVSIPLAGKR	36	34121235, 28089718	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19185		O17512		Ceratotoxin-A	Ceratitis capitata	Animalia	SIGSALKKALPVAKKIGKIALPIAKAALPVAAGLVG	36	15581850	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21398		G9HQ31		MMGP1	Marine organism	Animalia	MLWSASMRIFASAFSTRGLGTRMLMYCSLPSRCWRK	36	22670672	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21462		Q9TUI9		Apelin-36	Bos taurus	Animalia	LVQPRGPRSGPGPWQGGRRKFRRQRPRLSHKGPMPF	36	10802050	Antiviral	Gram+	Experimentally Validated
+CAMPSQ22306				Defensin-A, CpDef-A	Chironomus plumosus	Animalia	LTCDILGSTPACAAHCIARGYRGGWCDGQSVCNCRR	36	9887520	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22629		Q17NR1	2MMM	AAEL000598-PA, Aedesin	Aedes aegypti	Animalia	GGLKKLGKKLEGAGKRVFKASEKALPVVVGIKAIGK	36	25162372	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23062		P82592		Aa Cecropin A, Aa Cecropin A2	Aedes aegypti	Animalia	GGLKKLGKKLEGAGKRVFNAAEKALPVVAGAKALRK	36	28483966	Antibacterial	Gram+,Gram-	Experimentally Validated

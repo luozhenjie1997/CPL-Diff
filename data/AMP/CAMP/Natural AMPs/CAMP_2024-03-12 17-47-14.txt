@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11913				Glycine-Histadine-Lysine conjugate	Homo sapiens	Animalia (Mammals)	GHK	3	28105725	Antifungal		Experimentally validated
+CAMPSQ11914				Beta chain (114-115)of bovine haemoglobin	Bos taurus	Animalia (Mammals)	RYH	3	28105725	Antifungal		Experimentally validated
+CAMPSQ11915				Alpha chain (139-141)of bovine haemoglobin	Bos taurus	Animalia (Mammals)	KYR	3	28105725	Antifungal		Experimentally validated
+CAMPSQ14231				Ac-SKHS-NH2	Bos taurus	Animalia	SKHS	4	28878220	Antiviral		Experimentally validated
+CAMPSQ14232				Ac-SLDC-NH2	Bos taurus	Animalia	SLDC	4	28878220	Antiviral		Experimentally validated
+CAMPSQ14233				Ac-SAHS-NH2	Bos taurus	Animalia	SAHS	4	34681184	Antiviral		Experimentally validated
+CAMPSQ14239				Peptide 14	Bos taurus	Animalia	VLRP	4	28878220	Antiviral		Experimentally validated
+CAMPSQ14408				Pug-3	Punica granatum	Plantae	LGTY	4	34780520	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ16221				APDG	Trachipteridae	Animalia (Pisces)	APDG	4	34877713	Antiviral		Predicted
+CAMPSQ16222				PTR	Trachipteridae	Animalia (Pisces)	PTR	3	34877713	Antiviral		Predicted
+CAMPSQ16223				AD	Trachipteridae	Animalia (Pisces)	AD	2	34877713	Antiviral		Predicted
+CAMPSQ21284				Gageotetrin A	Bacillus subtilis	Bacteria	EL	2	24502521	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21285				Gageopeptide B	Bacillus subtilis,Bacillus subtilis 109GGC020	Bacteria	XLLL	4	24502521	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21286				Gageotetrin C	Bacillus subtilis	Bacteria	ELLL	4	24502521	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22013				Cyclo(D-Tyr-L-Leu), Diketopiperazine (yL)	Bacillus sp.	Bacteria	yL	2	23672207	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22014				Cyclo(Trp-Tyr), Diketopiperazine (WY)	Comamonas testosteroni		WY	2	24120705	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22015				Cyclo(Trp-Ile), Diketopiperazine (WI)	Comamonas testosteroni	Bacteria	WI	2	24120705	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22016				Cyclo(Trp-Leu), Diketopiperazine (WL)	Comamonas testosteroni		WL	2	24120705	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22077				Cyclo(3,5-I-Tyr-Tyr)	Neobellieria bullata		XY	2	12570666, 18044819, 24168419	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22084				Cyclic tetrapeptide 1	Phomopsis sp. K38	Fungi	pYPY	4	25422539	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22947				Undefined	Ruegeria sp.	Bacteria	GPE	3	15270577	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22949				Cyclo(Gly-GABA)	Ruegeria sp.	Bacteria	GX	2	15270577	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22950				Undefined	Ruegeria sp.	Bacteria	AXP	3	15270577	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22951				Undefined	Ruegeria sp.	Bacteria	PXP	3	15270577	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23119				Penilumamide D	Stagonospora trichophoricola,Aspergillus sp.	Fungi	XaX	3	28676717	Antibacterial, Antiviral	Gram+,Gram-	Experimentally Validated

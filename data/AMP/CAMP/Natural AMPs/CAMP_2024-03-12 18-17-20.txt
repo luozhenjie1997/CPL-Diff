@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ188	1703274	P25404		Antimicrobial peptide 2 	Mirabilis jalapa	Plantae	CIGNGGRCNENVGPPYCCSGFCLRQPNQGYGVCRNR	36	1733929 , 7647302	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ198	1709081	P49931		Antibacterial peptide PMAP-36 	Sus scrofa 	Animalia (Mammals)	GRFRRLRKKTRKRLKKIGKVLKWIPPIVGSIPLGCG	36	8293820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ326	289396	P25068		Tracheal antimicrobial peptide	Bos taurus 	Animalia (Mammals)	NPVSCVRNKGICVPIRCPGSMKQIGTCVGRAVKCCR	36	8506305	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ450	4102640	P25068		Tracheal antimicrobial peptide 	Bos taurus 	Animalia (Mammals)	NPVSCVRNKGICVPIRCPGNMKQIGTCVGRAVKCCR	36	8506305	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ496	51241753	Q68Y22		Pilosulin 4	Myrmecia banksi 	Animalia (Insects)	FDITKLNIKKLTKATCKVISKGASMCKVLFDKKKQE	36	15246874	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ516	546443			Gallinacin 2, Gal-2	Gallus gallus	Animalia (Aves)	LFCKGGSCHFGGCPSHLIKVGSCFGFRSCCKWPWNA	36	8150085	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ693	37547390	P83943		Beta defensin 1	Chinchilla lanigera 	Animalia (Mammals)	QRYFCRVRGGRCAALTCLPRETQIGRCSVKGRKCCR	36	14996845	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ742	41016819	P83653	1Q3J	Antimicrobial peptide Alo-3	Acrocinus longimanus	Animalia (Insects)	CIKNGNGCQPNGSQGNCCSGYCHKQPGWVAGYCRRK	36	14661954	Antifungal		Experimentally validated
+CAMPSQ824	18202966	Q9HHA8		Halocin-S8	haloarchaeon S8a	Archaea	SDCNINSNTAADVILCFNQVGSCALCSPTLVGGPVP	36	Reference: Liao W, Ma D, Wang R, Han Z, Shao T, Li H, Liu S (2009) mRNA Cloning, Evolutionary Analysis and Biological Characterization of Duck Avian Beta-defensin 10. Acta Veterinaria et Zootechnica Sinica, 2009, 40(9): 1320-1326.	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ888	37999545	Q86QI5		Defensin	Dermacentor variabilis	Animalia (Arachnida)	GFGCPLNQGACHNHCRSIRRRGGYCSGIIKQTCTCY	36	11439245	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ923	74813990	Q86SC0	1IYC	Scarabaecin	Oryctes rhinoceros	Animalia (Insects)	ELPKLPDDKVLIRSRSNCPKGKVWNGFDCKSPFAFS	36	12859949	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ973	145566911	P85113		Ostricacin-1	Struthio camelus	Animalia (Aves)	LFCRKGTCHFGGCPAHLVKVGSCFGFRACCKWPWDV	36	16459058	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1028	159163762	P0CAP0	2B5B	Reptilian Defensin	Caretta caretta	Animalia	EKKCPGRCTLKCGKHERPTLPYNCGKYICCVPVKVK	36	16700051	Antibacterial, Antiviral	Gram -ve	Experimentally validated
+CAMPSQ1034				Raphanus Sativus Antifungal Protein 2 	Raphanus sativus var. niger	Plantae	QKLCQRPSGTWSGVCGNNNACKNQCIRLEKARHGSC	36	1639777	Antifungal		Experimentally validated
+CAMPSQ1135	46396047	Q9XZG9		Cecropin-A	Spodoptera litura	Animalia (Insects)	RWKVFKKIEKVGRNVRDGIIKAGPAIGVLGQAKALG	36	11790350	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1266	46395627	O76146		CECD_BOMMO Cecropin-D precursor	Bombyx mori	Animalia (Insects)	GNFFKDLEKMGQRVRDAVISAAPAVDTLAKAKALGQ	36	10392453	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1276	47116734	Q9BDS9		Beta-defensin 2  	Macaca mulatta	Animalia (Mammals)	DPVTCLKNGAICHPVFCPRRYKQIGTCGLPGTKCCK	36		Antibacterial		Predicted
+CAMPSQ1308	33300590	Q70KL3		Beta-defensin 39	Mus musculus	Animalia (Mammals)	DSIQCFQKNNTCHTNQCPYFQDEIGTCYDRRGKCCQ	36		Antibacterial		Predicted
+CAMPSQ1399	31071997			TPA_exp: DEFB103-like protein	Papio anubis	Animalia (Mammals)	QKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCR	36		Antibacterial, Antifungal, Antiviral	Gram+ve	Predicted
+CAMPSQ1412	894209	Q28880		Lingual antimicrobial peptide 	Bos taurus 	Animalia (Mammals)	NSQSCRRNKGICVPIRCPGSMRQIGTCLGAQVKCCR	36	7886453	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1566	3023387	O18794		RhBD-1	Macaca mulatta	Animalia (Mammals)	DHYNCVRSGGQCLYSACPIYTRIQGTCYHGKAKCCK	36		Antibacterial		Predicted
+CAMPSQ1599	61211664	Q95M67		Beta-defensin 1	Cercopithecus erythrogaster	Animalia (Mammals)	DHYICVRSGGQCLYSACPIYTKIQGTCYHGKAKCCK	36		Antibacterial		Predicted
+CAMPSQ1600	134802572, 61211666	Q95M68		Beta-defensin 1	Gorilla gorilla gorilla	Animalia (Mammals)	DHYNCVSSGGQCLYSACPIFTKIQGTCYGGKAKCCK	36		Antibacterial		Predicted
+CAMPSQ1602	61211585	Q7JGM2		Beta-defensin 1	Nomascus concolor	Animalia (Mammals)	DHYNCVRSGGQCLYSACPIYTKIQGTCYQGKAKCCK	36		Antibacterial		Predicted
+CAMPSQ1603	61211583	Q7JGM1		Beta-defensin 1	Hylobates lar	Animalia (Mammals)	DHYNCVRSGGQCLYSACPIYTKIQGTCYQGKAKCCK	36		Antibacterial		Predicted

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20161				BPC148	Synthetic construct		KKLLLFKKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20162				BPC150	Synthetic construct		KLKLLFKKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20163				BPC152	Synthetic construct		LKKLLFKKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20164				BPC154	Synthetic construct		KLLKLFKKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20165				BPC156	Synthetic construct		LKLKLFKKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20166				BPC158	Synthetic construct		LLKKLFKKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20167				BPC160	Synthetic construct		KLLLKFKKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20168				BPC162	Synthetic construct		LKLLKFKKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20169				BPC164	Synthetic construct		LLKLKFKKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20170				BPC166	Synthetic construct		LLLKKFKKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20171				BPC88	Synthetic construct		KKLLKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20172				BPC90	Synthetic construct		KLKLKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20173				BPC92	Synthetic construct		LKKLKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20174				BPC94	Synthetic construct		KLLKKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20175				BPC96	Synthetic construct		LKLKKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20176				BPC98	Synthetic construct		LLKKKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20177				BPC184	Synthetic construct		KLLLKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20178				BPC186	Synthetic construct		KKKLKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20179				BPC188	Synthetic construct		LLLKKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20180				BPC190	Synthetic construct		LKKKKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20181				BPC192	Synthetic construct		LKLLKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20182				BPC196	Synthetic construct		LLKLKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20183				BPC200	Synthetic construct		LLLLKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20184				BPC202	Synthetic construct		KKKKKFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20210		P80571		Defensin MGD1 (7-16) peptide T	Synthetic construct		NYQSHRHSKS	10	12823551	Antibacterial	Gram+	Experimentally Validated

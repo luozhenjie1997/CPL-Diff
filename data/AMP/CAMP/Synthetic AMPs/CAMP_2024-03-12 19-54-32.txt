@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20927				SP13-10	Synthetic construct		KRRLALFRAFRLALKSVLKK	20	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20928				SP13-11	Synthetic construct		KRRLALFRLFRLALKLVLKK	20	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20929				SP13-12	Synthetic construct		KRRLFLFRLFRLFLRLFLKK	20	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20930				SP13-13	Synthetic construct		KRRKLAFRAFRFALKAVLKK	20	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20931				SP13-14	Synthetic construct		KRRKLAFRLFRLFLKLVLKK	20	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21090		Q95Z199,P56029		HP(2-9)-ME(1-12)	Synthetic construct		AKKVFKRLGIGAVLKVLTTG	20	15127790	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21091				Undefined	Synthetic construct		AKKVFKRLGIGAVLWVLTTG	20	15127790	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21092				Undefined	Synthetic construct		AKKVFKRLGIGAVLKVLTWG	20	15127790	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21093				Undefined	Synthetic construct		AKKVFKRLGIGAVLWVLTWG	20	15127790	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21094				Undefined	Synthetic construct		AWKVFKRLGIGAVLWVLTWG	20	15127790	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21095				Undefined	Synthetic construct		AKKVFKRLGIGAVLKVLKKG	20	15127790	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21120		P11006		Cecropin A (1-8) + Magainin 2 (1-12)[I10P]	Synthetic construct		KWKLFKKIGPGKFLHSAKKF	20	10675500	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21137		P82656		H/V-peptide (9-28)	Synthetic construct		IASKVANTVQKLKRKAKNAV	20	23403131	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21183		P19661		Cathelicidin-3 (5-24), Bactenecin-7 (5-24)	Synthetic construct		PRPPRLPRPRPRPLPFPRPG	20	12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21266				ESF1	Synthetic construct		MASRAAGLAARLARLALRAL	20	9675125	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21267				ESF1 [GR7]	Synthetic construct		MASRAARLAARLARLALRAL	20	9675125	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ21268				ESF1 [SA3]	Synthetic construct		MAARAARLAARLARLALRAL	20	9675125	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ21377				Delta-lysin (7-26)[D11K][D18K]	Synthetic construct		STIGKLVKWIIKTVNKFTKK	20	15629533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21378				Delta-lysin (7-26)[D11K][V13P][D18K]	Synthetic construct		STIGKLPKWIIKTVNKFTKK	20	15629533	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21490		P04587		Undefined	Synthetic construct		KGEAMHGQVDCSPGIWQLDC	20	17257575	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21758		P01966		Hemoglobin subunit alpha (67-86)	Synthetic construct		TKAVEHLDDLPGALSELSDL	20	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21869				Undefined	Synthetic construct		GKKYRRFRWKFKFGKWFWFG	20	22457281	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21873		P51681		CCR5 ECL2 (170-189)	Synthetic construct		QKEGLHYTCSSHFPYSQYQF	20	22403408	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21919				Pro-D-WR12	Synthetic construct		EEEEAAAGrwwrwwrrwwrr	20	26902766	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21929		E3SYG2		Brevinin CTcu5 (2-21)	Synthetic construct		IAGLAANFLPQILCKIARKC	20	25997127	Antibacterial	Gram+,Gram-	Experimentally Validated

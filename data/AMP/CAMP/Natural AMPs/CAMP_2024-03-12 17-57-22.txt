@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10625				LL-37(17-29) 	Homo sapiens	Animalia	FKRIVQRIKDFLR	13	16637646	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10642				Pleurain B1	Rana pleuraden	Animalia	FLGGLLASLLGKI	13	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10643				Pleurain C1	Rana pleuraden	Animalia	YPELQQDLIARLL	13	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10780				Temporin B	Rana temporaria	Animalia (Amphibia)	FVQWFSKFLGRIL	13	31358802	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10930				Periplanetasin-4 	Periplaneta americana	Animalia (Insects)	LRHKVYGYCVLGP	13	30962256	Antifungal		Experimentally validated
+CAMPSQ10958				Temporin-1Ec 	Rana esculenta 	Animalia	FLPVIAGLLSKLF	13	14499272	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10982				Crinicepsin-2	Trichomyrmex criniceps	Animalia	RERSKGSKYLYVG	13	28346717	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11007				Thaulin-3	Pleurodema thaul	Animalia	NLVGSLLGGILKK	13	28025119	Antibacterial		Predicted
+CAMPSQ11129				N-106	Homo sapiens	Animalia	KLLKKFSLLKPWA	13	25946035	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11232				HD5(1-13)	Homo sapiens	Animalia (Mammals)	ATCYCRTGRCATR	13	30808760	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11436				IG-13	Homo sapiens	Animalia (Mammals)	IGKEFKRIVQRIK	13	30635992	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11449				GL13K	Homo sapiens	Animalia (Mammals)	GKIIKLKASLKLL	13	30753942	Antibacterial		Experimentally validated
+CAMPSQ11450				D-GL13K	Homo sapiens	Animalia (Mammals)	Gkiiklkaslkll	13	30753942	Antibacterial		Experimentally validated
+CAMPSQ11486				Glyceraldehyde-3-phosphate dehydrogenase	Physcomitrella patens	Plantae (Angiosperms)	KIKVAINGFGRIG	13	30616513	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11557				Peptide-2	Rana temporaria	Animalia (Amphibia)	FLGALGNALSRVL	13	30578771	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11661				Pep-13	Phytophthora sojae	Fungi	VWNQPVRGFKVYE	13	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11758				P1-Ll-1577	Leptodactylus latrans	Animalia (Amphibia)	DEMKLDGFNMHLE	13	30423858	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11759				P2-Ll-1298	Leptodactylus latrans	Animalia (Amphibia)	AAGKGLVSNLLEK	13	30423858	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11793				Aurein 1.2	Litoria raniformis	Animalia (Amphibia)	GLFDIIKKIAESF	13	28478484	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12341				SP-E13	 Sus scrofa	Animalia	DKPKKKPPPPAGP	13	30046246	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ12676				Hc7	Hydrophis cyanocinctus	Animalia (Reptiles)	KFFKRLLKSVRRA	13	28572668	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12710				C2	Crotalus durissus terrificus	Animalia (Reptiles)	KMDCRWRWKCCKK	13	28888370	Antifungal		Experimentally validated
+CAMPSQ12713				Temporin-PF (TPF)	Pelophylax fukienensis	Animalia (Amphibia)	FLPLIAGLFGKIF	13	33925935	Antibacterial, Antibiofilm	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12833				VpCT1	Mesomexovis variegatus	Animalia (Arthropoda)	FWSTLLSIGKSLL	13	33862164	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12835				VpCT3	Mesomexovis variegatus	Animalia (Arthropoda)	FLQGIIDTVGKWL	13	33862164	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

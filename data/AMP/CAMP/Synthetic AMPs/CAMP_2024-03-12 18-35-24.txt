@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11880				P7	Synthetic construct		RRWWHWWRR	9	28372989	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11881				P8 	Synthetic construct		HRWWRWWRH	9	28372989	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11930				ARYV	Synthetic construct		WALRLYLVY	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11933				PL-D #16	Synthetic construct		RRWWRWVVW	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11935				HHC-10	Synthetic construct		KRWWKWIRW	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11937				9Pbw4	Synthetic construct		RLWLAWKRR	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11938				P9-4	Synthetic construct		KWRRWIRWL	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11939				PL-D #37	Synthetic construct		RRWRVIVKW	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11940				3L	Synthetic construct		KLKLLLKLK	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11942				1029	Synthetic construct		KQFRIFVRV	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11943				1031	Synthetic construct		WRWRVRVWR	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11944				GN-2	Synthetic construct		RWKRWWRWI	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11945				Nona 1	Synthetic construct		YRWARWWRR	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11946				Tet127	Synthetic construct		KRWWKWWRR	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11947				K9	Synthetic construct		KKKKKKKKK	9	28105725	Antifungal		Experimentally validated
+CAMPSQ11950				AnoplinTrp5 Lys8	Synthetic construct		GLLKWIKKL	9	28105725	Antifungal		Experimentally validated
+CAMPSQ12049				NOSO-95C (1-9)	Synthetic construct		KXXGOPHKZ	9	30086230	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ12053				NOSO-95C (3-11)	Synthetic construct		XGOPHKZKB	9	30086230	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ12054				NOSO-95179 46	Synthetic construct		KXAGOPHKZ	9	30086230	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ12858				(WRI)3	Synthetic construct		WRIWRIWRI	9	33829758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12873				(WRK)3	Synthetic construct		WRKWRKWRK	9	33829758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12943				Mo-CBP3-PepII	Synthetic construct		NIQPPCRCC	9	34399551	Antifungal		Experimentally validated
+CAMPSQ12951				GWRW	Synthetic construct		GWRWWWRWG	9	33610592	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12952				IWRW	Synthetic construct		IWRWWWRWI	9	33610592	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12953				LWRW	Synthetic construct		LWRWWWRWL	9	33610592	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

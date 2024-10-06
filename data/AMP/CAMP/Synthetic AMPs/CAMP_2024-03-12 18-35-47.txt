@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ16701				FK-1D	Synthetic construct		fLKLLKKLL	9	30136030	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16702				FK-2D	Synthetic construct		FlKLLKKLL	9	30136030	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16703				FK-3D	Synthetic construct		FLkLLKKLL	9	30136030	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16704				FK-4D	Synthetic construct		FLKlLKKLL	9	30136030	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16705				FK-5D	Synthetic construct		FLKLlKKLL	9	30136030	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16706				FK-6D	Synthetic construct		FLKLLkKLL	9	30136030	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16707				FK-7D	Synthetic construct		FLKLLKkLL	9	30136030	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16708				FK-8D	Synthetic construct		FLKLLKKlL	9	30136030	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16709				FK-9D	Synthetic construct		FLKLLKKLl	9	30136030	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16710				FK-AD	Synthetic construct		flkllkkll	9	30136030	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ17695		A0A0A1I6K1		Feleucin-K3 [L4V]	Synthetic construct		FLKVLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17696		A0A0A1I6K1		Feleucin-K3 [L4Beta-Ala]	Synthetic construct		FLKXLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17694		A0A0A1I6K1		Feleucin-K3 [L4Y]	Synthetic construct		FLKYLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17692		A0A0A1I6K1		Feleucin-K3 [L4T]	Synthetic construct		FLKTLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17693		A0A0A1I6K1		Feleucin-K3 [L4W]	Synthetic construct		FLKWLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17691		A0A0A1I6K1		Feleucin-K3 [L4S]	Synthetic construct		FLKSLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17690		A0A0A1I6K1		Feleucin-K3 [L4P]	Synthetic construct		FLKPLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17688		A0A0A1I6K1		Feleucin-K3 [L4M]	Synthetic construct		FLKMLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17689		A0A0A1I6K1		Feleucin-K3 [L4F]	Synthetic construct		FLKFLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17687		A0A0A1I6K1		Feleucin-K3 [L4I]	Synthetic construct		FLKILKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17685		A0A0A1I6K1		Feleucin-K3 [L4E]	Synthetic construct		FLKELKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17686		A0A0A1I6K1		Feleucin-K3 [L4H]	Synthetic construct		FLKHLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17683		A0A0A1I6K1		Feleucin-K3 [L4C]	Synthetic construct		FLKCLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17684		A0A0A1I6K1		Feleucin-K3 [L4Q]	Synthetic construct		FLKQLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17682		A0A0A1I6K1		Feleucin-K3 [L4D]	Synthetic construct		FLKDLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated

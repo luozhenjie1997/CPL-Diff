@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21910				Myxinidin [P11R]	Synthetic construct		GIHDILKYGKRS	12	24002100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21911				Myxinidin [S12betaA]	Synthetic construct		GIHDILKYGKPX	12	24002100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21912				Myxinidin [H3K,D4K,P11K]	Synthetic construct		GIKKILKYGKKS	12	24002100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21913				ACT -Myxinidin [H3R,D4R,P11R]	Synthetic construct		GIRRILKYGKRS	12	24002100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21914				Myxinidin 4R	Synthetic construct		GIRRILRYGRPS	12	24002100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21915				Myxinidin 5R	Synthetic construct		GIRRILRYGRRS	12	24002100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21920		P49913		LL-37 KR-12 [K1A, R2Q]	Synthetic construct		AQIVQRIKDFLR	12	24307932	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21921		P49913		LL-37 KR-12 [R2,6,12K]	Synthetic construct		KKIVQKIKDFLK	12	24307932	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21922		P49913		LL-37 KR-12 [K1,8R]	Synthetic construct		RRIVQRIRDFLR	12	24307932	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21972				Undefined	Synthetic construct		lKKllKKllKKl	12	15907192, 28457962	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21982				IDR-HH2	Synthetic construct		VQLRIRVAVIRA	12	23555622, 24982064	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21983				DP2, HH2 [L3W,A8C]	Synthetic construct		VQWRIRVCVIRA	12	24982064	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21984				DP3, HH2 [L3W,V7I]	Synthetic construct		VQWRIRIAVIRA	12	24982064	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21985				DP4, HH2 [Q2C,L3W]	Synthetic construct		VCWRIRVAVIRA	12	24982064	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21986				DP5, HH2 [A8C,A12R]	Synthetic construct		VQLRIRVCVIRR	12	24982064	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21987				DP6, HH2 [V1K,L3W]	Synthetic construct		KQWRIRVAVIRA	12	24982064	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21988				DP8, HH2 [A8C,A12K]	Synthetic construct		VQLRIRVCVIRK	12	24982064	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21989				DP9, HH2 [V1K,L3W,A8C]	Synthetic construct		KQWRIRVCVIRA	12	24982064	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21990				DP10, HH2 [I5C,A8C,A12K]	Synthetic construct		VQLRCRVCVIRK	12	24982064	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21991				DP11, HH2 [L3W,V7I,A12K]	Synthetic construct		VQWRIRIAVIRK	12	24982064	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21992				DJK-6	Synthetic construct		vqwrrirvwvir	12	33242643, 25699603	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21999		Q10464		Puroindoline-B (35-46), PuroB1	Synthetic construct		FPVTWPTKWWKG	12	23562406	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22000		Q10464		Puroindoline-B (35-46)[P6R], PuroB2	Synthetic construct		FPVTWRTKWWKG	12	23562406	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22001		Q10464,		Puroindoline-B (35-46)[P2,6R], PuroB3	Synthetic construct		FRVTWRTKWWKG	12	23562406	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22002		Q10464		Puroindoline-B (35-46)[P2,6A], PuroB4	Synthetic construct		FAVTWATKWWKG	12	23562406	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22389		P02662		Alpha-S1-casein (94-102)	Synthetic construct		YLEQLLRLK	9	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22478		Q835L5		EF_1362 (12-20)	Synthetic construct		IVSSMFVSA	9	26039987	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22518		P61626		Lysozyme C (107-115)[A2R]	Synthetic construct		RRWVAWRNR	9	20582913	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22519		P61626		Lysozyme C (107-115)[A2K]	Synthetic construct		RKWVAWRNR	9	20582913	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22520		P61626		Lysozyme C (107-115)[A2W]	Synthetic construct		RWWVAWRNR	9	20582913	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22521		P61626		Lysozyme C (107-115)[A2Y]	Synthetic construct		RYWVAWRNR	9	20582913	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22522		P61626		Lysozyme C (107-115)[A2,5K]	Synthetic construct		RKWVKWRNR	9	20582913	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22523		P61626		Lysozyme C (107-115)[A2K,A5Y]	Synthetic construct		RKWVYWRNR	9	20582913	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22553				W-R8	Synthetic construct		WRRRRRRRR	9	22989747	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22576				N4	Synthetic construct		KILILIKRK	9	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22583				C4	Synthetic construct		KRKILILIK	9	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22590				H3	Synthetic construct		KRKILIKRK	9	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22595				H8	Synthetic construct		KRKGSGKRK	9	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22632				RL9	Synthetic construct		RRLLRRLRR	9	20920465	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22633				RW9	Synthetic construct		RRWWRRWRR	9	20920465	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22634				Undefined	Synthetic construct		WLXLARKIV	9	27062533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22635				Undefined	Synthetic construct		ARXRWFKFL	9	27062533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22636				Undefined	Synthetic construct		KFIXIWRXR	9	27062533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22637				Undefined	Synthetic construct		ARFLXCLFY	9	27062533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22638				Undefined	Synthetic construct		YWXRXRFXN	9	27062533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22639				Undefined	Synthetic construct		KLFXMIXRF	9	27062533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22654		B5A9T1		Chensinin-1 (3-11) [ G4,7,11W ]	Synthetic construct		VWRHWRRFW	9	27060618	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22656		B5A9T1		Chensinin-1 (5-13) [ G7,11W, L12H ]	Synthetic construct		RHWRRFWHR	9	27060618	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22662		B5A9T1		Chensinin-1  (3-11) [G4,7,11W, H6K]	Synthetic construct		VWRKWRRFW	9	27060618	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22663		B5A9T1		Chensinin-1 (3-11) [G4,7,11W, H6R]	Synthetic construct		VWRRWRRFW	9	27060618	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21119		P51524		Rec-Tritrpticin [W10X]	Synthetic construct		GTVRRFPWWXPFLRR	15	32142822	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21147				Undefined	Synthetic construct		KWKLKPLLKKLLKKL	15	14514057	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21156		P19661,		Cathelicidin-3 (1-15), Bactenecin-7 (1-15)	Synthetic construct		RRIRPRPPRLPRPRP	15	15572192, 25525837, 12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21179		P19661		Cathelicidin-3 (45-59), Bactenecin-7 (45-59)	Synthetic construct		PLPFPRPGPRPIPRP	15	12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21291		P03955		Monkey Pepsinogen C (7-20)	Synthetic construct		AVVKVPLKKFKSIRE	15	9639668	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21343		P06833		Caltrin (Seminalplasmin) (28-40) Mod WKK	Synthetic construct		PKLLKTFLSKWKKIG	15	10195441	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21371		P79874		KK-Temporin B [G8K]	Synthetic construct		KKLLPIVXNLLKSLL	15	29920962	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21387		P32412		Brevinin-1E (10-24) Red	Synthetic construct		ANFLPKIFCKITRKC	15	9748603	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21407		Q2IAL7		Fowlicidin-2(1-15)	Synthetic construct		LVQRGRFGRFLRKIR	15	20375584	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21421		Q70623		Vif (30-44)	Synthetic construct		YVSGKARGWFYRHHY	15	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21422		Q70623		Vif (41-55)	Synthetic construct		RHHYESPHPRISSEV	15	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21423		Q70623		Vif (51-65)	Synthetic construct		ISSEVHIPLGDARLV	15	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21426		Q70623		Vif (78-92)	Synthetic construct		DWHLGQGVSIEWRKK	15	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21438		C0HJU9		Toxin LyeTx 1 (1-15)	Synthetic construct		IWLTALKFLGKNLGK	15	33175610	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21489		P69727		Vpr (49-63)	Synthetic construct		TYGDTWAGVEAIIRI	15	17490682	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21491		P04587		Undefined	Synthetic construct		ASCDKCQLKGEAMHG	15	17257575	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21492				Undefined	Synthetic construct		KCQLKGEAMHGQVDC	15	17257575	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21493		P04587		Undefined	Synthetic construct		KGEAMHGQVDCSPGI	15	17257575	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21494		P04587		Undefined	Synthetic construct		MHGQVDCSPGIWQLD	15	17257575	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21495		P04587		Undefined	Synthetic construct		VDCSPGIWQLDCTHL	15	17257575	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21496		P04587		Undefined	Synthetic construct		PGIWQLDCTHLEGKI	15	17257575	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21608		P24627		Lactoferricin B15(W4,10)	Synthetic construct		FKCWRWQWRWKKLGA	15	19148638	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21685				Gramicidin A [l10k]	Synthetic construct		VGAlAvVvWkWlWlW	15	22113881	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21686				Gramicidin A [l14k]	Synthetic construct		VGAlAvVvWlWlWkW	15	22113881	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21687				Gramicidin A [l10,14k]	Synthetic construct		VGAlAvVvWkWlWkW	15	22113881	Antibacterial	Gram+,Gram-	Experimentally Validated

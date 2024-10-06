@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8815				(RFR)4XB	Synthetic construct		RFRRFRRFRRFRXB	14	26860980	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8874				Cbf-14	Synthetic construct		RLLRKFFRKLKKSV	14	26897538, 29221882	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8896				KK14	Synthetic construct		KKFFRAWWAPRFLK	14	31035250	Antifungal		Experimentally validated
+CAMPSQ8897				Dip KK-14	Synthetic construct		KKFFRAWXAPRFLK	14	31035250	Antifungal		Experimentally validated
+CAMPSQ8898				DKK-14	Synthetic construct		kkffrawwaprflk	14	31035250	Antifungal		Experimentally validated
+CAMPSQ8899				KK-14 (R10)	Synthetic construct		KKFFRAWWARRFLK	14	31035250	Antifungal		Experimentally validated
+CAMPSQ9013				P5-CT2	Synthetic construct		KWKKLLKKPLLKKL	14	31363941	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9016				P5-NT2	Synthetic construct		LLKKPLLKKLLKKL	14	31363941	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9097				Pep19-4gek	Synthetic construct		GKKYRRFRWKFKGK	14	30843356	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9309				D4	Synthetic construct		GFWGKLWKPVKKAI	14	28067810	Antibacterial		Experimentally validated
+CAMPSQ9310				D5	Synthetic construct		GFWGKLLEGVKKAI	14	28067810	Antibacterial		Experimentally validated
+CAMPSQ9445				NN2_0029	Synthetic construct		RKFRKILHRARKWI	14	29259134	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9446				NN2_0035	Synthetic construct		RRWGRWHRMRRRGR	14	29259134	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9479				LfcinB 18-31	Synthetic construct		KCRRWQWRMKKLGA	14	28613262	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9482				LfcinB 17-30	Synthetic construct		FKCRRWQWRMKKLG	14	28613262	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9511				[Lys4]temporin-1DRa	Synthetic construct		HFLKTLVNLAKKIL	14	31102497	Antibacterial		Experimentally validated
+CAMPSQ9512				[Lys5]temporin-1DRa 	Synthetic construct		HFLGKLVNLAKKIL	14	31102497	Antibacterial		Experimentally validated
+CAMPSQ9513				[D-Lys4]temporin-1DRa 	Synthetic construct		HFLkTLVNLAKKIL	14	31102497	Antibacterial		Experimentally validated
+CAMPSQ9514				[D-Lys5]temporin-1DRa 	Synthetic construct		HFLGkLVNLAKKIL	14	31102497	Antibacterial		Experimentally validated
+CAMPSQ9515				[D-Lys8]temporin-1DRa	Synthetic construct		HFLGTLVkLAKKIL	14	31102497	Antibacterial		Experimentally validated
+CAMPSQ9554				N-5 (analog of P18)	Synthetic construct		WKKIPKFLHLAKKF	14	12005420	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9557				N-5L (analog of P18)	Synthetic construct		WKKIPKFLHLLKKF	14	12005420	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9564				C-7 (analog of P18)	Synthetic construct		KWKLFKKIPLAKKF	14	12005420	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9565				C-8 (analog of P18)	Synthetic construct		KWKLFKKIPKFLHL	14	12005420	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9596				RA	Synthetic construct		WRKAWRPGAKRWAK	14	29355714	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

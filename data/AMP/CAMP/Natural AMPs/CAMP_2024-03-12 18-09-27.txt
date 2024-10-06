@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18	110348515	A0SN41		Amolopin-1a	Amolops loloensis	Animalia (Amphibia)	FLPMLAGLAANFLPKLFCKITKKC	24	17000029	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ19	110348517	A0SN42		Amolopin-1b	Amolops loloensis	Animalia (Amphibia)	FLPLAVSLAANFLPKLFCKITKKC	24	17000029	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ20	110348519	A0SN43		Amolopin-1c	Amolops loloensis	Animalia (Amphibia)	FLPMLAGLAANLLPKLFCKITKKC	24	17000029	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ21	110348521	A0SN44		Amolopin-1d	Amolops loloensis	Animalia (Amphibia)	FLPMLAGLAANFLPELFCKITKKC	24	17000029	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ47	115311726	Q1ELU4		Latarcin-4b	Lachesana tarabaevi	Animalia (Arachnida)	SLKDKVKSMGEKLKQYIQTWKAKF	24	16735513	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ72	1169818	P80400		Gaegurin-6	Rana rugosa 	Animalia (Amphibia)	FLPLLAGLAANFLPTIICKISYKC	24	7999137	Antibacterial, Antifungal, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ113	129279023	A4GUC4		Salivary glands defensin	Haemaphysalis longicornis 	Animalia (Arachnida)	NCIQQCVSKGAQGGYCTNEKCTCY	24	17521774	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ217	18202404	P82421		Ponericin-L1	Pachycondyla goeldii 	Animalia (Insects)	LLKELWTKMKGAGKAVLGKIKGLL	24	11279030	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ218	18202405	P82422		Ponericin-L2	Pachycondyla goeldii 	Animalia (Insects)	LLKELWTKIKGAGKAVLGKIKGLL	24	11279030	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ223	18202410	P82427		Ponericin-W5	Pachycondyla goeldii 	Animalia (Insects)	FWGALIKGAAKLIPSVVGLFKKKQ	24	11279030	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ242	21542188	P83188		Pseudin-1	Pseudis paradoxa	Animalia (Amphibia)	GLNTLKKVFQGLHEAIKLINNHVQ	24	11689009	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ243	21542189	P83189		Pseudin-2	Pseudis paradoxa	Animalia (Amphibia)	GLNALKKVFQGIHEAIKLINNHVQ	24	11689009	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ253	236997	P39080		Antimicrobial peptide PGQ	Xenopus laevis	Animalia (Amphibia)	GVLSNVIGYLKKLGTGALNAVLKQ	24	1717472	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ283	2506237	P80399		Gaegurin-5	Rana rugosa 	Animalia (Amphibia)	FLGALFKVASKVLPSVFCAITKKC	24	7999137	Antibacterial, Antifungal, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ296	25453144	P83240		Pandinin-2	Pandinus imperator	Animalia (Arachnida)	FWGALAKGALKLIPSLFSSFSKKD	24	11563967	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ303	26393016	P81568		Antimicrobial peptide D5 	Spinacia oleracea 	Plantae	MFFSSKKCKTVXKTFRGPCVRNAN	24	9762899	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ330	29336801	Q8QFQ5		Brevinin-1Pb precursor	Rana pipiens	Animalia (Amphibia)	FLPIIAGIAAKVFPKIFCAISKKC	24	10651828	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ359	32396194	Q7SZG6		Pleurocidin-like peptide Hb26	Hippoglossus hippoglossus	Animalia (Pisces)	FLGLLFHGVHHVGKWIHGLIHGHH	24	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ361	32469600	P82904		Brevinin-1Sa	Rana sphenocephala	Animalia (Amphibia)	FLPAIVGAAGQFLPKIFCAISKKC	24	10604597	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ362	32469601	P82905		Brevinin-1Sb	Rana sphenocephala	Animalia (Amphibia)	FLPAIVGAAGKFLPKIFCAISKKC	24	10604597	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ363	32469602	P82906		Brevinin-1Sc	Rana sphenocephala	Animalia (Amphibia)	FFPIVAGVAGQVLKKIYCTISKKC	24	10604597	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ383	3913369	P81251		Caerin-1.8	Litoria chloris	Animalia (Amphibia)	GLFKVLGSVAKHLLPHVVPVIAEK	24	9516047	Antibacterial		Experimentally validated
+CAMPSQ402	41016803	P82825		Brevinin-1La	Rana luteiventris	Animalia (Amphibia)	FLPMLAGLAASMVPKLVCLITKKC	24	10651828	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ403	41016804	P82826		Brevinin-1Lb	Rana luteiventris	Animalia (Amphibia)	FLPMLAGLAASMVPKFVCLITKKC	24	10651828	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ404	41016805	P82833		Brevinin-1Ba	Rana berlandieri	Animalia (Amphibia)	FLPFIAGMAAKFLPKIFCAISKKC	24	10651828	Antibacterial	Gram +ve	Experimentally validated

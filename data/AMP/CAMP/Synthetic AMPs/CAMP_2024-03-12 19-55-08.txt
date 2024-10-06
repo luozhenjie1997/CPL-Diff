@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ24154		P03420		RSV Fgp (497-515)[N4,A8,N19 -S-ALA-4-pen; K12R-ALA-7-oct]	Synthetic construct		EKIXQSLXFIRXSDELLHXV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24155		P03420		RSV Fgp (497-515)[N4A;A8,K12,E15,N19 -S-ALA-4-pen]	Synthetic construct		EKIAQSLXFIRXSDXLLHXV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24156		P03420		RSV Fgp (497-515)[R11A;A8,K12,E15,N19 -S-ALA-4-pen]	Synthetic construct		EKINQSLXFIAXSDXLLHXV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24157		P03420		RSV Fgp (497-515)[E1A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		AKIXQSLXFIXKSDXLLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24158		P03420		RSV Fgp (497-515)[K2A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EAIXQSLXFIXKSDXLLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24159		P03420		RSV Fgp (497-515)[I3A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKAXQSLXFIXKSDXLLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24160		P03420		RSV Fgp (497-515)[Q5A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXASLXFIXKSDXLLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24161		P03420		RSV Fgp (497-515)[S6A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXQALXFIXKSDXLLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24162		P03420		RSV Fgp (497-515)[L7A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXQSAXFIXKSDXLLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24163		P03420		RSV Fgp (497-515)[F9A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXQSLXAIXKSDXLLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24164		P03420		RSV Fgp (497-515)[I10A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXQSLXFAXKSDXLLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24165		P03420		RSV Fgp (497-515)[K12A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXQSLXFIXASDXLLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24166		P03420		RSV Fgp (497-515)[S13A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXQSLXFIXKADXLLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24167		P03420		RSV Fgp (497-515)[D14A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXQSLXFIXKSAXLLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24168		P03420		RSV Fgp (497-515)[L16A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXQSLXFIXKSDXALHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24169		P03420		RSV Fgp (497-515)[H18A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXQSLXFIXKSDXLLANV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24170		P03420		RSV Fgp (497-515)[N19A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXQSLXFIXKSDXLLHAV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24171		P03420		RSV Fgp (497-515)[V20A;N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXQSLXFIXKSDXLLHNA	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24172		P03420		RSV Fgp (497-515)[E15A;K2R-ALA-4-pen; Q5,A8,K12 -S-ALA-4-pen]	Synthetic construct		EXINXSLXFIRXSDALLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24201		O95832		Claudin-1 (1-20)	Synthetic construct		MANAGLQLLGFILAFLGWIG	20	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24222		P60603		ROS modulator 1 (60-79)	Synthetic construct		MMQSGGTFGTFMAIGMGIRC	20	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24228		P60603		ROS modulator 1 (58-77)	Synthetic construct		KTMMQSGGTFGTFMAIGMGI	20	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24280		R4HHV9		Influenza A virus HA (345-364)[G356N,T359E,V362I], HA-FP-O	Synthetic construct		GLFGAIAGFIENGWEGMIDG	20	25581878	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24281		R4HHV9		Influenza A virus HA (345-364)[E355K,G356N,T359K,V362I,D363K], HA-FP-1	Synthetic construct		GLFGAIAGFIKNGWKGMIKG	20	25581878	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24282		R4HHV9		Influenza A virus HA (345-364)[E355K,T359Q,D363K], HA-FP-2	Synthetic construct		GLFGAIAGFIKGGWQGMVKG	20	25581878	Antibacterial	Gram+,Gram-	Experimentally Validated

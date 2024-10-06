@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10371				Ranalexin	Rana catesbeiana	Animalia	FLGGLIKIVPAMICAVTKKC	20	31426494	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10387				Hs03	Homo sapiens	Animalia (Mammals)	FLREFHKWIERVVGWLGKVF	20	31386688	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10434				Ranalexin-Vb	Rana virgatipes 	Animalia	FLGGLFKLVPSVICAVTKKC	20	15996769	Antibacterial 		Predicted
+CAMPSQ10446				Pilosulin P1	Myrmecia pilosula 	Animalia	GLGSVFGRLARILGRVIPKV	20	15639237	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10539				DPK-060 	Homo sapiens	Animalia	GKHKNKGKKNGKHNGWKWWW	20	31192163	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10577				VK14	Varanus komodoensis	Animalia	KAAAAKKSPKKPKKPAAAKK	20	28164707	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10732				Ib-AMP4	Impatiens balsamina	Plantae	QWGRRCCGWGPGRRYCRRWC	20	30986507	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10760				Ctn[15-34]	Crotalus durissus terrificus	Animalia	KKRLKKIFKKPMVIGVTIPF	20	31626724	Antifungal		Experimentally validated
+CAMPSQ10811				PMAP-36(1-20)	Sus scrofa	Animalia	GRFRRLRKKTRKRLKKIGKV	20	16128809	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10933				KR-20	Homo sapiens 	Animalia (Mammals)	KRIVQRIKDFLRNLVPRTES	20	14978112	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10969				Brevinin-1ZHb	Rana zhenhaiensis 	Animalia	FLPLLLSALPSFLCLVFKKC	20	22943778	Antibacterial, Antifungal 		Experimentally validated
+CAMPSQ10970				Brevinin-1ZHa	Rana zhenhaiensis 	Animalia	FLPFLLSALPKVFCFFSKKC	20	22943778	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11033				Maximin H23	Bombina maxima	Animalia	ILGPVISTIGNVLGGLLKNL	20	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11035				Maximin H37 	Bombina maxima	Animalia	ILGPVLGLVSNTLDDVLGIL	20	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11055				Maximin H46	Bombina maxima	Animalia	ISGPVLGLVGNALGGLIKKI	20	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11071				Cerecidin A7	Bacillus cereus	Monera	TTPLCVGVIIGITASIKICK	20	24532070	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11072				Cerecidin A1	Bacillus cereus	Monera	TTPLCVGVIIGLTTSIKICK	20	24532070	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11080		B3EWH4		PHP	Peganum harmala	Plantae	ITCPQVTQSLAPCVPYLISG	20	23165744	Antifungal, Antiviral		Experimentally validated
+CAMPSQ11110				Lividin 8 HYba	Hydrophylax bahuvistara	Animalia	AVPLIYKRPGVYVTKRPKGK	20	26960362	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11166				Brevinin-1ITa	Rana italica	Animalia	IVPFLLGMVPKLVCLITKKC	20	28699258	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11276				Japonicin-2LF	Limnonectes fujianensis	Animalia (Amphibia)	FIVPSIFLLKKAFCIALKKC	20	30802593	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11472				NP-5	Zanthoxylum bungeanum	Plantae (Angiosperms)	VLVPQGFAVVKKANFVAFYT	20	30623204	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11589				YR20	Homo sapiens	Animalia (Mammals)	YYHFWHRGVTKRSLSPHRPR	20	30555984	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11597				QR20	Homo sapiens	Animalia (Mammals)	QREPQVQWLEQQVAKRRTKR	20	30555984	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11690				Scp4	Homo sapiens	Animalia (Mammals)	DPWLKVRKFQTLKQREKRCS	20	30504221	Antibacterial	Gram +ve	Experimentally validated

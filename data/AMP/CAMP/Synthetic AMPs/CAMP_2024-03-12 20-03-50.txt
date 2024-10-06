@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11427				HKU4-HR2P2	Synthetic construct		EISKINTTLLDLSDEMAMLLQEVVKQLNDSYIDLKEL	37	30646495	Antiviral		Experimentally validated
+CAMPSQ11428				HKU4-HR2P3	Synthetic construct		LDLSDEMAMLLQEVVKQLNDSYIDLKELGNYTYYNKW	37	30646495	Antiviral		Experimentally validated
+CAMPSQ11507				M1	Synthetic construct		KWKLAKKIEKVFQNIRHGIIKAGPAVLVVGQATQIAK	37	30607494	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11508				M2	Synthetic construct		KWKLAKKIEKVFQNIRHGIIKAGPAVLVVGQTAQIAK	37	30607494	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11509				M3	Synthetic construct		KWKLAKKIEKVFQNIRHGIIKAGGAVLVVGQTAQIAK	37	30607494	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11510				M4	Synthetic construct		KWKLFKKIEKVGKNIRSGIIKAGPAVAVVGQATQIAK	37	30607494	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11511				M5	Synthetic construct		KWKLFKKIEKVGKNIRSGIIKAGPAVAVVGQATAIAK	37	30607494	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11512				M6	Synthetic construct		KWKLFKKIEKVGSNIRKGIIKAGPAVAVVGIATAIAK	37	30607494	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11513				M7	Synthetic construct		KWKLFKKIEKVGKNIRKGIISAGPAVAVVGIATAIAK	37	30607494	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11514				M8	Synthetic construct		KWKLFKKIHKVGQNIRKGIIKAGPAVAVVGQATQIAK	37	30607494	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11515				PEW300	Synthetic construct		KWKLFKKIHKVGQNIRKGIIKAGPAVAVVGQAAQIAK	37	30607494	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11544				Sublancin-Glc	Synthetic construct		GLGLAQCAALWLQCASGGTIGCGGGAVACQNYRQFCR	37	30582697	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11545				Sublancin-GlcNAc	Synthetic construct		GLGLAQCAALWLQCASGGTIGCGGGAVACQNYRQFCR	37	30582697	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11546				Sublancin-Man	Synthetic construct		GLGLAQCAALWLQCASGGTIGCGGGAVACQNYRQFCR	37	30582697	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11547				Sublancin-Gal	Synthetic construct		GLGLAQCAALWLQCASGGTIGCGGGAVACQNYRQFCR	37	30582697	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12130				BMP11	Synthetic construct		MSINKQKISRNKVLNLLTLFQLLISLYQVIKTIKKGK	37	30057579	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12309				TAT-P1	Synthetic construct		YGRKKRRQRRRCWGPCPTAFRQIGNCGRFRVRCCRIR	37	29907765	Antiviral 		Experimentally validated
+CAMPSQ12383				HBcARD 147-183	Synthetic construct		TVVRRRGRSPRRRTPSPRRRRSQSPRRRRSQSRESQC	37	30002652	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12794				E2/1-NH2	Synthetic construct		SIFSLFKMGAKALGKTLLKQAGKAGAEYAACKATNQC	37	31328553	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12796				E2/2-NH2	Synthetic construct		SILSLFKMGAKALGKTLIKQAGKAGAEYVACKATNQC	37	31328553	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13955				Defb14-1CV?(1-8)	Synthetic construct		FFARIRGGRAAVLNALGKEEQIGRASNSGRKCARKKK	37	 20176896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14124				H1	Synthetic construct		MKFKFNPTGTIVKKLTQYEINWYKQQYGRYPWERPVA	37	34230527	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14317				CecA	Synthetic construct		RWNPFKKLERVGQNIRDGIIKAGPAVAVVGQAASIAK	37	34512599	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14362				Fp16	Synthetic construct		GINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE	37	34591335	Antiviral		Predicted
+CAMPSQ14363				Fp17	Synthetic construct		KEIDRLNEVAKNLNESLIDLQELGKYEQYIKWPWYVW	37	34591335	Antiviral		Predicted

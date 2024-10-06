@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ12111				Peptide 1	Oryza sativa Japonica Group	Plantae (Angiosperms)	RHCLSQSHRF	10	30061724	Antifungal		Experimentally validated
+CAMPSQ12112				Peptide 2	Oryza sativa Japonica Group	Plantae (Angiosperms)	SHRFKGMCVS	10	30061724	Antifungal		Experimentally validated
+CAMPSQ12116				Peptide 6	Oryza sativa Japonica Group	Plantae (Angiosperms)	FPDGECKSHG	10	30061724	Antifungal		Experimentally validated
+CAMPSQ12117				Peptide 7	Oryza sativa Japonica Group	Plantae (Angiosperms)	KSHGLERKCF	10	30061724	Antifungal		Experimentally validated
+CAMPSQ12118				Peptide 8	Oryza sativa Japonica Group	Plantae (Angiosperms)	ERKCFCKKVC	10	30061724	Antifungal		Experimentally validated
+CAMPSQ12421				Fengycin A	Bacillus methylotrophicus HC51	Monera (Bacteria)	EXYTEAPQYI	10	29101528	Antifungal		Experimentally validated
+CAMPSQ12422				Fengycin B	Bacillus methylotrophicus HC52	Monera (Bacteria)	EXYTEVPQYI	10	29101528	Antifungal		Experimentally validated
+CAMPSQ12423				Fengycin D	Bacillus methylotrophicus HC53	Monera (Bacteria)	EXYTEVPQYV	10	29101528	Antifungal		Experimentally validated
+CAMPSQ12424				Fengycin E	Bacillus methylotrophicus HC54	Monera (Bacteria)	EXYTEAPQYV	10	29101528	Antifungal		Experimentally validated
+CAMPSQ12425				Fengycin F	Bacillus methylotrophicus HC55	Monera (Bacteria)	EKYTEVPQYI	10	29101528	Antifungal		Experimentally validated
+CAMPSQ12748				1213.52 Legumin J	Cicer arietinum L.	Plantae (Angiosperms)	KVKESIIRKL	10	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12750				1207.39 Legumin Alike	Cicer arietinum L.	Plantae (Angiosperms)	NVNRHIVDKL	10	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13386				Andricin B	Andrias davidianus	Animalia (Amphibia)	GLTRLFSVIK	10	34456884	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13524				RP40-16	Rhinocricus sp	Animalia	IGYAPHLTIQ	10	33894375	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13747				Halocin HA4	Haloferax larsenii HA4	Archaea	AEEEIFXPDX	10	34286419	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14404				KLK1	Sarcophaga peregrina	Animalia (Insects)	KLKLLLLLKL	10	34780520	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14581				Coleoptericin	Zophobas morio	Animalia (Insects)	DHDFNAGWGK	10	34941846	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14584				Attacin 1a	Zophobas morio	Animalia (Insects)	SEPFFGGFVR	10	34941846	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14994				Peptide 23	Saccharomyces cerevisiae	Fungi	IDEIDSIAPK	10	35215278	Antibacterial		Predicted
+CAMPSQ14995				Peptide 24	Saccharomyces cerevisiae	Fungi	SPGDGATFPK	10	35215278	Antibacterial		Predicted
+CAMPSQ14996				Peptide 25	Saccharomyces cerevisiae	Fungi	IDDVDSIIKN	10	35215278	Antibacterial		Predicted
+CAMPSQ15003				Peptide 32	Saccharomyces cerevisiae	Fungi	GIGTVPVGRV	10	35215278	Antibacterial		Predicted
+CAMPSQ15019				Peptide 48	Saccharomyces cerevisiae	Fungi	WKIGDYAGIK	10	35215278	Antibacterial		Predicted
+CAMPSQ15162				Temporin-1Re	Pelophylax kl. esculentus	Animalia (Amphibia)	FLPGLLAGLL	10	27255993	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ15214				Pal-anoplin	Anoplius samariensis	Animalia (Insects)	GLLKRIKTLL	10	29614317	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

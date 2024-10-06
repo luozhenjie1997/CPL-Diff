@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9737				22A-30R-NH2 fragment 2	Synthetic construct		ALLLAIRRR	9	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9738				22A-30R-NH2 fragment 3	Synthetic construct		AWLLAIRRR	9	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9739				22A-30R-NH2 fragment 4	Synthetic construct		ALYLAIRRR	9	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9740				22A-30R-NH2 fragment 5	Synthetic construct		ALWLAIRRR	9	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9749				22A-30R-NH2	Synthetic construct		AHCLAIGRR	9	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9790				TSG-10 (Ixosin-B peptide derivative)	Synthetic construct		WKSYVRRWR	9	23570790	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10084				Peptide 14L	Synthetic construct		WKIVFWWRR	9	31616307	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10247				Peptide 2	Synthetic construct		RKXVWWRNR	9	26785822	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10248				Peptide 3 	Synthetic construct		RKWVXWRNR	9	26785822	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10249				Peptide 4 	Synthetic construct		RKWVWXRNR	9	26785822	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10322				HFU3	Synthetic construct		IWRIFRRIF	9	22699557	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10511				BPC924	Synthetic construct		KLKKKLKKQ	9	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10744				RcAlb-PepI	Synthetic construct		AKLIPTIAL	9	31678367	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10794				GN-2 	Synthetic construct		RWKRWWRWI	9	30951211	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10795				GN-2-Arg1,3,4,7 	Synthetic construct		RWRRWWRWI	9	30951211	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10796				GN-2-Lys1,3,4,7	Synthetic construct		KWKKWWKWI	9	30951211	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10797				GN-2-Lys1-4Trp5-8 KKKKWWWWI	Synthetic construct		KKKKWWWWI	9	30951211	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10798				GN-2-Lys1,3,4,7Phe9 	Synthetic construct		KWKKWWKWF	9	30951211	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11454				Gamma 33-41 PvD4	Synthetic construct		GRARDDFRA	9	30666103	Antifungal		Experimentally validated
+CAMPSQ11455				Gamma 33-41 PvD1++	Synthetic construct		GRARRRFRA	9	30666103	Antifungal		Experimentally validated
+CAMPSQ11516				Designed Peptide	Synthetic construct		SRARIDARI	9	30597438	Antiviral		Predicted
+CAMPSQ11517				FluAPep106	Synthetic construct		SRARIDERI	9	30597438	Antiviral		Predicted
+CAMPSQ11518				FluAPep98	Synthetic construct		SRARIRARI	9	30597438	Antiviral		Predicted
+CAMPSQ11519				FluAPep117	Synthetic construct		SRARIDRRI	9	30597438	Antiviral		Predicted
+CAMPSQ11520				FluAPep80	Synthetic construct		SRASIDARI	9	30597438	Antiviral		Predicted

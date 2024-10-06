@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ4606	157879957			Chain A, E6-Binding Zinc Finger (E6apc1)	Synthetic construct		XKFACPECPKRFMRSDHLTLHILLHENKK	29	15182185	Antiviral		Experimentally validated
+CAMPSQ8190				HBc147-175	Synthetic construct		TVVRRRGRSPRRRTPSPRRRRSQSPRRRR	29	23785287	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8698				CM4	Synthetic construct		KWKLFKKIGIGAVLKVLTTGLPALKLTLK	29	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8703				CM7	Synthetic construct		KLWKLFKKIGIGAVLKVLTTGLPALKLTK	29	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9987				Palustrin-2ISb-des-C7	Synthetic construct		GLWNSIKIAGKKLFVNVLDKIRCKVAGGC	29	21911019	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9988				Palustrin-2ISb-des-C7-4D	Synthetic construct		GLWDSIKIAGKKLFVNVLDKIRCKVAGGC	29	21911019	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9989				Palustrin-2ISb-des-C7-12N	Synthetic construct		GLWNSIKIAGKNLFVNVLDKIRCKVAGGC	29	21911019	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9990				Palustrin-2ISb-des-C7-23,29S	Synthetic construct		GLWNSIKIAGKKLFVNVLDKIRSKVAGGS	29	21911019	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10799				MT	Synthetic construct		GIGKFLHSAKKFPVPIIYCNRRTGKCQRM	29	30861356	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10861				TiBP-Spacer 3-AMP	Synthetic construct		RPRENRGRERGLGGGLKLLKKLLKLLKKL	29	28936427	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10913				Melimine	Synthetic construct		TLISWIKNKRKQRPRVSRRRRRRGGRRRR	29	31356627	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11366				LP-78	Synthetic construct		WEQKIEELLKKAEEQQKKNEEELKKLEK	29	30716118	Antiviral		Predicted
+CAMPSQ11367				LP-79	Synthetic construct		WEQKIEELLKKAEEQQKKNEEELKKLEK	29	30716118	Antiviral		Predicted
+CAMPSQ24029				DN57opt	Synthetic construct		RWMVWRHWFHRLRLPYNPGKNKQNQQWP	28	20582308	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24039		P0DOH7		JEV Ep (401428)	Synthetic construct		STLGKAFSTTLKGAQRLAALGDTAWDFG	28	28232248	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24068		Q84HW1		L-PLNC8-beta (7-34)	Synthetic construct		YTLGIKILWSAYKHRKTIEKSFNKGFYH	28	32107445	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24111		P03377		P-50	Synthetic construct		YTSLIEELIKKSEEQQKKNEEELKKLEK	28	30089693	Antiviral		Experimentally Validated
+CAMPSQ24112		P03377		P-51	Synthetic construct		LEANIEELLKKAEEQQKKNEEELKKLEK	28	30089693	Antiviral		Experimentally Validated
+CAMPSQ24126				Cathelicidin-DM (5-32)	Synthetic construct		KPCKGWLCKLKLRGGYTLIGSATNLNRP	28	32363280	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24205		O95832		Claudin-1 (53-80)	Synthetic construct		SCVSQSTGQIQCKVFDSLLNLSSTLQAT	28	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24217		P60603		ROS modulator 1 (52-79)	Synthetic construct		LMGGIGKTMMQSGGTFGTFMAIGMGIRC	28	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24436				Undefined	Synthetic construct		IIICRKPIICRKPIICRKPIICRKPIII	28	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24440				CAR4	Synthetic construct		LKKLCARLKKLCARLKKLCARLKKLCAR	28	31887002	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24443				ACR4	Synthetic construct		LKKLACRLKKLACRLKKLACRLKKLACR	28	31887002	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24462		P0DSK2,		M-poneratoxin-Dq4e (1-28), Dq-3162	Synthetic construct		GLKDWWNKHKDKIVKVVKEMGKAGINAA	28	32585881, 32861765	Antibacterial, Antifungal	Gram-	Experimentally Validated

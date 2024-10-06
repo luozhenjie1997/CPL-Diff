@@ -1,0 +1,27 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9912				R5F1	Synthetic construct		PMNAIKLLCR	10	31228542	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9913				R5F2	Synthetic construct		MNAIKLLCRV	10	31228542	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9914				R5F3	Synthetic construct		NAIKLLCRVH	10	31228542	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9915				R5F4	Synthetic construct		AIKLLCRVHK	10	31228542	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9916				R5F5	Synthetic construct		IKLLCRVHKK	10	31228542	Antibacterial, Antibiofilm	Gram -ve	Experimentally validated
+CAMPSQ9917				R5F6	Synthetic construct		KLLCRVHKKI	10	31228542	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9918				R5F7	Synthetic construct		LLCRVHKKIA	10	31228542	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9919				R5F8	Synthetic construct		LCRVHKKIAI	10	31228542	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9920				R5F9	Synthetic construct		CRVHKKIAIS	10	31228542	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9921				R5F10	Synthetic construct		RVHKKIAISV	10	31228542	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9961				8361_1 	Synthetic construct		CLIMKVRRKK	10	31302447	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10029				Des-Lys1/Lys2
+-(p-BthTX-I)2	Synthetic construct		YRYHLKFCKK	10	29113051	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10394				KP	Synthetic construct		AKVTMTCSAS	10	28704490	Antifungal		Experimentally validated
+CAMPSQ10495				BPC194	Synthetic construct		KKLKKFKKLQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10496				BPC198	Synthetic construct		KLKKKFKKLQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10497				BPC480	Synthetic construct		KKKLFKKKLQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10498				BPC482	Synthetic construct		KLKKKKFKLQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10499				BPC484	Synthetic construct		LKKKKKKFLQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10500				BPC486	Synthetic construct		LKKKKKKLFQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10501				BPC488	Synthetic construct		KLKKKKLKFQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10502				BPC490	Synthetic construct		KKLKKLKKFQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10503				BPC492	Synthetic construct		KKKLLKKKFQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10504				BPC494	Synthetic construct		LKKKKFLKKQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10505				BPC496	Synthetic construct		LKKFKKKKLQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10506				BPC914	Synthetic construct		KLKKKFLKKQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

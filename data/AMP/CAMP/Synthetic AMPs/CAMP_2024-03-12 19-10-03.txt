@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23017		P03138		7R-Ahx-HBV Large envelope protein (19-24)	Synthetic construct		RRRRRRRXLDPAFR	14	21144865	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23044		B6D434		Cbf-14-Nle	Synthetic construct		RXLRKFFRKLKKSV	14	28522372	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23045		B6D434		Cbf-14-1, Cbf-14 [K5Orn]	Synthetic construct		RLLRXFFRKLKKSV	14	28522372	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23046		B6D434		Cbf-14-2, Cbf-14 [K5,9Orn]	Synthetic construct		RLLRXFFRXLKKSV	14	28522372	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23047		B6D434		Cbf-14-3, Cbf-14 [K5,9,12Orn]	Synthetic construct		RLLRXFFRXLKXSV	14	28522372	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23095				KL	Synthetic construct		KLLKLLKKLLKLLK	14	27195657, 32936629, 33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23096				KL1 [K1G]	Synthetic construct		GLLKLLKKLLKLLK	14	32936629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23097				KL1 [K1G, L3F]	Synthetic construct		GLFKLLKKLLKLLK	14	32936629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23098		P82389		Aurein-2.2 (1-14)[I5L; V6,9,10L; G11K; A12L; G14K]	Synthetic construct		GLFDLLKKLLKLLK	14	32936629	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23099		P82389		Aurein-2.2 (1-14)[V6,9,10L; G11K; A12L; G14K]	Synthetic construct		GLFDILKKLLKLLK	14	32936629	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23100		P82389		Aurein-2.2 (1-14)[V9,10L; G11K; A12L; G14K]	Synthetic construct		GLFDIVKKLLKLLK	14	32936629	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23101		P82389,		Aurein-2.2 (1-14)[V10L, G11K, A12L, G14K]	Synthetic construct		GLFDIVKKVLKLLK	14	32936629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23102		P82389		Aurein-2.2 (1-14)[G11K, A12L, G14K]	Synthetic construct		GLFDIVKKVVKLLK	14	32936629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23103		P82389		Aurein-2.2 (1-14)[A12L, G14K]	Synthetic construct		GLFDIVKKVVGLLK	14	32936629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23104		P82389		Aurein-2.2 (1-14)[G14K]	Synthetic construct		GLFDIVKKVVGALK	14	32936629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23105		P82389	5MXL	Aurein-2.2 (1-14)	Synthetic construct		GLFDIVKKVVGALG	14	32936629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23106		P82389		Aurein-2.2 (1-14)[G1K]	Synthetic construct		KLFDIVKKVVGALG	14	32936629	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23107		P82389		Aurein-2.2 (1-14)[G1K, F3L]	Synthetic construct		KLLDIVKKVVGALG	14	32936629	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23108		P82389		Aurein-2.2 (1-14)[G1K, F3L, D4K]	Synthetic construct		KLLKIVKKVVGALG	14	32936629	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23109		P82389		Aurein-2.2 (1-14)[G1K, F3L, D4K, I5L]	Synthetic construct		KLLKLVKKVVGALG	14	32936629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23110		P82389		Aurein-2.2 (1-14)[G1K, F3L, D4K, I5L, V6L]	Synthetic construct		KLLKLLKKVVGALG	14	32936629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23111		P82389		Aurein-2.2 (1-14)[G1K; F3L; D4K; I5L; V6,9L]	Synthetic construct		KLLKLLKKLVGALG	14	32936629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23112		P82389		Aurein-2.2 (1-14)[G1K; F3L; D4K; I5L; V6,9,10L]	Synthetic construct		KLLKLLKKLLGALG	14	32936629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23113				KL1 [L12A, K14G]	Synthetic construct		KLLKLLKKLLKALG	14	32936629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23114				KL1 [K14G]	Synthetic construct		KLLKLLKKLLKLLG	14	32936629	Antibacterial	Gram+	Experimentally Validated

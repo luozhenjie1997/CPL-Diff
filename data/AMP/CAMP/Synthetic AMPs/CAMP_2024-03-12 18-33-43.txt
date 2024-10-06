@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8410				AQ-1766	Synthetic construct		LWFYTMWH	8	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8411				AQ-2997	Synthetic construct		AWFYTMWH	8	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8413				AQ-2999	Synthetic construct		LWAYTMWH	8	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8414				AQ-3000	Synthetic construct		LWFATMWH	8	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8415				AQ-3001	Synthetic construct		LWFYAMWH	8	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8416				AQ-3002	Synthetic construct		LWFYTAWH	8	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8417				AQ-3003	Synthetic construct		LWFYTMAH	8	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8418				AQ-3004	Synthetic construct		LWFYTMWA	8	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8419				AQ-3369	Synthetic construct		KWFYTMWH	8	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8420				AQ-3370	Synthetic construct		LWFKTMWH	8	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8421				AQ-3371	Synthetic construct		LWFYKMWH	8	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8422				AQ-3372	Synthetic construct		LWFYTKWH	8	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8793				LL-lll/9	Synthetic construct		VNWKKILG	8	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8794				LL-III/10 	Synthetic construct		GKIIKVVK	8	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8879				Peptide 5	Synthetic construct		GNAPGAVA	8	29221796	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9248				Bac8a (Bac2A variant)	Synthetic construct		KIWVIRWR	8	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9249				Bac8b (Bac2A variant)	Synthetic construct		RIWVIRWR	8	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9250				Bac8c (Bac2A variant)	Synthetic construct		RIWVIWRR	8	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9251				Bac8d (Bac2A variant)	Synthetic construct		RRWVIWRR	8	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9262				L4K3W4 	Synthetic construct		LLKWLKKL	8	19544481	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9263				L4K3W5	Synthetic construct		KLLKWLLK	8	19544481	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9279				Synthetic 9	Synthetic construct		KLKLLLLL	8	8093007	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9537				L1 	Synthetic construct		APRKNVRW	8	23026014	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9538				L2	Synthetic construct		APRKNVRF	8	23026014	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9539				L3	Synthetic construct		APRKNVKW	8	23026014	Antibacterial	Gram -ve	Experimentally validated

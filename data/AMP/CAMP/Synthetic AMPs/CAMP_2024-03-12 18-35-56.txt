@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19375		P02788		LF11 [Q2Del,N6Del,K9I,V10R]	Synthetic construct		FWQRIRIRR	9	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19373		P02788		LF11 [Q2,4Del,K9I,V10R]	Synthetic construct		FWRNIRIRR	9	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19313		P02788		LF11 [Q2,N6Del]	Synthetic construct		FWQRIRKVR	9	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19314		P02788		LF11 [Q2,4Del]	Synthetic construct		FWRNIRKVR	9	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19315		P02788		LF11 [Q2,K9Del]	Synthetic construct		FWQRNIRVR	9	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19316		P02788		LF11 [Q2,R8Del]	Synthetic construct		FWQRNIKVR	9	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19071		P24627,		LfcinB (2125)Pal	Synthetic construct		RWQWRWQWR	9	25815317, 28287494, 29984236, 29551999	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19070		P24627		Lactoferricin-B (4-12), Lfcin-B (4-12)	Synthetic construct		RRWQWRMKK	9	21607695, 10223949	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19060				D-Nal-Pac-525	Synthetic construct		kxrrxvrxi	9	19538482	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18948		P14661		Cecropin-P1 (1-9)	Synthetic construct		WLSKTAKKL	9	29266746	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18855				Undefined	Synthetic construct		XXXXXXXXX	9	25941221	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18837				HHC-8	Synthetic construct		KIWWWWRKR	9	19171306, 23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18836				Undefined	Synthetic construct		RWRRWKWWL	9	19171306	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18834				Undefined	Synthetic construct		WRVWVRVKR	9	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18835				Undefined	Synthetic construct		FRRWWKWFK	9	19171306	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18833				Undefined	Synthetic construct		RVRWYRIFY	9	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18826				Undefined	Synthetic construct		KLWWMIRRW	9	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18827		P33046,		Indolicidin (5-13)	Synthetic construct		KWPWWPWRR	9	19171306, 11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18828				Undefined	Synthetic construct		KWPWWKWRR	9	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18829				Undefined	Synthetic construct		KFHWWKWRK	9	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18824				Undefined	Synthetic construct		RWRWWRWRR	9	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18825				Undefined	Synthetic construct		KWKWWKWKK	9	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18731				KSL1	Synthetic construct		KVVFKVKFK	9	11587795	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ18655				Undefined	Synthetic construct		AAKHAAHRA	9	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18654				Undefined	Synthetic construct		LIKHILHRL	9	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated

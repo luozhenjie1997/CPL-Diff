@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14173				HS-MSI-78A (HS-PexigananA)	Synthetic construct		HSXGIGKFLKKAKKFAKAFVKILKK	25	31796755	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14174				MSI-78A-SH (PexigananA-SH)	Synthetic construct		GIGKFLKKAKKFAKAFVKILKKXSH	25	31796755	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14660				PHNX-7	Synthetic construct		GVVDIIKGAGKKFAKGLAGKIANKK	25	34867843	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16446				Lfcin (28-34)-GGG-GNU7	Synthetic construct		RKVRGPPGGGRLLRPLLQLLKQKLR	25	27242337	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16475				LFcinH18–24 - LFcinB24–41	Synthetic construct		TKCFQWQWRMKKLGAPSITCVRRAF	25	24916114	Antibacterial	Gram-	Experimentally validated
+CAMPSQ16476				LFcinB17–23 - LFcinH25–42	Synthetic construct		FKCRRWQRNMRKVRGPPVSCIKRDS	25	24916114	Antibacterial	Gram-	Experimentally validated
+CAMPSQ16477				LFcinB17–24 - LFcinH26–42	Synthetic construct		FKCRRWQWNMRKVRGPPVSCIKRDS	25	24916114	Antibacterial	Gram-	Experimentally validated
+CAMPSQ16478				LFcinB17–25 - LFcinH27–42	Synthetic construct		FKCRRWQWRMRKVRGPPVSCIKRDS	25	24916114	Antibacterial	Gram-	Experimentally validated
+CAMPSQ16520		A0A0U2YD13		IARR-mBjAMP1	Synthetic construct		IARRNLCASLRARHTIPQCKKFGRR	25	29718248	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16521		A0A0U2YD13		IARR-mBjAMP1 [N1A]	Synthetic construct		IARRALCASLRARHTIPQCKKFGRR	25	29718248	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16522		A0A0U2YD13		IARR-mBjAMP1 [N1A,C3K]	Synthetic construct		IARRALKASLRARHTIPQCKKFGRR	25	29718248	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16523		A0A0U2YD13		IARR-mBjAMP1 [N1A,C3K,A4K]	Synthetic construct		IARRALKKSLRARHTIPQCKKFGRR	25	29718248	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16524		A0A0U2YD13		IARR-mBjAMP1 [N1A,C3K,A4K,S5A]	Synthetic construct		IARRALKKALRARHTIPQCKKFGRR	25	29718248	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16525		A0A0U2YD13		IARR-mBjAMP1 [N1A,C3K,A4K,S5A,L6K]	Synthetic construct		IARRALKKAKRARHTIPQCKKFGRR	25	29718248	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16526		A0A0U2YD13		IARR-mBjAMP1 [N1A,C3K,A4K,S5A,L6K,R9A]	Synthetic construct		IARRALKKAKRAAHTIPQCKKFGRR	25	29718248	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16527		A0A0U2YD13		IARR-mBjAMP1 [N1A,C3K,A4K,S5A,L6K,R9A,T11K]	Synthetic construct		IARRALKKAKRAAHKIPQCKKFGRR	25	29718248	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16528		A0A0U2YD13		IARR-mBjAMP1 [N1A,C3K,A4K,S5A,L6K,R9A,T11K,Q14A]	Synthetic construct		IARRALKKAKRAAHKIPACKKFGRR	25	29718248	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16529		A0A0U2YD13		IARR-mBjAMP1 [N1A,C3K,A4K,S5A,L6K,R9A,T11K,Q14A,C15A]	Synthetic construct		IARRALKKAKRAAHKIPAAKKFGRR	25	29718248	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16530		A0A0U2YD13		IARR-mBjAMP1 [N1A,C3K,A4K,S5A,L6K,R9A,T11K,Q14A,C15A,G19A]	Synthetic construct		IARRALKKAKRAAHKIPAAKKFARR	25	29718248	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16552		Q08GI9		CSPC14 - hLF1-11	Synthetic construct		LSTFFRLFNRSFTQGRRRRSVQWCA	25	29434779	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16599				PTNr1 (42-66)	Synthetic construct		KRCKNKMEGDDVAVSGRGARKAAKK	25	30096337	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16815		P83240		Pandinin-2 [P14GV], Pin2 [P14GV]	Synthetic construct		FWGALAKGALKLIGVSLFSSFSKKD	25	20033827	Antibacterial, Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ16816		P83240		Pandinin-2 [P14VG], Pin2 [P14VG]	Synthetic construct		FWGALAKGALKLIVGSLFSSFSKKD	25	20033827	Antibacterial, Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ17652		Q47765		Enterocin AS-48 (46-70)[G18W,A21I,I23A]	Synthetic construct		AGRESIKAYLKKEIKKKWKRIVAAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17651		Q47765		Enterocin AS-48 (46-70)[G18W]	Synthetic construct		AGRESIKAYLKKEIKKKWKRAVIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated

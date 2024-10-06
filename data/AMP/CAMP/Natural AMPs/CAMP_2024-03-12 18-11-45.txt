@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3473	269819995	D1MJ09		Cc-CATH3 	Coturnix coturnix	Animalia (Aves)	RVRRFWPLVPVAINTVAAGINLYKAIRRK	29	21375690	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3481				  GRPSp 	Scylla paramamosain	Animalia (Crustaceans (Malacostraca))	IPAMEPAARVKRSPGYGGCSPRWACGGYG	29	21220028	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3499	374110720	G3ETQ3		  Palustrin-2AJ1 	Amolops jingdongensis	Animalia (Amphibia)	GFMDTAKNVAKNVAVTLIDKLRCKVTGGC	29	21816202	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3575				  Odorranain-F-OW1 	Odorrana wuchuanensis	Animalia (Amphibia)	GFMNTAKNVAKNVAVTLLDNLKCKITGGC	29	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3594				  Odorranain-F-OA1 	Odorrana andersonii	Animalia (Amphibia)	GFMDTAKNVAKNMAGNLLDNLKCKITKAC	29	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3595				  Odorranain-F-OA3 	Odorrana andersonii	Animalia (Amphibia)	GFMDTAKNVAKNEAGNLLDNLKCKITKAC	29	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3596				  Odorranain-F-OA4 	Odorrana andersonii	Animalia (Amphibia)	GFMATAKNVAKNMDVTLLDNLKCKITKAC	29	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3664				  Hymenochirin-1B 	Hymenochirus boettgeri	Animalia (Amphibia)	IKLSPETKDNLKKVLKGAIKGAIAVAKMV	29	22497805	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3665				  Hymenochirin-2B 	Hymenochirus boettgeri	Animalia (Amphibia)	LKIPGFVKDTLKKVAKGIFSAVAGAMTPS	29	22497805	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3677				  ChaC8 	Chassalia chartacea	Plantae	AIPCGESCVWIPCISTVIGCSCSNKVCYR	29	22467870	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3756		P0DMI7		  HsAp	Heterometrus spinifer	Animalia (Arachnida)	SGTSEKERESGRLLGVVKRLIVCFRSPFP	29	23000095	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3872		P86037		Raniseptin-1 	Hypsiboas raniceps 	Animalia (Amphibia)	AWLDKLKSLGKVVGKVALGVAQNYLNPQQ	29	18976634	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3888		O87237		Lantibiotic lacticin 3147 A2	Lactococcus lactis subsp. lactis 	Monera	TTPATPAISILSAYISTNTCPTTKCTRAC	29		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ4171	386656276	J7FBF0		Defensin 	Camponotus floridanus 	Animalia (Insects)	VNHSACAAHCILRGKTGGRCNSNAVCVCR	29	22912782	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ4452		P86185		Raniseptin-2	Hypsiboas raniceps	Animalia (Amphibia)	AWLDKLKSLGKVVGKVAIGVAQHYLNPQQ	29	18976634	Antibacterial		Predicted
+CAMPSQ4454		P86186		Raniseptin-4	Hypsiboas raniceps	Animalia (Amphibia)	AWLDKLKSLGKVVGKVGLGVVQNYLNPRQ	29	18976634	Antibacterial		Predicted
+CAMPSQ4455		P86187		Raniseptin-5	Hypsiboas raniceps	Animalia (Amphibia)	AWLDKLKNLGKVVGKVALGVVQNYLNPRQ	29	18976634	Antibacterial		Predicted
+CAMPSQ4456		P86039		Raniseptin-6	Hypsiboas raniceps	Animalia (Amphibia)	ALLDKLKSLGKVVGKVALGVVQNYLNPRQ	29	18976634	Antibacterial		Predicted
+CAMPSQ4457		P86040		Raniseptin-7	Hypsiboas raniceps	Animalia (Amphibia)	ALLDKLKSLGKVVGKVALGVAQHYLNPQQ	29	18976634	Antibacterial		Predicted
+CAMPSQ4458		P86188		Raniseptin-8	Hypsiboas raniceps	Animalia (Amphibia)	ALLDKLKSLGKVVGKVAIGVAQHYLNPQQ	29	18976634	Antibacterial		Predicted
+CAMPSQ4507		P84921		Dermaseptin-1	Phyllomedusa tarsius	Animalia (Amphibia)	GLWSKIKETGKEAAKAAGKAALNKIAEAV	29		Antibacterial		Experimentally validated
+CAMPSQ9294				Lividin D1	Odorrana andersonii 	Animalia (Amphibia)	KNNFCQVLYVWLLRLGKQCFVKFSKDVET	29	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12014				Saha-CATH6 	Sarcophilus harrisii	Animalia (Mammals)	KRIRFFERIRDRLRDLGNRIKNRIRDFFS	29	27725697	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9467				Varv A	Viola odorata L. and Viola tricolor L	Plantae	GLPVCGETCVGGTCNTPGCSCSWPVCTRN	29	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9468				Kalata B1 (kB1)	Oldenlandia affinis	Plantae	GLPVCGETCVGGTCNTPGCTCSWPVCTRN	29	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

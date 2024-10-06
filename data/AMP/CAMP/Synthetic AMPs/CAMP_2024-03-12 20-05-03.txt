@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ4298	296005969			Defensin 2-2, partial	Synthetic construct		FSCDVLSFQSKWVSPNHSACAVRCLAQRRKGGKCKNGDCVCR	42	20097222	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8341				DesHDAP1-magainin 2 (D-M)	Synthetic construct		ARDNKKTRIWPRHLQLAVRNGIGKWLHSAKKFGKAFVGEIMNS	43	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8343				Magainin 2-DesHDAP1 (M-D)	Synthetic construct		GIGKWLHSAKKFGKAFVGEIMNSARDNKKTRIWPRHLQLAVRN	43	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10899		Q17027		Def-BAT 	Synthetic construct		ATCDLASFSSQWVTPNDSLCAAHCIARRYRGGYCNGKRVCVCR	43	18214975	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11077				RNZ2114	Synthetic construct		KRGFGCNGPWNEDDLRCHNHCKSIKGYKGGYCAKGGFVCKCY	42	23624708	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ16585		P49913		L31-P113	Synthetic construct		LGDFFRKSKEKIGKEFKRIVQRIKDFLRNLAKRHHGYKRKFH	42	29859288	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ19221		P81534		HBD3 (4-45)	Synthetic construct		NTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	42	25706284	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20718		P05204		HMGN2 (49-90)	Synthetic construct		GEKVPKGKKGKADAGKEGNNPAENGDAKTDQAQKAEGAGDAK	42	16204630	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21786		P04582		X- C41	Synthetic construct		XEWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLW	42	22770564	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21793		P04582		C41 -X	Synthetic construct		EWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLWX	42	22770564	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22722		P69711		Capsid protein (147-188), Woodchuck HBcARD	Synthetic construct		TVIRRRGGARASRSPRRRTPSPRRRRSQSPRRRRSQSPSANC	42	27241023	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22775		P01994		Hemoglobin subunit alpha-A (2-43)	Synthetic construct		VLSAADKNNVKGIFTKIAGHAEEYGAETLERMFTTYPPTKTY	42	27583823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22776		P02001		Hemoglobin subunit alpha-D (1-42)	Synthetic construct		MLTAEDKKLIQQAWEKAASHQEEFGAEALTRMFTTYPQTKTY	42	27583823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23659				Defensin-like peptide Scedosporisin-1	Synthetic construct		GFGCPGSEKKCHNHCKSVKGYKGGYCDGPYIPFVGRPRCKCY	42	29174563	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23660				Defensin-like peptide Scedosporisin-2	Synthetic construct		GFGCPGNEKKCHNHCKSVKGYKGGYCDGPYIPFVGRPRCKCY	42	29174563	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23661				Defensin-like peptide Scedosporisin-5	Synthetic construct		GFGCPGSEKKCHNHCKTIKGYKGGYCDGPYIPFVGRPRCKCY	42	29174563	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23809		Q3I5J5		SARS-CoV-HR1P	Synthetic construct		ANQFNKAISQIQESLTTTSTALGKLQDVVNQNAQALNTLVKQ	42	30989115	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23813		R9UQ53		MERS-CoV-HR1P	Synthetic construct		ANKFNQALGAMQTGFTTTNEAFRKVQDAVNNNAQALSKLASE	42	30989115	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23816		P25194		HCoV-OC43-HR1P	Synthetic construct		ANAFNNALDAIQEGFDATNSALVKIQAVVNADAEALNNLLQQ	42	30989115	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23821		P0DTC2		SARS-CoV-2 HR1P	Synthetic construct		ANQFNSAIGKIQDSLSSTASALGKLQDVVNQNAQALNTLVKQ	42	32047258	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24082				EtDef1	Synthetic construct		AACSLGSLLNVGCNSCACAAHCLATRGKNGACNSQRRCVCNK	42	32344933	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24120		P03377		P-75	Synthetic construct		EMTWEEWEKKIEEYTKKIEEILKKSEEQQKKNEEELKKLEK	41	30089693	Antiviral		Experimentally Validated
+CAMPSQ24596				SARS-CoV-2-S(11681203)-GSGSGC	Synthetic construct		DISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGSGSGX	42	33082259	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24597		R9UQ53		MERS-CoV-HR2P-GSGSGC	Synthetic construct		SLTQINTTLLDLTYEMLSLQQVVKALNESYIDLKELGSGSGX	42	33082259	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24598		Q8BB25		EK1-GSGSGC	Synthetic construct		SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGSGSGX	42	33082259	Antiviral	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1057	158706431	A0SPI1		Vespid chemotactic peptide 5h	Vespa magnifica 	Animalia (Insects)	FLPIIGKLLSGLL	13		Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1093	66773949	P69844		Grammistin Pp2b	Pogonoperca punctata	Animalia (Pisces)	FIGGIISFIKKLF	13		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1095	66773815	P69842		Grammistin Pp1	Pogonoperca punctata	Animalia (Pisces)	FIGGIISFFKRLF	13		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1253	18202393	P82238		Salmocidin-2A	Oncorhynchus mykiss	Animalia (Pisces)	SGFVLKGYTKTSQ	13		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1254	18202394	P82239		Salmocidin-2B	 Oncorhynchus mykiss	Animalia (Pisces)	AGFVLKGYTKTSQ	13		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1725	74824152	Q9GQW4		BmKn1	Mesobuthus martensii	Animalia (Arachnida)	FIGAVAGLLSKIF	13		Antibacterial		Predicted
+CAMPSQ1745	224493405	P0C8W1		Non-disulfide-bridged peptide5.5	Hadrurus gertschi	Animalia (Arachnida)	IFSAIAGLLSNLL	13		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1810	224493409	P0C8U2		Temporin-PTa	Rana picturata	Animalia (Amphibia)	FFGSVLKLIPKIL	13	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1886	66773948	P69843		Grammistin Pp2a	Pogonoperca punctata	Animalia (Pisces)	FIGGIISLIKKLF	13		Antibacterial		Predicted
+CAMPSQ1943	66773814	P69841		GrammistinGsE	Grammistes sexlineatus	Animalia (Pisces)	FIGGIISFIKKLF	13	15777955	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1944	66773813	P69840		Grammistin Gs D	Grammistes sexlineatus	Animalia (Pisces)	FIGGIISFFKRLF	13	15777955	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2152	147704399	P85143		N-acetylmuramoyl-L-alanine amidase L2	Lysobacter sp.	Monera	XNVVFLNXPXPQW	13		Antibacterial		Experimentally validated
+CAMPSQ2575	288561900	B3VZU2		Aponicin-1CDYa	Rana dybowskii 	Animalia (Amphibia)	FPLALLCKVFKKC	13	19539775	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2596	374253658	B3A0N7		Plantazolicin	Bacillus pumilus  	Monera	CTCTTIISSSSTF	13	21950656	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2766		P83338		  Oncorhyncin III	Oncorhynchus mykiss 	Animalia (Pisces)	PKRKSATKGDEPA	13	12713443	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2779		P01190		  Alpha-MSH 	Homo sapiens	Animalia (Mammals)	SYSMEHFRWGKPV	13	10670585	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ2806				  Temporin-1TSc 	Rana tsushimensis	Animalia (Amphibia)	FLPLLGNLLRGLL	13	16413829	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2808				  Temporin-1SPb 	Rana septentrionalis	Animalia (Amphibia)	FLSAITSLLGKLL	13	15556063	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2902				  Temporin-1Ob 	Rana ornativentris	Animalia (Amphibia)	FLPLIGKILGTIL	13	11892844	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2921				  Temporin 1ARa 	Rana areolata	Animalia (Amphibia)	FLPIVGRLISGLL	13	12429503	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2922				  Temporin 1AUa 	Rana aurora	Animalia (Amphibia)	FLPIIGQLLSGLL	13	15325526	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ2923				  Temporin 1Ec  	Rana esculenta	Animalia (Amphibia)	FLPVIAGLLSKLF	13	14499272	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2925				  Temporin 1OLa 	Rana okaloosae	Animalia (Amphibia)	FLPFLKSILGKIL	13	17005262, 29842923	Antibacterial, Anticancer	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2927				  Temporin 1Pra 	Rana pirica	Animalia (Amphibia)	ILPILGNLLNGLL	13	15003829	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3138				  Temporin-1PRb 	Rana pirica	Animalia (Amphibia)	ILPILGNLLNSLL	13	15003829	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

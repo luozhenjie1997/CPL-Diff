@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ91	122056010	A0AEI6		Brevinin-2GHc precursor 	Rana guentheri	Animalia (Amphibia)	SIWEGIKNAGKGFLVSILDKVRCKVAGGCNP	31	16979798	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ131	1352227	P49112		Neutrophil cationic peptide 2 precursor 	Cavia porcellus	Animalia (Mammals)	RRCICTTRTCRFPYRRLGTCLFQNRVYTFCC	31	8173076	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ194	1706455	P80282		Dermaseptin B2 	Phyllomedusa bicolor	Animalia (Amphibia)	AMWKDVLKKIGTVALHAGKAALGAVADTISQ	31	8306981	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ204	17433720	P56872		Cyclopsychotride-A 	Psychotria longipes 	Plantae	SIPCGESCVFIPCTVTALLGCSCKSKVCYKN	31	10430870	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ205	17433721	P56879	2ERI	Circulin-B 	Chassalia parviflora 	Plantae	GVIPCGESCVFIPCISTLLGCSCKNKVCYRN	31	10430870	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ274	2494048	Q62714		Neutrophil antibiotic peptide NP-4 precursor 	Rattus norvegicus	Animalia (Mammals)	ACYCRIGACVSGERLTGACGLNGRIYRLCCR	31	2543629	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ342	3024355	P81056		Penaeidin-1 	Litopenaeus vannamei	Animalia (Crustaceans (Malacostraca))	YRGGYTGPIPRPPPIGRPPLRLVVCACYRLS	31	11028917	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ19737		A0A0A0R4T5		Pelophylaxin-HB1	Pelophylax hubeiensis	Animalia	GILMDTFKGAAKNVAGFLLDKLKCKISGGC	30	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20702		P86511,		Rothein 3.1	Litoria rothii		ASAAGAVRAGDDETLLKPVLNSLDNLVSGL	30	19642086	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20703		P86513,		Rothein 3.3	Litoria rothii		ASAAGAVRAGDDETLLNPVLNSLDNLVSGL	30	19642086	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20704		P86514,		Rothein 3.4	Litoria rothii		ASAAGAVREDDDETLLNPVLNSLDNLVSGL	30	19642086	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21198		Q7X2B5	2MLU	Bacteriocin LsbB	Lactococcus lactis subsp. lactis	Bacteria	MKTILRFVAGYDIASHKKKTGGYPWERGKA	30	28515717	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21362				Lf-CATH1	Limnonectes fragilis	Animalia	PPCRGIFCRRVGSSSAIARPGKTLSTFITV	30	24028327	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21363				Lf-CATH2	Limnonectes fragilis	Animalia	GKCNVLCQLKQKLRSIGSGSHIGSVVLPRG	30	24028327	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22736		Q93GF6		Aureocin A70 peptide B, AurB	Staphylococcus aureus	Bacteria	MGAVAKFLGKAALGGAAGGATYAGLKKIFG	30	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22739				Cereucin VA, CevA	Bacillus cereus	Bacteria	MGAVVKGGLKIIGGTAASWLGWEAGTRIWK	30	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22740				Cereucin VB, CevB	Bacillus cereus	Bacteria	MGAAVKMLGKAFAGGVAGGATYGGLKKIFG	30	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22744		R8JR68		Cereucin XC, CexC	Bacillus cereus	Bacteria	MGALFKAALKAAGGGAAGGATYGGLKHFFG	30	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22746		J8C7V1		Cereucin HB, CehB	Bacillus cereus	Bacteria	MGALVKGGLKLIGGTAASWLGWEAGERVWK	30	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22747		J8C853		Cereucin HC, CehC	Bacillus cereus	Bacteria	MGAIIKGGLKLVGGGAAGGFTYGGLKKIFG	30	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22748		J7YRW3		Cereucin HD, CehD	Bacillus cereus	Bacteria	MGAIIKGAAKVLGKGAATGGVIYGLEKLFR	30	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23580		P86013		Lantibiotic paenibacillin, M152-P4	Paenibacillus polymyxa	Bacteria	AXIIKXXIKVXKAVCKXLXCICXGXCXNCK	30	30928682	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24145		A0A1P7TZ77	2MM6	Alstotide S1	Alstonia scholaris	Plantae	CRPYGYRCDGVINQCCDPYHCTPPLIGICL	30	26546678	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24255		A0A4D6DT23		Cathelicidin SA-CATH	Sinonatrix annularis (Trimerodytes annularis)	Animalia	KFFKKLKKSVKKHVKKFFKKPKVIGVSIPF	30	31116540	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24397		O87236		Lacticin 3147 chain A1, LtnA1	Lactococcus lactis subsp. lactis	Bacteria	XXXNXFxLXDYWGNNGAWXXLXHEXMAWXK	30	24069959	Antibacterial	Gram-	Experimentally Validated

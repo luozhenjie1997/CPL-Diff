@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22984		Q703G9		Structural viral protein  (443-462)	Synthetic construct		WGWRDIVRGIRKVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22986		Q703G9		Structural viral protein (443-462)[W1A]	Synthetic construct		AGWRDIVRGIRKVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22987		Q703G9		Structural viral protein (443-462)[G2A]	Synthetic construct		WAWRDIVRGIRKVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22988		Q703G9		Structural viral protein (443-462)[W3A]	Synthetic construct		WGARDIVRGIRKVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22989		Q703G9		Structural viral protein (443-462)[R4A]	Synthetic construct		WGWADIVRGIRKVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22990		Q703G9		Structural viral protein (443-462)[D5A]	Synthetic construct		WGWRAIVRGIRKVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22991		Q703G9		Structural viral protein (443-462)[I6A]	Synthetic construct		WGWRDAVRGIRKVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22992		Q703G9		Structural viral protein (443-462)[V7A]	Synthetic construct		WGWRDIARGIRKVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22993		Q703G9		Structural viral protein (443-462)[R8A]	Synthetic construct		WGWRDIVAGIRKVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22994		Q703G9		Structural viral protein (443-462)[G9A]	Synthetic construct		WGWRDIVRAIRKVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22995		Q703G9		Structural viral protein (443-462)[I10A]	Synthetic construct		WGWRDIVRGARKVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22996		Q703G9		Structural viral protein (443-462)[R11A]	Synthetic construct		WGWRDIVRGIAKVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22997		Q703G9		Structural viral protein (443-462)[K12A]	Synthetic construct		WGWRDIVRGIRAVAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22998		Q703G9		Structural viral protein (443-462)[V13A]	Synthetic construct		WGWRDIVRGIRKAAAPVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22999		Q703G9		Structural viral protein (443-462)[P16A]	Synthetic construct		WGWRDIVRGIRKVAAAVLST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23000		Q703G9		Structural viral protein (443-462)[V17A]	Synthetic construct		WGWRDIVRGIRKVAAPALST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23001		Q703G9		Structural viral protein (443-462)[L18A]	Synthetic construct		WGWRDIVRGIRKVAAPVAST	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23002		Q703G9		Structural viral protein (443-462)[S19A]	Synthetic construct		WGWRDIVRGIRKVAAPVLAT	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23003		Q703G9		Structural viral protein  (443-462)[T20A]	Synthetic construct		WGWRDIVRGIRKVAAPVLSA	20	21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23158		A0A223FLF9		Lynronne-2	Synthetic construct		HLRRINKLLTRIGLYRHAFG	20	29214045	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23159		A0A223FLG0		Lynronne-3	Synthetic construct		NRFTARFRRTPWRLCLQFRQ	20	29214045	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23160				Undefined	Synthetic construct		VLHTGYRKFLHRSKRFFHLR	20	29214045	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23167				Undefined	Synthetic construct		KFVRLKIYCRDKNKGRGISF	20	29214045	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23175				Undefined	Synthetic construct		QIAALEQEIAALEQEIAALQ	20	23671080	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23288				Chex1-Arg20 [R20MeR]	Synthetic construct		XRPDKPRPYLPRPRPPRPVX	20	28154813	Antibacterial	Gram-	Experimentally Validated

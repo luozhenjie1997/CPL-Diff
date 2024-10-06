@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13722				PinB	Triticum aestivum	Plantae	TMKDFPVTWPTKWWKGG	17	34276635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13729				PBmje	Bothrops marajoensis	Animalia (Reptiles)	YNKKYRYHLKSCKKADK	17	34130109	Antibacterial, Antiparasitic, Anticancer		Experimentally validated
+CAMPSQ13948				17Hc	Halocynthia aurantium.	Animalia	WLNALLHHGLNCAKGVL	17	12878508	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14120				TGH2	Tegillarca granosa	Animalia (Molluscs (Bivalvia))	AEFLREKLGDKCTDRHV	17	34315058	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14128				Schistocin-2	Schistosoma mansoni 	Animalia	GILDIKNKVSNLFKKIK	17	34389467	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14214				58-74SlDEFL2	Solanum lycopersicum	Plantae	FSGGDCRGFRRRCFCTR	17	34698084	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ14215				58-74SlDEFL4 	Solanum lycopersicum	Plantae	FTGGNCRGFRRRCFCTR	17	34698084	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ14400				S61	Bos taurus 	Animalia (Mammals)	GGLRSLGRKILRAWKKY	17	34780520	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14593				STIP3-1	Staphylococcus auricularis	Monera	TVGGLVKWILDTVKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14665				Alpha-s 165-181 peptide	Ovis aries	Animalia (Mammals)	LKKISQYYQKFAWPQYL	17	34543802	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14974				Peptide 3	Saccharomyces cerevisiae	Fungi	IDNLLDKVDSIIIGGGM	17	35215278	Antibacterial		Predicted
+CAMPSQ15001				Peptide 30	Saccharomyces cerevisiae	Fungi	IGTVPVGRVETGVIKPG	17	35215278	Antibacterial		Predicted
+CAMPSQ15010				Peptide 39	Saccharomyces cerevisiae	Fungi	GAPGGAAGGAPGGFPGG	17	35215278	Antibacterial		Predicted
+CAMPSQ15022				Peptide 51	Saccharomyces cerevisiae	Fungi	LDQEPDAGLGNGGLGRL	17	35215278	Antibacterial		Predicted
+CAMPSQ15197				Gomesin	Acanthoscurria gomesiana	Animalia (Arachnida)	cRRLcYKQRcVTYcRGR	17	10942757	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ19689		E7EKH0		Temporin-TP3	Hylarana taipehensis	Animalia	FLPLLFGALSTLLPKIF	17	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19690		E7EKG9		Temporin-TP2	Hylarana taipehensis	Animalia	FLPLLVGAISSILPKIF	17	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19703		E1AXE1		Jingdongin-1-GN1	Amolops granulosus	Animalia	FLPLFLPKIICEITKKC	17	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19743		A0A0A0R7Z9		Odorranaopin-MS1 antioxidant peptide	Sylvirana maosonensis (Hylarana maosonensis)	Animalia	DYSIRTRLHQESSRNVF	17	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19744		A0A0A0RAN1		Odorranaopin-MS2 antioxidant peptide	Sylvirana maosonensis (Hylarana maosonensis)	Animalia	DNVYSRPPQRFGQNVIS	17	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20627				CPF-RP-F1, Caerulein precursor fragment-related peptide F1	Xenopus fraseri	Animalia	GFGSVLGKALKFGANLL	17	25463057	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20785		G7ZTY1		OHTI protein, Hejiang trypsin inhibitor, HJTI	Odorrana hejiangensis	Animalia	GAPKGCWTKSYPPQPCS	17	22285790	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21288		Q9DEC4		Pepsinogen A-derived antimicrobial peptide, bPaAP	Lithobates catesbeiana (Rana catesbeiana)	Animalia	GVVKVSRLKGESLRARL	17	9639668	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21358				Pxt-4	Xenopus tropicalis	Animalia	LKGASKLIPHLLPSRQQ	17	25312021	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22753		D4YWD0		Temporin-SHd	Pelophylax saharicus	Animalia	FLPAALAGIGGILGKLF	17	23116712	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated

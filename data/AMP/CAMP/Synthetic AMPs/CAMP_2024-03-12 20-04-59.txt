@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8332				Parasin-A-BF2 (P-A-B)	Synthetic construct		KGRGKQGGKVRWKAKTRSSATRSSRAGLQWPVGRVHRLLRK	41	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8928				AMV6	Synthetic construct		ITSISLCTPGCKTGALMGCKTHETDSCNNGLCFESGKCTWV	41	31616392	Antibacterial	Gram+ve	Predicted
+CAMPSQ10901				Def-ABB 	Synthetic construct		ATCDLASGFGVGSSLCAAHCLVKGYRGGYCKNKICHCRDKF	41	18214975	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13345				Peptide 8	Synthetic construct		GFGCNGPWSEDDIRCHNHCKSIKGYKGGYCASAGFVCKCY	41	34063982	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ13984				PpTHR(3-41)	Synthetic construct		KSCCRNTWARNCYNVCRLPGTISREICAKKCRCKIISGTTC	41	15494403	Antifungal		Experimentally validated
+CAMPSQ14321				MorA	Synthetic construct		GKIPIGAIKKGAKAVGKGLKALNIASTAHDIYSFHHKKKKH	41	34512599	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16260				Garvicins AG1	Synthetic construct		GRETLAQDIKRVYDSIWPNDTAWYTGKNNKTNIPPYSPYGH	41	35563074	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ21214		O95715		CXCL14 (14-54)	Synthetic construct		YSDVKKLEMKPKYPHCEEKMVIITTKSVSRYRGQEHCLHPK	41	25964486	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21588		P82592		Aedes Cecropin-A (1-26)+ Cecropin-A1/A2 (27-40), hAMP	Synthetic construct		MGGLKKLGKKLEGAGKRVFNAAEKALPIAQQAANVAATARG	41	19483780	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21726				Undefined	Synthetic construct		IKKEIEAIKKEQEAIKKKIEAIEKLLQLTVWGIKQLQARIL	41	11572974	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21785		P04582		C41	Synthetic construct		EWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLW	41	22770564	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21787		P04582		C41 [R4X]	Synthetic construct		EWDXEINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLW	41	22770564	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21788		P04582		C41 [S11X]	Synthetic construct		EWDREINNYTXLIHSLIEESQNQQEKNEQELLELDKWASLW	41	22770564	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21789		P04582		C41 [S15X]	Synthetic construct		EWDREINNYTSLIHXLIEESQNQQEKNEQELLELDKWASLW	41	22770564	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21790		P04582		C41 [E18X]	Synthetic construct		EWDREINNYTSLIHSLIXESQNQQEKNEQELLELDKWASLW	41	22770564	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21791		P04582		C41 [N22X]	Synthetic construct		EWDREINNYTSLIHSLIEESQXQQEKNEQELLELDKWASLW	41	22770564	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21792		P04582		C41 [Q29X]	Synthetic construct		EWDREINNYTSLIHSLIEESQNQQEKNEXELLELDKWASLW	41	22770564	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21794		P04582		C41 [S20X]	Synthetic construct		EWDREINNYTSLIHSLIEEXQNQQEKNEQELLELDKWASLW	41	22770564	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22247				BP201, (BP134-AGPA)2-(BP134)	Synthetic construct		KKLFKKILKYLAGPAKKLFKKILKYLAGPAKKLFKKILKYL	41	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23807				EK1C7	Synthetic construct		SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGSGSG	41	32231345	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23884		Q91AV1		PEDV-S HR2, PCov-S HR2	Synthetic construct		LKLTGEIADLEQRSESLRNTTEELQSLIYNINNTLVDLEWL	41	29203391	Antiviral		Experimentally Validated
+CAMPSQ23942		P02649		ApoE (135155) + (250269), hEP-6	Synthetic construct		VRLASHLRKLRKRLLRDADDLIRLQAEAFQARLKSWFEPLV	41	22334503	Antiviral		Experimentally Validated
+CAMPSQ24075				EtCec1	Synthetic construct		GFLKKIGKKLEGAVQRTRDATIQTIAVAQAAANVAATAKQG	41	32344933	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24079				EtCec3	Synthetic construct		GFLKKVGKKLEGASDLTRDATIQTIAVAQAAANVAATAKQG	41	32344933	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24105		P03377		LP-75	Synthetic construct		EMTWEEWEKKIEEYTKKIEEILKKSEEQQKKNEEELKKLEX	41	30089693	Antiviral		Experimentally Validated

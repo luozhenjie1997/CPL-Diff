@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ12109				Cecropin DH	Synthetic construct		KWKIFKKIEKVGRNIRNGIIKAVAVLGEAKAL	32	30065898	Antibacterial	 Gram +ve, Gram -ve 	Experimentally validated
+CAMPSQ12396				LysinC	Synthetic construct		NAKDYKGAAAEFPKWNKAGGRVLAGLVKRRKC	32	30002652	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14415				NKC-DOPA3	Synthetic construct		APKAMKLLKKLLKLQKKGIGGGGSGGGGSYYY	32	34769345	Antibacterial		Experimentally validated
+CAMPSQ14491				HyP7B5GK	Synthetic construct		RWRRPIRRRPIRPPFWRKGKGKGKRRVRWIIW	32	34966279	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15096				YFGAP	Synthetic construct		VKVGINGFGRIGRLVTRAAFQSKKVEIVAIND	32	35260685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ15097				YFGAP	Synthetic construct		VKVGVNGFGRIGRLVTRAAFNSGKVEIVAIND	32	35260685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ16444				Syn-GGG-GNU7	Synthetic construct		GLRRLLRKIRGRWKGGGRLLRPLLQLLKQKLR	32	27242337	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16482		A0A6J3QWT3,A0A6J3QVI8		Tur1A	Synthetic construct		RRIRFRPPYLPRPGRRPRFPPPFPIPRIPRIP	32	29526712,33036159	Antibacterial, Antifungal	Gram-ve	Experimentally validated
+CAMPSQ16486		A0A6J3QW24,A0A6J3QV28		 Tur1B	Synthetic construct		RRIPFWPPNWPGPWLPPWSPPDFRIPRILRKR	32	29526712,33036159	Antibacterial, Antifungal	Gram-ve	Experimentally validated
+CAMPSQ18411				D2B15	Synthetic construct		GAKKGAKKGKKGAKKGAKGAGAKGAGAFKKKK	32	12208971	Antiviral		Experimentally Validated
+CAMPSQ18903		P24627		LFampin 265-296	Synthetic construct		DLIWKLLSKAQEKFGKNKSRSFQLFGSPPGQR	32	16087276	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ18590		P49913		CGG-KR12-GAGG-KR12-G	Synthetic construct		CGGKRIVQRIKDFLRGAGGKRIVQRIKDFLRG	32	32153522	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18589				CGG-KR12-GAGG-retroKR12-G	Synthetic construct		CGGKRIVQRIKDFLRGAGGRLFDKIRQVIRKG	32	32153522	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18588				CGG-retroKR12-GAGG-retroKR12-G	Synthetic construct		CGGRLFDKIRQVIRKGAGGRLFDKIRQVIRKG	32	32153522	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18587		P49913		AGG-KR12-GAGG-KR12-G [Q8,24K; D12,28K]	Synthetic construct		AGGKRIVKRIKKFLRGAGGKRIVKRIKKFLRG	32	32153522	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18584		P49913		AGG-KR12-GAGG-KR12-G	Synthetic construct		AGGKRIVQRIKDFLRGAGGKRIVQRIKDFLRG	32	32153522	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18581				AGG-KR12-GAGG-retroKR12-G	Synthetic construct		AGGKRIVQRIKDFLRGAGGRLFDKIRQVIRKG	32	32153522	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19752		Q01523		Human Defensin-5 [G18A], HD5 RED [G18A]	Synthetic construct		ATCYCRTGRCATRESLSAVCEISGRLYRLCCR	32	31290614	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19753		Q01523		Human Defensin-5 [R6A, E14A], HD5 RED [R6A, E14A]	Synthetic construct		ATCYCATGRCATRESLSGVCEISGRLYRLCCR	32	31290614	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19754		Q01523,		Human Defensin-5, HD5 [C3,5,10,20,30,31A]	Synthetic construct		ATAYARTGRAATRESLSGVAEISGRLYRLAAR	32	31290614, 29158275	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19755		Q01523		Human Defensin-5 [R6,9,13,25,28,32K], HD5 RED [R6,9,13,25,28,32K]	Synthetic construct		ATCYCKTGKCATKESLSGVCEISGKLYKLCCK	32	31290614	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19757		Q01523		Human Defensin-5, HD5 [C5,10,20,30A]	Synthetic construct		ATCYARTGRAATRESLSGVAEISGRLYRLACR	32	29158275	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19758		Q01523		Human Defensin-5, HD5 [C3,10,30,31A]	Synthetic construct		ATAYCRTGRAATRESLSGVCEISGRLYRLAAR	32	29158275	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19759		Q01523		Human Defensin-5, HD5 [C3,5,20,30,31A]	Synthetic construct		ATAYARTGRCATRESLSGVAEISGRLYRLCAR	32	29158275	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19760		Q01523		Human Defensin-5, HD5 [T2,7,12R][Y4,27R][C3,10,30,31A][E14,21R][S15,17,23R]	Synthetic construct		ARARCRRGRAARRRRLRGVCRIRGRLRRLAAR	32	29158275	Antibacterial	Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9658				Ranatuerin-2SN1 	Hylarana Spinulosa	Animalia	GFLNTAMNTVTNLAGTLMDKAKCKIRGC	28	24055160	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10377				Dermaseptin DRP-SP2 	Agalychnis spurrelli	Animalia	ASWKVFLKNIGKAAGKAVLNSVTDMVNQ	28	31422479, 31671555	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10416				Ranatuerin-2VLa	Lithobates vaillanti 	Animalia	GIMDTIKGAAKDLAAQLLDKLKCKITKC	28	19379837	Antibacterial, Antifungal 		Predicted
+CAMPSQ10417				Ranatuerin-2VLc	Lithobates vaillanti 	Animalia	GIMDTIKGAAKDLAGELLDKLKCKITKC	28	19379837	Antibacterial, Antifungal 		Predicted
+CAMPSQ10689				Ranatuerin-2VLb	Lithobates vaillanti 	Animalia	GIMDTIKGAAKDLAGQLLDKLKCKITKC	28	19379837	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11004				Durancin L28-1A 	Enterococcus durans L28-1	Monera	ENDHRMPYELNRPNNLSKGGAKCGAAIA	28	15892738	Antibacterial		Predicted
+CAMPSQ11081				MjPen-II CRR	Marsupenaeus Japonicus	Animalia	CYSCYSASSATAIQCCTHYSLCCNLVKG	28	26855016	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11234				HD5(1-28)	Homo sapiens	Animalia (Mammals)	ATCYCRTGRCATRESLSGVCEISGRLYR	28	30808760	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11243				R2PLx	Rana palustris	Animalia (Amphibia)	GIMDTVKNAAKNLAGQLLDKLKCKITAC	28	30279210	Antibacterial, Antifungal, Anticancer	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11700				VLL28	Sulfolobus islandicus	Archaea	VLLVTLTRLHQRGVIYRKWRHFSGRKYR	28	30514888	Antifungal		Experimentally validated
+CAMPSQ12263				GVR28	Homo sapiens 	Animalia (Mammals )	GVRPDGFAHIRDFVSRIVRRLNIGPSKV	28	29925677	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12342				SP-E	 Sus scrofa	Animalia	DKPKKKPPPPAGPPPPPPPPPGPPPPGP	28	30046246	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12406				Centrocin 1 or CEN1HC-Br	Strongylocentrotus droebachiensis	Animalia (Echinoidea)	FKKTFHKVSHAVKSGIHAGQRGCSALGF	28	29108811	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12451				Nisin 1-28	Lactococcus lactis	Monera (Bacteria)	IBaIZLaXPGaKXGALMGaNMKXAXaHa	28	28912758	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12572				Myticalin C9	Mytilus galloprovincialis	Animalia (Mollusca)	RRRRRYRYWRRGLTIQGRPKSLPLNTGD	28	28829401	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12758				3103.52 Legumin Alike	Cicer arietinum L.	Plantae (Angiosperms)	VNRHIVDKLQGRDEDEEKGAIVKVKGGL	28	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13349				DS4 (1-28)	Phyllomedusa hypochondrialis	Animalia (Amphibia)	ALWMTLLKKVLKAAAKAALNAVLVGANA	28	33774792	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13596				Dermaseptin-TO	Phyllomedusa tomopterna	Animalia (Amphibia)	ALWKDLLKNVGIAAGKAALNKVTDMVNQ	28	33582221	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13597				Dermaseptin-PS2	Phyllomedusa sauvagii	Animalia (Amphibia)	ALWKTLLKNVGKAAGKAVLNAVTDMVNQ	28	33582221	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14257				Gak C	Lactococcus garvieae (KS1548)	Monera	AIIKAGAKIVGKGALTGGGVWLAEKLFG	28	32268197	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14712				Hill-Dip 3	Hermetia illucens 	Animalia (Insects)	DVEQVLETEDAYYVPVSDEEAEVLRLPR	28	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14713				Hill-Dip 4	Hermetia illucens 	Animalia (Insects)	SIDDLTLSEDGEDHVEIITDDEVQRAKR	28	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15006				Peptide 35	Saccharomyces cerevisiae	Fungi	GGAPGGAAGGAAGGAPGGFPGGAPPAPE	28	35215278	Antibacterial		Predicted
+CAMPSQ16674		A0A345FZ91		Dermaseptin DRS-CA-1	Phyllomedusa camba	Animalia	ALWKDLLKNVGKAAGKAVLNKVTDMVNQ	28	30258724	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16675		A0A345FZ90		Dermaseptin DRS-DU-1	Phyllomedusa duellmani	Animalia	ALWKSLLKNVGKAAGKAALNAVTDMVNQ	28	30258724	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated

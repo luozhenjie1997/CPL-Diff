@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ15241				A2	Bos taurus 	Animalia (Mammals)	ILPWKWPWWKWRR	13	19428758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15242				A3	Bos taurus 	Animalia (Mammals)	ILKWKWPWWPWRR	13	19428758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15243				A4	Bos taurus 	Animalia (Mammals)	ILKWKWKWWPWRR	13	19428758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15244				A5	Bos taurus 	Animalia (Mammals)	ILPWKWKWWKWRR	13	19428758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15245				A6	Bos taurus 	Animalia (Mammals)	ILKWKWPWWKWRR	13	19428758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15246				A7	Bos taurus 	Animalia (Mammals)	ILKWKWKWWKWRR	13	19428758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ18458				Tridecaptin M	Paenibacillus sp. M-151	Bacteria	GxGswSXxIEIxS	13	30936101,31827113	Antibacterial,Antifungal	Gram -ve	Experimentally Validated
+CAMPSQ18459				Tridecaptin M2	Paenibacillus sp. M-152	Bacteria	GxGswSXxIEVvS	13	31827113	Antibacterial,Antifungal	Gram -ve	Experimentally Validated
+CAMPSQ18460				Tridecaptin M5	Paenibacillus sp. M-152	Bacteria	GxGsfSXxIEIvS	13	31827113	Antibacterial,Antifungal	Gram -ve	Experimentally Validated
+CAMPSQ18461				Tridecaptin M6	Paenibacillus sp. M-152	Bacteria	GxGswSXxIEIvS	13	31827113	Antibacterial,Antifungal	Gram -ve	Experimentally Validated
+CAMPSQ18462				Tridecaptin M7	Paenibacillus sp. M-152	Bacteria	GxGswSXxVEIxS	13	31827113	Antibacterial,Antifungal	Gram -ve	Experimentally Validated
+CAMPSQ18463				Tridecaptin M8	Paenibacillus sp. M-152	Bacteria	GxGsfSXxIEIxS	13	31827113	Antibacterial,Antifungal	Gram -ve	Experimentally Validated
+CAMPSQ19576		P81835		Citropin-1.1.2	Litoria citropa	Animalia	DVIKKVASVIGGL	13	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19695		E1AZ86		Temporin-LF1	Amolops lifanensis	Animalia	FLPFVGKLLSGLL	13	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19702		E1AXE3		Amolopin-6-GN1	Amolops granulosus	Animalia	AVIPPLRCKAAFC	13	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19728		A0A0A0RAB6		Temporin-DY1	Amolops daiyunensis	Animalia	FFPMLADLVSKIF	13	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19731		A0A0A0RAL3		Daiyunin-1 antioxidant peptide	Amolops daiyunensis	Animalia	CGYKYGCMVKVDR	13	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19733		A0A0A0R7W4		Daiyunin-3	Amolops daiyunensis	Animalia	IVRPPIRCKAAFC	13	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19734		A0A0A0RAM6		Temporin-HB1	Pelophylax hubeiensis	Animalia	FLPLLAGLAAKWF	13	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19735		A0A0A0R4U1		Temporin-HB2	Pelophylax hubeiensis	Animalia	FLPFLAGLFGKIF	13	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19742		A0A0S1LH62		Maosonensis-1MS1 Antioxidant peptide	Sylvirana maosonensis (Hylarana maosonensis)	Animalia	QYRPGSFGPLNQK	13	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19750		A0A0A0RAD5		Pleskein-3	Nanorana pleskei	Animalia	ILPSKLCRLLGNC	13	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20067		P04205		Mastoparan-VT2	Vespa mandarinia	Animalia	NLKAIAALAKKLL	13	24012601	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20071				Mastoparan-VT7	Vespa tropica	Animalia	INLKAIAALARNY	13	24012601	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20334				Temporin-1S, Peptide C	Rana sphenocephala	Animalia	LLFGKIISRLLGN	13	25218643	Antifungal	Gram+,Gram-	Experimentally Validated

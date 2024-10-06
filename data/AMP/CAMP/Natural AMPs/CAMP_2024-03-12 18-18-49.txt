@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ63	1168628	P46160		Beta-defensin 2 	Bos taurus 	Animalia (Mammals)	VRNHVTCRINRGFCVPIRCPGRTRQIGTCFGPRIKCCRSW	40	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3339				  Enterocin X	Enterococcus faecium KU-B5	Monera	SNDSLWYGVGQFMGKQANCITNHPVKHMIIPGYCSKILG	39	20418437	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3703				  Px-cec1 	Plutella xylostella L	Animalia (Insects)	KPFKKLEKVGRNIRDGIIKAGPAVAVIGQATSIARPTGK	39	22921836	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3855		P86393		Bacteriocin SRCAM 602	Paenibacillus polymyxa 	Monera	ATYYGNGLYCNKQKHYTWVDWNKASREIGKITVNGWVQH	39	15690798	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ6433	32363250	P83491		Osmotin-like protein (Fragments)	Hevea brasiliensis 	Plantae	ATFTIRNNXPYTVWAAASPGGGRRLDMARIWGRTNXNFD	39		Antifungal		Predicted (Based on signature)
+CAMPSQ7539		Q95P88		Defensin-like peptide TXKs2 (BmTXKs2)	Mesobuthus martensii 	Animalia (Arachnida)	DKYCSENPLDCNEHCLKTKNQIGICHGANGNEKCSCMES	39	11087122	Antibacterial		Predicted
+CAMPSQ10235		B5L190		OGF2 antimicrobial peptide 	Odorrana grahami 	Animalia	QEETNAEEERRDEEVAKMEEIKRGLLSGPRCGEESTMWT	39		Antibacterial, Antifungal, Antiviral		Predicted
+CAMPSQ10237		B5L180		OGF1 antimicrobial peptide 	Odorrana grahami 	Animalia	QDVTNAEEERRDEEVAKMEEIKRGLLRPPRCGEAYSMWT	39		Antibacterial, Antifungal, Antiviral		Predicted
+CAMPSQ10724				LSer-PCecL5	Lucilia sericata	Animalia	HHHLFGHVGHEVERSLHKVGHKLEHACHEVHKTAKKVQK	39	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11078				Px-cec1 (cecropin1 peptide derivative)	Plutella xylostella	Animalia	MAFKKLEKVGRNIRDGIIKAGPAVAVIGQATSIARPTGK	39	22921836	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13373				Curvicin	Onthophagus curvicornis	Animalia (Insecta)	GSKRWRKFEKRVKKIFEETKEALPVVQGVVGVATAVGRK	39	34391826	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14498				Cath-MH	Microhyla heymonsivogt	Animalia (Amphibia)	APCKLGCKIKKVKQKIKQKLKAKVNAVKTVIGKISEHLG	39	34955858	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14719				Hill-Def 1	Hermetia illucens 	Animalia (Insects)	VTCDLLEPFLGPAPCMIHCIVRFRKRTGYCNSQNVCVCR	39	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14725				Hill-Def 7	Hermetia illucens 	Animalia (Insects)	TTCDLISGTKIENIACAAHCIAMGHKGGYCNSNLICICR	39	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15200				MCRAMP	Rattus norvegicus	Animalia (Mammals)	ISRLAGLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPEQ	39	10768969	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16602		A0A3Q3AJH0		Ovodefensin B beta, OvoDB beta	Gallus gallus gallus	Animalia	QSKKCCGRCSSRMCTKREKEEHTEDCRGSFCCLTHRKKK	39	30098427	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16680				All-D LS-sarcotoxin	Lucilia sericata		GWLKKIGKKIERVGQHTRDATIQTIGVAQQAANVAATLK	39	30272195	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16682				LS-sarcotoxin	Lucilia sericata		GWLKKIGKKIERVGQHTRDATIQTIGVAQQAANVAATLK	39	30272195	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ17731				PR-39	pig		RRRPRPPYLPRPRPPPFFPPRLPPRIPPGFPPRFPPREP	39	24755622	Antibacterial	Gram -ve, Gram +ve	Experimentally validated
+CAMPSQ20825		A0JCJ8		Cecropin 2 Px, Px-cec2	Plutella xylostella	Animalia	NPFKKLERVGQHIRDGIIKAGPAVEVIGQANSIARPAGK	39	26544076	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21042		P49913		FALL-39 [L30F]	Homo sapiens	Animalia	FALLGDFFRKSKEKIGKEFKRIVQRIKDFFRNLVPRTES	39	14769216	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21290		O13260		Bullfrog Buforin I	Xenopus tropicalis	Animalia	SGRGKQGGKVRAKAKTRSSRAGLQFPVGRVHRLLRKGNY	39	9639668	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22324		Q9FIW1		ARACIN2	Arabidopsis thaliana	Plantae	GSCGAPISKYDFQVLAKRPPPCRRPRLENTEDVTHTTRP	39	25593351	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22683				Cecropin-A Gm	Galleria mellonella	Animalia	KWKIFKKIEKAGRNIRDGIIKAGPAVSVVGEAATIYKTG	39	27105487	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ23324		A0A0J5PKB5		AfusinC, Defensin domain-containing protein	Aspergillus fumigatus Z5	Fungi	RSICCSFPDPWGGLCCEDHCSYIGKPGGQCSDKGVCTCN	39	30308015	Antibacterial	Gram+,Gram-	Experimentally Validated

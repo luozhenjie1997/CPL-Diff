@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21856		Q96901		P59, GBV-C E2 (175-192)	Synthetic construct		RFPFHRCGAGPKLTKDLE	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21857		Q96901		P97, GBV-C E2 (289-306)	Synthetic construct		LVRRRSELMGRRNPVCPG	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21858		Q96901		P109, GBV-C E2 (325-342)	Synthetic construct		LQEVDAGNFIPPPRWLLL	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21859		Q96901		P124, GBV-C E2 (370-387)	Synthetic construct		WVNQLAVLGLPAVDAAVA	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21882				Undefined	Synthetic construct		PAWFKARRWAWRMLKKAA	18	11481289	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21931		E3SYG2		Brevinin CTcu5 (4-21)	Synthetic construct		GLAANFLPQILCKIARKC	18	25997127	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21944				HEXIM1 (147-164), BR	Synthetic construct		QLGKKKHRRRPSKKKRHW	18	26734838	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21945				HEXIM1 (147-164)[K4,5,6,13,14,15R], BR-RRR12	Synthetic construct		QLGRRRHRRRPSRRRRHW	18	26734838	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21976		P82358,		Gomesin [Y7W]	Synthetic construct		XCRRLCWKQRCVTYCRGR	18	17027634, 24706599	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21977		P82358		Gomesin [C2S][C6S][Y7W][C11S][C15S]	Synthetic construct		XSRRLSWKQRSVTYSRGR	18	17027634	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21978		P82358,		Gomesin [Q9W]	Synthetic construct		XCRRLCYKWRCVTYCRGR	18	17027634, 24706599	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21979		P82358		Gomesin [C2S][C6S][Q9W][C11S][C15S]	Synthetic construct		XSRRLSYKWRSVTYSRGR	18	17027634	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21980		P82358		Gomesin [PYA1W]	Synthetic construct		WCRRLCYKQRCVTYCRGR	18	24706599	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22114		G9M010		Antilipopolysacharide factor (49-72)del(65-70)	Synthetic construct		ECKFTVKPYLKRFQVYCP	18	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22117		G9M010		Antilipopolysacharide factor (49-72)del(51-56)	Synthetic construct		ECYLKRFQVYYKGRMWCP	18	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22181				P1	Synthetic construct		FLAKAVAKAAAKALAKAL	18	22884922	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22249				Tag54	Synthetic construct		KDWEHLKDWEHLKDWEHL	18	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22259		P11006		BP180, BP134-magainin(4-10)	Synthetic construct		KKLFKKILKYLKFLHSAK	18	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22292		P82358		Gomesin [C2,6,11,15S][Q9p]	Synthetic construct		XSRRLSYKPRSVTYSRGR	18	17183513	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22293		P82358		Gomesin [C2,6,11,15t][K8P]	Synthetic construct		xtrrltyPqrtvtytrGr	18	17183513	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22307		B5A9T1		Chensinin-1 [A2K,L12H,K14A,H18K;G4,7,11,W]	Synthetic construct		SKVWRHWRRFWHRAHRKK	18	25453959	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22556		P02649		ApoE (133-150)	Synthetic construct		LRVRLASHLRKLRKRLLR	18	27028511	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22617				Codesane [S4K], COD-1	Synthetic construct		GMAKLLAKVLPHVVKLIK	18	25123582	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22618				Codesane [L5K], COD-2	Synthetic construct		GMASKLAKVLPHVVKLIK	18	25123582	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22619				Codesane [H12K], COD-3	Synthetic construct		GMASLLAKVLPKVVKLIK	18	25123582	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

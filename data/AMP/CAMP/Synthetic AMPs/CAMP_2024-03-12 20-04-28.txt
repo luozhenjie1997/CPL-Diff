@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ12966				Ripcin B	Synthetic construct		ITSISLCTPGCKTGALMGCNGRVPIIYTNRKTGVCKRM	38	34156232	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12967				Ripcin C 	Synthetic construct		ITSISLCTPGCKTGALMGCNRVPIIYTNRKTGVCKRM	38	34156232	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13638				Histatin1	Synthetic construct		DXHEKRHHGYRRKFHEKHHSHREFPFYGDYGSNYLYDN	38	34417532	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13711				R(P)ApoBLPro	Synthetic construct		PHVALKPGKLKFIIPSPKRPVKLLSGGNTLHLVSTTKT	38	34209895	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13712				R(P)ApoBLAla	Synthetic construct		PHVALKAGKLKFIIPSPKRPVKLLSGGNTLHLVSTTKT	38	34209895	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13982				PpTH	Synthetic construct		CCRNTWARNCYNVCRLPGTISREICAKKCDKIISGTTC	38	15494403	Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14175				CeHS-1 GP	Synthetic construct		GWINKIQKKIDEKIGNNILGGMAKAGPVVHKLAKGEFQ	38	34641415	Antibacterial		Experimentally validated
+CAMPSQ14176				CeHS-1 GPK	Synthetic construct		GWINKIQKKIDEKIGNKILGGMAKAGPVVHKLAKGEFQ	38	34641415	Antibacterial		Experimentally validated
+CAMPSQ17296				HG34	Synthetic construct		KWKKALLHHGLNCAKGVLAKWKKALLHHGLNCAKGVLA	38	20385874	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17327				Dimer-K19Hc (HG1)	Synthetic construct		KWLNALLHHGLNCAKGVLAKWLNALLHHGLNCAKGVLA	38	16469314,20385874,17846130,25445605	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ19675				M-Cecropin-B [M12V], HB12, SB-37 AMD	Synthetic construct		MPKWKVFKKIEKVGRNIRNGIVKAGPAIAVLGEAKALG	38	15980369	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21085		I1T3C7		Micasin [E8A]	Synthetic construct		GFGCPFNANECHAHCLSIGRKFGFCAGPLRATCTCGKQ	38	27084888	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21086		I1T3C7		Micasin [E8K]	Synthetic construct		GFGCPFNKNECHAHCLSIGRKFGFCAGPLRATCTCGKQ	38	27084888	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21087		I1T3C7		Micasin [E8R]	Synthetic construct		GFGCPFNRNECHAHCLSIGRKFGFCAGPLRATCTCGKQ	38	27084888	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21088		I1T3C7		Micasin [E8Q]	Synthetic construct		GFGCPFNQNECHAHCLSIGRKFGFCAGPLRATCTCGKQ	38	27084888	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21089		I1T3C7		Micasin [E8L]	Synthetic construct		GFGCPFNLNECHAHCLSIGRKFGFCAGPLRATCTCGKQ	38	27084888	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21500		P04582		Undefined	Synthetic construct		MTWMEWDREINNYTSLIHSLIEESQNQQEKNEQELLEL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21501		P04624		Undefined	Synthetic construct		TTWEEWDREINEYTSRIESLIRESQEQQEKNEQELREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21502		P04582		Undefined	Synthetic construct		MTWMAWDRAIANYAALIHALIEAAQNQQEKNEAALLEL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21503		Q70626		Undefined	Synthetic construct		TTWEAWDRAIAEYAARIEALIRASQEQQEKNEAELREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21504		Q70626		Undefined	Synthetic construct		TTWEAWDRAIAEYAARIEALIRAAQEQQEKNEAALREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21505		Q2PP94		Undefined	Synthetic construct		MTWEAWDRAIAEYAARIEALIRAAQEQQEKNEAALREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21506		Q70626		Undefined	Synthetic construct		TTWEAWDRAIAEYAARIEALIRAAQEQQEKNEAILREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21507		Q70626		Undefined	Synthetic construct		TTWEAWDRAIAEYAARIEALIRALQEQQEKNEAALREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21508		Q70626		Undefined	Synthetic construct		TTWEAWDRAIAEYAARIEALIRAAQELQEKNEAALREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1190	27808660	P81053		Bacteriocin leucocin C	Leuconostoc mesenteroides	Monera	KNYGNGVHCTKKGCSVDWGYAWTNIANNSVMNGLTGGNAGWHN	43		Antibacterial	Gram+ve	Predicted
+CAMPSQ1268	25089850	O61272		CECA1_DROSI Cecropin-A1 precursor	Drosophila simulans 	Animalia (Insects)	QSEAGWLKKIGKKIERVGQHTRDATIQGLGVAQQAPNVAATAR	43	9725836	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1497				Plantaricin 423	Lactobacillus plantarum 423	Monera	KNYGNGVHCTKKGCSVDWGYAWANIANNSVMNGLTGGNAGWHN	43	12423916	Antibacterial	Gram+ve	Predicted
+CAMPSQ1573	118427	P80033		Defensin, isoforms B 	Zophobas atratus 	Animalia (Insects)	FTCDVLGFEIAGTKLNSAACGAHCLALGRRGGYCNSKSVCVCR	43	1761552	Antibacterial	Gram+ve	Predicted
+CAMPSQ1606	23813954	Q9BEE3		Beta-defensin 126	Macaca fascicularis	Animalia (Mammals)	NLYVKRCLNDIGICKKTCKPEEVRSEHGWVMCGKRKACCVPAD	43		Antibacterial		Predicted
+CAMPSQ1614	71152313	Q8R2I6		Beta-defensin 9	Mus musculus	Animalia (Mammals)	IIGVSEMERCHKKGGYCYFYCFSSHKKIGSCFPEWPRCCKNIK	43		Antibacterial		Predicted
+CAMPSQ1841	82126764	Q6QLQ9		Gallinacin-10	Gallus gallus	Animalia (Aves)	FPDTVACRTQGNFCRAGACPPTFTISGQCHGGLLNCCAKIPAQ	43		Antibacterial		Predicted
+CAMPSQ1876	23813958	Q9H1M4		Beta-defensin127	Homo sapiens 	Animalia (Mammals)	LKKCWNNYVQGHCRKICRVNEVPEALCENGRYCCLNIKELEAC	43		Antibacterial		Predicted
+CAMPSQ1904	152112506	A4H245		Beta-defensin126	Hylobates lar	Animalia (Mammals)	NWYVKKCLNDVGICKKKCKPEELHVKNGRAMCGKQRDCCVPAD	43		Antibacterial		Predicted
+CAMPSQ1912	152112489	A4H221		Beta-defensin118	Pongo pygmaeus	Animalia (Mammals)	AYSGEKKCWNRSGHCRKQCKDGEAVKDTCKNLRACCVPSNEDH	43		Antibacterial		Predicted
+CAMPSQ1913	152112488	A4H223		Beta-defensin118	Macaca fascicularis	Animalia (Mammals)	AYGGEKKCWNRSGHCRKQCKDGEAVKETCKNHRACCVPSNEDH	43		Antibacterial		Predicted
+CAMPSQ1914	152112487	A4H222		Beta-defensin118	Hylobates lar	Animalia (Mammals)	AYSGEKKCWNRSGHCRKQCKDGEAVKDTCKNLRACCVPSNEDH	43		Antibacterial		Predicted
+CAMPSQ1915	152112486	A4H220		Beta-defensin118	Gorilla gorilla gorilla	Animalia (Mammals)	AYSGEKKCWNRSGHCRKQCKDGEAVKDTCKNLRACCVPSNEDH	43		Antibacterial		Predicted
+CAMPSQ1923	84028888	Q30KK1		Beta-defensin127	Pan troglodytes	Animalia (Mammals)	LKKCWNNYVQGHCRKICRVNEVPEALCENGRYCCLNIKELEAC	43		Antibacterial		Predicted
+CAMPSQ1926	84028880	Q30KK9		Beta-defensin118	Pan troglodytes	Animalia (Mammals)	AYSGEKKCWNRSGHCRKQCKDGEAVKDTCKNLRACCVPSNEDH	43		Antibacterial		Predicted
+CAMPSQ1928	61252638	Q9BYW3		Beta-defensin126	Homo sapiens 	Animalia (Mammals)	NWYVKKCLNDVGICKKKCKPEEMHVKNGWAMCGKQRDCCVPAD	43		Antibacterial		Predicted
+CAMPSQ1934	23813949	Q96PH6		Beta-defensin 118	Homo sapiens 	Animalia (Mammals)	AYSGEKKCWNRSGHCRKQCKDGEAVKDTCKNLRACCIPSNEDH	43		Antibacterial		Predicted
+CAMPSQ1935	23813948	Q95LI0		Beta-defensin118	Macaca mulatta	Animalia (Mammals)	AYGGEKKCWNRSGHCRKQCKDGEAVKETCKNHRACCVPSNEDH	43		Antibacterial		Predicted
+CAMPSQ1956	71152329	Q8C1G4		Beta-defensin 41	 Mus musculus	Animalia (Mammals)	RSHIDIKNGIERCEKVRGMCKTVCDIDEYDYGYCIRWRNQCCI	43		Antibacterial		Experimentally validated
+CAMPSQ2055	152112508	A4H244		Beta-defensin126	Pongo pygmaeus	Animalia (Mammals)	SWYVKKCLNDVGICKKKCKPEELHVKNGWAMCGKQRDCCVPAD	43		Antibacterial		Predicted
+CAMPSQ2056	152112507	Q30KK2		Beta-defensin126	Pan troglodytes	Animalia (Mammals)	NWYVKKCLNDVGICKKKCKPGEMHIKNGWATCGKQRDCCVPAD	43		Antibacterial		Predicted
+CAMPSQ2057	152112505	A4H243		Beta-defensin126	Gorilla gorilla gorilla	Animalia (Mammals)	NWYVKKCLNDVGICKKKCKPEEMHVKNGWAMCGKQRDCCVPAD	43		Antibacterial		Predicted
+CAMPSQ2077	85540943	Q30KQ6		Beta-defensin114	Homo sapiens 	Animalia (Mammals)	DRCTKRYGRCKRDCLESEKQIDICSLPRKICCTEKLYEEDDMF	43		Antibacterial		Experimentally validated
+CAMPSQ2208	74820403	Q8WTD4		Defensin-A	Glossina morsitans morsitans 	Animalia (Insects)	VTGELKRDKRVTCNIGEWVCVAHCNSKSKKSGYCSRGVCYCTN	43	11886771	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2449	328877070	P85966	2LB7	Chain A, Hevein-Type Antifungal Peptide With A Unique 10-Cysteine  Motif 	Triticum kiharae	Plantae	QRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGC	43	19583772	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

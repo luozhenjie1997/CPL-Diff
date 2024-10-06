@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10432				Ranatuerin-2Vc 	Rana virgatipes 	Animalia	GVFLNTIKEVGKDAAVKLLEALQCKFGVCKT	31	15996769	Antibacterial		Predicted
+CAMPSQ10652				Pleurain G1	Rana pleuraden	Animalia	GFWDSVKEGLKNAAVTILNKIKCKISECPPA	31	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10660				Pleurain M1	Rana pleuraden	Animalia	GLLDSVKEGLKKVAGQLLDTLKCKISGCTPA	31	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10675				Ranatuerin-2DN1 	Babina daunchina	Animalia	GLFDSITQGLKDTAVKLLDKIKCKLSACPPA	31	25001915	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10918				LL-31 	Homo sapiens	Animalia	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNL	31	31329599	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10931				RK-31	Homo sapiens 	Animalia (Mammals)	RKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	31	14978112	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10951				Leucocin Q (Bacteriocin)	Leuconostoc pseudomesenteroides QU 15	Monera	KGLGKLIGIDWLLGQAKDAVKQYKKDYKRWH	31	20070442	Antibacterial 	Gram +ve	Experimentally validated
+CAMPSQ10959				CPRF-Ea	R. esculenta	Animalia	GLGSILGKILNVAGKVGKTIGKVADAVGNKE	31	14499272	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10960				CPRF-Eb	R. esculenta	Animalia	GLGSFLKNAIKIAGKVGSTIGKVADAIGNKE	31	14499272	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10961				CPRF-Ec	R. esculenta	Animalia	GLGSFFKNAIKIAGKVGSTIGKVADAIGNKE	31	14499272	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14223				AS-hepc3(41-71)	Acanthopagrus schlegelii	Animalia	SPAGRNSRRRRCRFCCGCCPDMVGCGTCCKF	31	34676176	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14255				Gak A	Lactococcus garvieaeKS1546	Monera	GAIIKAGAKIVGKGVLGGGASWLGWNVGEKI	31	32268197	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14256				Gak B	Lactococcus garvieaeKS1547	Monera	GAIIKAGAKIIGKGLLGGAAGGATYGGLKKI	31	32268197	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14717				Hill-Knot 2	Hermetia illucens 	Animalia (Insects)	IKCVPSQCNQICRVLGKKCGYCKNASTCVCL	31	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14992				Peptide 21	Saccharomyces cerevisiae	Fungi	EHTPRHHQYGSDEGEQDYHDDEQGEEQAGKQ	31	35215278	Antibacterial		Predicted
+CAMPSQ15303	2203519012	P0DV18.1		M-PONTX-Nc3b	Neoponera commutata	Animalia (Insects)	AGTKEWLNKAKDFIKEKGLGMLSAAANAALN	31	34302796	Antibacterial	Gram+ve, Gram -ve	Experimentally validated
+CAMPSQ16584				Mytilin C	Mytilus galloprovincialis	Animalia	SCASRCKSRCRARRCRYYVSVRYGGFCYCRC	31	10777596	Antibacterial, Antifungal, Anti-protozoan	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ18476				Astacidin PcAst-2	Procambarus clarkii	Animalia	FYPRPYRPPYLPDPRPFPRPLPAFGHEFRRH	31	31884202	Antibacterial, Anticancer	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ19704		E1B236		Palustrin-2GN1	Amolops granulosus	Animalia	GLWNTIKEAGKKFALNLLDKIRCGIAGGCKG	31	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21234		W8TS34		Membrane protein PepG1 Short	Staphylococcus aureus	Bacteria	MITISTMLQFGLFLIALIGLVIKLIELSNKK	31	24703849	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21307		R4ZAN6		Tk-AMP-X1	Triticum kiharae	Plantae	TDDRCERMCQHYHDRREKKQCMKGCRYGESD	31	23702306	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22676		A0A0X8XRJ2		Dermaseptin PD-1	Pachymedusa dacnicolor	Animalia	GMWSKIKETAMAAAKEAAKAAGKTISDMIKQ	31	27187467	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22735		Q93GF5		Aureocin A70 peptide A, AurA	Staphylococcus aureus	Bacteria	MGKLAIKAGKIIGGGIASALGWAAGEKAVGK	31	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22737		Q93GF7		Aureocin A70 peptide C, AurC	Staphylococcus aureus	Bacteria	MGALIKTGAKIIGSGAAGGLGTYIGHKILGK	31	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22738		A0A169DXL8		Aureocin A70 peptide D, AurD	Staphylococcus aureus	Bacteria	MGAVIKVGAKVIGWGAASGAGLYGLEKIFKK	31	27316965	Antibacterial	Gram+	Experimentally Validated

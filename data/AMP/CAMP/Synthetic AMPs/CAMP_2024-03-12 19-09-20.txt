@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20031		,M9NXM1		Temporin-1DRa [I13Chg]	Synthetic construct		HFLGTLVNLAKKXL	14	17560323, 17767978	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20032		M9NXM1		Temporin-1DRa [H1K]	Synthetic construct		KFLGTLVNLAKKIL	14	17560323	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20033		M9NXM1		Temporin-1DRa [F2K]	Synthetic construct		HKLGTLVNLAKKIL	14	17560323	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20034		M9NXM1		Temporin-1DRa [L3K]	Synthetic construct		HFKGTLVNLAKKIL	14	17560323	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20035		M9NXM1		Temporin-1DRa [V7k]	Synthetic construct		HFLGTLKNLAKKIL	14	17560323	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20036		M9NXM1		Temporin-1DRa [L6K]	Synthetic construct		HFLGTKVNLAKKIL	14	17560323	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20037		M9NXM1		Temporin-1DRa [L9K]	Synthetic construct		HFLGTLVNKAKKIL	14	17560323	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20038		M9NXM1		Temporin-1DRa [A10K]	Synthetic construct		HFLGTLVNLKKKIL	14	17560323	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20039		M9NXM1		Temporin-1DRa [I13K]	Synthetic construct		HFLGTLVNLAKKKL	14	17560323	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20040		M9NXM1		Temporin-1DRa [L14K]	Synthetic construct		HFLGTLVNLAKKIK	14	17560323	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20041		M9NXM1		Temporin-1DRa [L9Chg,I13Chg]	Synthetic construct		HFLGTLVNXAKKXL	14	17560323	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20055				Temporin-1DRa [Aib1]	Synthetic construct		XFLGTLVNLAKKIL	14	17767978	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20056				Temporin-1DRa [Aib2]	Synthetic construct		HXLGTLVNLAKKIL	14	17767978	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20057				Temporin-1DRa [Aib3]	Synthetic construct		HFXGTLVNLAKKIL	14	17767978	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20058				Temporin-1DRa [Aib4]	Synthetic construct		HFLXTLVNLAKKIL	14	17767978	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20059				Temporin-1DRa [Aib5]	Synthetic construct		HFLGXLVNLAKKIL	14	17767978	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20060				Temporin-1DRa [Aib6]	Synthetic construct		HFLGTXVNLAKKIL	14	17767978	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20061				Temporin-1DRa [Aib7]	Synthetic construct		HFLGTLXNLAKKIL	14	17767978	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20062				Temporin-1DRa  [Aib8]	Synthetic construct		HFLGTLVXLAKKIL	14	17767978	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20063				Temporin-1DRa [Aib10]	Synthetic construct		HFLGTLVNLXKKIL	14	17767978	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20064				Temporin-1DRa [Aib14]	Synthetic construct		HFLGTLVNLAKKIX	14	17767978	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20095		P0C2F0		Ubiquicidin, UBI 22-35	Synthetic construct		QEKKKKKTGRAKRR	14	16814900	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20230		Q70626		LP14, Lentivirus lytic peptide LLP1(8-21)	Synthetic construct		GACRAIRHIPRRIR	14	10459808	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20282		P01966		Bovine hemoglobin alpha chain (33-46)	Synthetic construct		FLSFPTTKTYFPHF	14	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20471		P21654		Mastoparan B [L3A]	Synthetic construct		LKAKSIVSWAKKVL	14	10667861	Antibacterial	Gram+,Gram-	Experimentally Validated

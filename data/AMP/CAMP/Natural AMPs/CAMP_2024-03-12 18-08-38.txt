@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1009				Brevinin-1TSa	Rana tsushimensis	Animalia (Amphibia)	FLGSIVGALASALPSLISKIRN	22	16413829	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1061	116548	P05059	1CFK,1N2Y	Chromacin	Bos taurus 	Animalia (Mammals)	YPGPQAKEDSEGPSQGPASREK	22	8910482	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1160	90902109	Q1PG44		Hedistin	Hediste diversicolor	Animalia (Annelida)	LGAWLAGKVAGTVATYAWNRYV	22		Antibacterial		Experimentally validated
+CAMPSQ1186	14917004	P36500		Lantibiotic salivaricin-A 	Streptococcus salivarius 	Monera	KRGSGWIATITDDCPNSVFVCC	22		Antibacterial	Gram+ve	Predicted
+CAMPSQ1218	50401865	P62563		Caerin-3.1	Litoria gilleni	Animalia (Amphibia)	GLWQKIKDKASELVSGIVEGVK	22		Antibacterial		Predicted
+CAMPSQ1223	3023575	P56241		Caerin-3.4	Litoria caerulea	Animalia (Amphibia)	GLWEKIREKANELVSGIVEGVK	22		Antibacterial		Predicted
+CAMPSQ1251	25090495	P83427		HELN_HELVI Heliocin	Heliothis virescens	Animalia (Insects)	QRFIHPTYRPPPQPRRPVIMRA	22		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1290	3023574	P56240		Caerin-3.3	Litoria caerulea	Animalia (Amphibia)	GLWEKIKEKANELVSGIVEGVK	22		Antibacterial		Predicted
+CAMPSQ1291	3023573	P56239		Caerin-3.2	Litoria caerulea	Animalia (Amphibia)	GLWEKIKEKASELVSGIVEGVK	22		Antibacterial		Predicted
+CAMPSQ1305	29123266	Q800R6		Caerin 1.14	Litoria caerulea	Animalia (Amphibia)	SVLGKSVAKHLPHVVPVIAEKT	22		Antibacterial		Predicted
+CAMPSQ1593	67460987	P0C006		Piscidin-3	Morone chrysops x Morone saxatilis	Animalia (Pisces)	FIHHIFRGIVHAGRSIGRFLTG	22	11713517	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2984		P83378		  Serracin-P 23 kDa subunit 	Serratia plymuthica	Monera	ALPKKLKYLNLFNDGFNYMGVV	22	12406768	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3065				  PGLa-AM1 	Xenopus amieti	Animalia (Amphibia)	GMASKAGSVLGKVAKVALKAAL	22	20226221	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3313				  PP13 	Pteromalus puparum	Animalia (Insects)	GAARKSIRLHRLYTWKATIYTR	22	19950104	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3324				  Ocellatin-6 	Leptodactylus ocellatus	Animalia (Amphibia)	AVLDFIKAAGKGLVTNIMEKVG	22	19739090	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3373		P21838		  Gallidermin 	Staphylococcus gallinarum (F16/P57) Tu3928, Staphylococcus cohnii T	Monera	IASKFLCTPGCAKTGSFNSYCC	22	3181159	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3387				  Cypemycin 	Streptomyces sp. OH-4156	Monera	ATPATPTVAQFVIQGSTICLVC	22	7802859	Antibacterial, Antitumor	Gram +ve	Experimentally validated
+CAMPSQ3465				  Maximin 68 	Bombina maxima	Animalia (Amphibia)	GIGGALLSAGKAALKGLAKVLV	22	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3513				  PAM2 	Ornithorhynchus anatinus	Animalia (Mammals)	RPWAGNGSVHRYTVLSPRLKTQ	22	21912615	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3644				  Nigroain-K1 	Rana nigrovittata	Animalia (Amphibia)	SLWETIKNAGKGFIQNILDKIR	22	19778602	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3684				  XPF-SE1 	Silurana epitropicalis	Animalia (Amphibia)	GLFLDTLKKFAKAGMEAVINPK	22	22800690	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3713				  Sclerosin 	Pseudomonas sp. strain DF41	Monera	TPALAVVTTVLPAAAVTTAKSV	22	22838838	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ3760				  Warnericin RK 	Staphylococcus warneri RK	Monera	MQFITDLIKKAVDFFKGLFGNK	22	18339450	Antibacterial		Experimentally validated
+CAMPSQ3787				  Pis1 	Gadus morhua	Animalia (Pisces)	FIHHIIGWISHGVRAIHRAIHG	22	22178249	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3793				  Plantaricin-149	Lactobacillus plantarum NRIC 149	Monera	YSLQMGATAIKQVKKLFKKKGG	22	17266050	Antibacterial		Experimentally validated

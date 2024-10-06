@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18107				Bp41	Synthetic construct		KKLKLCLCLLLLKKLKK	17	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18113				Bp47	Synthetic construct		LKLKKKCKCLLLKKLLL	17	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18347				LW3	Synthetic construct		LRRLRRRWWWRRRLRRL	17	28230992	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18435				P2	Synthetic construct		KVFTLFQARAQGKLMRI	17	29626331	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18437				P3	Synthetic construct		AILRKATRRLVQLIVSG	17	29626331	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18438				P3-A	Synthetic construct		RILAKATRRLVKLIVSG	17	29626331	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ19408		P49929		GGH-Ovispirin-3	Synthetic construct		GGHIRRIIRKIIHIIKK	17	29172482	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19214		P81534		Beta-defensin 103 (6-22), hBD-3	Synthetic construct		LQKYYCRVRGGRCAVLS	17	16008365	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19217		P81534		Beta-defensin 103 (6-22) [C6,13A]	Synthetic construct		LQKYYARVRGGRAAVLS	17	16008365	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19218		P81534		Beta-defensin 103 (6-22) [C6,13W]	Synthetic construct		LQKYYWRVRGGRWAVLS	17	16008365	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19186		O17512		Ceratotoxin-A (1-17)	Synthetic construct		SIGSALKKALPVAKKIG	17	15581850	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19158				HB35, FLAK26 AMD	Synthetic construct		FAKKLAKLAKKLAKLAL	17	29679519, 15980369	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19113		P49913		ACT-Human Cathelicidin/LL-37 (16-32)[F2W][I5W][I9W][F12W]-AMD	Synthetic construct		EWKRWVQRWKDWLRNLV	17	19029324	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19034				IAK17	Synthetic construct		IAKIAGKIAKIAGKIAK	17	32126225	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19029				CKIA17	Synthetic construct		KIAKIAGKIAKIAGKIA	17	32126225	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19023				KIKA17	Synthetic construct		KIAGKIAKIAKKIAKIA	17	28282123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19016				KIA7(17)	Synthetic construct		KIAGKIAKKAGKIAKIA	17	28282123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19008				KIA17	Synthetic construct		KIAGKIAKIAGKIAKIA	17	25807192, 32126225	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18898				Undefined	Synthetic construct		GXXXXXXXXXXXXXXGY	17	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18804				Undefined	Synthetic construct		KKKKKKAAFAAWAAFDA	17	18186149	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18805				Undefined	Synthetic construct		KKKKKKAAFALWAAFAA	17	18186149	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18806				Undefined	Synthetic construct		KKKKKKAAFALWLAFAA	17	18186149	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18807				Undefined	Synthetic construct		KKKKKKAAFLAWALFAA	17	18186149	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18808				Undefined	Synthetic construct		kkkkkkaafaawaafll	17	18186149	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18809				Undefined	Synthetic construct		KKKKKKALFAAWAAFLA	17	18186149	Antibacterial	Gram-	Experimentally Validated

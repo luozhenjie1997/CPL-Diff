@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8887				CtHep	Salmo caspius	Animalia (Pisces)	QSHLSLCRWCCNCCHNKGCGFCCKF	25	31071462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9876				Catesbeianin?1	Lithobates catesbeianus	Animalia	MMRVMRRKTKVIWEKKDFIGLYSID	25	29322649, 28258530	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10040				TP4	Oreochromis niloticus	Animalia	FIHHIIGGLFSAGKAIHRLIRRRRR	25	29040295	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10238		P85095		Brevinin-2R	Pelophylax ridibundus 	Animalia	KLKNFAIGVAQSLLNKASCKLSGQC	25		Antibacterial		Predicted
+CAMPSQ10420				XPF-AN2	Xenopus andrei	Animalia	GWVSKIGQTLGKMAKVGLQELIQPK	25	21498136	Antibacterial, Antifungal		Predicted
+CAMPSQ10541				Skh-AMP1	Satureja khuzistanica	Plantae	GRTSKQELCTWERGSVRQADKTIAG	25	31128493	Antifungal		Experimentally validated
+CAMPSQ10600				Caerin-1.4	Litoria gilleni	Animalia	GLLSSLGSVAKHVLPHVVPVIAEHL	25	15203252	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10602				Caerin-1.5	Litoria caerulea	Animalia	GLLSVLGSVVKHVIPHVVPVIAEHL	25	15203252	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10603				Caerin-1.7	Litoria xanthomera	Animalia	GLFKVLGSVAKHLLPHVAPVIAEKL	25	15203252	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10623				XPF-AN1	Xenopus andrei	Animalia	GWASKIGQTLGKMAKVGLQELIQPK	25	21498136	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10624				LL-37(13-37) 	Homo sapiens	Animalia	IGKEFKRIVQRIKDFLRNLVPRTES	25	16637646	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10629				XPF-SP1 	Silurana paratropicalis	Animalia	GFWSSALEGLKKFAKGGLEALTNPK	25	21498136	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10630				XPF-SP2	Silurana paratropicalis	Animalia	GLASTIGSLLGKFAKGGAQAFLQPK	25	21498136	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10755				Dermaseptin-PT9 (DPT9).	Phyllomedusa tarsius	Animalia	GLWSKIKDAAKTAGKAALGFVNEMV	25	31635388	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10914				TistH	Tityus stigmurus	Animalia (Arachnida)	ADMDFTGIAESIIKKIKETNAKPPA	25	31349502	Antifungal		Experimentally validated
+CAMPSQ10992		P86386		Mutacin F-59.1	Streptococcus mutans 59.1	Monera	KYYGNGVTCGKHSCSVDWSKATTNI	25	21477375	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11006				Ranatuerin-1Gb 	Rana grylio 	Animalia	GMFSVLKNLGKVGLGFVACKINKQC	25	10828493	Antibacterial		Predicted
+CAMPSQ11075		C0HJU9		LyeTx 1	Lycosa erythrognatha	Animalia	IWLTALKFLGKNLGKHLAKQQLAKL	25	19946788	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11202				Im-5	Isometrus maculatus	Animalia (Arachnida)	FLGSLFSIGSKLLPGVIKLFQRKKQ	25	28941793	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11205				Bombinin-BO1	Bombina orientalis	Animalia (Amphibia)	GIGSAILSAGKSIIKGLAKGLAEHF	25	29098406	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11275				AbHAMP	Acipenser baerii	Animalia (Pisces)	QSHFPICLYCCNCCKNKGCGYCCRT	25	30802630	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11467				Bthepc	Salmo trutta	Animalia (Pisces)	QSHLSLCRWCCNCCHNKGCGFCCKF	25	30648626	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ11497				Bac5(1-25)	Bos taurus	Animalia (Mammals)	RFRPPIRRPPIRPPFYPPFRPPIRP	25	30615305	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11596				RR25	Homo sapiens	Animalia (Mammals)	RHSRLQREPQVQWLEQQVAKRRTKR	25	30555984	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11748				PT 13	Populus trichocarpa	Plantae (Angiosperms)	KVPVAAAAAAAAAVVASSMVVAAAK	25	29758266, 30446019	Antibacterial	Gram +ve	Experimentally validated

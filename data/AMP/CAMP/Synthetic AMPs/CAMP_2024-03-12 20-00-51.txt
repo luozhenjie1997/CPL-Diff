@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10103				R9-M15	Synthetic construct		RRRRRRRRRGGGKWKKLLKKPLKLLKK	27	31572872	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10138				BMAP-27B	Synthetic construct		GRFKRFRKKLKKLFKKLSPVIPLLHLG	27	31506312	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10569				B6N2	Synthetic construct		RRWQWRAFCWNVCVYRNAVRVCHRRCN	27	29329001	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11371				LP-88	Synthetic construct		EQKIEELLKKAEEQQKKNEEELKKLEK	27	30716118	Antiviral		Predicted
+CAMPSQ12697				MPG	Synthetic construct		GALFLGFLGAAGSTMGAWSQPKKKRKV	27	28556271	Antifungal		Experimentally validated
+CAMPSQ13011				BP358 (flg15-BP16)	Synthetic construct		RINSAKDDAAGLQIAKKLFKKILKKL	27	34198776	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13012				BP359 (BP16-flg15)	Synthetic construct		KKLFKKILKKLRINSAKDDAAGLQIA	27	34198776	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14484				HyP1CoG1	Synthetic construct		KIILRIRWRGGGVRKPPYLPRPRPRPL	27	34966279	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14485				HyP1CoG2	Synthetic construct		VRKPPYLPRPRPRPLGGGKIILRIRWR	27	34966279	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14486				HyP7CoG1	Synthetic construct		VRKPPYLPRPRPRPLGGGKRRVRWIIW	27	34966279	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14487				HyP7CoG2	Synthetic construct		KRRVRWIIWGGGVRKPPYLPRPRPRPL	27	34966279	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14661				PHNX-8	Synthetic construct		GLMDTVKNAAKNLAGQLLDKIKCKITG	27	34867843	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15039				AMP2 modified	Synthetic construct		AVRDKQHRIHLVLGDCTHSPGSLQISL	27	35201913	Antifungal		Experimentally validated
+CAMPSQ15099				Vv-AMP1	Synthetic construct		RACESQSHRFKGTCVRQSNCAAVCQTE	27	35260685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ15103				Urumin	Synthetic construct		IPLRGAFINGRWDSQCHRFSNGAIACA	27	35259078	Antiviral		Experimentally validated
+CAMPSQ15256				PR-PG	Synthetic construct		RFRRLRWKTRWRLKKICYCRRRFCVCV	27	25818457	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ17294				N-terminal loop deleted Tenecin 1	Synthetic construct		DAACAAHCLFRGRSGGYCNGKRVCVCR	27	9849873	Antibacterial, Antifungal	Gram+,Gram-	Predicted
+CAMPSQ18407				D1D6	Synthetic construct		FLAAARIAKRVAKKARKLAKRAARKRK	27	12208971	Antiviral		Experimentally Validated
+CAMPSQ18412				D2A3	Synthetic construct		KKKKFVKKVAKKVKKVAKKVAKVAVAV	27	12208971	Antiviral		Experimentally Validated
+CAMPSQ18415				D3A15	Synthetic construct		KRKRFAKKFLRFLRKVIRFLKRFIRRF	27	12208971	Antiviral		Experimentally Validated
+CAMPSQ19251		P24302		Dermaseptin (1-7)-Pleurocidin (8-26)-N	Synthetic construct		ALWKTMLKKAAHVGKHVGKAALTHYLN	27	10788362	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19219		P81534		Beta-defensin 103 (19-45) [C5,15,22,23A]	Synthetic construct		AVLSALPKEEQIGKASTRGRKAARRKK	27	16008365	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19220		P81534		Beta-defensin 103 (19-45) [C5,15,22,23W]	Synthetic construct		AVLSWLPKEEQIGKWSTRGRKWWRRKK	27	16008365	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19175		P06833		Caltrin / Calcium transport inhibitor / YY-2 / Seminalplasmin / SPLN [14-40]	Synthetic construct		SLSRYAKLANRLANPKLLETFLSKWIG	27	9009216	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19133				C7S/NK27-COOH	Synthetic construct		KILRGVSKKIMRTFLRRISKDILTGKK	27	21474443, 17389605	Antibacterial	Gram+,Gram-	Experimentally Validated

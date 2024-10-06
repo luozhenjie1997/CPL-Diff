@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18429				Cm-p5 [L5K, R10del]	Synthetic construct		SRSEKIVHQLF	11	31763531	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18464				Mucin-7 (20-31) [H3A, P10del]	Synthetic construct		KSAFELPHYGL	11	31837617	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18465				Mucin-7 (20-31) [H8A, P10del]	Synthetic construct		KSHFELPAYGL	11	31837617	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18466				Mucin-7 (20-31) [P10del]	Synthetic construct		KSHFELPHYGL	11	31837617	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18467				BP201	Synthetic construct		RKLFKRILKYL	11	26574005	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18468				BP202	Synthetic construct		KRLFRKILKYL	11	26574005	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18469				BP214	Synthetic construct		KKLFKKILRYL	11	26574005	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18470				BP204	Synthetic construct		KRLFRKILRYL	11	26574005	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18471				BP205	Synthetic construct		KKLFRRILKYL	11	26574005	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18472				BP206	Synthetic construct		RRLFKKILKYL	11	26574005	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18473				BP210	Synthetic construct		RRLXRRILRYL	11	26574005	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ19420		P49913		KR-12-a2 [R2del]	Synthetic construct		KIVQRIKKWLR	11	33398076	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19421		P49913		KR-12-a2 (2-12)[R1A]	Synthetic construct		AIVQRIKKWLR	11	33398076	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19422		P49913		KR-12-a2 (2-12)[V3R,Q4K]	Synthetic construct		RIRKRIKKWLR	11	33398076	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19423		P49913		KR-12-a2 (2-12)[V3K,Q4R]	Synthetic construct		RIKRRIKKWLR	11	33398076	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19424		P49913		Reverse KR-12-a2 (2-12)	Synthetic construct		rlwkkirqvir	11	33398076	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19419		P49913,		D-KR-12-a2 (2-12)	Synthetic construct		RIVQRIKKWLR	11	33398076	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19394		P02788		LF11 [N6R,K9I,V10R]	Synthetic construct		FQWQRNIRIRR	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19379		P02788		R-LF11 [Q2Del,R8I,K9I,V10R]	Synthetic construct		RFWQRNIRIRR	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19367		P02788		F-LF11 [Q2Del,K9I,V10R]	Synthetic construct		FFWQRNIRIRR	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19352		P02788		LF11 [Q2L]	Synthetic construct		FLWQRNIRKVR	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19353		P02788		LF11 [Q2V,Q4A]	Synthetic construct		FVWARNIRKVR	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19351		P02788		LF11 [Q2I]	Synthetic construct		FIWQRNIRKVR	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19350		P02788		LF11 [Q2A]	Synthetic construct		FAWQRNIRKVR	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19334		P02788		LF11 [F1R,Q2Del,V10Y]-R	Synthetic construct		RWQRNIRKYRR	11	20956602	Antibacterial	Gram-	Experimentally Validated

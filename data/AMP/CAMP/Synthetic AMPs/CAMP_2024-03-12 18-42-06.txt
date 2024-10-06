@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21347		P06833		Caltrin (Seminalplasmin) (28-40) [E5K] [T6,S9del]	Synthetic construct		PKLLKFLKWIG	11	10195441	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21348		P06833		Caltrin (Seminalplasmin) (28-40) [E5K] [L4,T6del]	Synthetic construct		PKLKFLSKWIG	11	10195441	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21401				Thymopentin + 6R, RR-11	Synthetic construct		RKDVYRRRRRR	11	24411680	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21402				6R + Thymopentin, RY-11	Synthetic construct		RRRRRRRKDVY	11	24411680	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21427		Q70623		Vif (88-98)	Synthetic construct		EWRKKRYSTQV	11	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21466		Q9TUI9		Apelin-11	Synthetic construct		PRLSHKGPMPF	11	10802050	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21593		O75475		LEDGF (361-370)	Synthetic construct		WNSLKIDNLDV	11	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21594		O75475		LEDGF (361-370)[N361A]	Synthetic construct		WASLKIDNLDV	11	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21595		6110		LEDGF (361-370)[S362A]	Synthetic construct		WNALKIDNLDV	11	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21596		O75475		LEDGF (361-370)[L363A]	Synthetic construct		WNSAKIDNLDV	11	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21597		O75475		LEDGF (361-370)[K364A]	Synthetic construct		WNSLAIDNLDV	11	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21598		O75475		LEDGF (361-370)[I365A]	Synthetic construct		WNSLKADNLDV	11	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21599		O75475		LEDGF (361-370)[D366A]	Synthetic construct		WNSLKIANLDV	11	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21600		O75475		LEDGF (361-370)[N367A]	Synthetic construct		WNSLKIDALDV	11	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21601		O75475		LEDGF (361-370)[L368A]	Synthetic construct		WNSLKIDNADV	11	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21602		O75475		LEDGF (361-370)[D369A]	Synthetic construct		WNSLKIDNLAV	11	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21603		O75475		LEDGF (361-370)[V370A]	Synthetic construct		WNSLKIDNLDA	11	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21604		O75475		LEDGF (361-370)[D366A][D369A]	Synthetic construct		WNSLKIANLAV	11	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21634				Undefined	Synthetic construct		RQWKKWWQWRR	11	19959366	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21635				Undefined	Synthetic construct		RQIRRWWQWRR	11	19959366	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21664				VS1	Synthetic construct		KAXWKXVKXVK	11	21321136	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21668				VS2	Synthetic construct		KWXWKXVKXVK	11	21321136, 21693143	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21669				VS3	Synthetic construct		KWXWKXWKXVK	11	21321136, 21693143	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21670				VS4	Synthetic construct		KWXWKXWKXWK	11	21321136	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21671				VA1	Synthetic construct		KWXWKXVKXAK	11	22118799, 23876294	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated

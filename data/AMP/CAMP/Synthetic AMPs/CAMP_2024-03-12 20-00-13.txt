@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13671				LAH4-A4	Synthetic construct		KKALLHAALAHLLALAHHLLALLKKA	26	34065185	Antibacterial		Experimentally validated
+CAMPSQ13672				LAH4-A5	Synthetic construct		KKALLHALLAHLAALLHALLAHLKKA	26	34065185	Antibacterial		Experimentally validated
+CAMPSQ13673				LAH4-A6	Synthetic construct		KKALLHALLAALLAHLHALLAHLKKA	26	34065185	Antibacterial		Experimentally validated
+CAMPSQ13748				Ltc2a_I7Q	Synthetic construct		GLFGKLQKKFGRKAISYAVKKARGKH	26	19563807	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13749				Ltc2a_F10K	Synthetic construct		GLFGKLIKKKGRKAISYAVKKARGKH	26	19563807	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13750				Ltc2a_G11L	Synthetic construct		GLFGKLIKKFLRKAISYAVKKARGKH	26	19563807	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13985				PpTH(7-32)	Synthetic construct		TWARNCYNVCRLPGTISREICAKKCR	26	15494403	Antifungal		Experimentally validated
+CAMPSQ13986				PpTHR(7-32)	Synthetic construct		TWARNCYNVCRLPGTISREICAKKCD	26	15494403	Antifungal		Experimentally validated
+CAMPSQ14032				LAH4-L0	Synthetic construct		KKALLAHALAHLALLALHLALHLKKA	26	17005809, 34065185	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14033				LAH4-L1	Synthetic construct		KKALLAHALHLLALLALHLAHALKKA	26	17005809, 34065185	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14034				LAH4-L2	Synthetic construct		KKALLALALHHLALLALHLAHALKKA	26	17005809, 34065185	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14035				LAH4-AL6	Synthetic construct		KKALLHLALALLALHAHALALHLKKA	26	17005809	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14036				LAH4-L1-F4	Synthetic construct		KKALLAHFFHLLALLALHFFHALKKA	26	17005809	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14037				LAH6-L1	Synthetic construct		KKALLAHALHHLALLAHHLAHALKKA	26	17005809	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ15196				CPcAMP1/26	Synthetic construct		PPHKKKLAVYPVFLFYLFLSWFSLIV	26	26883426	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16531		Q01524		LHD6R	Synthetic construct		AFTHRRSYSTEYRYGTTVRGIRHRFL	26	26400692	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16724		V9GZ92		Ranatuerin-2CSa (1-26)	Synthetic construct		GILSSFKGVAKGVAKDLAGKLLETLK	26	30292398	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16817		P83240		Pandinin-2 [P14GVG], Pin2 [P14GVG]	Synthetic construct		FWGALAKGALKLIGVGSLFSSFSKKD	26	20033827	Antibacterial, Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ16818				D-V681 [V13K, A12L, A20L,A23L, V16K]	Synthetic construct		kwksflktfkslkktklhtllkliss	26	20858205,19090916	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ17143		P80054,		Antibacterial protein PR-39 (1-26)	Synthetic construct		RRRPRPPYLPRPRPPPFFPPRLPPRI	26	23326415,24755622	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ17154				PR-39(1–26)	Synthetic construct		RRRPRPPYLPRPRPPPFFPPRLPPRI	26	24755622	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17732				PR-39(1-26)	Synthetic construct		RRRPRPPYLPRPRPPPFFPPRLPPRI	26	24755622	Antibacterial	Gram -ve, Gram +ve	Experimentally validated
+CAMPSQ17699		P06350		Trout Histone H1 (1-26), HSDF-2	Synthetic construct		AEVAPAPAAAAPAKAPKKKAAAKPKK	26	11302792	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17661		P01501		Melittin [K7,21,23EpsK]	Synthetic construct		GIGAVLXVLTTGLPALISWIXRXRQQ	26	32175733	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17660		P01501		Melittin [K7,23EpsK]	Synthetic construct		GIGAVLXVLTTGLPALISWIKRXRQQ	26	32175733	Antibacterial	Gram+,Gram-	Experimentally validated

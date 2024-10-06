@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3396				  Pc-CATH1 	Phasianus colchicus	Animalia (Aves)	RIKRFWPVVIRTVVAGYNLYRAIKKK	26	20955730	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3952		P86415		Halocyntin	Halocynthia papillosa 	Animalia	FWGHIWNAVKRVGANALHGAVTGALS	26	19085906	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8286				Melittin	Apis mellifera	Animalia (Arthropoda)	GIGAVLKVLTTGLPALISWIKRKRQQ	26	31199117	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8437				OranCath6	Ornithorhynchus anatinus	Animalia (Mammals)	SVPGTRAQSGTTSPGSGSRRVARSRG	26	28949902	Antibacterial 		Predicted
+CAMPSQ8736				Gm0026x00785(77-103)	Glycine max	Plantae (Angiosperms)	HKMDLHWYLRTLEEVVIRALQRFQFR	26	23029273	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8738				P61458(35-60)	Mus musculus 	Animalia (Mammals)	FKQFHFKDFNRAFGFMTRVALQAEKL	26	23029273	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8904				EcAMP2.1	Echinochloa	Plantae (Commelinids)	DRCSQQCQHHRDPDRKQQCMRECRRH	26	31012001	Antifungal		Experimentally validated
+CAMPSQ9326				Smp24GVG	Scorpio maurus palmatus	Animalia	IWSFLIKAATKLLGVGSLFGGGKKDS	26	27019370	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9569				CATH-2	Gallus gallus	Animalia	RFGRFLRKIRRFRPKVTITIQGSARF	26	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9842				MelP5	Apis mellifera	Animalia	GIGAVLKVLATGLPALISWIKAAQQL	26	26632653	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9904				ToAP2 	Tityus obscurus	Animalia	FFGTLFKLGSKLIPGVMKLFSKKKER	26	27917162	Antibacterial, Antibiofilm, Antifungal		Experimentally validated
+CAMPSQ10000				Pentadactylin	Leptodactylus syphax 	Animalia	GLLDTLKGAAKNVVGSLASKKVMEKL	26	17628627	Antibacterial		Predicted
+CAMPSQ10106				Lebocin?1 (SlLeb?1) subsequence 2, 124-149	Spodoptera litura	Animalia (Insect)	SLHLPDYKFPLPTLPPFNPRPRYPWD	26	31562754	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10488				BMAP-27	Bos taurus	Animalia	GRFKRFRKKFKKLFKKLSPVIPLLHL	26	28707817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10647				Pleurain E1	Rana pleuraden	Animalia	AKAWGIPPHVIPQIVPVRIRPLCGNV	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10656				Pleurain J1	Rana pleuraden	Animalia	FIPGLRRLFATVVPTVVCAINKLPPG	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10878				SA-hepcidin1	Scatophagus argus	Animalia	QSHLSMCRYCCNCCRNNKGCGFCCKF	26	26845697	Antibacterial, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11008				Thaulin-1	Pleurodema thaul	Animalia	NGNLLGGLLRPVLGVVKGLTGGLGKK	26	28025119	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11009				Gly- Thaulin-1	Pleurodema thaul	Animalia	GGNLLGGLLRPVLGVVKGLTGGLGKK	26	28025119	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11064				DRP-PBN1 	Phyllomedusa bicolor	Animalia	ALWKDILKNAGKAALEINQLVNQGEL	26	15222751	Antibacterial 	Gram +ve	Experimentally validated
+CAMPSQ11082				MjPen-II PRR	Marsupenaeus Japonicus	Animalia	VGPATRPFTRPTGPLKPISRPPSRAA	26	26855016	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11235				HD5(7-32)	Homo sapiens	Animalia (Mammals)	TGRCATRESLSGVCEISGRLYRLCCR	26	30808760	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11558				Peptide-3	Rana temporaria	Animalia (Amphibia)	NNLRHIVAWCKNRNYSLAVCARFKPQ	26	30578771	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11591				YR26	Homo sapiens	Animalia (Mammals)	YYHFWHRGVTKRSLSPHRPRHSRLQR	26	30555984	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12269				Hyporientalin A	Trichoderma orientale	Fungi (Sordariomycetes)	UAUAUAQUVxUGLxUPVxUVxQQFol	26	29922855	Antifungal		Experimentally validated

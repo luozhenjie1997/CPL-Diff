@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20547				Undefined	Synthetic construct		LRLKKRRWKYRVpL	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20548				Undefined	Synthetic construct		LRLKKRRWKYRVpI	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20549				Undefined	Synthetic construct		LRLKKRRWKYRVpV	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20550				Undefined	Synthetic construct		LRLKKRRWKYRVpQ	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20551				Undefined	Synthetic construct		LRLKKRRWKYRVpX	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20553		P01514,		Mitoparan, Mastoparan [A5,8K;A10Aib]	Synthetic construct		INLKKLAKLXKKIL	14	22148546, 29337270	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20554				Inverso-D-Mastoparan-L	Synthetic construct		LIKKALAALAKLNI	14	22148546	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20658		P22749		Granulysin (23-36)	Synthetic construct		QRSVSNAATRVCRT	14	10903754	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20713		P85170		ChBac3.4 (1-14)	Synthetic construct		RFRLPFRRPPIRIH	14	33194795	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20727		B6D434		Cathelicidin-BF-15 (1-14) -AMD	Synthetic construct		VKRFKKFFRKLKKS	14	22008732	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20809		P82358		Gomesin (2-15)	Synthetic construct		CRRLCYKQRCVTYC	14	22865764	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20842				Undefined	Synthetic construct		GIVKXIVKXIVKXI	14	31448889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20843				Undefined	Synthetic construct		GIVKKIVKKIVKKI	14	31448889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20844				Undefined	Synthetic construct		GILKKILKKILKKL	14	31448889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20970				Undefined	Synthetic construct		WQRRMRKLGAPSIT	14	10679204	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21080				Undefined	Synthetic construct		VKLLVyPLKVKLyP	14	15009528	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21081				Undefined	Synthetic construct		VKLFVyPLKVKLyP	14	15009528	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21082				Undefined	Synthetic construct		VKLYVyPLKVKLyP	14	15009528	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21083				Undefined	Synthetic construct		VKLNVyPLKVKLyP	14	15009528	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21084				Undefined	Synthetic construct		VKLGVyPLKVKLyP	14	15009528	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21121		P11006		Cecropin A (1-8) + Magainin 2 (1-6)	Synthetic construct		KWKLFKKIGIGKFL	14	12573247	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21148				Undefined	Synthetic construct		KWKKLLKKPLKLKL	14	14514057	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21152				P11, P5 [K3,4Del][L6,7Del]	Synthetic construct		KWKKPLLKKLLKKL	14	18289109	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21158		P19661		Bactenecin-7 (43-56)	Synthetic construct		PRPLPFPRPGPRPI	14	15572192	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21162		P19661		Bac7 (1-13)-C-BY	Synthetic construct		RRIRPRPPRLPRPC	14	25525837	Antibacterial	Gram-	Experimentally Validated

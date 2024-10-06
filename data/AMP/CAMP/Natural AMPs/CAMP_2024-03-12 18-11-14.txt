@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ435	41017615	P82840		Ranatuerin-2B	Rana berlandieri	Animalia (Amphibia)	GLLDTIKGVAKTVAASMLDKLKCKISGC	28	10651828	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ451	4102644	P46163		Neutrophil beta-defensin 5 	Bos taurus 	Animalia (Mammals)	NPQSCRWNMGVCIPISCPGNMRQIGTCS	28		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ504	51701745	P84115		Ranatuerin-2BYb	Rana boylii 	Animalia (Amphibia)	GIMDSVKGLAKNLAGKLLDSLKCKITGC	28	14531844	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ524	55976279	P84274		Palustrin-1a	Rana palustris	Animalia (Amphibia)	ALFSILRGLKKLGKMGQAFVNCEIYKKC	28	11087945	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ525	55976280	P84275		Palustrin-1b	Rana palustris	Animalia (Amphibia)	ALFSILRGLKKLGNMGQAFVNCKIYKKC	28	11087945	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ682				Ranatuerin 2SKa 	Rana sakuraii	Animalia (Amphibia)	GLLDAIKDTAQNLFANVLDKIKCKFTKC	28	17174009	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ687	1708946	P54229		Cathelicidin-5 , Antibacterial peptide BMAP-28 , Myeloid antibacterial peptide 28	Bos taurus 	Animalia (Mammals)	GGLRSLGRKILRAWKKYGPIIVPIIRIG	28	8910461, 29103679	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ708		A6MBP5		OdM1	Odorrana grahami	Animalia (Amphibia)	ATAWDFGPHGLLPIRPIRIRPLCGKDKS	28	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ759	76365059	P84638		Cycloviolin-B	Leonia cymosa	Plantae	GTACGESCYVLPCFTVGCTCTSSQCFKN	28	10813905	Antiviral		Experimentally validated
+CAMPSQ958	75172159	Q9FR52		Shepherin I	Capsella bursa-pastoris	Plantae	GYGGHGGHGGHGGHGGHGGHGHGGGGHG	28	11117262	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1103	66773816	P69845		Grammistin GsA	Grammistes sexlineatus	Animalia (Pisces)	WWRELLKKLAFTAAGHLGSVLAAKQSGW	28	15777955	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1229	115502150	P84937		DMS2_PHYHZ Dermaseptin-H2 	Phyllomedusa azurea 	Animalia (Amphibia)	GLWSKIKDVAAAAGKAALGAVNEALGEQ	28		Antibacterial		Predicted
+CAMPSQ2793				 Kenojeinin I 	Raja kenojei	Animalia (Chondrichthyes)	GKQYFPKVGGRLSGKAPLAAKTHRRLKP	28	15752571	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2828	357580472	A7WNV6		  Ranatuerin-2PLa  	Rana palustris	Animalia (Amphibia)	GIMDTVKNVAKNLAGQLLDKLKCKITAC	28	11087945	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2829				  Ranatuerin-2PLb  	Rana palustris	Animalia (Amphibia)	GIMDTVKNAAKDLAGQLLDKLKCRITGC	28	11087945	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2830				  Ranatuerin-2PLd  	Rana palustris	Animalia (Amphibia)	GIMDSVKNVAKNIAGQLLDKLKCKITGC	28	11087945	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3137				  Ranatuerin-2PRa 	Rana pirica	Animalia (Amphibia)	GLMDVFKGAAKNLLASALDKIRCKVTKC	28	15003829	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3145				  Ranatuerin-2ARa 	Rana areolata	Animalia (Amphibia)	GLMDTVKNAAKNLAGQLLDTIKCKMTGC	28	12429503	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3146				  Ranatuerin-2ARb 	Rana areolata	Animalia (Amphibia)	GILDTIKNAAKTVAVGLLEKIKCKMTGC	28	12429503	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3184				  Dermaseptin H4 	Phyllomedusa hypochondrialis	Animalia (Amphibia)	GLWSTIKNVGKEAAIAAGKAALGALGEQ	28	17553595	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3185				  Dermaseptin H5 	Phyllomedusa hypochondrialis	Animalia (Amphibia)	GLWSTIKNVGKEAAIAAGKAVLGSLGEQ	28	17553595	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3224				  Ranatuerin-2Mb 	Rana muscosa	Animalia (Amphibia)	GIMDSVKGVAKNLAAKLLEKLKCKITGC	28	16330099	Antifungal		Experimentally validated
+CAMPSQ3231				  Ranatuerin-2Ya 	Rana blairi	Animalia (Amphibia)	GLMDTIKGVAKTVAASWLDKLKCKITGC	28	19254736	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3268				  Vasoactive intestinal polypeptide 	Homo sapiens	Animalia (Mammals)	HSDAVFTDNYTRLRKQMAVKKYLNSILN	28	18603306	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3290				  Ranatuerin-2Wa 	Rana capito	Animalia (Amphibia)	GIMDSIKGLGKNLAGQLLDKLKCKITGC	28	19635516	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted

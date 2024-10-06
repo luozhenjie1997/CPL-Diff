@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19573		P81835		Citropin 1.1 [G1K][D4A][S11A]	Synthetic construct		KLFAVIKKVAAVIGGL	16	12631273	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19574		P81835		Citropin 1.1 [G1K][D4A][S11A][G14R][G15R]	Synthetic construct		KLFAVIKKVAAVIRRL	16	12631273	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19575		P81835		Citropin 1.1 [D4K][S11K][G14K][G15K]	Synthetic construct		GLFKVIKKVAKVIKKL	16	12631273	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19595		P81835		Citropin-1.1 [D4Iso-Asp]	Synthetic construct		GLFXVIKKVASVIGGL	16	23069634	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19726		P19660		Bactenecin-5 (7-22)	Synthetic construct		RRPPIRPPFYPPFRPP	16	8605180	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19818				GS16	Synthetic construct		VKLKVKyPKLKVKLyP	16	19278255	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20105				Alyteserin-2a [G3K]	Synthetic construct		ILKKLLSTAAGLLSNL	16	22965637, 22392897	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20106				Alyteserin-2a [S7k]	Synthetic construct		ILGKLLKTAAGLLSNL	16	22965637, 22392897	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20107				Alyteserin-2a [G11k]	Synthetic construct		ILGKLLSTAAKLLSNL	16	22965637, 22392897	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20108				Alyteserin-2a [S14K]	Synthetic construct		ILGKLLSTAAGLLKNL	16	22965637, 22392897	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20109				Alyteserin-2a [N15k]	Synthetic construct		ILGKLLSTAAGLLSKL	16	22965637, 22392897	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20110				Alyteserin-2a [S7k][G11k]	Synthetic construct		ILGKLLKTAAKLLSNL	16	22965637, 22392897	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20111				Alyteserin-2a [G11k][N15K]	Synthetic construct		ILGKLLSTAAKLLSKL	16	22965637	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20346				Antimicrobial peptide (LLKK)4	Synthetic construct		LLKKLLKKLLKKLLKK	16	22162337	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20394				PFQa-St2	Synthetic construct		FIGALLRPALKLLAGK	16	23935531	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20721		B6D434		Cathelicidin-BF-15 16[K] -AMD	Synthetic construct		VKRFKKFFRKLKKSVK	16	22008732	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20724		B6D434		L[1] Cathelicidin-BF-15 -AMD	Synthetic construct		LVKRFKKFFRKLKKSV	16	22008732	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20729		B6D434		K[1]L[2] Cathelicidin-BF-15 (1-14) -AMD	Synthetic construct		KLVKRFKKFFRKLKKS	16	22008732	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20734		B6D434		Cathelicidin-BF-15 [W3Ins;F4W;K7,13W;F8R,R9W,L11W,S14K]	Synthetic construct		VKWRWKKWRWKWKWKV	16	26881456	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20737				MrMBL-C16	Synthetic construct		GGLFYVKHKEQQRKRF	16	25575476	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20789		A0A2L2DDG4		Dissulfin-01 (33-48)	Synthetic construct		DKERPICSNTFRGRKC	16	30610885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20808		P0CG61		Ubiquitin (16-31)	Synthetic construct		EVEPSDTIENVKAKIQ	16	23173767	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20968				Undefined	Synthetic construct		YQWQRRMRKLGAPSIT	16	10679204	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21161		P19661		Bac7 (1-15)-C-BY	Synthetic construct		RRIRPRPPRLPRPRPC	16	25525837	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21171		P19661		Bac7 (1-16)[R1W]	Synthetic construct		WRIRPRPPRLPRPRPR	16	32787108	Antibacterial	Gram+,Gram-	Experimentally Validated

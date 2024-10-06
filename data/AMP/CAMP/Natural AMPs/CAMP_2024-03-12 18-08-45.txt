@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3806				  Chionodracine 	Chionodraco hamatus	Animalia (Pisces)	FFGHLYRGITSVVKHVHGLLSG	22	22982327	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3810				  BacCH91 	Staphylococcus aureus CH-91	Monera	ITSFIGCTPGCGKTGSFNSFCC	22	23196985	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3867		P0C0H8		Lantibiotic streptin	Streptococcus pyogenes	Monera	GSRYLCTPGSCWKLVCFTTTVK	22	12732544	Antibacterial		Predicted
+CAMPSQ3894		P86267		Leptoglycin	Leptodactylus pentadactylus 	Animalia (Amphibia)	GLLGGLLGPLLGGGGGGGGGLL	22	19298834	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3980		P86528		Chitin-binding protein 3 	Moringa oleifera 	Plantae	CPAIQRCCQQLRNIQPPCRCCQ	22	23193603	Antifungal		Experimentally validated
+CAMPSQ4490		Q800R2		Caerin-1.1.2	Litoria caerulea	Animalia (Amphibia)	SVLGSVAKHVLPHVVPVIAEHL	22	12709067	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ4492		P86505		Caerin-3.1	Litoria rothii	Animalia (Amphibia)	GLWQKIKDKASELVSGIVEGVK	22	16124032, 19539637	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4592		P82357	1ZRV, 1ZRW	Spingerin C-4	Pseudacanthotermes spiniger	Animalia (Insects)	KKVADKVLLLKQLRIMRLLTRL	22	11053427	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8141		U4N938		Sm-AMP-X1	Stellaria media 	Plantae	CKHQCMSTRGDQARKICESVCM	22	24081691	Antifungal		Experimentally validated
+CAMPSQ8855				MytC[19-40]	Mytilus galloprovincialis	Animalia (Mollusc )	CSLYGCYLLHPGKICYCLHCSR	22	26444944	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8858				MytC[19-40]S	Mytilus galloprovincialis	Animalia (Mollusc )	CSLYGSYLLHPGKISYSLHCSR	22	26444944	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8964				Tc08	Theobroma cacao	Plantae (Angiosperms)	LHRLVKLVAALLRGYASKVDTH	22	29038449	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ9286				Hejiangin E1	Odorrana andersonii 	Animalia (Amphibia)	SADQTGMNKAALSPIRFISKSV	22	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9501				PGLa-AM1	Xenopus amieti	Animalia	GMASKAGSVLGKVAKVALKAAL	22	31102497	Antibacterial		Experimentally validated
+CAMPSQ9999				SPX(1-22)(Syphaxin )	Leptodactylus syphax 	Animalia	GVLDILKGAAKDLAGHVATKVI	22	17628627	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10003				Ocellatin3	Leptodactylus syphax 	Animalia	GVLDILKNAAKQNILAHAAEQI	22	17628627	Antibacterial		Predicted
+CAMPSQ10062				As-CATH5	Alligator sinensis	Animalia	TRRKFWKKVLNGALKIAPFLLG	22	29017942	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10080				Piscidins p1	Hybrid striped bass	Animalia	FFHHIFRGIVHVGKTIHRLVTG	22	31653020	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10081				Piscidins p3	Hybrid striped bass	Animalia	FIHHIFRGIVHAGRSIGRFLTG	22	31653020	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10278				89.6 Vpr	HIV-I	Virus	HFRIGCRHSRIGIIQQRRTRNG	22	31417238	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10421				PGLa- AN1	Xenopus andrei	Animalia	GMASKAGSVLGKVAKVALKAAL	22	21498136	Antibacterial, Antifungal		Predicted
+CAMPSQ10575				VK10 	Varanus komodoensis	Animalia	ARTKQTARKSTGGKAPRKQLAT	22	28164707	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10613				Piscidin-1	Morone chrysops x Morone saxatilis	Animalia	FFHHIFRGIVHVGKTIHRLVTG	22	31354312, 30021422	Antibacterial, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10621				PGLa-SP1	Silurana paratropicalis 	Animalia	GMATKAGTALGKVAKAVIGAAL	22	21498136	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10761				NuriPep 1653	Pisum sativum	Plantae	VRGLAPKKSLWPFGGPFKSPFN	22	31620099	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

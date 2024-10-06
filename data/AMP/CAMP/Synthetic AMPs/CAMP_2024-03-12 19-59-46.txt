@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23125		P07357		C2, Complement component C8 alpha chain (375-399)	Synthetic construct		CFGGSLGIQYEDKINVGGGLSGDHC	25	24101243	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23218		A0A1L6ZNG9		Safencin (48-70)[G2W;E4,13K]	Synthetic construct		AWKKTIRQYLKNKIKKKGRKAVIAW	25	29463889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23219		A0A1L6ZNG9		Safencin (48-70)[E4,13K;G18W]	Synthetic construct		AGKKTIRQYLKNKIKKKWRKAVIAW	25	29463889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23220		A0A1L6ZNG9		Safencin (48-70)[E4,13K;A21W]	Synthetic construct		AGKKTIRQYLKNKIKKKGRKWVIAW	25	29463889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23221		A0A1L6ZNG9		Safencin (48-70)[G2,18W;E4K]	Synthetic construct		AWKKTIRQYLKNEIKKKWRKAVIAW	25	29463889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23222		A0A1L6ZNG9		Safencin (48-70)[G2,18W;E13K]	Synthetic construct		AWKETIRQYLKNKIKKKWRKAVIAW	25	29463889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23223		A0A1L6ZNG9		Safencin (48-70)[G2,18W;E4,13K]	Synthetic construct		AWKKTIRQYLKNKIKKKWRKAVIAW	25	29463889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23224		A0A1L6ZNG9		Safencin (48-70)[G2,18W,T5K]	Synthetic construct		AWKEKIRQYLKNEIKKKWRKAVIAW	25	29463889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23225		A0A1L6ZNG9		Safencin (48-70)[G2,18W,Q8K]	Synthetic construct		AWKETIRKYLKNEIKKKWRKAVIAW	25	29463889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23226		P0DTW2,A0A1L6ZNG9	6O8T	Pumilarin (46-70)[G2W,T5K,Q8K,Y9K,G18W], Syn-Safencin-P96	Synthetic construct		AWKEKIRKKLKNEIKKKWRKAVIAW	25	29463889, 32566907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23228		P0DTW2	6O8J	Pumilarin (46-70), Syn-Safencin-P1	Synthetic construct		AGKETIRQYLKNEIKKKGRKAVIAW	25	32566907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23229		P0DTW2	6O8P	Pumilarin (46-70)[T5K,Q8K,Y9K], Syn-Safencin-P8	Synthetic construct		AGKEKIRKKLKNEIKKKGRKAVIAW	25	32566907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23230		P0DTW2	6O8R	Pumilarin (46-70)[G2W,T5K,Q8K,Y9K], Syn-Safencin-P24	Synthetic construct		AWKEKIRKKLKNEIKKKGRKAVIAW	25	32566907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23231		P0DTW2	6O8S	Pumilarin (46-70)[T5K,Q8K,Y9K,G18K], Syn-Safencin-P56	Synthetic construct		AGKEKIRKKLKNEIKKKWRKAVIAW	25	32566907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23760				Brevinin-2GHk (1-25)	Synthetic construct		GFSSLFKAGAKYLLKQVGKAGAQQL	25	32075067	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23761				Brevinin-2GHk (1-25)[L14P]	Synthetic construct		GFSSLFKAGAKYLPKQVGKAGAQQL	25	32075067	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23762				Brevinin-2GHk (1-25)[L14A]	Synthetic construct		GFSSLFKAGAKYLAKQVGKAGAQQL	25	32075067	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23763				Brevinin-2GHk (1-25)[L14K]	Synthetic construct		GFSSLFKAGAKYLKKQVGKAGAQQL	25	32075067	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23764				Brevinin-2GHk (1-25)[L14R]	Synthetic construct		GFSSLFKAGAKYLRKQVGKAGAQQL	25	32075067	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23899		P0DTC2		SARS-CoV-2-S (1175-1198)-K, IPB09	Synthetic construct		SVVNIQKEIDRLNEVAKNLNESLIK	25	32376627	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23944		P02649		ApoE (131155), hEP-8	Synthetic construct		EELRVRLASHLRKLRKRLLRDADDL	25	22334503	Antiviral		Experimentally Validated
+CAMPSQ24002		Q5DP94		SC25EK	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSEEQ	25	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24020		Q5DP94		MTSC23EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKSE	25	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24085		P03377		LP-54	Synthetic construct		YTSLIEELIKKSEEQQKKNEEELKX	25	30089693	Antiviral		Experimentally Validated
+CAMPSQ24095		P03377		LP-64	Synthetic construct		KIEELLKKAEEQQKKNEEELKKLEX	25	30089693	Antiviral		Experimentally Validated

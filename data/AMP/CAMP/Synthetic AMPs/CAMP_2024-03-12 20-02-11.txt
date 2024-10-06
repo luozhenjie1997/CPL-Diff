@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2781				  Kaliocin-1 	Synthetic construct		FFSASCVPGADKGQFPNLCRLCAGTGENKCA	31	12693969	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8610				LysAB2 P1 	Synthetic construct		EKALEKLIAIQKAIKGMLNGWFTGVGFRRKR	31	28904355	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8611				LysAB2 P2 	Synthetic construct		EKALEKLIAIQKAIKGMLAGWFTGVGARRKR	31	28904355	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8927				AMV5	Synthetic construct		ITSISLCTPGCKTGALMGCSFFGWVSACKNC	31	31616392	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ9854				CXCL12y(68-98)	Synthetic construct		KGRREEKVGKKEKIGKKKRQKKRKAAQKRKN	31	26551597	Antiviral		Experimentally validated
+CAMPSQ9899				A3-APO	Synthetic construct		Chex-RPDKPRPYLPRPRPPRPVR2-Dab	31	29309652	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10355				CyI1	Synthetic construct		SCVYIPCISSVVGCSCKSKVCYKNGTFPCGE	31	31464123	Antibacterial	Gram -ve	Predicted
+CAMPSQ10356				CyI2	Synthetic construct		SCVWIPCISSVVGCSCKSKVCYKNGTFPCGE	31	31464123	Antibacterial	Gram -ve	Predicted
+CAMPSQ10653				W3G-pleurain-G1	Synthetic construct		GFGDSVKEGLKNAAVTILNKIKCKISECPPA	31	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10654				P29G/P30G-pleurain-G1	Synthetic construct		GFWDSVKEGLKNAAVTILNKIKCKISECGGA	31	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10655				W3G/P29G/P30G-pleurain-G1	Synthetic construct		GFGDSVKEGLKNAAVTILNKIKCKISECGGA	31	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10661				P30G-pleurain M1	Synthetic construct		GLLDSVKEGLKKVAGQLLDTLKCKISGCTGA	31	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10862				TiBP-Spacer 5-AMP	Synthetic construct		RPRENRGRERGLGSGGGLKLLKKLLKLLKKL	31	28936427	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11339				P5(coil)D	Synthetic construct		gggyskggkgggkggkgggkggkgggkggkg	31	30760613	Antiviral		Experimentally validated
+CAMPSQ12323				Bac5(1-31)	Synthetic construct		RFRPPIRRPPIRPPFYPPFRPPIRPPIFPPI	31	29844040	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12395				Lysin	Synthetic construct		NAKDYKGAAAEFPKWNKAGGRVLAGLVKRRK	31	30002652	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12703				Cysteine-terminus modified Cecropin P1 (CP1C)	Synthetic construct		SWLSTAKKLENSAKKRLSEGIAIAIQGGPRC	31	28544962	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13957				Defb14-1CV?(1-14)	Synthetic construct		GGRAAVLNALGKEEQIGRASNSGRKCARKKK	31	 20176896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14351				Fp5	Synthetic construct		NEVAKNLNESLIDLQELGKYEQYIKWPWYVW	31	34591335	Antiviral		Predicted
+CAMPSQ15095				PepG1	Synthetic construct		MITISTMLQFGLFLIALIGLVIKLIELSIKK	31	35260685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ15255				PR-FO	Synthetic construct		RFRRLRWKTRWRLKKIRFGRFLRKIRRFRPK	31	25818457	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16518		P84853		Ribosome-inactivating protein PD-L1/PD-L2 (47-77), IKY31	Synthetic construct		IKYLLVKLQGASQKTITLMLRRNNLYVMGYS	31	29684330	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ24708		P02788		Lactotransferrin (17-46), hLFcin	Synthetic construct		TKCFQWQRNMRKVRGPPVSCIKRDSPIQCI	30	33425692	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24709		Q9TUM0		Lactotransferrin (17-46), cLFcin	Synthetic construct		SKCAQWQRRMKKVRGPSVTCVKKTSRFECI	30	33425692	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24710		Q9TUM0		Lactotransferrin (17-46)[A4R,Q5R,K11R,S17P,V21I,T24A,S25F], ConLFcin	Synthetic construct		SKCRRWQRRMRKVRGPPVTCIKKAFRFECI	30	33425692	Antibacterial	Gram+,Gram-	Experimentally Validated

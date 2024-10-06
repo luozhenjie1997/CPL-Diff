@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19279		P82741		Ranatuerin-1[Lys-4]	Synthetic construct		SMLKVLKNLGKVGLGFVACKINKQC	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19280		P82741		Ranatuerin-1[Ala-19, Ala-22, Ala-25]	Synthetic construct		SMLSVLKNLGKVGLGFVAAKIAKQA	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19276		P82741		Ranatuerin-1[Lys-10]	Synthetic construct		SMLSVLKNLKKVGLGFVACKINKQC	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19277		P82741		Ranatuerin-1[Lys-10, Lys-13, Lys-15]	Synthetic construct		SMLSVLKNLKKVKLKFVACKINKQC	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19273		P82741		Ranatuerin-1 [Gly-4]	Synthetic construct		SMLGVLKNLGKVGLGFVACKINKQC	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19274		P82741		Ranatuerin-1[Arg-7]	Synthetic construct		SMLSVLRNLGKVGLGFVACKINKQC	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19275		P82741		Ranatuerin-1[Arg-11]	Synthetic construct		SMLSVLKNLGRVGLGFVACKINKQC	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19272		P82741		Ranatuerin-1[Ala-4]	Synthetic construct		SMLAVLKNLGKVGLGFVACKINKQC	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19270		P82741		Ranatuerin-1[Ser-19, Ser-25]	Synthetic construct		SMLSVLKNLGKVGLGFVASKINKQS	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19265		P81941		Pleurocidin [G1R,G3R,V12R,A19R,L21R]	Synthetic construct		RWRSFFKKAAHRGKHVGKRARTHYL	25	18325325	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19266		P81941		Pleurocidin [G1S,G3S,V12S,A19S,L21S]	Synthetic construct		SWSSFFKKAAHSGKHVGKSASTHYL	25	18325325	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19259		P81941		Pleurocidin [H11A][H15A][H23A]	Synthetic construct		GWGSFFKKAAAVGKAVGKAALTAYL	25	11168895	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19257		P81941,Q90ZY0		Pleurocidin [G13A][G17A]	Synthetic construct		GWGSFFKKAAHVAKHVAKAALTHYL	25	11168895, 14965277	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19258		P81941		Pleurocidin [G1A][G3A][G13A][G17A]	Synthetic construct		AWASFFKKAAHVAKHVAKAALTHYL	25	11168895	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19256		P81941		Pleurocidin [G1A][G3A]	Synthetic construct		AWASFFKKAAHVGKHVGKAALTHYL	25	11168895	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19599		P02788,		LFcin H (18-42)	Synthetic construct		TKCFQWQRNMRKVRGPPVSCIKRDS	25	10223949	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19606		P24627		Lfcin-B [C20G]	Synthetic construct		FKCRRWQWRMKKLGAPSITGVRRAF	25	33097042	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19662		P02788,		Lfcin (1539)	Synthetic construct		EATKCFQWQRNMRKVRGPPVSCIKR	25	19917761, 21075607	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19663		P02788		Lfcin (1539)[Q21A]	Synthetic construct		EATKCFAWQRNMRKVRGPPVSCIKR	25	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19664		P02788		Lfcin (1539)[N25A]	Synthetic construct		EATKCFQWQRAMRKVRGPPVSCIKR	25	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19665		P02788		Lfcin (1539)[Q23A]	Synthetic construct		EATKCFQWKRNMRKVRGPPVSCIKR	25	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19666		P02788		Lfcin (1539)[T3E,Q7K]	Synthetic construct		EAEKCFKWQRNMRKVRGPPVSCIKR	25	21075607	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19667		P02788		Lfcin (1539)[Q7E,N11K]	Synthetic construct		EATKCFEWQRKMRKVRGPPVSCIKR	25	21075607	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19668		P02788		Lfcin (1539)[N11E,V15K]	Synthetic construct		EATKCFQWQREMRKKRGPPVSCIKR	25	21075607	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19923		Q800R2		Caerin 1.1 [E23A,H24A]	Synthetic construct		GLLSVLGSVAKHVLPHVVPVIAAAL	25	26026377	Antiviral		Experimentally Validated

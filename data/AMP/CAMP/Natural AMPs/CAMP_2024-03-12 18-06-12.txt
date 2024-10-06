@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ105	41688533	P83705		Halocidin precursorB 	Halocynthia aurantium 	Animalia	WLNALLHHGLNCAKGVLA	18	12067731	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ114	1296456	P54228	2KET	Myeloid antimicrobial peptide BMAP-27 	Bos taurus 	Animalia (Mammals)	GRFKRFRKKFKKLFKKLS	18	8910461	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ115	1296458	P54229		Myeloid antimicrobial peptide BMAP-28	Bos taurus 	Animalia (Mammals)	GGLRSLGRKILRAWKKYG	18	8910461	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ118	130777	P14215	1RKK,1X7K,2B5K	Polyphemusin-1 	Limulus polyphemus 	Animalia	RRWCFRVCYRGFCYRKCR	18	2514185	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ119	130778	P14216		Polyphemusin-2 	Limulus polyphemus 	Animalia	RRWCFRVCYKGFCYRKCR	18	2514185	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ144	146324981	P0C2U6		Lycocitin-1	Lycosa singoriensis	Animalia (Arachnida)	GKLQAFLAKMKEIAAQTL	18	14991689	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ145	146324982	P0C2U7		Lycocitin-2	Lycosa singoriensis	Animalia (Arachnida)	GRLQAFLAKMKEIAAQTL	18	14991689	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ215	18202402	P82419		Ponericin-G6	Pachycondyla goeldii 	Animalia (Insects)	GLVDVLGKVGGLIKKLLP	18	11279030	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ239	20664097	P82358	1KFP	Gomesin	Acanthoscurria gomesiana	Animalia (Arachnida)	ZCRRLCYKQRCVTYCRGR	18	10942757, 28741926	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ310	2735690	P35618	1OG7,1OHM,1OHN	Sakacin P	Lactobacillus sakei 	Monera	KYYGNGVHCGKHSCTVDW	18	8636023	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ329	29336553	Q90WP7		Peptide leucine arginine precursor 	Rana pipiens	Animalia (Amphibia)	LVRGCWTKSYPPKPCFVR	18	14636071	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ358	32396192	Q7SZG7		Pleurocidin-like peptide GC3.2	Glyptocephalus cynoglossus	Animalia (Pisces)	GWKKWFTKGERLSQRHFA	18	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ508	52783432	P82270		Rhesus theta defensin-1/3, subunit A precursor 	Macaca mulatta	Animalia (Mammals)	GFCRCICTRGFCRCICTR	18	11675394	Antibacterial, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ509	52783433	P82271		RTD-2	Macaca mulatta	Animalia (Mammals)	GVCRCLCRRGVCRCLCRR	18	11675394	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ510	543812	Q06601		Apidaecin-2 	Apis mellifera	Animalia (Insects)	GNNRPIYIPQPRPPHPRL	18	2676519	Antibacterial		Experimentally validated
+CAMPSQ511	543814	P35581		Apidaecin-1B 	Apis mellifera	Animalia (Insects)	GNNRPVYIPQPRPPHPRL	18	2676519	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ512	543819	Q06602	4E81	Apidaecin-1A 	Apis mellifera	Animalia (Insects)	GNNRPVYIPQPRPPHPRI	18	2676519	Antibacterial		Experimentally validated
+CAMPSQ532	56554823	Q5GC91, Q5GC92 , Q5GC94		Maximin S4	Bombina maxima	Animalia (Amphibia)	RSNKGFNFMVDMIQALSK	18	15649437	Antibacterial		Experimentally validated
+CAMPSQ552	59798983	P84386		XT-6 	Xenopus tropicalis	Animalia (Amphibia)	GFLGSLLKTGLKVGSNLL	18	11738090	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ613	730587	P39084		Ranalexin 	Rana catesbeiana	Animalia (Amphibia)	GGLIKIVPAMICAVTKKC	18	8144672	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ620			1HVZ	RTD-1	Macaca mulatta	Animalia (Mammals)	GFCRCLCRRGVCRCICTR	18	11675394	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ622	74797000	Q718F4		BmKb1	Mesobuthus martensii	Animalia (Arachnida)	FLFSLIPSAISGLISAFK	18	15062994	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ722	20138939	P82068		Maculatin-2.1	Litoria genimaculata	Animalia (Amphibia)	GFVDFLKKVAGTIANVVT	18	9620615	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ22911		A0A1N6QSV9,		Propeptin-2	Microbispora spp.		GYPWWDYRDLFGGHTFI	17	28446822, 17827663	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23622				Bowman-Birk proteinase inhibitor peptide PE-BBI	Pelophylax esculentus	Animalia	GALKGCWTKSIPPKPCK	17	30267012	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3239				  Temporin-1SPa  	Rana septentrionalis	Animalia (Amphibia)	FLSAITSILGKFF	13	15556063, 29842923	Antibacterial, Anticancer	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3246				  Temporin-1CEc 	Rana chensinensis	Animalia (Amphibia)	IIPLPLGYFAKKT	13	19179051	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3286				  Temporin-CPa 	Rana capito	Animalia (Amphibia)	IPPFIKKVLTTVF	13	19635516,  29842923	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3287				  Temporin-CPb 	Rana capito	Animalia (Amphibia)	FLPIVGRLISGIL	13	19635516,  29842923	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ3450				  Temporin-PRa 	Rana pretiosa	Animalia (Amphibia)	FLPILGNLLSGLL	13	21295070	Antibacterial		Experimentally validated
+CAMPSQ3451				  Temporin-PRb 	Rana pretiosa	Animalia (Amphibia)	FLPIITNLLGKLL	13	21295070	Antibacterial		Experimentally validated
+CAMPSQ3485				  Peptide 5 	Rapana venosa	Animalia (Molluscs (Gastropoda))	SPPSEQLGKSFNF	13	21703315	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3556				  Andersonin-C1 	Odorrana andersonii	Animalia (Amphibia)	TSRCIFYRRKKCS	13	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3637				  Temporin-ALi 	Amolops loloensis	Animalia (Amphibia)	FFPIVGKLLSGLL	13	19843479	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3638				  Temporin-ALj 	Amolops loloensis	Animalia (Amphibia)	FFPIVGKLLFGLL	13	19843479	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3675				  IsCT2 	Opisthacanthus madagascariensis	Animalia (Arachnida)	IFGAIWNGIKSLF	13	20575512	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3847		R4JQZ0		  Pantinin-2 	Pandinus imperator	Animalia (Arachnida)	IFGAIWKGISSLL	13	23624072	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3848		R4JJN6		  Pantinin-3 	Pandinus imperator	Animalia (Arachnida)	FLSTIWNGIKSLL	13	23624072	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3849				  Hp1090 	Heterometrus petersii	Animalia (Arachnida)	IFKAIWSGIKSLF	13	20950663	Antiviral		Experimentally validated
+CAMPSQ3920		P86526		Bacteriocin rhamnosin A 	Lactobacillus rhamnosus	Monera	AVPAVRKTNETLD	13	19796123	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3988		B3VZU4		Temporin-CDYb	Rana dybowskii	Animalia (Amphibia)	ILPILAPLIGGLL	13	19539775	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4030	403399463	I0DEB3		Amphiphatic peptide CT1	Vaejovis mexicanus smithi 	Animalia (Arachnida)	FLGALWNVAKSVF	13	22342498, 31212183, 33442881,31181304	Antibacterial, Antifungal, Antiprotozoal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4031	403399464	I0DEB4		Amphiphatic peptide CT2	Vaejovis mexicanus smithi 	Animalia (Arachnida)	FLSTLWNAAKSIF	13	22342498	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4033	430802816	L0GAZ8		Antimicrobial peptide CT5-NDBP-5.16 precursor 	Urodacus yaschenkoi	Animalia (Arachnida)	IWSAIWSGIKGLL	13	23182832	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4035	430802814	L0GCI6		Antimicrobial peptide CT3-NDBP-5.15 precursor 	Urodacus yaschenkoi	Animalia (Arachnida)	ILSAIWSGIKSLF	13	23182832	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4070	425872839	K7Z903		Temporin-AJ8 antimicrobial peptide precursor 	Amolops jingdongensis 	Animalia (Amphibia)	FFPIVGKRLYGLL	13	22828809	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4133	403399469	E4VP07		Venom antimicrobial peptide-6	Mesobuthus eupeus 	Animalia (Arachnida)	IFGAIAGLLKNIF	13	19088182	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4137	403399467	H2CYR5		Cytotoxic linear peptide	Pandinus cavimanus 	Animalia (Arachnida)	FLGGLWKAMSNLL	13	22121013	Antibacterial		Predicted
+CAMPSQ4149	476007178	E6ZBE2		Kassorin-S	Kassina senegalensis 	Animalia (Amphibia)	FLGGILNTITGLL	13	21040978	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ4593		A7WNV7		Temporin-1PLa	Rana palustris	Animalia (Amphibia)	FLPLVGKILSGLI	13	11087945	Antibacterial	Gram +ve	Experimentally validated

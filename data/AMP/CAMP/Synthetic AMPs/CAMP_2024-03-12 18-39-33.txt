@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10825				SB14	Synthetic construct		llkalkklakk	11	30830745	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10826				SB15	Synthetic construct		lkalkklakky	11	30830745	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10884				TIL	Synthetic construct		CWTKSIPPKPC	11	31337113	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10915				Chain201D	Synthetic construct		KWIVWRWRFKR	11	31341199	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11356				IR-1b	Synthetic construct		XTLTTTQTLLL	11	30721034	Antiviral		Experimentally validated
+CAMPSQ11653				Des[Leu]12-Pol-CP-NH2	Synthetic construct		ILGTILGLLKS	11	30534613	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11739				Peptide 1	Synthetic construct		KLWKKWKKWLK	11	30447380	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11743				Peptide D1	Synthetic construct		klwkkwkkwlk	11	30447380	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11783				PBP10	Synthetic construct		XQRLFQVKGRR	11	28483551	Antiviral		Experimentally validated
+CAMPSQ11838				PAF109 	Synthetic construct		GQCSLKHNTCT	11	28428776	Antifungal		Experimentally validated
+CAMPSQ11960				KNK8-WWW	Synthetic construct		KNKGKKNGWWW	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11961				3.1	Synthetic construct		KKLLKWLLKLL	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11962				4.3	Synthetic construct		LLKWLLKWLKK	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11963				P11-6	Synthetic construct		KKLIKKILKIL	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11964				BP76	Synthetic construct		KKLFKKILKFL	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11965				K5L3W3	Synthetic construct		KLWKLWKKWLK	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11967				RW-BP100	Synthetic construct		RRLFRRILRWL	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11968				RR	Synthetic construct		WLRRIKAWLRR	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11969				K6L2W3	Synthetic construct		KLWKKWKKWLK	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11970				K6WL1P3	Synthetic construct		KKPKLPWKPKK	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11971				WR11	Synthetic construct		WFWKWWRRRRR	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11973				K11	Synthetic construct		KKKKKKKKKKK	11	28105725	Antifungal		Experimentally validated
+CAMPSQ11977				HDH-LGBP-A1	Synthetic construct		WLWKAIWKLLT	11	27983632	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11978				HDH-LGBP-A2	Synthetic construct		WLWKAIWKLLK	11	27983632	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12039				Pm14 	Synthetic construct		FKFFKKFFKKW	11	27341459	Antibacterial	Gram +ve	Experimentally validated

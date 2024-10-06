@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10831				VT18-LV (VT18 peptide derivative)	Synthetic construct		VYPFMWGGAYCFCDAELV	18	29277569	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10832				VT18-KKLV	Synthetic construct		VYPFMWGGAYCFCKAKLV	18	29277569	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10833				VT18-CAKKLV	Synthetic construct		VYPFCWGGAYAFCKAKLV	18	29277569	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10834				CVT18-CAKKLV	Synthetic construct		VYPFCWGGAYAFCKAKLV	18	29277569	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10835				CTO17 (TO17 peptide derivative)	Synthetic construct		CKCRRRKVHGPMIRIRKK	18	29183811	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10863				L1A	Synthetic construct		IDGLKAIWKKVADLLKNT	18	26920749	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10864				Ac-L1A	Synthetic construct		IDGLKAIWKKVADLLKNT	18	26920749	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10865				Abz-L1A-W8V	Synthetic construct		IDGLKAIVKKVADLLKNT	18	26920749	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10867				P18K	Synthetic construct		GILKTIKSIASKLKRKAK	18	26901176	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10928				AamAP1-Lysine	Synthetic construct		FLFKLIPKAIKKLISKFK	18	31213855	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10950				AamAP-SI	Synthetic construct		FLFSLIPKAIGGLISAFK	18	22484288	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10987				PM1-S 	Synthetic construct		RRWSFRVSYRGFSYRKSR	18	15134657	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11248				P1	Synthetic construct		VLLRALARKITLGIKKYG	18	29527201	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11249				P2	Synthetic construct		CILRWLARKIPWHAKKYG	18	29527201	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11250				P1m	Synthetic construct		VLLRALARKILLGIKKYG	18	29527201	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11251				P3	Synthetic construct		VFLRILVRKIAPGVKKYG	18	29527201	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11252				CP	Synthetic construct		GGLRRLGRKILRAVKKYG	18	32569448	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11253				Mapcon	Synthetic construct		RGLRRLGRKIKKGLKKYG	18	32569448	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11346				PN159 (KLAL/MAP)	Synthetic construct		KLALKLALKALKAALKLA	18	30744154, 28556271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11462				KG18	Synthetic construct		KNKSRVARGWGRKCPLFG	18	30658284	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ11463				WS2-KG18	Synthetic construct		KNKSRVARGWGRKCPLFG	18	30658284	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ11464				VR18	Synthetic construct		VARGWGRKCPLFGKNKSR	18	30658284	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ11465				WS2-VR18	Synthetic construct		VARGWGRKCPLFGKNKSR	18	30658284	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ11567				Adevonin	Synthetic construct		RKYVRFLHRWVKYFRAYL	18	30570384	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11617				Peptide 10	Synthetic construct		HRCRVYNNGLPTGLYRWC	18	30540905	Antibacterial	Gram +ve	Experimentally validated

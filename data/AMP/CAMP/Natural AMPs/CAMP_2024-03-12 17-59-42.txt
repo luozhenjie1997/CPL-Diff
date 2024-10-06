@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ15176				HYL-8	Hylaeus signatus	Animalia (Insects)	GIMSSLMKKLKKIIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15177				HYL-9	Hylaeus signatus	Animalia (Insects)	gimsslmkklkkiiak	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15178				HYL-10	Hylaeus signatus	Animalia (Insects)	GIMSSLMKKLAKIIKK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15179				HYL-11	Hylaeus signatus	Animalia (Insects)	GIMSSLMKKLKKIIKK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15180				HYL-12	Hylaeus signatus	Animalia (Insects)	GILSSLLKKLKKIIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15181				HYL-13	Hylaeus signatus	Animalia (Insects)	gilssllkklkkiiak	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15182				HYL-14	Hylaeus signatus	Animalia (Insects)	GIXSSLXKKLKKIIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15183				HYL-15	Hylaeus signatus	Animalia (Insects)	GILKSLLKKLKKIIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15184				HYL-16	Hylaeus signatus	Animalia (Insects)	GILSKLLKKLKKIIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15185				HYL-17	Hylaeus signatus	Animalia (Insects)	kILSSLLKKLKKIIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15186				HYL-18	Hylaeus signatus	Animalia (Insects)	GIWSSLLKKLKKIIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15187				HYL-19	Hylaeus signatus	Animalia (Insects)	GILSSWLKKLKKIIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15188				HYL-20	Hylaeus signatus	Animalia (Insects)	GILSSLWKKLKKIIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15189				HYL-21	Hylaeus signatus	Animalia (Insects)	gilsslwkklkkiiak	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15190				HYL-22	Hylaeus signatus	Animalia (Insects)	GKLSSLWKKLKKIIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15191				HYL-23	Hylaeus signatus	Animalia (Insects)	GILSSLLKKWKKIIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15192				HYL-24	Hylaeus signatus	Animalia (Insects)	GILSSLLKKLKKWIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15193				HYL-25	Hylaeus signatus	Animalia (Insects)	GILSSLWKKLKKWIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15194				HYL-26	Hylaeus signatus	Animalia (Insects)	GILSSLWKKPKKIIAK	16	26998557	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16811		D1MEJ3		EpVP6, VP6 protein	Eumenes pomiformis	Animalia	FGPVIGLLSGILKSLL	16	21184791	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ19205				Scolopendin 2	Scolopendra subspinipes mutilans	Animalia	AGLQFPVGRIGRLLRK	16	25462167	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19687		S5TFK9		Taipehensin-2TP1	Hylarana taipehensis	Animalia	CLMARPNYRCKIFKQC	16	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19688		E7EKG8		Temporin-TP1	Hylarana taipehensis	Animalia	FLPVLGKVIKLVGGLL	16	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19748		A0A0A0RAN7		Pleskein-1	Nanorana pleskei	Animalia	FFPLIPGVRCKILRTC	16	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21296			2MAI	Lassomycin	Lentzea kentuckyensis	Bacteria	GLRRLFADQLVGRRNX	16	24684906	Antibacterial	Gram+,Gram-	Experimentally Validated

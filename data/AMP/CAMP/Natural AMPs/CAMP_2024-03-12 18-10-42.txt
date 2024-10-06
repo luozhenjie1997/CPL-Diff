@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ354	32396180	Q7SZH3		Pleurocidin-like peptide AP2	Hippoglossoides platessoides	Animalia (Pisces)	GWKKWFNRAKKVGKTVGGLAVDHYLG	26	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ356	32396186			Pleurocidin-like peptide GcSc4C5	Glyptocephalus cynoglossus	Animalia (Pisces)	GWGSIFKHIFKAGKFIHGAIQAHNDG	26	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ360	32396196	Q7SZG5		Pleurocidin-like peptide Hb18	Hippoglossus hippoglossus	Animalia (Pisces)	GFLGILFHGVHHGRKKALQMNSERRS	26	12878506	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ389	3913493	P81487		Dermaseptin-B5 	Phyllomedusa bicolor	Animalia (Amphibia)	GLWNKIKEAASKAAGKAALGFVNEMV	26	9614066	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ644	82087686	Q6QLQ5	2AMN	Cathelicidin 	Gallus gallus	Animalia (Aves)	RVKRVWPLVIRTVIAGYNLYRAIKKK	26	16326712	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ717	20138940	P82069		Maculatin-3.1	Litoria genimaculata	Animalia (Amphibia)	GLLQTIKEKLESLESLAKGIVSGIQA	26	9620615	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ750	67464324	P80214	1YTR	Plantaricin A	Lactobacillus plantarum	Monera	KSSAYSLQMGATAIKQVKKLFKKWGW	26	15805109	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ778	7531077	P81847		Citropin-2.1.3	Litoria citropa	Animalia (Amphibia)	GLIGSIGKALGGLLVDVLKPKLQAAS	26	10504394	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ796	29123260	Q800R9		Caerin 1.11	Litoria caerulea	Animalia (Amphibia)	GLFSVLGSVAKHVVPRVVPVIAEHLG	26	Reference: Bull. Chem. Soc. Jpn., 58, 1469-1472 (1985)	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ863				Winter flounder 1a1	Pseudopleuronectes americanus	Animalia (Pisces)	GRRKRKWLRRIGKGVKIIGGAALDHL	26	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ868				Witch flounder GcSc4C5	Glyptocephalus cynoglossus	Animalia (Pisces)	AGWGSIFKHIFKAGKFIHGAIQAHND	26	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ871				Halibut Hb18	Halibut	Animalia (Pisces)	GFLGILFHGVHHGRKKALHMNSERRS	26	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1102	66773817	P69846		GrammistinGsC	Grammistes sexlineatus	Animalia (Pisces)	NWRKILGKIAKVAAGLLGSMLAGYQV	26	15777955	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1142		P01501	1BH1,2MLT	Melittin	Apis mellifera	Animalia (Insects)	GIGAVLKVLTTGLPALISWIKRKRQQ	26	9568968, 35236909	Antibacterial, Antiviral	Gram -ve	Experimentally validated
+CAMPSQ1200	547824	P36501		Lantibiotic streptococcin A-FF22 	Streptococcus pyogenes 	Monera	GKNGVFKTISHECHLNTWAFLATCCS	26		Antibacterial	Gram+ve	Predicted
+CAMPSQ1323	146324984	P0C2U8		Lycocitin-3	Lycosa singoriensis	Animalia (Arachnida)	KIKWFKTMKSLAKFLAKEQMKKHLGE	26	14991689	Antibacterial, Antifungal		Predicted
+CAMPSQ1520	13959331	O93222		Dermaseptin AA-2-5	Agalychnis annae	Animalia (Amphibia)	GLVSGLLNTAGGLLGDLLGSLGSLSG	26		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1524	13959333	O93224		Dermaseptin AA-3-3	Agalychnis annae	Animalia (Amphibia)	GMFTNMLKGIGKLAGQAALGAVKTLA	26		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1746	2497614	Q54957		Antibacterial peptide A-M49	Streptococcus pyogenes serotype M49	Monera	GKNGVFKTISHECHLNTWAFLATCCS	26		Antibacterial	Gram+ve	Predicted
+CAMPSQ1767	166220569	A8B5Q0		Pleurain-A4	Rana pleuraden	Animalia (Amphibia)	SIITTTKEAKLPQLWKQIACRLYNTC	26		Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ1768	166220568	A8B5P7		Pleurain-A3	Rana pleuraden	Animalia (Amphibia)	SIITMTREAKLPQLWKQIACRLYNTC	26		Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ1889	190358830	P85170		Cathelicidin-3.4	Capra hircus	Animalia (Mammals)	RFRLPFRRPPIRIHPPPFYPPFRRFL	26		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1945	21759225	Q48501		Bacteriocin acidocin 8912	Lactobacillus acidophilus	Monera	KTHYPTNAWKSLWKGFWESLRYTDGF	26		Antibacterial		Predicted
+CAMPSQ2580	334350885	B5MFD0		Lantibiotic nukacin	Staphylococcus hominis  	Monera	KKSGVIPTVSHDCHMNTFQFMFTCCS	26	18685189	Antibacterial	Gram+ve	Predicted
+CAMPSQ3080				  Plantaricin S 	Lactobacillus plantarum LPCO10	Monera	NKLAYNMGHYAGKATIFGLAAWALLA	26	16348933	Antibacterial	Gram +ve	Experimentally validated

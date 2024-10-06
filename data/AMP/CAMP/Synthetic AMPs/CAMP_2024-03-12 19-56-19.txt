@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22558		P00734		R(P)GKY20, P-Thrombin heavy chain (231-250)	Synthetic construct		PGKYGFYTHVFRLKKWIQKVI	21	27028511	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22728		E9G1Z3		Daphnia Lactotransferrin	Synthetic construct		RRRREELKQSWQRMRKLALKR	21	27089856	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22840		B3EWF2		Latartoxin-1a (39-60), LtTx-1a C	Synthetic construct		KKSLLAKAKNFGGKVITIFKA	21	23088912	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22903		Q19AZ8		Prothrombin (603-623)	Synthetic construct		FYTHVFRLKKWMQKVIDRFGG	21	27439393	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22961				Scolopendin	Synthetic construct		SRSEKAGLQFPVGRIGRMLKK	21	26342880	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23075		P49931		PMAP-36 (4-24)	Synthetic construct		RRLRKKTRKRLKKIGKVLKWI	21	27251456	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23174				Amhelin	Synthetic construct		KQKLAKLKAKLQKLKQKLAKL	21	23671080	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23323				C-terminus of Katsuwonus pelamis hemoglobin beta, SHbetaAP-NH2	Synthetic construct		TQQAFQKFLAAVTSALGKQYH	21	24495783	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23465				GR21	Synthetic construct		GSTSFHLIYNKWFAVKRRRKR	21	30121851	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23632		A0A1X9ZM18		Histone H2A (1-21), Fi-Histin	Synthetic construct		SRSSRAGLQFPVGRIHRLLRK	21	31252047	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23765		P49913		KR12AGPKR6	Synthetic construct		KRIVQRIKDFLRAGPIKDFLR	21	32948086	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23766		P49913		KR12AGPWR6	Synthetic construct		KRIVQRIKDFLRAGPRRWWRW	21	32948086	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23767		P49913		KR12AGPVR6	Synthetic construct		KRIVQRIKDFLRAGPRRLVRI	21	32948086	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23848		K9N5Q8		MERS-S (1260-1280)	Synthetic construct		LDLTYEMLSLQQVVKALNESY	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23849		K9N5Q8		MERS-S (1260-1280) [L1,Y5Ala-4-pen]	Synthetic construct		XDLTXEMLSLQQVVKALNESY	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23850		K9N5Q8		MERS-S (1260-1280) [D2,E6Ala-4-pen]	Synthetic construct		LXLTYXMLSLQQVVKALNESY	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23851		K9N5Q8		MERS-S (1260-1280) [T4,L8Ala-4-pen]	Synthetic construct		LDLXYEMXSLQQVVKALNESY	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23852		K9N5Q8		MERS-S (1260-1280) [Y5,S9Ala-4-pen]	Synthetic construct		LDLTXEMLXLQQVVKALNESY	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23853		K9N5Q8		MERS-S (1260-1280) [L8,Q12Ala-4-pen]	Synthetic construct		LDLTYEMXSLQXVVKALNESY	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23854		K9N5Q8		MERS-S (1260-1280) [S9,V13Ala-4-pen]	Synthetic construct		LDLTYEMLXLQQXVKALNESY	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23855		K9N5Q8		MERS-S (1260-1280) [Q11,K15Ala-4-pen]	Synthetic construct		LDLTYEMLSLXQVVXALNESY	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23856		K9N5Q8		MERS-S (1260-1280) [Q12,A16Ala-4-pen]	Synthetic construct		LDLTYEMLSLQXVVKXLNESY	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23857		K9N5Q8		MERS-S (1260-1280) [K15,E19Ala-4-pen]	Synthetic construct		LDLTYEMLSLQQVVXALNXSY	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23858		K9N5Q8		MERS-S (1260-1280) [A16,S20Ala-4-pen]	Synthetic construct		LDLTYEMLSLQQVVKXLNEXY	21	29442512	Antiviral		Experimentally Validated
+CAMPSQ23859		K9N5Q8		MERS-S (1260-1280) [M7Nle; Q12,A16Ala-4-pen]	Synthetic construct		LDLTYEXLSLQXVVKXLNESY	21	29442512	Antiviral		Experimentally Validated

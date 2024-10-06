@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8532				DFT528	Synthetic construct		GALSALKALGKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8533				DFT529	Synthetic construct		GLLSALKALGKAL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8534				DFT522	Synthetic construct		GLLSAAKAAGKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8535				DFT530	Synthetic construct		GALSALKALGKAL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8540				DFT502 	Synthetic construct		GLSLLLSLLGKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8541				DFT503 	Synthetic construct		GLSLLLSLGLKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8542				DFT504 	Synthetic construct		GLSLLLSLLLGKL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8543				DFT505 	Synthetic construct		GLLSSLLLLGKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8544				DFT527 	Synthetic construct		GKLLSLLSLLGLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8545				DFT531 	Synthetic construct		GLLSLLSLGLKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8546				DFT532 	Synthetic construct		LLGSLLSLGLKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8547				DFT503d 	Synthetic construct		GLSLLLSLGLKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8548				DFT560 	Synthetic construct		KLSLLLSLGLKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8549				DFT561 	Synthetic construct		GLKLLLSLGLKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8550				DFT561d 	Synthetic construct		GLKLLLSLGLKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8551				DFT562 	Synthetic construct		GLSLLLKLGLKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8552				DFT563 	Synthetic construct		GLSLLLSLKLKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8553				DFT564 	Synthetic construct		GLKLLLKLGLKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8554				DFT565 	Synthetic construct		KLKLLLKLGLKLL	13	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8598				WT	Synthetic construct		FFPIVGKLLSGLL	13	https://www.sciencedirect.com/science/article/pii/S2451929418300275	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8599				A	Synthetic construct		FFPIVGKLLSGLF	13	https://www.sciencedirect.com/science/article/pii/S2451929418300275	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8600				B	Synthetic construct		FFPIVGKLLSGLF	13	https://www.sciencedirect.com/science/article/pii/S2451929418300275	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8601				1	Synthetic construct		FFPIVKKLLSGLF	13	https://www.sciencedirect.com/science/article/pii/S2451929418300275	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8602				2	Synthetic construct		FLPIVKKLLRGLF	13	https://www.sciencedirect.com/science/article/pii/S2451929418300275	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8603				3	Synthetic construct		VLPIVKKLLKGLF	13	https://www.sciencedirect.com/science/article/pii/S2451929418300275	Antibacterial	Gram -ve	Experimentally validated

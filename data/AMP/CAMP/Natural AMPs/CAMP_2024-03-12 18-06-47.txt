@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ614	730587	P39084		Ranalexin 	Rana catesbeiana	Animalia (Amphibia)	LGGLIKIVPAMICAVTKKC	19	8144672	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ615	730587	P39084		Ranalexin 	Rana catesbeiana	Animalia (Amphibia)	FLGGLIKIVPAMICAVTKK	19	8144672	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ633	7994700	P82027		Uperin-2.1	Uperoleia inundata 	Animalia (Amphibia)	GIVDFAKKVVGGIRNALGI	19		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ634	7994707	P82028		Uperin-2.2	Uperoleia inundata 	Animalia (Amphibia)	GFVDLAKKVVGGIRNALGI	19		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ635	7994708	P82029		Uperin-2.3	Uperoleia inundata 	Animalia (Amphibia)	GFFDLAKKVVGGIRNALGI	19		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ636	7994709	P82030		Uperin-2.4	Uperoleia inundata 	Animalia (Amphibia)	GILDFAKTVVGGIRNALGI	19		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ637	7994710	P82031		Uperin-2.5	Uperoleia inundata 	Animalia (Amphibia)	GIVDFAKGVLGKIKNVLGI	19		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ640	7994719	P82040		Uperin-2.8	Uperoleia mjobergii 	Animalia (Amphibia)	GILDVAKTLVGKLRNVLGI	19		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ681				Phylloseptin-5 	Phyllomedusa hypochondrialis	Animalia (Amphibia)	FLSLIPHAINAVSAIAKHS	19	16963159	Antibacterial		Experimentally validated
+CAMPSQ733	21552717	Q8JI24		Parasin I	Silurus asotus	Animalia (Pisces)	KGRGKQGGKVRAKAKTRSS	19	11821259	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ866				Winter flounder Y	Pseudopleuronectes americanus	Animalia (Pisces)	FFRLLFHGVHHGGGYLNAA	19	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ867		Q7SZH0		Winter flounder Z	Pseudopleuronectes americanus	Animalia (Pisces)	FFRLLFHGVHHVGKIKPRA	19	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ870	32396190	Q7SZG8		Witch flounder GC3.8-t	Glyptocephalus cynoglossus	Animalia (Pisces)	GWKKWLRKGAKHLGQAAIK	19	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1141				Tricholongin BII	Trichoderma longibrachiatum 	Fungi	AGFAAQAAASLAPVAIQQL	19	1935961	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ1735	114152146	P84912		RugosinA - like peptide	Rana saharica	Animalia (Amphibia)	KGAAKGLLEVASCKLSKSC	19		Antibacterial		Experimentally validated
+CAMPSQ1783	146324983	P0C2U9		Peptide2034	Lycosa singoriensis	Animalia (Arachnida)	AGIGKIGDFIKKAIAKYKN	19		Antibacterial		Predicted
+CAMPSQ1819	52000691	Q6XMH8		Drosocin	Drosophila simulans	Animalia (Insects)	GKPRPYSPRPTSHPRPIRV	19		Antibacterial	Gram-ve	Predicted
+CAMPSQ2128	6093637	P81383		L-amino-acid oxidase	Ophiophagus hannah	Animalia (Reptiles)	HVINLEESFQEPEYENHLA	19		Antibacterial		Experimentally validated
+CAMPSQ2466	353678013	P0DJ30		Antimicrobial peptide AJN-10 	Anguilla japonica	Animalia	CPQTPRCTNYAEKGQCPPN	19	21796440	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2578	288561881	B3VZU0		Brevinin-1CDYa	Rana dybowskii 	Animalia (Amphibia)	LSLALAALPKLFCLIFKKC	19	19539775	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2763		P81469		  Styelin A 	Styela clava 	Animalia	GFGKAFHSVSNFAKKHKTA	19	9467865	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2764		P81470		  Styelin B  	Styela clava 	Animalia	GFGPAFHSVSNFAKKHKTA	19	9467865	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2767		P81903		  Histone H2B-1	Ictalurus punctatus 	Animalia (Pisces)	PDPAKTAPKKGSKKAVTKA	19		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2876				  Phylloseptin-O1 	Phyllomedusa hypochondrialis	Animalia (Amphibia)	FLSLIPHAINAVSTLVHHS	19	15752569	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2877				  Phylloseptin-H5 	Phyllomedusa hypochondrialis	Animalia (Amphibia)	FLSLIPHAINAVSAIAKHF	19	16963159	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

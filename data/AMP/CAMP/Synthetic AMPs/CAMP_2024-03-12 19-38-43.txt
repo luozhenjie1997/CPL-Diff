@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22671				ISGCock_Contig05_0593	Synthetic construct		MKTFLRLYRSLINKVLH	17	27167617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22700		P30224		RsAFP-2 (34-50)	Synthetic construct		GSCNYVFPAHKCICYFP	17	30252607	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22901		Q19AZ8		Prothrombin (607-623)	Synthetic construct		VFRLKKWMQKVIDRFGG	17	27439393	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23037		Q5SC60		Arenicin-1 [Y7,V8,V13,L14 DEL]	Synthetic construct		RWCVYARVRGVRYRRCW	17	26814379	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23038		Q5SC60		Arenicin-1 [Y7,V8,V13,L14 DEL][R7,12C]	Synthetic construct		RWCVYACVRGVCYRRCW	17	26814379	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23039		Q5SC60		Arenicin-1 [Y7,V8,V13,L14 DEL][Y5R]	Synthetic construct		RWCVRARVRGVRYRRCW	17	26814379	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23040		Q5SC60		Arenicin-1 [Y7,V8,V13,L14 DEL][V8R]	Synthetic construct		RWCVYARRRGVRYRRCW	17	26814379	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23041		Q5SC60		Arenicin-1 [Y7,V8,V13,L14 DEL][V11R]	Synthetic construct		RWCVYARVRGRRYRRCW	17	26814379	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23042		Q5SC60		Arenicin-1 [Y7,V8,V13,L14 DEL][W17R]	Synthetic construct		RWCVYARVRGVRYRRCR	17	26814379	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23126		P07357		A1, V-Complement component C8 alpha chain (231-246)	Synthetic construct		VDNANDLLSKVKKDKSD	17	24101243	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23149				Acyclin 1	Synthetic construct		WIRYKWrRKKVRYWTGP	17	29193517	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23150				Acyclin 1p	Synthetic construct		WIRYKWpRKKVRYWTGP	17	29193517	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23153				Acyclin 4	Synthetic construct		WIRYKWpRKVVRYWTGP	17	29193517	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23154				Acyclin 5	Synthetic construct		WIVYKWpRKKVRYWTGP	17	29193517	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23165				Undefined	Synthetic construct		QVRWWGRYWRRKWATCR	17	29214045	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23289		P49913		LL-37 fragment GF-17 [I5,9L], 17F2	Synthetic construct		GFKRLVQRLKDFLRNLV	17	25061850	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23290		P49913		LL-37 fragment GF-17 [F2BIP;I5,9L], 17BIPHE	Synthetic construct		GXKRLVQRLKDFLRNLV	17	25061850	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23291		P49913		LL-37 fragment GF-17 [I5,9L;F122-NAL], 17F-Naph	Synthetic construct		GFKRLVQRLKDXLRNLV	17	25061850	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23391				GIBIMPY4	Synthetic construct		SFIKRSLKLIKSLVLIK	17	27301970	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23409		P01966		Hemoglobin subunit alpha (98-114)	Synthetic construct		FKLLSHSLLVTLASHLP	17	22749988	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23459				KG17	Synthetic construct		KIFDAEILLNGKRKGLG	17	30121851	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23496		P17654		AmyIase (1-18)[N3L; D15R]	Synthetic construct		HLLKRVQREIGWLRWLK	17	26850838	Antifungal	Gram-	Experimentally Validated
+CAMPSQ23654				RP554	Synthetic construct		FXLXAXIXVXLXAXIXL	17	31451496	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23655				RP556	Synthetic construct		RWCFKVCYKGICYKKCK	17	31451496	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23863		P26662		RG-HCV (1677-1691)-K	Synthetic construct		RGGSVVIVGRIILSGRK	17	10574908	Antiviral		Experimentally Validated

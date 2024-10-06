@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3430				  Esculentin-1ISa  	Odorrana ishikawae	Animalia (Amphibia)	GIFSKFAGKGIKNLLVKGVKNIGKEVGMDVIRTGIDIAGCKIKGEC	46	 21193000	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3431				  Esculentin-1ISb  	Odorrana ishikawae	Animalia (Amphibia)	RIFSKIGGKAIKNLILKGIKNIGKEVGMDVIRTGIDVAGCKIKGEC	46	 21193000	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3479	22164302	Q8MVA6		  ISAMP 	Ixodes scapularis	Animalia (Arachnida)	PDPGQPWQVKAGRPPCYSIPCRKHDECRVGSCSRCNNGLWGDRTCR	46	19852941	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3562				  Esculentin-1-OA1 	Odorrana andersonii	Animalia (Amphibia)	GLFSKFVGKGIKNFLIKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC	46	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3563				  Esculentin-1-OA2 	Odorrana andersonii	Animalia (Amphibia)	GLFSKFSGKGIKNFLIKGVKHIGKEVGMDVIRTGIDVAGCKIKGEC	46	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3564				  Esculentin-1-OA3 	Odorrana andersonii	Animalia (Amphibia)	GLFSKFAGKGIKDLIFKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC	46	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3565				  Esculentin-1-OA4 	Odorrana andersonii	Animalia (Amphibia)	GLFTKFAGKGIKDLIFKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC	46	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3566				  Esculentin-1-OA5 	Odorrana andersonii	Animalia (Amphibia)	GLFSKFAGKGIKNFLIKGVKHIGKEVGMDVIRVGIDVAGCKIKGVC	46	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3568				  Esculentin-1-OR1 	Odorrana rotodora	Animalia (Amphibia)	GIFSKISGKAIKNLFIKGAKNVGKEVGMDVVRTGIDVVGCKIKGEC	46	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3570				  Esculentin-1-OR3 	Odorrana rotodora	Animalia (Amphibia)	GIFSKISGKAIKNLFIKGAKNVGKRVGMDVVRTGMDVVGCKIKGEC	46	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3571				  Esculentin-1-OR4 	Odorrana rotodora	Animalia (Amphibia)	GIFSKISGKAIKNLFIKGAENVGKHVGIDVVRTGIDVVGCKIKGEC	46	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3572				  Esculentin-1-OR5 	Odorrana rotodora	Animalia (Amphibia)	GIFSKISGKAIKNLFIKGAKNVGKEVGIDVVRTGMDVVGCKIKGEC	46	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4335				  Esculentin-1PLb 	Rana palustris	Animalia (Amphibia)	GIFTKINKKKAKTGVFNIIKTIGKEAGMDVIRAGIDTISCKIKGEC	46	11087945	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9329				HdMolluscidin (mollusca/molluscs/mollusks, invertebrates, animals; Lys-rich; Ala-rich) 	Haliotis discus	Animalia	AATKPKKAGAEAAPKKPAKKQTKKKPAKKAGGKKKPKRAGAKKAKK	46	27033467	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10076				RbLEAP-2	Oplegnathus fasciatus	Animalia	MTPLWRIMNSKPFGAYCQNNYECSTGLCRAGHCSTSHRAPSETVNY	46	31667299	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10223		Q06015		Endochitinase 3	Arachis hypogaea 	Plantae	MTPQGNKPSSHDVITGRWTPSDADRAAGRVSGFGVITNIINGGLDC	46		Antibacterial, Antifungal 		Predicted
+CAMPSQ10224		Q06016		Endochitinase 4 	Arachis hypogaea 	Plantae	MTPQGNKPSCHDVITNAWRPTATDSAAGRAPGYGVITNIINGGLDC	46		Antibacterial, Antifungal 		Predicted
+CAMPSQ10225		Q06012		Endochitinase 1A 	Arachis hypogaea 	Plantae	MTAQGNKPSSHDVITGRWTPSAADRAAGRVSGFGVITNIINGGLDC	46		Antibacterial, Antifungal 		Predicted
+CAMPSQ10226		Q06013		Endochitinase 1B	Arachis hypogaea 	Plantae	MTAQGNKPSSHDVITGRWTPSAADKAAGRVSGFGVITNIINGGLDC	46		Antibacterial, Antifungal 		Predicted
+CAMPSQ10236		B5L183		OGG1 antimicrobial peptide	Odorrana grahami 	Animalia	QDETNAEEERRDEEVVKMEEIKRGLLSGILGAGKHIVCGLTGCAKA	46		Antibacterial, Antifungal, Antiviral		Predicted
+CAMPSQ10439				Viscotoxin A1 (Plant defensin)	Viscum album 	Plantae	KSCCPSTTGRNIYNTCRLTGSSRETCAKLSGCKIISASTCPSNYPK	46	18703848	Antibacterial		Predicted
+CAMPSQ12069				AvBD10	Gallus gallus	Animalia (Aves)	DPLFPDTVACRTQGNFCRAGACPPTFTISGQCHGGLLNCCAKIPAQ	46	30078596	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12196				PT-1	Solanum tuberosum L cv. Gogu	Plantae (Angiosperms)	DICTCCAGTKGCNTTSANGAFICEGQSDPKKPKACPLNCDPHIAYA	46	15809084	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ16263				CgR3101	Bungarus fasciatus	Animalia (Reptiles)	LAVPNFEPPTRTTCPAPTSPGNPCGPPPPASQTRRPPFHPTSPLRR	46	35563004	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ17309		V6DN13		Bacteriocin Salivaricin P-2	Lactobacillus salivarius	Bacteria	KNGYGGSGNRWVHCGAGIVGGALIGAIGGPWSAVAGGISGGFASCH	46	20581174	Antibacterial	Gram+	Experimentally validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ319				Cytotoxic linear peptide IsCT precursor 	Synthetic construct		ILGKIWKIKKLF	12	15369808	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ731	23200406		1M02	Pw2	Synthetic construct		HPLKQYWWRPSI	12	11849705	Antifungal, Antiparasitic		Experimentally validated
+CAMPSQ1049				Gratisin analogue	Synthetic construct		VXLFPKKPFLXV	12	18305357	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1162	1706745	P49913	2FBS,2FBU,2FCG,2K6O,2LMF	KR-12	Synthetic construct		KRIVQRIKDFLR	12	18818205	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1173				E12LLK	Synthetic construct		LKKLLKKLKKLL	12	7726486	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2773				  Cyclic L27-11 	Synthetic construct		TWLKKRRWKKAK	12	20167788	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8220				Myxinidin (G1)	Synthetic construct		AIHDILKYGKPS	12	24957834	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8221				Myxinidin (I2)	Synthetic construct		GAHDILKYGKPS	12	24957834	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8222				Myxinidin (H3)	Synthetic construct		GIADILKYGKPS	12	24957834	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8223				Myxinidin (D4)	Synthetic construct		GIHAILKYGKPS	12	24957834	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8224				Myxinidin (I5)	Synthetic construct		GIHDALKYGKPS	12	24957834	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8225				Myxinidin (L6)	Synthetic construct		GIHDIAKYGKPS	12	24957834	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8226				Myxinidin (K7)	Synthetic construct		GIHDILAYGKPS	12	24957834	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8227				Myxinidin (Y8)	Synthetic construct		GIHDILKAGKPS	12	24957834	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ24475				Deca-(ARG)9	Synthetic construct		wrrrrrrrrrG	11	23173037	Antiviral		Experimentally Validated
+CAMPSQ24559				A0	Synthetic construct		GLFDIVKKVAG	11	32499514	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24560				A3	Synthetic construct		RLFRRVKKVAG	11	32499514	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24651				Pal-GR11	Synthetic construct		GRRGGRGGRGR	11	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24668		Q5T7P3		LCE1B (78-88)	Synthetic construct		SHHRRRRSHCH	11	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24670		Q5TA76		LCE3A (50-60)	Synthetic construct		SHHRCRRSHRC	11	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24730				Undefined	Synthetic construct		RKIKKRRKKWR	11	34097861	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24731				Undefined	Synthetic construct		RWKMRRIKIQR	11	34097861	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24733				Undefined	Synthetic construct		RQPKIPRMPWR	11	34097861	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24736				Undefined	Synthetic construct		RQIKIRRMKWR	11	26972341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24737				Undefined	Synthetic construct		RQIKIRRXKWR	11	26972341	Antibacterial	Gram+,Gram-	Experimentally Validated

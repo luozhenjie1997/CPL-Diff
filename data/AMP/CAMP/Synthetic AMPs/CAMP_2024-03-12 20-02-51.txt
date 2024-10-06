@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8142				Sm-AMP-L	Synthetic construct		VDPDVRAYCKHQCLSTRGDQARKICESVCLRQD	33	24081691	Antifungal		Experimentally validated
+CAMPSQ8609				LysAB2 P0 	Synthetic construct		NPEKALEPLIAIQIAIKGMLNGWFTGVGFRRKR	33	28904355	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8612				LysAB2 P3 	Synthetic construct		NPEKALEKLIAIQKAIKGMLNGWFTGVGFRRKR	33	28904355	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9832				GA763	Synthetic construct		CGETCVGGTCNTPGCTCWPVCGSFLRFLTKGPV	33	26517259	Antiviral		Predicted
+CAMPSQ9833				GA190	Synthetic construct		CGETCVGGTCNTPGCTCWPVCGSFLTGQGSFPV	33	26517259	Antiviral		Predicted
+CAMPSQ10094				Peptides Z2	Synthetic construct		MAVLGDTAWDFGSVGGALNSLGKGIHQIFGAAF	33	31611865	Antiviral		Experimentally validated
+CAMPSQ10357				CyI3	Synthetic construct		TCIWGKCYSASIGCSCSKYKVCTLNGNPGACGE	33	31464123	Antibacterial	Gram -ve	Predicted
+CAMPSQ10358				CyI4	Synthetic construct		TCVWGKCYSASIGCSCNKYKVCTLNGNPGACGE	33	31464123	Antibacterial	Gram -ve	Predicted
+CAMPSQ10359				CyI5	Synthetic construct		TCIWGKCYSASIGCSCSRYKVCTLNGNPGACGE	33	31464123	Antibacterial	Gram -ve	Predicted
+CAMPSQ12311				TAT-P3	Synthetic construct		YGRKKRRQRRRCWRPCPSFRQLCGRFRIRCRIR	33	29907765	Antiviral 		Experimentally validated
+CAMPSQ12971				Ripcin G 	Synthetic construct		ITSISLCTPGCKTGALMGCNIYTNRKTGVCKRM	33	34156232	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14461				Peptide P-6	Synthetic construct		KKHRKHRKHRKHWKKWSKKWKHWIPQCKKFGKK	33	34733268	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14492				HyP7B5Cys	Synthetic construct		RWRRPIRRRPIRPPFWRKGKCCKGKRRVRWIIW	33	34966279	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16717		Q8MPK6		Recombinant Paracentrin, RP1	Synthetic construct		MSGSHHHHHHGSSGENLYFQSLEVASFDKSKLK	33	30279359	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ18952		P01508	2IGR	Cecropin-B1a, [Cecropin-B (1-10)]2-AGP-Cecropin-B (1-10)	Synthetic construct		KWKVFKKIEKKWKVFKKIEKAGPKWKVFKKIEK	33	19428759	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18940				Emys orbicularis Haemoglobine a chain fragment	Synthetic construct		VYPKTKTYFPHFDLHHGSAQVRTHGKKVLNALG	33	19400239	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19756		Q01523		Human Defensin-5 [C3,5,10,20,30,31Acm-Cys; E21R], HD5 RED-Acm-Cys-E21R	Synthetic construct		ATXYXRTGRXATRESLSGVXRISGRLYRLXXR	33	31290614	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20281		P01966		Bovine hemoglobin alpha chain (34-66)	Synthetic construct		LSFPTTKTYFPHFDLSHGSAQVKGHGAKVAAAL	33	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24073				Undefined	Synthetic construct		EMTWEEWEKKIEEYIKKIEEILKKSQNQQIDL	32	30901967	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24108		P03377		LP-46	Synthetic construct		WQEWEQKITALLEQAQIQQEKNEYELQKLDKX	32	30089693	Antiviral		Experimentally Validated
+CAMPSQ24122				Cathelicidin-DM (1-32)	Synthetic construct		SSRRKPCKGWLCKLKLRGGYTLIGSATNLNRP	32	32363280	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24144				Undefined	Synthetic construct		VNKKIEEIDKKIEELNKKLEELEKKLEEVNKK	32	21601229, 23804636	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24340		A0A0L8FJ88		Transgelin (172-203)	Synthetic construct		GEGIIGLQAGTNKFASQIGMKIGAVRHIADIR	32	32717885	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24433				Undefined	Synthetic construct		IICRKPIICRKPIICRKPIICRKPIICRKPII	32	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24503		Q08648		Sperm antigen HE2 (47-78), HE2alpha	Synthetic construct		VHISHREARGPSFRICVGFLGPRWARGCSTGN	32	20552564	Antibacterial	Gram-	Experimentally Validated

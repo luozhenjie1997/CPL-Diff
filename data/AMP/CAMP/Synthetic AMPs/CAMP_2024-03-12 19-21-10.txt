@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18954				Dermaseptin S4 (1-16)	Synthetic construct		ALWMTLLKKVLKAAAK	16	29439871	Antibacterial, Antiviral	Gram-	Experimentally Validated
+CAMPSQ18916		P36193		Drosocin-1 (1-16)[S12P][P16L] amide	Synthetic construct		GKPRPYSPRPTPHPRL	16	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18738		P26664		HCV (1975-1990)	Synthetic construct		SWLRDIWDWICEVLSD	16	18287023	Antiviral		Experimentally Validated
+CAMPSQ18712		P55897		Buforin-2 (5-20)	Synthetic construct		RAGLQFPVGRVHRLLR	16	10890923	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18705		P55897,		Buforin-2 (6-21)	Synthetic construct		AGLQFPVGRVHRLLRK	16	10890923, 25462167	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18692				CSPC16	Synthetic construct		TFFRLFNRSFTQALGK	16	17060534, 21518845	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ18630				RTA3 [F4W]	Synthetic construct		RPAWRKAAFRVMRACV	16	18434320	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18631				RTA3 [F4W][R5L]	Synthetic construct		RPAWLKAAFRVMRACV	16	18434320	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18629				RTA3	Synthetic construct		RPAFRKAAFRVMRACV	16	18434320	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18500		P81835,		Citropin 1.1 [D4A][S11A][G14K][G15K]	Synthetic construct		GLFAVIKKVAAVIKKL	16	15784290, 12631273	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18492				NLK16	Synthetic construct		LLKLLLPKLKGLLFKL	16	16434018	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19484		P35581		Apidaecin-1B Des-P5,14	Synthetic construct		GNNRVYIPQPRPHPRL	16	20560644	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19521		P82389		Aurein 2.2 [L13A]	Synthetic construct		GLFDIVKKVVGAAGSL	16	21144817	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19522		P82389		Aurein 2.2 [L13V]	Synthetic construct		GLFDIVKKVVGAVGSL	16	21144817	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19562				Citropin-1.3 [D4A][I5V]	Synthetic construct		GLFAVIKKVASVIGGL	16	12631273, 19464332	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19563				Citropin-1.3 [I5V][K7A]	Synthetic construct		GLFDVIAKVASVIGGL	16	12631273	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19564		P81835		Citropin-1.1 [F3A]	Synthetic construct		GLADVIKKVASVIGGL	16	12631273	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19565		P81835		Citropin-1.1 [S11A]	Synthetic construct		GLFDVIKKVAAVIGGL	16	12631273	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19566		P81835		Citropin-1.1 [L16A]	Synthetic construct		GLFDVIKKVASVIGGA	16	12631273	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19567		P81835		Citropin 1.1 [V12K]	Synthetic construct		GLFDVIKKVASKIGGL	16	12631273	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19568		P81835		Citropin 1.1 [V12K][G14K]	Synthetic construct		GLFDVIKKVASKIKGL	16	12631273	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19569		P81835		Citropin 1.1 [G14K][G15K]	Synthetic construct		GLFDVIKKVASVIKKL	16	12631273	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19570		P81835,		Citropin 1.1 [D4A][G14K]	Synthetic construct		GLFAVIKKVASVIKGL	16	12631273, 30240951	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19571		P81835		Citropin 1.1 [D4A][S11A][G14R][G15R]	Synthetic construct		GLFAVIKKVAAVIRRL	16	12631273	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19572		P81835		Citropin 1.1 [D4A][S11K][G14K][G15K]	Synthetic construct		GLFAVIKKVAKVIKKL	16	12631273	Antibacterial	Gram+,Gram-	Experimentally Validated

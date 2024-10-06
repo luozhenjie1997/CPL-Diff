@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22377		B7PQR2		Defensin MT6 gamma-core	Synthetic construct		CSGIIKQTCTCYRK	14	26255244	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22407		P02666		Beta-casein (178-191)	Synthetic construct		VPYPQRDMPIQAFL	14	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22496		P32194	2MQ2	Protegrin 1 [C6,8,13,15Del], CDP-1	Synthetic construct		RGGRLYRRRFVVGR	14	24997421	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22527		F7DYL5		XPF2, XPF-St7 (2-15)	Synthetic construct		LLSNVAGLLKQFAK	14	25421112	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22528		F7DYL5		XPF4, XPF-St7 (2-15)[S3R,N4R]	Synthetic construct		LLRRVAGLLKQFAK	14	25421112	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22529		F7DYL5		XPF6, XPF-St7 (2-15) [S3R,N4R,G7R,Q11R]	Synthetic construct		LLRRVARLLKRFAK	14	25421112	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22559				MK89	Synthetic construct		INWLAIAKKVAGML	14	25944744	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22560				MK9	Synthetic construct		INWLAIAAKVAGML	14	25944744	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22561				MK5	Synthetic construct		INWLKIAAAVAGML	14	25944744	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22562				MK0	Synthetic construct		INWLAIAAAVAGML	14	25944744	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22563				MK45789	Synthetic construct		INWKKIKKKVAGML	14	25944744	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22564				MK4578911	Synthetic construct		INWKKIKKKVKGML	14	25944744	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22596				A1	Synthetic construct		RKRKLILILIKRKR	14	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22597				A2	Synthetic construct		KRKLILKRILIKRK	14	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22598				A3	Synthetic construct		RKLILKRKRILIKR	14	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22599				A4	Synthetic construct		KLILKRKRKRILIK	14	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22600				A5	Synthetic construct		LILKRKRKRKRILI	14	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22680				Undefined	Synthetic construct		MLLKKLLKKLLKKM	14	21906803	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22681				Undefined	Synthetic construct		CLLKKLLKKLLKKC	14	21906803	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22712		P51888		GRR10W4-NH2	Synthetic construct		GRRPRPRPRPWWWW	14	21298015	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22715		P51888		GRR10F4-NH2	Synthetic construct		GRRPRPRPRPFFFF	14	21298015	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22718		P51888		RRP9F5-NH2	Synthetic construct		RRPRPRPRPFFFFF	14	21298015	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22729		E9G1Z3		Daphnia Lactotransferrin (8-21)	Synthetic construct		KQSWQRMRKLALKR	14	27089856	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22882				Undefined	Synthetic construct		GVVVRVGRVVVRWV	14	24649883	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22889				WK3	Synthetic construct		WKWKWKpGKWKWKW	14	26088720	Antibacterial	Gram+,Gram-	Experimentally Validated

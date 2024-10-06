@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9692				Anal 1	Synthetic construct		AKKVFKRLEKLFSKIQNWK	19	16255716	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9693				Anal 2 	Synthetic construct		AKKVFKRLEKLFSKIWNDK	19	16255716	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9694				Anal 3 	Synthetic construct		AKKVFKRLEKLFSKIWNWK	19	16255716	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9695				Anal 4 	Synthetic construct		AKKVFKRLEKSFSKIQNDK	19	16255716	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9696				Anal 5 	Synthetic construct		AKKVSKRLEKLFSKIQNDK	19	16255716	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9697				Anal 6 	Synthetic construct		AKKVFKRLEKLFSKIFNFK	19	16255716	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9698				Anal 7 	Synthetic construct		AKKVFKRLEKLFSKIYNYK	19	16255716	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9753				A1 (IG-19 analogs)	Synthetic construct		IGKKFKRIVQRIKDFLRNL	19	22521196	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9754				A2 (IG-19 analogs)	Synthetic construct		IGKKFKRIVQRIKKFLRNL	19	22521196	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9755				A3 (IG-19 analogs)	Synthetic construct		IGKKFKRIVQRIKKFLRKL	19	22521196	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9756				A4 (IG-19 analogs)	Synthetic construct		IGKKFKRIVKRIKKFLRKL	19	22521196	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9757				A5 (IG-19 analogs)	Synthetic construct		IGKLFKRIVQRIKKFLRNL	19	22521196	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9758				A6 (IG-19 analogs)	Synthetic construct		IGKLFKRIVQRILKFLRNL	19	22521196	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9759				A7 (IG-19 analogs)	Synthetic construct		IGKLFKRIVKRILKFLRKL	19	22521196	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9760				A8 (IG-19 analogs)	Synthetic construct		ILKLFKRIVKRILKFLRKL	19	22521196	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9761				A4-W1	Synthetic construct		IGKKWKRIVKRIKKFLRKL	19	22521196	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9762				A4-W2	Synthetic construct		IGKKFKRIVKRIKKWLRKL	19	22521196	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9793				Gp41w-4R	Synthetic construct		KWARLWRWFRITRWLWYIK	19	23019445	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9794				Gp41w-KA	Synthetic construct		KWAKKWKWFAKAAWKWYKK	19	23019445	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9795				Gp41w-FKA (gp41 peptide derivative)	Synthetic construct		KFAKKFKWFAKAAFKFFKK	19	23019445	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9837				BP2	Synthetic construct		GKWKLFKKAFKKFLKILAC	19	26525663, 29902419	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ9900				Chex1Arg20	Synthetic construct		RPDKPRPYLPRPRPPRPVR	19	29309652	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9911				PcDBS1R5	Synthetic construct		PMNAIKLLCRVHKKIAISV	19	31228542, 29928920	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10031				HPA3P	Synthetic construct		AKKVFKRLPKLFSKIWNWK	19	29051620	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10032				HPA3P2	Synthetic construct		AKKVFKRLPKLPSKIWNWK	19	29051620	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

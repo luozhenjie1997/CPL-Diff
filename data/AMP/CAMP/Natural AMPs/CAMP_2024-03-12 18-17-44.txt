@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1555	25089619	Q8WSV4		Andropin	Drosophila simulans 	Animalia (Insects)	VFIDILDKMENAIHKAAQAGIGIAKPIENMILPKLTK	37		Antibacterial	Gram+ve	Predicted
+CAMPSQ1639	6225080	O89117		Beta-defensin 1	Rattus norvegicus	Animalia (Mammals)	DQYRCLQNGGFCLRSSCPSHTKLQGTCKPDKPNCCRS	37		Antibacterial		Predicted
+CAMPSQ1664	50403727	P23826		Bacteriocin lactocin-S	Lactobacillus sakei L45	Monera	STPVLASVAVSMELLPTASVLYSDVAGCFKYSAKHHC	37		Antibacterial	Gram+ve	Predicted
+CAMPSQ1703	115503714	Q1KLX0		Antibacterial protein LL-37	Saguinus oedipus	Animalia (Mammals)	RLGGILRKAGEKIGGGLKKIGQKIKDFFGKLAPRTES	37		Antibacterial		Predicted
+CAMPSQ1704	115503713	Q1KLX4		Antibacterial protein LL-37	Presbytis obscura	Animalia (Mammals)	RLGNFFRKAKKKIGRGLKKIGQKIKDFLGNLVPRTES	37		Antibacterial		Predicted
+CAMPSQ1705	115503712	Q1KLX5		Antibacterial protein LL-37	Presbytis cristata	Animalia (Mammals)	RLGNFFRKAKEKIGRGLKKIGQKIKDFWGNLVPRTES	37		Antibacterial		Predicted
+CAMPSQ1706	115503711	Q1KLX2		Antibacterial protein LL-37	Pongo pygmaeus	Animalia (Mammals)	LLGDFFRKAREKIGEEFKRIVQRIKDFLRNLVPRTES	37		Antibacterial		Predicted
+CAMPSQ1707	115503710	Q1KLX3		Antibacterial protein LL-37	Papio papio	Animalia (Mammals)	RLGNFFRKVKEKIGGGLKKVGQKIKDFLGNLVPRTAS	37		Antibacterial		Predicted
+CAMPSQ1708	115503709	Q1KLX1		Antibacterial protein LL-37	Pan troglodytes	Animalia (Mammals)	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	37		Antibacterial		Predicted
+CAMPSQ1709	115503708	Q1KLY2		Antibacterial protein LL-37	Nomascus gabriellae	Animalia (Mammals)	LPGNFFRKAREKIGKEFKRIVQRIKDFLQHLVPRTEA	37		Antibacterial		Predicted
+CAMPSQ1710	115503707	Q1KLX6		Antibacterial protein LL-37	Macaca tonkeana	Animalia (Mammals)	RLGNFFRKVKEKIGGGLKKVGQKIKDFLGNLVPRTAS	37		Antibacterial		Predicted
+CAMPSQ1711	115503706	Q1KLX7		Antibacterial protein LL-37	Macaca fascicularis	Animalia (Mammals)	RLGNFFRKVKEKIGGGLKKVGQKIKDFLGNLVPRTAS	37		Antibacterial		Predicted
+CAMPSQ1712	115503704	Q1KLX9		Antibacterial protein LL-37	Nomascus leucogenys	Animalia (Mammals)	LLGNFFRKAREKIGKEFKRIVQRIKDFLQHLVPRTEA	37		Antibacterial		Predicted
+CAMPSQ1713	115503703	Q1KLY0		Antibacterial protein LL-37	Nomascus concolor	Animalia (Mammals)	LPGNFFRKAREKIGKEFKRIVQRIKDFLQHLVPRTEA	37		Antibacterial		Predicted
+CAMPSQ1714	115503702	Q1KLY3		Antibacterial protein LL-37	Gorilla gorilla gorilla	Animalia (Mammals)	LLGDFFRKAKEKIGKESKRIVQRIKDFLRNLVPRTES	37		Antibacterial		Predicted
+CAMPSQ1715	115503701	Q1KLY6		Antibacterial protein LL-37	Chlorocebus aethiops	Animalia (Mammals)	RLGKFFRKVKKKIGGGLKKIGQKIKDFLGNLVPRTAS	37		Antibacterial		Predicted
+CAMPSQ1716	115503700	Q1KLY5		Antibacterial protein LL-37	Cebus capucinus	Animalia (Mammals)	RLGGFLQKAREKIARGFKKIGQKINDFLGKLAPRTEA	37		Antibacterial		Predicted
+CAMPSQ1717	115503699	Q1KLY4		Antibacterial protein LL-37	Callithrix jacchus	Animalia (Mammals)	RLGDILQKAREKIEGGLKKLVQKIKDFFGKFAPRTES	37		Antibacterial		Predicted
+CAMPSQ1718	115503698	Q1KLY7		Antibacterial protein LL-37	Ateles fusciceps	Animalia (Mammals)	QLGDVLQKAGEKIVRGLKNIGQRIKDFFGKLTPRTES	37		Antibacterial		Predicted
+CAMPSQ1719	115503697	Q1KLY8		Antibacterial protein LL-37	Ateles fusciceps robustus	Animalia (Mammals)	QLGDVLQKAGEKIVRGLKNIGQRIKDFFGKLTPRTES	37		Antibacterial		Predicted
+CAMPSQ2768		P49931		  PMAP-36 	Sus scrofa 	Animalia (Mammals)	VGRFRRLRKKTRKRLKKIGKVLKWIPPIVGSIPLGCG	37		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2776		P13487	2CRD	  Charybdotoxin 	Leiurus quinquestriatus hebraeus	Animalia (Arachnida)	EFTNVSCTTSKECWSVCQRLHNTSRGKCMNKKCRCYS	37	15118082	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2827	269818977	A7WNV5		  Esculentin-2PLa   	Rana palustris	Animalia (Amphibia)	GLFSILKGVGKIALKGLAKNMGKMGLDLVSCKISKEC	37	11087945	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2859				  Mytilus defensin 	Mytilus edulis	Animalia (Molluscs (Bivalvia))	GFGCPNDYPCHRHCKSIPGRAGGYCGGAHRLRCTCYR	37	8702979	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2862				  scorpion defensin 	Leiurus quinquestriatus	Animalia (Arachnida)	GFGCPLNQGACHRHCRSIRRRGGYCAGFFKQTCCYRN	37	8333834	Antibacterial		Experimentally validated

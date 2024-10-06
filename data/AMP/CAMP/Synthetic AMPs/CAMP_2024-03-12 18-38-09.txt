@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20239		P83669		Defensin-A (21-30)	Synthetic construct		AAHCLAIGRK	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20241		A9XFZ7		Coprisin (21-30)	Synthetic construct		ALHCIALRKK	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20242		Q7M426		Holotricin-1 (21-30)	Synthetic construct		AAHCLAMRRK	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20243		Q5MQL3		Defensin-2 (63-72)	Synthetic construct		AIRCLAQRRK	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20244		D3KYH1		Defensin-2 (65-74)	Synthetic construct		AIRCLAKRRK	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20245		F4WLL3		Defensin (37-46)	Synthetic construct		AARCLSQRRK	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20246		E2BDP6		Hs Defensin (32-41)	Synthetic construct		AAKCLVQRRR	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20247		A4FSG3		Td Defensin (36-45)	Synthetic construct		AAHCLAKRKK	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20249		B6RQP4		Sz Defensin (41-60)	Synthetic construct		AAHCIQLGKR	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20250		Q19LG8		Hdh Defensin (27-36)	Synthetic construct		AAHCIVLHHN	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20251		B9UKC9		Acc Defensin (42-51)	Synthetic construct		AANCLSLGKA	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20252		C7AHS8		Aa Defensin (44-53)	Synthetic construct		AANCITLGKA	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20253		D6X2G2		Tc Defensin (42-51)	Synthetic construct		AAHCLLKRKR	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20254		D6WDY8		Tc Defensin (99-108)	Synthetic construct		ATHCLFLKKR	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20255		P18313		Sapecin (16-25)	Synthetic construct		AAHCLLRGNR	10	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20264		Q27023		TE-(34-43), Tenecin-1 (34-43)	Synthetic construct		CNGKRVCVCR	10	9693108	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20267		Q27023		TE-(33-42), Tenecin-1 (33-42)	Synthetic construct		YCNGKRVCVC	10	9693108	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20285		P01966		Bovine hemoglobin alpha chain (36-45)	Synthetic construct		FPTTKTYFPH	10	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20286		P01966		Bovine hemoglobin alpha chain (37-46)	Synthetic construct		PTTKTYFPHF	10	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20339				MM-10	Synthetic construct		MLLKKLLKKM	10	24314557, 21906803	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20341				Undefined	Synthetic construct		CLLKKLLKKC	10	28081296, 26380930, 21906803, 22925814	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20343				Undefined	Synthetic construct		ILLKKLLKKI	10	26380930, 27118774	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20344				Undefined	Synthetic construct		PLLKKLLKKP	10	26380930	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20345				Undefined	Synthetic construct		WLLKKLLKKW	10	26380930	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20357		P0C005,	2MJR	Anoplin [R5W]	Synthetic construct		GLLKWIKTLL	10	24019229	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23961		O41892		GBV-A5	Synthetic construct		LLDCWVRLGRYLLRRLK	17	23175359	Antiviral		Experimentally Validated
+CAMPSQ24124				Cathelicidin-DM (1-17)	Synthetic construct		SSRRKPCKGWLCKLKLR	17	32363280	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24256		Q8IAS6		Rifin (316-332)[K323A], Peptide 35409-1	Synthetic construct		RKKKMKKALQYIKLLKE	17	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24263		Q8IAS6		Rifin (313-329)[K323A], Peptide 35409-8	Synthetic construct		RYRRKKKMKKALQYIKL	17	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24292				La-AMP1a	Synthetic construct		GLMKLLRELLHMFSRVG	17	32333997	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24297				Lr-AMP1g	Synthetic construct		GIHGVVRSFMRMLGHLG	17	32333997	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24371		A0A1D2SQC6		Pept_1303	Synthetic construct		IGRHFKRRNSIWGICWF	17	32992666	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24450				Brevinin-1OS (1-17)	Synthetic construct		FLPGILKVAANVVPGVI	17	32751489	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24535				Undefined	Synthetic construct		ILIACLGLKLLRYRRIY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24536				Undefined	Synthetic construct		WWWAXYGLXLLXYXXWY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24537				Undefined	Synthetic construct		ILIACWGLKLLRYRRIY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24538				Undefined	Synthetic construct		WRWACWGLKLLRYRRIY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24539				Undefined	Synthetic construct		ILWACWGLKLLRYRRIY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24540				Undefined	Synthetic construct		ILWACWGLKLLKYKKIY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24541				Undefined	Synthetic construct		WRWACWGLKLLKYKKIY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24542				Undefined	Synthetic construct		WRWAKWGLKLLKYKKIY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24543				Undefined	Synthetic construct		WXWAXWGLXLLXYXXIY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24544				Undefined	Synthetic construct		ILWAKWGLKLLRYRRIY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24545				Undefined	Synthetic construct		IWWAKWGLKLLRYRRIY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24546				Undefined	Synthetic construct		IWWAKWGLKWLRYRRIY	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24547				Undefined	Synthetic construct		IWWAKWGLKLLRYRRIW	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24548				Undefined	Synthetic construct		IWWAXWGLXLLXYXXIW	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24549				Undefined	Synthetic construct		IWWAKWGLKLLDYRRIW	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24550				Undefined	Synthetic construct		IWWAKWGLDLLRYRRIW	17	33087568	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24551				Undefined	Synthetic construct		WRWAKWGLKLWKWKKIY	17	33087568	Antibacterial	Gram-	Experimentally Validated

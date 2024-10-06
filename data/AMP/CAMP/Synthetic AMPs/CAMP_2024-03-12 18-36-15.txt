@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20438				Undefined	Synthetic construct		RTKKWIVWI	9	23478953, 28473710	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20439				Undefined	Synthetic construct		NWRKLYRRK	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20440				Undefined	Synthetic construct		YKFRWRIYI	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20441				Undefined	Synthetic construct		KRKKRFKWW	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20552				R9	Synthetic construct		RRRRRRRRR	9	22023266, 24243601, 26922474, 20920465	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20612				K4-9	Synthetic construct		KKKKPLFGL	9	30143998	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21045				Undefined	Synthetic construct		KLRRWVRWI	9	20603106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21046				Undefined	Synthetic construct		KWRRWVRWL	9	20603106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21047				Undefined	Synthetic construct		KLRRWVRWL	9	20603106	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21048				Undefined	Synthetic construct		KWRRWIRWW	9	20603106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21049				Undefined	Synthetic construct		KLRRLIRLL	9	20603106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21164		P19661		Bac7 (1-8)[P8R]-C-BY	Synthetic construct		RRIRPRPRC	9	25525837	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21287				Undefined	Synthetic construct		KFFKFFKFF	9	8843284	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21431		Q70623		Vif (51-59)	Synthetic construct		ISSEVHIPL	9	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21440				Protaetiamycine 9Pbw2	Synthetic construct		RLWLAIKRR	9	19855931, 19598182, 21766387	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21441				Protaetiamycine 9Pbw0	Synthetic construct		RLWLAIGRG	9	19598182	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21442				Protaetiamycine 9Pbw1	Synthetic construct		RLWLAIGRR	9	19598182	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21474				Undefined	Synthetic construct		AEAMSQVTN	9	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21475				Undefined	Synthetic construct		AAAMSQVTN	9	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21476				Undefined	Synthetic construct		AEAASQVTN	9	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21477				Undefined	Synthetic construct		AEAMAQVTN	9	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21478				Undefined	Synthetic construct		AEAMSQVAN	9	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21607				CP-1	Synthetic construct		GLRILLLKV	9	19111845	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21630				Undefined	Synthetic construct		RKWRRKWKK	9	19959366	Antifungal	Gram+	Experimentally Validated
+CAMPSQ21631				Undefined	Synthetic construct		RKFRRKFKK	9	19959366, 23581817	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

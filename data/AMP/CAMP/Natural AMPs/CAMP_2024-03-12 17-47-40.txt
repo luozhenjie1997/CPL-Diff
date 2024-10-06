@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ651	90109840	P84760		Alveolarin	Polyporus alveolaris 	Fungi	GVCDMADLA	9	15165727	Antifungal		Experimentally validated
+CAMPSQ666	20138866	O18330		Jellein-2	Apis mellifera	Animalia (Insects)	TPFKISIHL	9	15203237	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ749	110560642	A6MBP9		Odorranain-N1	Odorrana grahami	Animalia (Amphibia)	DEKGPKWKR	9	17272268	Antifungal		Experimentally validated
+CAMPSQ936	46395637	O96049		Defensin precursor	Oryctes rhinoceros	Animalia (Insects)	AHCLAIGRK	9	10561605	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1607	71153732	Q9GLR2		Demidefensin-3 	Macaca mulatta	Animalia (Mammals)	RCICVLGIC	9		Antibacterial, Antifungal		Predicted
+CAMPSQ1939	88909608	P84711		Curvalicin-28c	Lactobacillus curvatus	Monera	NIPQLTPTP	9	16680519	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2470	391738007	B3EWI7		Antifungal peptide	Cenchritis muricatus  	Animalia (Molluscs (Gastropoda))	RSELIVHQR	9	22210491	Antifungal		Experimentally validated
+CAMPSQ2572	75570446	Q91826		PYLa/PGLa B	Xenopus laevis	Animalia (Amphibia)	IAKVALKAL	9	6688991	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2640	295004058	D4YWD1		Temporin-SHf precursor, partial	Pelophylax saharicus	Animalia (Amphibia)	FFLSRIFGK	9	20308076	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2985		P83375		  Serracin-P 43 kDa subunit 	Serratia plymuthica	Monera	DYHHGVRVL	9	12406768	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3111				  Jelleine-II 	Apis mellifera	Animalia (Insects)	TPFKLSLHL	9	15203237	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3112				  Jelleine-III 	Apis mellifera	Animalia (Insects)	EPFKLSLHL	9	15203237	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3516				  Cr-ACP1 	Cycas revoluta	Plantae	AWKLFDDGV	9	21882228	Antibacterial, Anticancer		Experimentally validated
+CAMPSQ3832				  NRWC 	Bacillus subtilis ATCC 6633	Monera	NRWCFAGDD	9	23519163	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ4597		P0CF04		Dinoponeratoxin Da-1039	Dinoponera australis	Animalia (Insects)	GVVPHDFRI	9	19879289	Antibacterial		Predicted
+CAMPSQ8167		P0DMF3		Peptide Ctry2459 (WT)	Chaerilus tryznai 	Animalia (Arachnida)	FLGFLKNLF	9	23415044	Antiviral		Experimentally validated
+CAMPSQ9287				Macrotympanin A1	Odorrana andersonii 	Animalia (Amphibia)	FLPGLECVW	9	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10136				P-120	Homo sapiens	Animalia	AKRHHGYKR	9	11302797	Antifungal		Experimentally validated
+CAMPSQ10245				Leader	Homo sapiens	Animalia	RAWVAWRNR	9	26785822	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10530				Sph30-38	Scylla paramamosain	Animalia	VGRIHRHLK	9	28600196	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10983				Crinicepsin-1	Trichomyrmex criniceps	Animalia	VGVGGGFGR	9	28346717	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11231				HD5(1-9)	Homo sapiens	Animalia (Mammals)	ATCYCRTGR	9	30808760	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11504				CGA-N9	Homo sapiens	Animalia (Mammals)	RILSILRHQ	9	30610128	Antifungal	Gram +ve	Experimentally validated
+CAMPSQ11662				Cn-AMP1	Cocos nucifera	Plantae (Angiosperms)	SVAGRAQGM	9	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11773				CopW	Copris tripartitus	Animalia (Insects)	LLWIALRKK	9	30393205	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

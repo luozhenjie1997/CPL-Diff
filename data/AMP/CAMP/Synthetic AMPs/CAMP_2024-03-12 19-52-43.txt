@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18894				Undefined	Synthetic construct		GXXQXXGPXXXPXXXXXGY	19	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18893				Undefined	Synthetic construct		GXXQXXGEXXXXXXXXXGY	19	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18892				Undefined	Synthetic construct		GXXQXXGQXXXQXXXXXGY	19	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18891				Undefined	Synthetic construct		GXXQQXXXXXXQXXQXXGY	19	11683882, 16678118	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18890				Undefined	Synthetic construct		GXXQQXGXXXXQXXQXXGY	19	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18889				Undefined	Synthetic construct		GXXQXXGEXXXEXXXQXGY	19	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18888				Undefined	Synthetic construct		GXXQXXGEQXQEXXXQXGY	19	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18776				Undefined	Synthetic construct		GCKKYRRFRWKFKGKFWFW	19	20606063	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18772				Undefined	Synthetic construct		GKKYRRFWKFKGKWFWFWG	19	20606063	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18773				Undefined	Synthetic construct		GRRYKKFKWRFRGRFWFWG	19	20606063	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18744		P26664		HCV (1975-1993)	Synthetic construct		SWLRDIWDWICEVLSDFKT	19	18287023	Antiviral		Experimentally Validated
+CAMPSQ18743		P26664		HCV (1974-1992)	Synthetic construct		GSWLRDIWDWICEVLSDFK	19	18287023	Antiviral		Experimentally Validated
+CAMPSQ18701				N-[RLLR]2-C	Synthetic construct		APKAMRLLRRLLRLQKKGI	19	14718539	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18676				Undefined	Synthetic construct		RWRWRWFSGGFIKHFIHRF	19	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18677				Undefined	Synthetic construct		RWRWRWFSATFIKHFIHRF	19	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18675				Undefined	Synthetic construct		RWRWRWFGGGFIKHFIHRF	19	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18674				Undefined	Synthetic construct		FIKHFIHRFSATRWRWRWF	19	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18673				Undefined	Synthetic construct		FIKHFIHRFSGGRWRWRWF	19	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18672				Undefined	Synthetic construct		FIKHFIHRFGGGRWRWRWF	19	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18662				Undefined	Synthetic construct		LIKHILHRLGGGFHFHLHF	19	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18657				Undefined	Synthetic construct		FHFHLHFSATFIKHFIHRF	19	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18658				Undefined	Synthetic construct		FHFHLHFGGGFIKHFIHRF	19	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18656				Undefined	Synthetic construct		FHFHLHFPYPFIKHFIHRF	19	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18599		Q4JIY4		Citrus-amp2	Synthetic construct		LESLASSAVRTANKARAKL	19	30192822	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19503		P37362		Pyrrhocoricin mod2	Synthetic construct		DKGRYLEAPTRPRPERNRK	19	12199701	Antibacterial	Gram+,Gram-	Experimentally Validated

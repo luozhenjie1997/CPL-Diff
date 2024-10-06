@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20571		P83189		Pseudin-2 [F9K, I12K]	Synthetic construct		GLNALKKVKQGKHEAIKLINNHVQ	24	33352972	Antifungal	Gram-	Experimentally Validated
+CAMPSQ20572		P83189		Pseudin-2 [N3K][E14K]	Synthetic construct		GLKALKKVFQGIHKAIKLINNHVQ	24	15927702	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20573		P83189		Pseudin-2 [N3K]	Synthetic construct		GLKALKKVFQGIHEAIKLINNHVQ	24	15927702	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20574		P83189		Pseudin-2 [Q10K]	Synthetic construct		GLNALKKVFKGIHEAIKLINNHVQ	24	15927702	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20575		P83189		Pseudin-2 [E14K]	Synthetic construct		GLNALKKVFQGIHKAIKLINNHVQ	24	15927702	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20576		P83189		Pseudin-2 [N21K]	Synthetic construct		GLNALKKVFQGIHEAIKLINKHVQ	24	15927702	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20577		P83189		Pseudin-2 [Q24K]	Synthetic construct		GLNALKKVFQGIHEAIKLINNHVK	24	15927702	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20578		P83189		Pseudin-2 [N3k][Q10k][E14k]	Synthetic construct		GLKALKKVFKGIHKAIKLINNHVQ	24	15927702	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20579		P83189		Pseudin-2 [N3K][Q10K][E14K][N21K]	Synthetic construct		GLKALKKVFKGIHKAIKLINKHVQ	24	15927702	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20580		P83189		Pseudin-2 [N3K][Q10K][E14K][N21K][Q24K]	Synthetic construct		GLKALKKVFKGIHKAIKLINKHVK	24	15927702	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20581		P83189		Pseudin-2 [L5F]	Synthetic construct		GLNAFKKVFQGIHEAIKLINNHVQ	24	15927702	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20582		P83189		Pseudin-2 [V8F]	Synthetic construct		GLNALKKFFQGIHEAIKLINNHVQ	24	15927702	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20583		P83189		Pseudin-2 [I12F]	Synthetic construct		GLNALKKVFQGFHEAIKLINNHVQ	24	15927702	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20584		P83189		Pseudin-2 [I16F]	Synthetic construct		GLNALKKVFQGIHEAFKLINNHVQ	24	15927702	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20585		P83189		Pseudin-2 [I19F]	Synthetic construct		GLNALKKVFQGIHEAIKLFNNHVQ	24	15927702	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20603		P84111,	6G4V	Brevinin-1BYa [C18S,C24S]	Synthetic construct		FLPILASLAAKFGPKLFSLVTKKS	24	21312033, 16713189	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20604		P84111		Brevinin-1BYa [C18AGL,C24AGL]	Synthetic construct		FLPILASLAAKFGPKLFXLVTKKX	24	21312033	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20636		P81861		Pardaxin P-4 (10-33)	Synthetic construct		ISSPLFKTLLSAVGSALSSSGGQE	24	8620888	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20747				Fallaxin [-L17]	Synthetic construct		GVVDILKGAAKDIAGHASKVMNKL	24	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20932		P15516		Histatin 5 [Y10,24T]	Synthetic construct		DSHAKRHHGTKRKFHEKHHSHRGT	24	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21136		P82656		H/V-peptide (6-29)	Synthetic construct		IKSIASKVANTVQKLKRKAKNAVA	24	23403131	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21180		P19661		Cathelicidin-3 (1-24), Bactenecin-7 (1-24)	Synthetic construct		RRIRPRPPRLPRPRPRPLPFPRPG	24	12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21295		P81865		K1K2 Pardaxin (1-22) D	Synthetic construct		KKGFFALIpKIISSPLFKTllSAX	24	9914515	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21320		P11006		Magainin-2 [ins5L][S9A][G14A][G19A][I21K]	Synthetic construct		GIGKLFLHAAKKFAKAFVAEKMNS	24	1605597	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21412		A5A3I5		Penmon ALF-B1 beta-hairpin	Synthetic construct		GCKFTVKPYLKRFQVYYKGRMWCG	24	23861837	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ68	1169363	P41964	1MYN	Drosomycin 	Drosophila melanogaster	Animalia (Insects)	DCLSGRYKGPCAVWDNETCRRVCKEEGRSSGHCSPSLKCWCEGC	44	7806546	Antifungal		Experimentally validated
+CAMPSQ162	156630495	P85213		Defensin	Galleria mellonella	Animalia (Insects)	DTLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFLNVNCWCEE	44	17194500	Antifungal		Experimentally validated
+CAMPSQ163	156630496	P85215		Defensin-like peptide 	Galleria mellonella	Animalia (Insects)	DKLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFWNVNCWCEE	44	17194500	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ295	25453143	P83239		Pandinin-1 	Pandinus imperator	Animalia (Arachnida)	GKVWDWIKSAAKKIWSSEPVSQLKGQVLNAAKNYVAEKIGATPT	44	11563967	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8253				OaBac5gamma	Ovis aries	Animalia (Mammals)	RFRPPILRPPIRPPFRPPFRPPVRPPIRPPFRPPFRPPIGPFP	43	14651991	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9324				Smp43 	 Scorpio maurus palmatus	Animalia	GVWDWIKKTAGKIWNSEPVKALKSQALNAAKNFVAEKIGATPS	43	27019370	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10725				LSerStomox1	Lucilia sericata	Animalia	AGFRKRFNKLVKKVKHTIKETANVSKDVAIVAGSGVAVGAAMG	43	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10984				CcBD(channel catfish beta defensin)	Ictalurus punctatus	Animalia	VSFPWSCAALSGVCRQGACLPSELYFGPLGCGKGSLCCVSYFL	43	28340427	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11000				Garvicin A (Bacteriocin)	Lactococcus garvieae 21881	Monera	IGGALGNALNGLGTWANMMNGGGFVNQWQVYANKGKINQYRPY	43	23666326	Antibacterial	Gram+ve	Predicted
+CAMPSQ11063				Avicin A	Enterococcus avium	Monera	TYYGNGVSCNKKGCSVDWGKAISIIGNNSAANLATGGAAGWKS	43	31012010	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11097				Faerocin MK	Enterococcus faecium M3K31	Monera	ATYYGNGVYCNKQKCWVDWNKASKEIGKIIVNGWVQHGPWAPR	43	29306983	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11122				Bactenecin-5 ( ChBac5)	Capra hircus 	Animalia	RFRPPIRRPPIRPPFNPPFRPPVRPPFRPPFRPPFRPPIGPFP	43	10417180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12224				SlLeb1 (46-88)	Spodoptera litura	Animalia	DAGDEPLWLYQGDVPKAPSSADHPVLPSIIDDVRMDPNRRTAR	43	29935286	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12414			2m60	Enterocin 7 B	Enterococcus faecalis	Monera	MGAIAKLVAKFGWPFIKKFYKQIMQFIGQGWTIDQIEKWLKRH	43	29107139	Antibacterial		Predicted
+CAMPSQ13634				Statherin	Homo sapiens 	Animalia (Mammals)	DXXEEKFLRRIGRFGYGYGPYQPVPEQPLYPQPYQPQYQQYTF	43	34417532, 33740624	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ13720				VBD122	Vulpes lagopus	Animalia (Mammals)	EKCWNLRGSCREKCIRNEKLYIFCMSGKLCCLKPKFQPNMLQR	43	34206565	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14663				VdAMP3	Verticillium dahliae	Fungi	TTCQLGSIGPANAGNAACSASCLIQHGNIHGGHCNENAVCICN	43	34853168	Antibacterial		Experimentally validated
+CAMPSQ15087				CcDef2	Coridius chinensis	Animalia (Insects)	ATCDALSFQSKWITINHSACAIHCIAKGYKGGQCKNTVCHCRK	43	35269935	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ19878		O96049		Oryctes Defensin	Oryctes rhinoceros	Animalia	LTCDLLSFEAKGFAANHSLCAAHCLAIGRKGGACQNGVCVCRR	43	14642822	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19928		Q20A06,C4NYB5		Hemocyte defensin Defh1, Cg-Defh1	Crassostrea gigas		GFGCPRDQYKCNSHCQSIGCRAGYCDAVTLWLRCTCTDCNGKK	43	20605792, 22327168	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19929		Q20A05,G3FZM7		Hemocyte defensin Defh2, Cg-Defh2	Crassostrea gigas		GFGCPGDQYECNRHCRSIGCRAGYCDAVTLWLRCTCTGCSGKK	43	20605792, 22327168	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22484				CL-Defensin	Cimex lectularius	Animalia	ATCDLFSFQSKWVTPNHAACAAHCTARGNRGGRCKKAVCHCRK	43	26802465	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23092		A0A1K0ITP4		Bacteriocin lactolisterin BU	Lactococcus lactis subsp. lactis	Bacteria	MWGRILGTVAKYGPKAVSWAWQHKWELINMGDLAFRYIQRIWG	43	28842543	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23390		P02877	1HEV	Hevein	Hevea brasiliensis	Plantae	EQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSPDHNCQSNCKD	43	29523064	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24369				AmAMP1 PT07G	Acropora millepora	Animalia	GTCIDLGSRLYCKLIRRRGMCRSRSHRARIAMMRCERSCGRCH	43	32937163	Antibacterial	Gram+,Gram-	Experimentally Validated

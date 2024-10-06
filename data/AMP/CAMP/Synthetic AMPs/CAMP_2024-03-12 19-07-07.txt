@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18593		P51524,P51525,	2I1H	Tritrpticin [P5A] -AMD	Synthetic construct		VRRFAWWWPFLRR	13	24086578, 29671805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18592		P51524		Tritrpticin [F4Y][F10Y] -AMD	Synthetic construct		VRRYPWWWPYLRR	13	24086578	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18591		P51524,P51525,		Tritrpticin [W6,7,8Y] -AMD	Synthetic construct		VRRFPYYYPFLRR	13	24086578, 27025758	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19515		P69436	7JGX	Agelaia-MP [N2F,K5F,L6R,I10D,I11del,D12V]	Synthetic construct		IFWLFRGKADVAL	13	33244888	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19581		P81835		Citropin 1.1 (1-13)	Synthetic construct		GLFDVIKKVASVI	13	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19592		P81835		Citropin 1.1 (1-13)[D4A]	Synthetic construct		GLFAVIKKVASVI	13	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19642		P02788		Lfcin (1830)	Synthetic construct		KCFQWQRNMRKVR	13	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19671				HB55, FLAK50D AMD	Synthetic construct		FAKLLAKALKKLL	13	15980369	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19720		P24605,		Myotoxin II (105-117)[Y3,5,6W][P9A,C11A], PEM-2	Synthetic construct		KKWRWWLKALAKK	13	27591703, 15793109, 20865718, 23896553	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19723		P24605		PVP, pEM-2 (1-4)+Mastoparan-M (12-14)+pEM-2 (8-12)	Synthetic construct		KKWRKLLKWLAKK	13	27591703	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19815				GS14-V5	Synthetic construct		VKLKyPLKVKLyP	13	19278255	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19816				GS14-K4	Synthetic construct		VKLVyPLKVKLyP	13	19278255	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19817				GS14-L3	Synthetic construct		VKKVyPLKVKLyP	13	19278255	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19843		P33046,		Indolicidin [W4L,W6L,W8L,W9L,W11L]	Synthetic construct		ILPLKLPLLPLRR	13	11695650, 20196123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19844		P33046,		Indolicidin [W4,6,8,9,11Y]	Synthetic construct		ILPYKYPYYPYRR	13	11695650, 20196123	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19845		P33046,		Indolicidin retro-D	Synthetic construct		RRWPWWPWKWPLI	13	11695650, 20196123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19846		P33046,		Indolicidin [W11A]	Synthetic construct		ILPWKWPWWPARR	13	11695650, 20237682	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19856		P33046		Indolicidin [I1A]	Synthetic construct		ALPWKWPWWPWRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19857		P33046		Indolicidin [L2A]	Synthetic construct		IAPWKWPWWPWRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19858		P33046		Indolicidin [W4A]	Synthetic construct		ILPAKWPWWPWRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19859		P33046		Indolicidin [K5A]	Synthetic construct		ILPWAWPWWPWRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19860		P33046		Indolicidin [W6A]	Synthetic construct		ILPWKAPWWPWRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19861		P33046		Indolicidin [W8A]	Synthetic construct		ILPWKWPAWPWRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19862		P33046		Indolicidin [W9A]	Synthetic construct		ILPWKWPWAPWRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19863		P33046		Indolicidin [R12A]	Synthetic construct		ILPWKWPWWPWAR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated

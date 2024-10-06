@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ4582		P0CJ38		Eumenine mastoparan-ER	Eumenes rubrofemoratus	Animalia (Insects)	FDIMGLIKKVAGAL	14	21549739	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8140		U4N938		Sm-AMP-X2	Stellaria media 	Plantae	CMSTRGDQARKICE	14	24081691	Antifungal		Experimentally validated
+CAMPSQ8155		P0DMF9		Peptide Ctri9677	Chaerilus tricostatus 	Animalia (Arachnida)	INWDILIDTIKDKL	14	23415044	Antiviral		Experimentally validated
+CAMPSQ8164		P0DMF8		Peptide Ctri10261	Chaerilus tricostatus 	Animalia (Arachnida)	FDLGGLIKGVVDLF	14	23415044	Antiviral		Experimentally validated
+CAMPSQ8170		P0DMF7		Peptide Ctri9594	Chaerilus tricostatus 	Animalia (Arachnida)	GVVDTLKNLLMGLL	14	23415044	Antiviral		Experimentally validated
+CAMPSQ8186				Mastoparan-S	Sphodromantis viridis	Animalia (Insects)	LRLKSIVSYAKKVL	14	25869360	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8752				Hyposin HA-6	Phyllomedusa hypochondrialis	Animalia (Amphibia)	LRPAILVRVKGKGL	14	23029273	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8825				PT14-4a	Bacillus amyloliquefaciens PT14	Monera (Bacteria)	YLEALEAESITTGV	14	26496638	Antifungal		Experimentally validated
+CAMPSQ9296				Polybia-MPII	Pseudopolybia vespiceps	Animalia (Arthropoda)	INWLKLGKMVIDAL	14	28108242	Antibacterial, Antifungal 		Experimentally validated
+CAMPSQ9297				UyCT1	Urodacus yaschenkoi	Animalia (Arthropoda)	GFWGKLWEGVKNAI	14	28067810, 23182832	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9304				Um3	Urodacus manicatus	Animalia (Arachnida)	GFWGKLWEGVKSAI	14	28067810	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9510				Temporin-1DRa	Rana draytonii	Animalia	HFLGTLVNLAKKIL	14	31102497	Antibacterial		Experimentally validated
+CAMPSQ9574				C(8-21)	Gallus gallus	Animalia	KIRRFRPKVTITIQ	14	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9768				Protonectarina-MP	Protonectarina sylveirae	Animalia	INWKALLDAAKKVL	14	20108158	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9769				Parapolybia-MP 	Parapolybia indica	Animalia	INWKKMAATALKMI	14	20108158	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9770				Asn-2-Polybia-MP	P. paulista	Animalia	INWKKLLDAAKQIL	14	20108158	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9863				Hp1404	Heterometrus petersii	Animalia	GILGKLWEGVKSIF	14	29379033	Antibacterial, Antibiofilm	Gram -ve	Experimentally validated
+CAMPSQ9906				NDBP-5.8	O. cayaporum	Plantae	GILGKIWEGVKSLI	14	27917162	Antibacterial, Antibiofilm, Antifungal		Experimentally validated
+CAMPSQ9945				Mastoparan-L	 Vespula lewisii	Animalia	INLKALAALAKKIL	14	31411881	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10124				P-123	Homo sapiens	Animalia	DSHAKRHHGYKRKF	14	11302797	Antifungal		Experimentally validated
+CAMPSQ10126				Histatin 9	Homo sapiens	Animalia	RKFHEKHHSHRGYR	14	11302797	Antifungal		Experimentally validated
+CAMPSQ10162				AI-hemocidins 2 (Hb-1  truncated peptide)	Arca inflata	Animalia	DLRDSWKVIGSDKK	14	28661457	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10267				Holosin 2	Ixodes holocyclus	Animalia	CAGLIKQTCTCYRK	14	31445875	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10442				Aurein-3.1.1 	Litoria chloris 	Animalia	GLFDIVKKIAGHIA	14	10951191	Antibacterial		Predicted
+CAMPSQ10481				Hym-370	Hydra	Animalia	KPNAYKGKLPIGLW	14	28951596	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

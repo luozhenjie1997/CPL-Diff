@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10784				Polydim-I 	Polybia dimorpha	Animalia	AVAGEKLWLLPHLLKMLLTPTP	22	30974767, 28570651	Antibacterial, Antibiofilm	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10859				Osm-pepB	Theobroma cacao	Plantae	GGVWNLNVNPGTTGARVWARTK	22	26996966	Antifungal		Experimentally validated
+CAMPSQ10921				Cathelicidin 5	Alligator sinensis	Animalia (Reptiles)	TRRKFWKKVLNGALKIAPFLLG	22	31326585	Antiviral		Experimentally validated
+CAMPSQ10942				CAP18-22 	Oryctolagus cuniculus	Animalia	RKRLRKFRNKIKEKLKKIGQKI	22	11557478	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10994				Lactococcin K (Bacteriocin)	Lactococcus lactis subsp. lactis MY23 	Monera	MVPTTFTLTTNNFLSDYQQLFI	22	16614924	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10999				Bactofencin A 	Lactobacillus salivarius DPC6502	Monera	KRKKHRCRVYNNGMPTGMYRWC	22	24169573, 30087409	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11005				Hyicin 3682	Staphylococcus hyicus 3682	Monera	ITSFSLCTPGCAKTGSFNSYCC	22	28285660	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11017				Os	Ornithodoros savignyi	Animalia	KGIRGYKGGYCKGAFKQTCKCY	22	26662999	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11065		T1WIT7		Plantaricin ZJ5 	Lactobacillus plantarum ZJ5	Monera	KTKQQFLIKAQTQLFKVFGYTL	22	25147943	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11098				Tunicate Ciona intestinalis	Ciona intestinalis	Animalia (Pisces)	ALRSAVRTVARVGRAVLPHVAI	22	17658598	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11117				Moro-NH2	Hybrid striped bass	Animalia	FFHHIFRGIVHVGKTIHKLVTG	22	28122029	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11118				MoroNC-NH2 	Notothenia coriiceps	Animalia	FFWHHIGHALDAAKRVHGMLSG	22	28122029	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11119				MoroPC-NH2	Parachaenichthys charcoti	Animalia	FFGHLFRGIINVGKHIHGLLSG	22	28122029	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11152				K-hefutoxin 1	Heterometrus fulvipes	Animalia	GHACYRNCWREGNDEETCKERC	22	27578329	Antifungal		Experimentally validated
+CAMPSQ11209			5U9Q, 5U9V, 5UA6	Ocellatin-LB1	Leptodactylus labryinthicus	Animalia	GVVDILKGAAKDIAGHLASKVM	22	29596881, 28115922	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ11221				Plasticin-TR	Phyllomedusa trinitatis	Animalia (Amphibia)	GLVSGLLNSVTGLLGNLAGGGL	22	29980138	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11298				Dicentracin-like	Lates calcarifer	Animalia (Pisces)	FLRSLLRGAKAIYRGARAGWRG	22	30365554	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11299				Moronecidin	Lates calcarifer	Animalia (Pisces)	FFHHIFRGIVHVGKTIHRLVTG	22	30365554	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11561				Peptide-6	Rana arvalis	Animalia (Amphibia)	LLGAALSALSSVIPSVISWFQK	22	30578771	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11827		E5KIB6		CypA	Streptomyces sp.	Monera (Bacteria)	ATPATPTVAQFVIQGSTICLVC	22	28452467	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11828				CypA variant C19S	Streptomyces sp.	Monera (Bacteria)	ATPATPTVAQFVIQGSTISLVC	22	28452467	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11829				CypA variant T2S	Streptomyces sp.	Monera (Bacteria)	ASPATPTVAQFVIQGSTICLVC	22	28452467	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11830				CypA variant T17S	Streptomyces sp.	Monera (Bacteria)	ATPATPTVAQFVIQGSSICLVC	22	28452467	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11831				CypA variant Q14E	Streptomyces sp.	Monera (Bacteria)	ATPATPTVAQFVIEGSTICLVC	22	28452467	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11832				CypA variant T7K	Streptomyces sp.	Monera (Bacteria)	ATPATPKVAQFVIQGSTICLVC	22	28452467	Antibacterial	Gram +ve	Experimentally validated

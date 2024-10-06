@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9236				R2 (Bac2A variant)	Synthetic construct		RRARIVVIRVAR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9237				R3 (Bac2A variant)	Synthetic construct		RLRRIVVIRVAR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9238				W3 (Bac2A variant)	Synthetic construct		RLWRIVVIRVAR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9239				R5 (Bac2A variant)	Synthetic construct		RLARRVVIRVAR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9240				K7 (Bac2A variant)	Synthetic construct		RLARIVKIRVAR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9241				W10 (Bac2A variant)	Synthetic construct		RLARIVVIRWAR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9242				R11 (Bac2A variant)	Synthetic construct		RLARIVVIRVRR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9243				G12 (Bac2A variant)	Synthetic construct		RLARIVVIRVAG	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9244				Sub2 (Bac2A variant)	Synthetic construct		RLRRIVVIRVRR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9245				Sub3 (Bac2A variant through three amino acids substitution)	Synthetic construct		RRWRIVVIRVRR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9246				Sub5 (Bac2A variant)	Synthetic construct		RRWKIVVIRWRR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9247				Sub6 (Bac2A variant)	Synthetic construct		RWWKIWVIRWWR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9391				Bac2A	Synthetic construct		RLARIVVIRVAR	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9392				Bac014 (Scrambled Variants of Bac2A)	Synthetic construct		RAVAVIIRLRRV	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9393				Bac020 (Scrambled Variants of Bac2A)	Synthetic construct		RRAAVVLIVIRR	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9394				Bac034 (Scrambled Variants of Bac2A)	Synthetic construct		VRLRIRVAVIRA	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9395				F3 ( Variant of Bac2A)	Synthetic construct		VRFRIRVAVIRA	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9396				W3 (Variant of Bac2A)	Synthetic construct		VRWRIRVAVIRA	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9397				W4 ( Variant of Bac2A)	Synthetic construct		VRLWIRVAVIRA	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9398				R10 (Variant of Bac2A)	Synthetic construct		VRLRIRVAVRRA	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9399				K12 (Variant of Bac2A)	Synthetic construct		VRLRIRVAVIRK	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9400				Opt1	Synthetic construct		VQLRIRVRVIRK	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9401				Opt2 	Synthetic construct		VRLRIRVRVIRK	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9402				Opt3 	Synthetic construct		KQFRIRVRVIRK	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9403				Opt4 	Synthetic construct		KRFRIRVRVIRK	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated

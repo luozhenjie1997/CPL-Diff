@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8930				AMV8	Synthetic construct		ISDKRDDMSMCVCKKTDVCNMKTATCHCSIHVSK	34	31616392	Antibacterial	Gram+ve	Predicted
+CAMPSQ8932				AMV10	Synthetic construct		ITSRILCTSSCKTGALMGCNMKTATCHCSIHVSK	34	31616392	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10024				Cath-A	Synthetic construct		KRFKKFFRKLKKSVKKRKKEFKKKPRVIKVSIPF	34	29392557	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10025				Cath-B	Synthetic construct		KRFKKFFRKLKKSVKKRKKEFKKKPRVIGVSIPF	34	29392557	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12453				CCCCP	Synthetic construct		IBaIZLaXPGaKXGALMGaNMKXAXaHPSIHVZK	34	28912758	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12454				Nisin H	Synthetic construct		FBaIZMaXPGaKXGALMBaNYKXAXaHaSIKVZK	34	28912758	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12970				Ripcin F 	Synthetic construct		ITSISLCTPGCKTGALMGCNIIYTNRKTGVCKRM	34	34156232	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13273				H31K	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSIKVSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13274				H27/31K	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCKCSIKVSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13275				I30H	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSHHVSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13276				I30K	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSKHVSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13277				I30R	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSRHVSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13278				V32H	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSIHHSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13279				V32K	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSIHKSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13280				V32R	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSIHRSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13281				I30H/V32H	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSHHHSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13282				I30H/V32K	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSHHKSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13283				I30H/V32R	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSHHRSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13284				I30K/V32H	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSKHHSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13285				I30K/V32K	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSKHKSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13286				I30K/V32R	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSKHRSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13287				I30R/V32H	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSRHHSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ24180		P16090		FIV Egp (731-763)	Synthetic construct		TLGEWYNQTKDLQQKFYEIIMDIEQNNVQGKKG	33	12186891	Antiviral		Experimentally Validated
+CAMPSQ24214		P59594		SARS-CoV Sgp (471-503)	Synthetic construct		ALNCYWPLNDYGFYTTTGIGYQPYRVVVLSFEL	33	16153058	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24725				Undefined	Synthetic construct		RRWVQRWIRRWRPKVAAARRWVQRWIRRWRPKV	33	34147544	Antibacterial	Gram+,Gram-	Experimentally Validated

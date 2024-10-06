@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22567				M1	Synthetic construct		KRKILILIKRK	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22568				M2	Synthetic construct		KRKILILILIL	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22569				M3	Synthetic construct		ILILILILKRK	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22570				M4	Synthetic construct		KRKILILIGSG	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22571				M5	Synthetic construct		GSGILILIKRK	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22572				M6	Synthetic construct		KRKSGSGSKRK	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22601				S1	Synthetic construct		RRRIIIIIRRR	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22602				S2	Synthetic construct		KKKIIIIIKKK	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22603				S3	Synthetic construct		RRRLLLLLRRR	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22604				S4	Synthetic construct		KKKLLLLLKKK	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22605				S5	Synthetic construct		RRRVVVVVRRR	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22606				S6	Synthetic construct		KKKVVVVVKKK	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22607				S7	Synthetic construct		RRRFFFFFRRR	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22608				S8	Synthetic construct		KKKFFFFFKKK	11	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22621				GMG_01	Synthetic construct		VKSWIRKLVHR	11	24039565	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22623				GMG_01_SCR	Synthetic construct		KRRKWHSVVLI	11	24039565	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22624				GMG_03	Synthetic construct		EHMDRILAQLL	11	24039565	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22649		E7EKD9		Odorranain-B1 (6-15)+G	Synthetic construct		CWTKSIPPKPG	11	17384140	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22650		B5A9T1		Chensinin-1(1-11)  [A2K, G4,7,11W]	Synthetic construct		SKVWRHWRRFW	11	27060618	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22652		B5A9T1		Chensinin-1 (3-13) [G4,7,11W, L12H]	Synthetic construct		VWRHWRRFWHR	11	27060618	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22664		B5A9T1		Chensinin-1 (3-13) [G4,7,11W, H6K ,L12K ]	Synthetic construct		VWRKWRRFWKR	11	27060618	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22665		B5A9T1,		D-Chensinin-1b (3-13)[h4,10r]	Synthetic construct		VWRRWRRFWRR	11	27060618, 31671371	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22731		P62328		Human Thymosin beta-4 (9-19)	Synthetic construct		EIEKFDKSKLK	11	27339305	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22807				Undefined	Synthetic construct		WWYRXWSXXRA	11	27480745	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22808				Undefined	Synthetic construct		YIVXFWRRXWX	11	27480745	Antibacterial	Gram+,Gram-	Experimentally Validated

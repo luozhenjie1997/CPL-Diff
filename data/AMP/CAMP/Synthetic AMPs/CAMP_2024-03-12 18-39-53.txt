@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14457				BP100	Synthetic construct		KKLFKKILKYL	11	34733307	Antibacterial, antifungal	Gram -ve	Experimentally validated
+CAMPSQ14465				S1-Nal	Synthetic construct		KKWRKWLAKKU	11	34733262	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14695				PepD3	Synthetic construct		WKKLKKLLKKL	11	34220763	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14704				PepD3M	Synthetic construct		WKKLKKLLKKL	11	34220763	Antibacterial		Predicted
+CAMPSQ14705				PepD3O	Synthetic construct		WKKLKKLLKKL	11	34220763	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14706				PepD3H	Synthetic construct		WKKLKKLLKKL	11	34220763	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14707				PepD3B	Synthetic construct		WKKLKKLLKKL	11	34220763	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14933				Pep-A	Synthetic construct		WFGKLYRGITK	11	35216297	Antifungal		Experimentally validated
+CAMPSQ14934				Pep-B	Synthetic construct		WRGITKVVKKV	11	35216297	Antifungal		Experimentally validated
+CAMPSQ14935				Pep-C	Synthetic construct		WVVKKVKGLLK	11	35216297	Antifungal		Experimentally validated
+CAMPSQ14936				Myr-A	Synthetic construct		WFGKLYRGITK	11	35216297	Antifungal		Experimentally validated
+CAMPSQ14937				Myr-B	Synthetic construct		WRGITKVVKKV	11	35216297	Antifungal		Experimentally validated
+CAMPSQ14938				Myr-C	Synthetic construct		WVVKKVKGLLK	11	35216297	Antifungal		Experimentally validated
+CAMPSQ15050				RW-BP100-1D	Synthetic construct		rRLFRRILRWL	11	35145500	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15051				RW-BP100-2D	Synthetic construct		RrLFRRILRWL	11	35145500	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15052				RW-BP100-3D	Synthetic construct		RRlFRRILRWL	11	35145500	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15053				RW-BP100-4D	Synthetic construct		RRLfRRILRWL	11	35145500	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15054				RW-BP100-5D	Synthetic construct		RRLFrRILRWL	11	35145500	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15055				RW-BP100-6D	Synthetic construct		RRLFRrILRWL	11	35145500	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15056				RW-BP100-7D	Synthetic construct		RRLFRRiLRWL	11	35145500	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15057				RW-BP100-8D	Synthetic construct		RRLFRRIlRWL	11	35145500	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15058				RW-BP100-9D	Synthetic construct		RRLFRRILrWL	11	35145500	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15059				RW-BP100-10D	Synthetic construct		RRLFRRILRwL	11	35145500	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15060				RW-BP100-11D	Synthetic construct		RRLFRRILRWl	11	35145500	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15061				RW-BP100-All-D	Synthetic construct		rrlfrrilrwl	11	35145500	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

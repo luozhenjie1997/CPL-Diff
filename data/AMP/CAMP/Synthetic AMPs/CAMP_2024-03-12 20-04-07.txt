@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18166		G1T9L4		CAP18 [L27P]	Synthetic construct		GLRKRLRKFRNKIKEKLKKIGQKIQGPLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18406				DC1	Synthetic construct		FAVAVKAVAVKAVAVKAVKKAVKKVKKAVKKAVKKKK	37	12208971	Antiviral		Experimentally Validated
+CAMPSQ18409				D5C1	Synthetic construct		KRKRAVKRVGRRLKKLARKIARLGVAKLAGLRAVKLF	37	12208971	Antiviral		Experimentally Validated
+CAMPSQ19059		P49932		Antibacterial peptide PMAP-37 [F9,34R]	Synthetic construct		GLLSRLRDRLSDRGRRLGEKIERIGQKIKDLSERFQS	37	31858653	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19058		P49932,		PMAP-37 [F34R]	Synthetic construct		GLLSRLRDFLSDRGRRLGEKIERIGQKIKDLSERFQS	37	31858653	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19057		P49932		Antibacterial peptide PMAP-37 [F9R]	Synthetic construct		GLLSRLRDRLSDRGRRLGEKIERIGQKIKDLSEFFQS	37	31858653	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18537		P49913		LL-37 [F5,6L]	Synthetic construct		LLGDLLRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	37	18591279	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20685		D3UA61		Esculentin-2CHa [D20K,D27K]	Synthetic construct		GFSSIFRGVAKFASKGLGKKLAKLGVKLVACKISKQC	37	23159562	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20686		D3UA61		Esculentin-2CHa [C31S, C37S]	Synthetic construct		GFSSIFRGVAKFASKGLGKDLAKLGVDLVASKISKQS	37	23159562	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20934		Q71MD7,		Hematopoietic antimicrobial peptide-37 [W2F,L29V], HFIAP-1	Synthetic construct		GFFKKAWRKVKHAGRRVLDTAKGVGRHYVNNWLNRYR	37	5019197	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21514		Q70626		Undefined	Synthetic construct		TTWEAWDRAIAEYAARIEALIRAAQELQEKLEAALRE	37	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21557		Q5DP94		CP24-IBP	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKSDCAWHLGELVWCT	37	31805154	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21558		Q5DP94		IBP-CP24	Synthetic construct		DCAWHLGELVWCTMTWEEWDKKIEEYTKKIEELIKKS	37	31805154	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21650		P01507,P01510		Cecropin AD	Synthetic construct		KWKLFKKIEKVGQRVRDAVISAGPAVATVAQATALAK	37	19546372, 22651919	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21780				Undefined	Synthetic construct		WMEWDREIEEYTKKIEEYTKKIEEYTKKIWASLWNWF	37	18662985	Antiviral	Gram-	Experimentally Validated
+CAMPSQ21817		P12487,Q1A243		Undefined	Synthetic construct		SGIDQEQNNLTRLIEAQIHELQLTQWKIKQLLARILK	37	19593361	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21818		,P12487		Undefined	Synthetic construct		SGIVQQLNNQLRAEEANQHLEQLSVWGSKQNQARRLK	37	19593361	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22401		P02662		Alpha-S1-casein (1-37)	Synthetic construct		RPKHPIKHQGLPQEVLNENLLRFFVAPFPEVFGKEKV	37	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22850		P25230		CAP18-MP(FV)-HsNC, CAP7-HsNC	Synthetic construct		LLRKRLRKFRNKIKEKLKKIGQKIQGFVPKLVPRTES	37	27925615	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22851		P25230		CAP18-MP(FV)-TtNC, CAP7-TtNC	Synthetic construct		RLRKRLRKFRNKIKEKLKKIGQKIQGFVPKLQPSKQS	37	27925615	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23093				Hl Defensin-1, HlDFS1	Synthetic construct		GFGCPFNARRCHRHCRSIRRRAGYCAGRLRLTCTCVR	37	28969703	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23130				Amylin-BP	Synthetic construct		KCNTATCVTQRLADFLVRSSNTIGTVYAPTNVGAAAY	37	29165344	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23144		Q8WTQ1		HBD-4-1d (3-39)	Synthetic construct		ELDRIXXGYGTARCRKKRSQEYRIGRXPNTYAXCLRK	37	25785690	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23146		Q8WTQ1		HBD-4-1d [S] (3-39)	Synthetic construct		ELDRISSGYGTARCRKKRSQEYRIGRSPNTYASCLRK	37	25785690	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23258		P68577,P68578,A0A1J5X031	2MIJ	Sublancin	Synthetic construct		GLGKAQCAALWLQCASGGTIGXGGGAVACQNYRQFCR	37	29854837	Antibacterial	Gram+,Gram-	Experimentally Validated

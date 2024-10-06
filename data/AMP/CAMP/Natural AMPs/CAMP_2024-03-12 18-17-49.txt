@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2881				  Oxyopinin 2b 	Oxyopes kitabensis	Animalia (Arachnida)	GKFSGFAKILKSIAKFFKGVGKVRKQFKQASDLDKNQ	37	Reference: Komori, T., Yamada, S., Imaseki, H. (1997). Plant Physiol. 115, 314.	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2915				  Plantaricin 423 	Lactobacillus plantarum 423	Monera	KYYGNGVTCGKHSCSVNWGQAFSCSVSHLANFGHGKC	37	9717299	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2916				  Plantaricin C19 	Lactobacillus plantarum C19	Monera	KYYGNGLSCSKKGCTVNWGQAFSCGVNRVATAGHHKC	37	11545225	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3132				  Brevinin-2PRa 	Rana pirica	Animalia (Amphibia)	GLMSLFKGVLKTAGKHIFKNVGGSLLDQAKCKITGEC	37	15003829	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3133				  Brevinin-2PRb 	Rana pirica	Animalia (Amphibia)	GLMSLFRGVLKTAGKHIFKNVGGSLLDQAKCKITGEC	37	15003829	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3134				  Brevinin-2PRc 	Rana pirica	Animalia (Amphibia)	GLMSVTKGVLKTAGKHIFKNVGGSLLDQAKCKISGQC	37	15003829	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3135				  Brevinin-2PRd 	Rana pirica	Animalia (Amphibia)	GLMSVLKGVLKTAGKHIFKNVGGSLLDQAKCKITGQC	37	15003829	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3136				  Brevinin-2PRe 	Rana pirica	Animalia (Amphibia)	GLLSVLKGVLKTTGKHIFKNVGGSLLDQAKCKISGQC	37	15003829	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3201				  Cg-Prp 	Crassostrea gigas	Animalia (Molluscs (Bivalvia))	ILENLLARSTNEDREGSIFDTGPIRRPKPRPRPRPEG	37	18962895	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3267				  Calcitonin gene-related peptide 	Homo sapiens	Animalia (Mammals)	ACDTATCVTHRLAGLLSRSGGVVKNNFVPTNVGSKAF	37	18603306	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3292				  Esculentin-2Wa 	Rana capito	Animalia (Amphibia)	NIFSLLSLGAKVLGKTLLKSAGKAGAEQLACKATNQC	37	19635516	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ3355				  pBD-2 	Sus scrofa	Animalia (Mammals)	DHYICAKKGGTCNFSPCPLFNRIEGTCYSGKAKCCIR	37	17658606	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3361				  pBD-1 	Sus scrofa	Animalia (Mammals)	SVSCLRNKGVCMPGKCAPKMKQIGTCGMPQVKCCKRK	37	17168333	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3368				  Sublancin 168, Sublancin	Bacillus subtilis 168	Monera	GLGKAQCAALWLQCASGGTIGCGGGAVACQNYRQFCR	37	9722542, 28906115	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3432				  Esculentin-2ISa  	Odorrana ishikawae	Animalia (Amphibia)	GIFSLIKGAAKLITKTVAKEAGKTGLELMACKVTNQC	37	 21193000	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3442				  Esculentin-2PRa 	Rana pretiosa	Animalia (Amphibia)	GVFSFLKTGAKLLGSTLLKMAGKAGAEHLACKATNQC	37	21295070	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3443				  Esculentin-2PRb	Rana pretiosa	Animalia (Amphibia)	GIFSALAAGVKLLGNTLFKMAGKAGAEHLACKATNQC	37	21295070	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3474				  Papiliocin 	Papilio xuthus	Animalia (Insects)	RWKIFKKIEKVGRNVRDGIIKAGPAVAVVGQAATVVK	37	20213310	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3477	33114169			  Ir-Def1 	Ixodes ricinus	Animalia (Arachnida)	GGYYCPFFQDKCHRHCRSFGRKAGYCGGFLKKTCICV	37	21504572	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3478	86278360			  Ir-Def2 	Ixodes ricinus	Animalia (Arachnida)	GGYYCPFRQDKCHRHCRSFGRKAGYCGGFLKKTCICV	37	21504572	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3483		P86698	2L2R	  EcAMP1 	Echinochloa crus-galli	Plantae	GSGRGSCRSQCMRRHEDEPWRVQECVSQCRRRRGGGD	37	21561864	Antifungal		Experimentally validated
+CAMPSQ3490				  FeCath 	Felis catus	Animalia (Mammals)	QLGELIQQGGQKIVEKIQKIGQRIRDFFSNLRPRQEA	37	21533281	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3573				  Esculentin-2-OA1 	Odorrana andersonii	Animalia (Amphibia)	GIFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC	37	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3574				  Esculentin-2-OA2 	Odorrana andersonii	Animalia (Amphibia)	GLFTLIKGAAKLIGKTTAKEAGKTGKLEMACKITNQC	37	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3577				  Esculentin-2-OR2 	Odorrana rotodora	Animalia (Amphibia)	GVFTLIKGATQLIGKTLGKEVGKTGLELMACKITKQC	37	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

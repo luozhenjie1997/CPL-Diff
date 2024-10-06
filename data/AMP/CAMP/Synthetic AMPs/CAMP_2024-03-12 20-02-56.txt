@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20634		P81861,		Pardaxin P-4-[D]P7L18L19, TApar-[D]P7L18L19	Synthetic construct		GFFALIPKIISSPLFKTLLSAVGSALSSSGGQX	33	8631748, 8620888	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20832		P55788		Hybrid peptide LFT33, LfcinB (1-15)[M10W] + Thanatin (4-21)	Synthetic construct		FKCRRWQWRWKKLGAKPVPIIYCNRRTGKCQRM	33	22189867	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21177		P19661		Cathelicidin-3 (27-59), Bactenecin-7 (27-59)	Synthetic construct		PIPRPLPFPRPGPRPIPRPLPFPRPGPRPIPRP	33	12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21314		P11006		(K)10 Magainin-2	Synthetic construct		KKKKKKKKKKGIGKFLHSAKKFGKAFVGEIMNS	33	1605597	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21315		P11006		(A)10 Magainin-2	Synthetic construct		AAAAAAAAAAGIGKFLHSAKKFGKAFVGEIMNS	33	1605597	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21316		P11006		(R)10 Magainin-2	Synthetic construct		RRRRRRRRRRGIGKFLHSAKKFGKAFVGEIMNS	33	1605597	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21318		P11006		Magainin-2 K(10)	Synthetic construct		GIGKFLHSAKKFGKAFVGEIMNSKKKKKKKKKK	33	1605597	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21551		K9N5Q8		MERS-S (1254-1286) [Q1E, I2A]	Synthetic construct		EANTTLLDLTYEMLSLQQVVKALNESYIDLKEL	33	27795416	Antiviral		Experimentally Validated
+CAMPSQ21743		P01966		Hemoglobin subunit alpha (1-33)	Synthetic construct		VLSAADKGNVKAAWGKVGGHAAEYGAEALERMF	33	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21744		P01966		Hemoglobin subunit alpha (73-105)	Synthetic construct		LDDLPGALSELSDLHAHKLRVDPVNFKLLSHSL	33	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21757		P02070		Hemoglobin subunit beta (2-34)	Synthetic construct		LTAEEKAAVTAFWGKVKVDEVGGEALGRLLVVY	33	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21862		P05866		Rev (34-50) -A4C-RTD	Synthetic construct		TRQARRNRRRRWRERQRAAAACYGRKKRRQRRR	33	20580677	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22246				BP204, BP134 x 3	Synthetic construct		KKLFKKILKYLKKLFKKILKYLKKLFKKILKYL	33	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22337				Cathelicidin BG (5-37), BG-CATH37 (5-37)	Synthetic construct		PCRGRSCGPRLRGGYTLIGRPVKNQNRPKYMWV	33	26091834	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22956		A0A072TJ27		NCR335 (39-50) + NCR247 (13-24)- StrepII	Synthetic construct		RPLNFKMLRFWGQQQCRRPLYCRRRWSHPQFEK	33	32153547	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23014		P03138		7R-Ahx-HBV Large envelope protein (219-243)	Synthetic construct		RRRRRRRXPTSNHSPTSCPPTCPGYRWMCLRRF	33	21144865	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23897		P59594		SARS-CoV-2-S (1179-1211), IPB07	Synthetic construct		IQKEIDRLNEVAKNLNESLIDLQELGKYEQYIK	33	32376627	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23936		P02649		C-apoE (131-162), hEP-2	Synthetic construct		CEELRVRLASHLRKLRKRLLRDADDLQKRLAVY	33	22334503	Antiviral		Experimentally Validated
+CAMPSQ23938		P08226		C-MapoE (123-154), mhEP	Synthetic construct		CEEIRARLSTHLRKMRKRLMRDADDLQKRLAVY	33	22334503	Antiviral		Experimentally Validated
+CAMPSQ23995		Q5DP94		SC33EK	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSEEQQKKNEKEL	33	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24012		Q5DP94		MTSC31EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNEK	33	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24034		P14338		DENV-2 gp (412-444), DN59	Synthetic construct		MAILGDTAWDFGSLGGVFTSIGKALHQVFGAIY	33	23226444	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24125				Cathelicidin-DM (5-37)	Synthetic construct		KPCKGWLCKLKLRGGYTLIGSATNLNRPTYVRA	33	32363280	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24177		P16090		FIV Egp (728-760)	Synthetic construct		GNITLGEWYNQTKDLQQKFYEIIMDIEQNNVQG	33	12186891	Antiviral		Experimentally Validated
+CAMPSQ24178		P16090		FIV Egp (729-761)	Synthetic construct		NITLGEWYNQTKDLQQKFYEIIMDIEQNNVQGK	33	12186891	Antiviral		Experimentally Validated

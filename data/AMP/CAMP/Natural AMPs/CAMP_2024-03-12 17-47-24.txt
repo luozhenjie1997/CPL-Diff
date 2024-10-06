@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2791				Anionic peptide SAAP 	Pasteurella haemolytica	Monera	DDDDDD	6	8552650	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10424		B3A0L8		Antimicrobial protein 2 	Scylla serrata	Animalia	HSPGGA	6		Antibacterial		Predicted
+CAMPSQ10455				F3-3-b	Allium sativum	Plantae	WPTSFT	6	31241636	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10456				F3-3-c	Allium sativum	Plantae	AVDRAV	6	31241636	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10694				XLAsp-P2 	Xenopus laevis	Animalia	DEDLDE	6	28299865	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12315				Casein derived antimicrobial peptide 	Bos taurus	Animalia (Mammals)	YPVEPF	6	29915567	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12361				Poly6	Hepatitis B virus (HBV)	Virus	GRLVFQ	6	29752938	Antiviral 		Experimentally validated
+CAMPSQ12623				LfcinB (4-9)	Bos taurus 	Animalia (Mammals)	RRWQWR	6	28752991	Antibacterial		Experimentally validated
+CAMPSQ13369				Rhabdin	Xenorhabdus khoisanae J194	Monera (Bacteria)	VXPPFL	6	33859975	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14237				Peptide 8	Bos taurus	Animalia	KSETKN	6	28878220	Antiviral		Experimentally validated
+CAMPSQ15218				Pal-ano-6	Anoplius samariensis	Animalia (Insects)	GLLKRI	6	29614317	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16229				APAP-3 MOD	Achatina fulica	Animalia (Molluscs (Gastropoda))	VRIKL	5	35408688	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ21235				Baceridin	Bacillus (plant-associated  Bacillus strain)	Bacteria	WaXVlL	6	24692199	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21891				Hytramycin V	Streptomyces hygroscopicus ECUM 14046	Bacteria	XxLvXx	6	24224794	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21892				Hytramycin I	Streptomyces hygroscopicus ECUM 14046	Bacteria	XxLxXx	6	24224794	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22028				Desotamide A	Streptomyces nov. sp.	Bacteria	WLlXNG	6	25229313	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22029				Desotamide B	Streptomyces nov. sp.,Streptomyces scopuliridis SCSIO ZJ46		WLlVNG	6	25229313, 29431987, 25072108, 29125222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22030				Desotamide E	Streptomyces nov. sp.	Bacteria	WLvXNG	6	25229313	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22031				Desotamide F	Streptomyces nov. sp.	Bacteria	WLxXNG	6	25229313	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22032				Wollamide B [V4Me-Val]	Streptomyces nov. sp.		WLlXNx	6	25229313, 29431987, 28423019	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22033				Wollamide B	Streptomyces nov. sp.		WLlVNx	6	25229313, 29431987, 29125222, 28423019	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22046				Desotamide A	Streptomyces scopuliridis SCSIO ZJ46	Bacteria	NGWLLI	6	25072108	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22047				Desotamide D	Streptomyces scopuliridis SCSIO ZJ46	Bacteria	XGNIlL	6	25072108	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22526				XLAsp-P1	Xenopus laevis	Animalia	DEDDD	5	26952034	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23043				Aneurinifactin	Aneurinibacillus aneurinilyticus SBP-11	Bacteria	TYVSYT	6	27938857	Antibacterial	Gram+,Gram-	Experimentally Validated

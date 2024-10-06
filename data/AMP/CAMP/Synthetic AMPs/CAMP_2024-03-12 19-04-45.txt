@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22003		Q10464		Puroindoline-B (35-46)[P2,6K], PuroB5	Synthetic construct		FKVTWKTKWWKG	12	23562406	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22071				Undefined	Synthetic construct		FAKLAARLYRKA	12	24798285	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22080				6 x Paralysin beta-AY amide	Synthetic construct		XYXYXYXYXYXY	12	24168419	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22092		Q6JWQ9		Epinecidin-1 (23-34)	Synthetic construct		FIFHIIKGLFHA	12	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22115		G9M010		Antilipopolysacharide factor (49-72)del(59-70)	Synthetic construct		ECKFTVKPYLCP	12	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22118		G9M010		Antilipopolysacharide factor (49-72)del(51-62)	Synthetic construct		ECVYYKGRMWCP	12	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22187		Q13319		Cyclin-dependent kinase 5 activator (66-77)	Synthetic construct		WKRLVAASAKKK	12	23597653	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22188		Q9H3P7		Golgi resident protein GCP60 (109-120)	Synthetic construct		KLKLVALHKQVL	12	23597653	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22189		A0AUZ9		KAT8 regulatory NSL complex subunit 1-like protein (99-110)	Synthetic construct		KKLGEPSCNKLK	12	23597653	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22190		A6NC57		Ankyrin repeat domain-containing protein (303-314)	Synthetic construct		KKCRNKKMEVSR	12	23597653	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22204				Undefined	Synthetic construct		HRILMRIRQMMT	12	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22205				Undefined	Synthetic construct		ARILMRIRQMMT	12	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22206				Undefined	Synthetic construct		HRALMRIRQMMT	12	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22207				Undefined	Synthetic construct		HRIAMRIRQMMT	12	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22208				Undefined	Synthetic construct		HRILARIRQMMT	12	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22209				Undefined	Synthetic construct		HRILMRARQMMT	12	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22210				Undefined	Synthetic construct		HRILMRIAQMMT	12	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22211				Undefined	Synthetic construct		HRILMRIRAMMT	12	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22212				Undefined	Synthetic construct		HRILMRIRQAMT	12	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22213				Undefined	Synthetic construct		HRILMRIRQMAT	12	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22214				Undefined	Synthetic construct		HRILMRIRQMMA	12	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22318				[R7W5]	Synthetic construct		RRRRRRRWWWWW	12	30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22379		B7QGE4		Defensin MT7 gamma-core	Synthetic construct		CNGPFNIVCSCY	12	26255244	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22499				CWR11	Synthetic construct		CWFWKWWRRRRR	12	23758173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22550				W4R8	Synthetic construct		WWWWRRRRRRRR	12	22989747	Antibacterial	Gram+,Gram-	Experimentally Validated

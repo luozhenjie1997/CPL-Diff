@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22918		B5A9T1		Chensinin-1 [G4,11W;H6W;G7Del;H15,18Del]	Synthetic construct		SAVWRWRRFWLRKRK	15	28054660	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22937		P80195		LPcin (1-15), LPcin-YK1	Synthetic construct		NTVKETIKYLKSLFS	15	28104898	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23024				FR-15	Synthetic construct		FRRFFKWFRRFFKFF	15	28483698	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23025				FR-15 [F4P]	Synthetic construct		FRRPFKWFRRFFKFF	15	28483698	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23026				FR-15 [F8P]	Synthetic construct		FRRFFKWPRRFFKFF	15	28483698	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23027				FR-15 [F11P]	Synthetic construct		FRRFFKWFRRPFKFF	15	28483698	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23028				FR-15 [F4,8P]	Synthetic construct		FRRPFKWPRRFFKFF	15	28483698	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23029				FR-15 [F8,11P]	Synthetic construct		FRRFFKWPRRPFKFF	15	28483698	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23077		P49931		PMAP-36 (10-24)	Synthetic construct		TRKRLKKIGKVLKWI	15	27251456	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23157				3-RW	Synthetic construct		WRWNRRTGRWRWTGP	15	29193517	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23373		P10645		Chromogranin A (46-60), CGA-N15	Synthetic construct		ERILSILRHQNLLKE	15	27165480	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23388		H6S4F4,		WAMP-2 (18-32)	Synthetic construct		CCGKYGFCGSGDAYC	15	33114433, 33291849	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23395		P59665		HNP-1 (15-30)[G9(2-Abz), C15S]	Synthetic construct		RYGTCIYQXRLWAFS	15	30048118	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23448				HPRP-A3	Synthetic construct		FKKLKKLFSKLKNWW	15	25826179	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23449				HPRP-A4	Synthetic construct		KFLKLKWLKSWKNFK	15	25826179	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23450				HPRP-B	Synthetic construct		FKLKLKFSNKLKWKW	15	25826179	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23451				HPRP-C	Synthetic construct		LFKKNKLWFKSKKWL	15	25826179	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23512		Q5S007		LRRK2 (2413-2427)[A12Aib]	Synthetic construct		rVKTLCLQKNTXLWI	15	29337270	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23584				Ac-UM-14W	Synthetic construct		KAAKAAKKAAKAAWK	15	26235946	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23585				Ac-SS-14W	Synthetic construct		KXAKAXKKAAKAAWK	15	26235946	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23586				Ac-DS-14W	Synthetic construct		KXAKAXKKXAKAXWK	15	26235946	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23587				Ac-DS-12W	Synthetic construct		KXAKAXKKXAKWXAK	15	26235946	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23588				Ac-DS-3W	Synthetic construct		KXWKAXKKXAKAXAK	15	26235946	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23589				H-DS-5W	Synthetic construct		KXAKWXKKXAKAXAK	15	26235946	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23921		P26663		HCV gp (711-725)	Synthetic construct		SFAIKWEYVLLLFLL	15	20156485	Antiviral		Experimentally Validated

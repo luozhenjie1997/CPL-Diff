@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ7579		Q3SZV8		Reactive oxygen species modulator 1 (ROS modulator 1) (Protein MGR2 homolog)	Bos taurus 	Animalia (Mammals)	CLRIGMRGRELMGGIGKTM	19		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ7580		P60603		Reactive oxygen species modulator 1 (ROS modulator 1) (Protein MGR2 homolog)	Mus musculus 	Animalia (Mammals)	CLRIGMRGRELMGGIGKTM	19		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ7581		Q6NYD1		Reactive oxygen species modulator 1 (ROS modulator 1) (Protein MGR2 homolog)	Danio rerio 	Animalia (Pisces)	SCLRIGMRGRELMGGVGKT	19		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ7582		Q4V7T9		Reactive oxygen species modulator 1 (ROS modulator 1) (Protein MGR2 homolog)	Xenopus laevis 	Animalia (Amphibia)	CLRFGMRGRELMGGVGKTM	19		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ7583		A4QNF3		Reactive oxygen species modulator 1 (ROS modulator 1) (Protein MGR2 homolog)	Xenopus tropicalis 	Animalia (Amphibia)	CLRFGMRGRELMGGVGKTM	19		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ7584		A1XQR6		Reactive oxygen species modulator 1 (ROS modulator 1) (Protein MGR2 homolog)	Sus scrofa 	Animalia (Mammals)	CLRIGMRGRELMGGIGKTM	19		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ8746				PS -2	Phyllomedusa hypochondrialis	Animalia (Amphibia)	FLSLIPHAINAVSTLVHHF	19	23029273	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8846				Onc72	Oncopeltus fasciatus	Animalia (Arthropoda)	VDKPPYLPRPRPPROIYNO	19	26448548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8847				Drosocin	Drosophila melanogaster	Animalia (Arthropoda)	GKPRPYSPRPTSHPRPIRV	19	26448548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8849				Onc112	Oncopeltus fasciatus	Animalia (Arthropoda)	VDKPPYLPRPRPPRXIYNX	19	26448548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8962				Tc06	Theobroma cacao	Plantae (Angiosperms)	GSLHGFMYKYLKNMVLNLF	19	29038449	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8966				Tc10	Theobroma cacao	Plantae (Angiosperms)	GLLFKELQKLIRYQIFIGK	19	29038271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8968				At01	Arabidopsis thaliana	Plantae (Angiosperms)	GSLHGFMYKYLKNMVLTLF	19	29038271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8972				Cs01	Citrus sinensis	Plantae (Angiosperms)	GSLHGFMYRYLKNMVLNLF	19	29038271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8973				Zm01 	Zea mays	Plantae (Angiosperms)	GSLHGFMYKYLKTLVLRLY	19	29038271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8977				Gr02 	Gossypium raimondii	Plantae (Angiosperms)	ANRLLEAYKMLLKFLGNLR	19	29038271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9303				Um2	Urodacus manicatus	Animalia (Arachnida)	ISQSDAILSAIWSGIKSLF	19	28067810	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ9327				Smp24T	Scorpio maurus palmatus	Animalia	IWSFLIKAATKLLPSLFGG	19	27019370	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9499				B2RP-Era	Hylarana erythraea	Animalia	GVIKSVLKGVAKTVALGML	19	31102497	Antibacterial		Experimentally validated
+CAMPSQ9653				Temporin-SN1	Hylarana Spinulosa	Animalia	FFPFLLGALGSLLPKIFGK	19	24055160	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ9752				IG-19 	Homo sapiens	Animalia	IGKEFKRIVQRIKDFLRNL	19	22521196	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9792				Gp41w	HIV-1 glycoprotein gp41	Virus	KWASLWNWFNITNWLWYIK	19	23019445	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9893				Onc72	Oncopeltus fasciatus	Animalia	VDKPPYLPRPRPPROIYNO	19	29309652	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9894				Onc112	Oncopeltus fasciatus	Animalia	VDKPPYLPRPRPPRrIYNr	19	29309652	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9898				Drosocin Hyp5	Drosophila melanogaster	Animalia	GKPRxYSPRPTSHPRPIRV	19	29309652	Antibacterial	Gram -ve	Experimentally validated

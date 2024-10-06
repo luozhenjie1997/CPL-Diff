@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2818		P35618	1og7	  Sakacin P/ Sakacin 674 	Lactobacillus sake Lb674	Monera	KYYGNGVHCGKHSCTVDWGTAIGNIGNNAAANWATGGNAGWNK	43	8138128	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2875				  Galleria defensin  	Galleria mellonella	Animalia (Insects)	DTLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFLNVNCWCE	43	14728668	Antibacterial		Experimentally validated
+CAMPSQ2909				  Human drosomycin-like defensin 	Homo sapiens	Animalia (Mammals)	CLAGRLDKQCTCRRSQPSRRSGHEVGRPSPHCGPSRQCGCHMD	43	18212107	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2913				  Listeriocin 743A 	Listeria innocua 743	Monera	KSYGNGVHCNKKKCWVDWGSAISTIGNNSAANWATGGAAGWKS	43	11526003	Antibacterial		Experimentally validated
+CAMPSQ2914				  Mundticin KS 	Enterococcus mundtii NFRI 7397	Monera	KYYGNGVSCNKKGCSVDWGKAIGIIGNNSAANLATGGAAGWKS	43	12147478	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2955		C7G1H4		  Bacteriocin plantarican ASM1	Lactobacillus plantarum A-1	Monera	KPAWCWYTLAMCGAGYDSGTCDYMYSHCFGVKHSSGGGGSYHC	43	19939484	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3190				  RprDefA 	Rhodnius prolixus	Animalia (Insects)	ATCDLFSFRSKWVTPNHAACAAHCLLRGNRGGRCKGTICHCRK	43	12650692	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3191				  RprDefB 	Rhodnius prolixus	Animalia (Insects)	ATCDLLSFRSKWVTPNHAGCAAHCLLRGNRGGHCKGTICHCRK	43	12650692	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ3192				  RprDefC 	Rhodnius prolixus	Animalia (Insects)	ATCDLFSFRSKWVTPNHAGCAAHCIFLGNRGGRCVGTVCHCRK	43	12650692	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ3279				  NLP-28 	Caenorhabditis elegans	Animalia (Chromadorea)	QWGYGGYGRGYGGYGGYGRGMYGGYGRGMYGGYGRGMYGGWGK	43	15048112	Antifungal		Predicted
+CAMPSQ3672	145864817	A9XFZ7		  Coprisin	Copris tripartitus	Animalia (Insects)	VTCDVLSFEAKGIAVNHSACALHCIALRKKGGSCQNGVCVCRN	43	23137439	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3977		P29420		Seed non-specific lipid transfer protein-like 	Raphanus sativus 	Plantae	ALSCGTVNSNLAACIGYLTQNAPLARGCCTGVTNLNNMAXTTP	43	16653017	Antifungal		Experimentally validated
+CAMPSQ4301	293321595	D5GR55		Gallin protein	Gallus gallus 	Animalia (Aves)	YGLVLKYCPKIGYCSNTCSKTQIWATSHGCKMYCCLPASWKWK	43	20226050	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ4323				Drosomycin	Drosophila melanogaster	Animalia (Insects)	CLSGRYKGPCAVWDNETCRRVCKEEGRSSGHCSPSLKCWCEGC	43	18212107	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4325				Sakacin P	Lactobacillus sake LTH673	Monera	KYYGNGVHCGKHSCTVDWGTAIGNIGNNAAANWATGGNAGWNK	43	8633865	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ4375		Q5MGC9		Defense protein 6	Lonomia obliqua	Animalia (Insects)	LTVRAAQSFGRCNQKQCDADCVKKGYFGGLCTLTSCFCTGSRS	43	16023793	Antibacterial		Predicted
+CAMPSQ4965	158930187	B2BVN1		SboA (Subtilosin A)	Bacillus amyloliquefaciens 	Monera	MKKAVIVENKGCATCSIGAACLVDGPIPDFEIAGATGLFGLWG	43	17976171	Antibacterial	Gram +ve, Gram -ve	Predicted (Based on signature)
+CAMPSQ4985	363805607	B3A0N4		Bacteriocin weissellin-A	Weissella paramesenteroides 	Monera	KNYGNGVYCNKHKCSVDWATFSANIANNSVAMAGLTGGNAGNK	43	21511463	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ7548		E9K9Z1	2KUY	Bacteriocin glycocin F (GccF)	Lactobacillus plantarum	Monera	KPAWCWYTLAMCGAGYDSGTCDYMYSHCFGIKHHSSGSSSYHC	43	21251913	Antibacterial		Experimentally validated
+CAMPSQ8102		D2WPC8		Beta-defensin	Paralichthys olivaceus 	Animalia (Pisces)	DQPKLDCSTIQGVCKDSCLSTEFSIGALGCSAESSTVCCITKP	43	19900559	Antibacterial		Predicted
+CAMPSQ8103		D2WPC9		Beta-defensin	Paralichthys olivaceus 	Animalia (Pisces)	DRPKLDCSTIQGVCKDSCLSTEFSIGALGCSAESSTVCCITKP	43	19900559	Antibacterial		Predicted
+CAMPSQ8105	673912458	A0A076YFY6		Beta-defensin	Liza haematocheila 	Animalia (Pisces)	NDPEMQYWTCGYRGLCRRFCHAQEYIVGHHGCPRRYRCCAVRS	43	25108846	Antibacterial	Gram+ve	Predicted
+CAMPSQ8108		M4PSP6		Beta-defensin	Paramisgurnus dabryanus	Animalia (Pisces)	YDTGIQGWTCGSRGLCRKHCYAQEHTVGYHGCPRRYRCCALRF	43	23688963	Antibacterial		Predicted
+CAMPSQ8109		M4PSB8		Beta-defensin	Paramisgurnus dabryanus	Animalia (Pisces)	YDTEIQGWTCGSRGLCRKHCYAQEHTVGYHGCPRRYRCCALRF	43	23688963	Antibacterial		Predicted
+CAMPSQ8118		H6UWK5, Q7T0L3		Beta-defensin	Epinephelus coioides 	Animalia (Pisces)	NDPEMQYWTCGYRGLCRRFCHAQEYIVGHHGCPRRYRCCAVRS	43	22343108	Antiviral		Experimentally validated

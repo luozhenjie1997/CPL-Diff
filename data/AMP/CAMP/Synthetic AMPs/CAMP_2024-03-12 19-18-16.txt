@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14169				G(IIKK)3II-NH2	Synthetic construct		GIIKKIIKKIIKKII	15	34626966	Antifungal, Antibiofilm		Experimentally validated
+CAMPSQ14264				BTT1	Synthetic construct		LKLKLKLTGKLKLKL	15	34506975	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14265				BTT2	Synthetic construct		LKLKLKVpPTKLKLK	15	34506975	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14267				BTT4	Synthetic construct		LKLKLKINGKKLKLK	15	34506975	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14270				BTT7	Synthetic construct		LKLKLKRDGKLKLKL	15	34506975	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14273				BTT10	Synthetic construct		LKLKLKRDNKLKLKL	15	34506975	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14328				CM	Synthetic construct		KWKLFKKIGAVLKVL	15	34516580	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14451				CKR12-PLGA	Synthetic construct		CKRIVKRIVKKWLRO	15	34769486	Antifungal		Experimentally validated
+CAMPSQ14458				Flg15	Synthetic construct		RINSAKDDAAGLQIA	15	34733307	Antibacterial, antifungal	Gram -ve	Experimentally validated
+CAMPSQ14483				ConsP1	Synthetic construct		VRKPPYLPRPRPRPL	15	34966279	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14942				Peptide P1	Synthetic construct		rsmrlsfrargygfr	15	35216181	Antifungal		Experimentally validated
+CAMPSQ14955				Peptide P12	Synthetic construct		SSMKLSFRARGYGFR	15	35216181	Antifungal		Experimentally validated
+CAMPSQ14956				Peptide P13	Synthetic construct		SSMKLSFRARGYGFR	15	35216181	Antifungal		Experimentally validated
+CAMPSQ15074				QUB-1599	Synthetic construct		FLALAGKQEAIAKLK	15	35203845	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ15075				QUB-1585	Synthetic construct		FLALALGKEAIAKLK	15	35203845	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ15076				QUB-1570	Synthetic construct		FLALALIGKAIAKLK	15	35203845	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ15077				QUB-1643	Synthetic construct		FLAGKLIQEAIAKLK	15	35203845	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ15078				QUB-1498	Synthetic construct		FLALALIGGAIAKLK	15	35203845	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ15079				QUB-1609	Synthetic construct		FLALALIPKAIAKLK	15	35203845	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ15120				ARRDC3	Synthetic construct		ERPEAPPSYAEVVTE	15	35257734	Antiviral		Experimentally validated
+CAMPSQ15125				Ebola-long	Synthetic construct		ILPTAPPEYMEAIYP	15	35257734	Antiviral		Experimentally validated
+CAMPSQ15397	2208914778		7RNW_W	Chain W, ACE-DTY-LEU-GLN-TYR-ALA-VAL-LEU-ARG-HIS-LYS-ARG-ARG-GLU-SEC	Synthetic construct		XXLQYAVLRHKRREX	15	unpublished	Antiviral		Experimentally validated
+CAMPSQ15398	2208914777		7RNW_Z	Chain Z, ACE-DTY-LEU-GLN-TYR-ALA-VAL-LEU-ARG-HIS-LYS-ARG-ARG-GLU-SEC	Synthetic construct		XXLQYAVLRHKRREX	15	unpublished	Antiviral		Experimentally validated
+CAMPSQ15399	2208914776		7RNW_Y	Chain Y, ACE-DTY-LEU-GLN-TYR-ALA-VAL-LEU-ARG-HIS-LYS-ARG-ARG-GLU-SEC	Synthetic construct		XXLQYAVLRHKRREX	15	unpublished	Antiviral		Experimentally validated
+CAMPSQ15400	2208914775		7RNW_X	Chain X, ACE-DTY-LEU-GLN-TYR-ALA-VAL-LEU-ARG-HIS-LYS-ARG-ARG-GLU-SEC	Synthetic construct		XXLQYAVLRHKRREX	15	unpublished	Antiviral		Experimentally validated

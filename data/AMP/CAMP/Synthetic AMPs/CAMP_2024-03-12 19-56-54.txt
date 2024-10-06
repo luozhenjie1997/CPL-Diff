@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19903				Magainin analog-4	Synthetic construct		AIHKLAHKLLKKTLRAVKKLAN	22	11384964	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19904				Magainin analog-5	Synthetic construct		AIHKLAHKLTKKTLRAVKKLAN	22	11384964	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19905				Magainin analog-6	Synthetic construct		AIHKLAHKTLKKTLRAVKKLAN	22	11384964	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19906				Magainin analog-7	Synthetic construct		AIHKLAHKLLPKTLRAVKKLAN	22	11384964	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19938				NK22b	Synthetic construct		KILGVSKKIMRRISKDILTGKK	22	17389605	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20082		Q8UUG0		Piscidin 1 [I5A]	Synthetic construct		FFHHAFRGIVHVGKTIHRLVTG	22	27067326	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20083		Q8UUG0		Piscidin 1 [I5V]	Synthetic construct		FFHHVFRGIVHVGKTIHRLVTG	22	27067326	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20084		Q8UUG0		Piscidin 1 [I9V]	Synthetic construct		FFHHIFRGVVHVGKTIHRLVTG	22	27067326	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20085		Q8UUG0		Piscidin 1 [I16V]	Synthetic construct		FFHHIFRGIVHVGKTVHRLVTG	22	27067326	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20086		Q8UUG0		Piscidin 1 [I5F,F6A]	Synthetic construct		FFHHFARGIVHVGKTIHRLVTG	22	27067326	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20087		Q8UUG0		Piscidin 1 [V12I]	Synthetic construct		FFHHIFRGIVHIGKTIHRLVTG	22	27067326	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20088		Q8UUG0		Piscidin 1 [T15,21k]	Synthetic construct		FFHHIFRGIVHVGKKIHRLVKG	22	28051162	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20089		Q8UUG0		Piscidin 1 [T15k]	Synthetic construct		FFHHIFRGIVHVGKKIHRLVTG	22	28051162	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20395		P84385		PGLa-St2	Synthetic construct		GMATKAGTAFGKAAKAIIGAAL	22	23935531	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20635		P81861,		Pardaxin P-4 (1-22)	Synthetic construct		GFFALIPKIISSPLFKTLLSAV	22	8620888	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20681		F4ZBW5,		Warnericin RK [G20D]	Synthetic construct		MQFITDLIKKAVDFFKGLFDNK	22	27598770, 25869678	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20682		F4ZBW5,		Warnericin RK [F14V]	Synthetic construct		MQFITDLIKKAVDVFKGLFGNK	22	27598770, 25869678	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20691		D3UA61		Esculentin-2CHa (16-37)	Synthetic construct		GLGKDLAKLGVDLVACKISKQC	22	23159562	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20974		Q8UUG0		Piscidin 1 [G8A]	Synthetic construct		FFHHIFRAIVHVGKTIHRLVTG	22	17328560	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20975		Q8UUG0		Piscidin 1 [G13A]	Synthetic construct		FFHHIFRGIVHVAKTIHRLVTG	22	17328560	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20976		Q8UUG0		Piscidin 1 [G13P]	Synthetic construct		FFHHIFRGIVHVPKTIHRLVTG	22	17328560	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20977		Q8UUG0		Piscidin 1 [GP][GP]	Synthetic construct		FFHHIFRPIVHVPKTIHRLVTG	22	17328560	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20978		Q8UUG0		Piscidin 1 [G8A][G13P]	Synthetic construct		FFHHIFRAIVHVPKTIHRLVTG	22	17328560	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20979		Q8UUG0		Piscidin 1 [G8P][G13A]	Synthetic construct		FFHHIFRPIVHVAKTIHRLVTG	22	17328560	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20980		Q8UUG0		Piscidin 1 [F1A][F2A][F6A][G8P]	Synthetic construct		AAHHIARPIVHVGKTIHRLVTG	22	17328560	Antibacterial	Gram+,Gram-	Experimentally Validated

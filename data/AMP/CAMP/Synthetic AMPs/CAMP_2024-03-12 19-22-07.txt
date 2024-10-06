@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8449				1Kamp-4L	Synthetic construct		KALKKFLKAWAKLFKAL	17	31194548	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8475				Bac5 258	Synthetic construct		RFRPPIRRPPIRPPFYR	17	31692278	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8476				Bac5 272	Synthetic construct		RFRWPIRRPPIRPPFYR	17	31692278	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8477				Bac5 278	Synthetic construct		RWRWPIRRPPIRPPFYR	17	31692278	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8478				Bac5 281	Synthetic construct		RWRRPIRRRPIRPPFYW	17	31692278	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8479				Bac5 291	Synthetic construct		RWRRPIRRRPIRPPFWR	17	31692278	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8555				Kunitzin-RE 	Synthetic construct		AAKIILNPKFRCKAAFC	17	30958004	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8661				PMM	Synthetic construct		INWKKIASIGKEVLKAL	17	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8662				PMM-1 (PMM analog)	Synthetic construct		INWKKIASIGKEVLKAI	17	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8667				PMM-10 (PMM analog)	Synthetic construct		IWNKIAKSIGKVLEKAL	17	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8668				PMM-12 (PMM analog)	Synthetic construct		NIWKKIASIAKEVLKAL	17	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8669				PMM-13 (PMM analog)	Synthetic construct		KNWKKIASIGKEVLKAL	17	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8670				PMM-14 (PMM analog)	Synthetic construct		SNWKKIASIGKEVLKAL	17	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8677				CHRG07 (hBD3 derivative)	Synthetic construct		GIINTLQKYYSRVRGGR	17	12936977	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8710				MC-08	Synthetic construct		KALKKLLKLASSLLTAL	17	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8807				AP16+K	Synthetic construct		NWFDITNWLWYIKKKKK	17	26875765	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8822				KPV-13	Synthetic construct		KWKLFKKIWGKPV-NH2	17	26688811	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8823				AMC	Synthetic construct		CPIFTKIQGTCGGRRKK	17	26508857	Antibacterial, Antiviral	Gram -ve	Experimentally validated
+CAMPSQ8827				LF C-lobe peptide 2	Synthetic construct		AGDDQGLDKCVPNSKEK	17	26492266, 22595270	Antiviral		Experimentally validated
+CAMPSQ8829				Mucroporin-M1	Synthetic construct		LFRLIKSLIKRLVSAFK	17	26492266, 21620914	Antiviral		Experimentally validated
+CAMPSQ8841				CTEN2-PEG-KSLW	Synthetic construct		EGLEPGXKKVVFWVKFK	17	26473368	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8842				DAL-PEG-KSLW	Synthetic construct		YaGFLRXKKVVFWVKFK	17	26473368	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8979				TP1[K1A] 	Synthetic construct		AWCFRVCYRGICYRRCR	17	28960954	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8980				TP1[W2A]	Synthetic construct		KACFRVCYRGICYRRCR	17	28960954	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8981				TP1[C3A,C16S]	Synthetic construct		KWAFRVCYRGICYRRSR	17	28960954	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

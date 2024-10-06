@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ100	122069645	P85057		Ranatuerin-2SEA	Rana sevosa	Animalia (Amphibia)	GFISTVKNLATNVAGTVIDTIKCKVTGGC	29	16386333	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ116	129769	P01211		Proenkephalin A precursor 	Bos taurus 	Animalia (Mammals)	FAEPTBSEEEGESYSKEVPEMEKRYGGFM	29	8654396	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ124	1345732	P36190, O17512		Ceratotoxin-A	Ceratitis capitata	Animalia (Insects)	SIGSALKKALPVAKKIGKIALPIAKAALP	29	8353519	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ202	17433718	P56254	1JJZ,1K48,1KAL,1N1U,1NB1,1ORX,2F2I,2F2J,2JUE,2KHB	Kalata-B1 precursor	Oldenlandia affinis 	Plantae	VCGETCVGGTCNTPGCTCSWPVCTRNGLP	29	10430870	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ213	18202400	P82417		Ponericin-G4	Pachycondyla goeldii 	Animalia (Insects)	DFKDWMKTAGEWLKKKGPGILKAAMAAAT	29	11279030	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ273	2494047	Q62713		Neutrophil antibiotic peptide NP-3 precursor 	Rattus norvegicus	Animalia (Mammals)	CSCRTSSCRFGERLSGACRLNGRIYRLCC	29	2543629	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ400	41016801	P82234		Brevinin-2Tc	Rana temporaria	Animalia (Amphibia)	GLWETIKNFGKKFTLNILHKLKCKIGGGC	29	10333736	Antibacterial		Experimentally validated
+CAMPSQ401	41016802	P82235		Brevinin-2Td	Rana temporaria	Animalia (Amphibia)	GLWETIKNFGKKFTLNILHNLKCKIGGGC	29	10333736	Antibacterial		Experimentally validated
+CAMPSQ468	461939, 740961	P80281		Dermaseptin-5 	Phyllomedusa sauvagii	Animalia (Amphibia)	GLWSKIKTAGKSVAKAAAKAAVKAVTNAV	29	8306981	Antifungal		Experimentally validated
+CAMPSQ514	543980	P36191		Ceratotoxin-B	Ceratitis capitata	Animalia (Insects)	SIGSAFKKALPVAKKIGKAALPIAKAALP	29	8353519	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ19042		P49928,P49929,	1FRY	D-SMAP-29-1	Ovis aries		RGLRRLGRKIAHGVKKYGPTVLRIIRIA	28	11600395, 16997510, 14742236, 10601638, 24221355, 19396584	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20186				Ranatuerin-2TRa	Rana tarahumarae	Animalia	GIMDSIKGAAKEIAGHLLDNLKCKITGC	28	12237127	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20605				Ranatuerin-2PRc	Rana pretiosa	Animalia	GILDSFKDVAKGVATHLLNMAKCKMTGC	28	23653106	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20608				Ranatuerin-2PRh	Rana pretiosa	Animalia	GILDTVKGVAKDVAAHLLNMVKCKITGC	28	23653106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20618				CPF-M1	Xenopus muelleri	Animalia	GLGSLLGKAFKFGLKTVGKMMAGAPREQ	28	21664395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20621				CPF-MW1	Xenopus muelleri West	Animalia	GLGSLLGKAFKFGLKTVGKMMGGAPREQ	28	21664395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20622				CPF-MW2	Xenopus muelleri West	Animalia	GLGSLLGKAFKFGLKTVGKMMGGAPREE	28	21664395	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20787		O43612		Orexin B, ORXB	Homo sapiens	Animalia	RSGPPGLQGRLQRLLQASGNHAAGILTM	28	21176972	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21306		R4ZCU2		Tk-AMP-X2	Triticum kiharae	Plantae	ADDRCERMCQRYHDRREKKQCMKGCRYG	28	23702306	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22867		X5DSQ2		Cathelicidin-RC1	Lithobates catesbeiana	Animalia	KKCKFFCKVKKKIKSIGFQIPIVSIPFK	28	24675879	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23647		A0A5C1K3G5		Sm-Piscidin	Sebastiscus marmoratus	Animalia	KGARQAWKDYKYNRNMQKMNQGYGQQGG	28	31449978	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23670		A0A650FAG9		Dermaseptin-PC, DM-PC	Phyllomedusa coelestis	Animalia	ALWKSILKNVGKAAGKAVLNAVTDMVNQ	28	31653005	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24213		A0A2L2DDD0		Figainin 2, Figainin-02	Boana raniceps (Hypsiboas raniceps)	Animalia	FLGAILKIGHALAKTVLPMVTNAFKPKQ	28	32443921	Antibacterial, Antiviral, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24216		A0A238GSU5		Dermaseptin-PS1	Phyllomedusa sauvagii	Animalia	GLWKSLFKNVGKAAGKAALNAVTDMVNQ	28	32276085	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24311				Ranatuerin-2SSa	Glandirana susurra	Animalia	GLISTIWNTASNVAGTLTDSVKCKFKKC	28	32751229	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

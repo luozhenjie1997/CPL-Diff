@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18810				Undefined	Synthetic construct		KKKKKKLLFAAWAAFAA	17	18186149	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18811				Undefined	Synthetic construct		KKKKKKALFALWLAFAA	17	18186149	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18812				Undefined	Synthetic construct		KKKKKKAAFALWLAFLA	17	18186149	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18741		P26664		HCV (1977-1992)	Synthetic construct		LRDIWDWICEVLSDFK	17	18287023	Antiviral		Experimentally Validated
+CAMPSQ18716		P55897		Buforin-2 (5-21)[K2][K6][L7]	Synthetic construct		RKGLQKLVGRVHRLLRK	17	10890923	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18715		P55897		Buforin-2 (5-21)[L7]	Synthetic construct		RAGLQFLVGRVHRLLRK	17	10890923	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18711		P55897		Buforin-2 (1-17)	Synthetic construct		TRSSRAGLQFPVGRVHR	17	10890923	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18704		P55897,		D-sh-Buforin	Synthetic construct		RAGLQFPVGRVHRLLRK	17	10890923, 28314993, 19467281, 26743655, 25891844, 30141623	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18699				N-[RLLR]3	Synthetic construct		APKAMRLLRRLLRRLLR	17	14718539	Antibacterial, Antiviral, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18702				TN-[RLLR]2-TC	Synthetic construct		PKAMRLLRRLLRLQKKG	17	14718539	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19483		P35581		Apidaecin-1B Des-P14	Synthetic construct		GNNRPVYIPQPRPHPRL	17	20560644	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19672				HB153	Synthetic construct		FALKALKKLKKALKKAL	17	15980369	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19825		Q90ZD8		Parasin I (1-17)	Synthetic construct		KGRGKQGGKVRAKAKTR	17	18406495	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19837		B6D434		Cathelicidin-BF-15-a4, ZY4	Synthetic construct		VCKRWKKWKRKWKKWCV	17	31843919	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19893		P82043		Uperin 3.6 [D4K;N11,15K]	Synthetic construct		GVIKAAKKVVKVLKKLF	17	25965506	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19897		P82043		Uperin 3.6 [D4K]	Synthetic construct		GVIKAAKKVVNVLKNLF	17	25965506	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19898		P82043		Uperin 3.6 [D4K,N11K]	Synthetic construct		GVIKAAKKVVKVLKNLF	17	25965506	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19934				N17	Synthetic construct		KILRGVSKKIMRTFLRR	17	17389605	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20229		Q70626		LP17, Lentivirus lytic peptide LLP1(5-21)	Synthetic construct		VVQGACRAIRHIPRRIR	17	10459808	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20235		P37364		PAdeltaC, Defensin Pa (23-43)[H23W, C24,34,39,41 Del]	Synthetic construct		WVIKGYKGGQKITVHRR	17	16914230	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20261		Q27023		TE-(16-32), Tenecin-1 (16-32)	Synthetic construct		NDAACAAHCLFRGRSGG	17	9693108	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20623				CPF-C1 [G1,7k; G3,13w; L10l; R11r; A14K; N15k]	Synthetic construct		kFwSLLkKAlrLwKkVL	17	32590058	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20624				CPF-C1 [G1,7k; G3,13w; L10l; R11r; N15k]	Synthetic construct		kFwSLLkKAlrLwAkVL	17	32590058	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20625				CPF-C1 [L10l, R11r, G13w, A14K, V15k]	Synthetic construct		GFGSLLGKALRLWKKVL	17	32590058	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20678		W8GNV3		Bicarinalin (4-20)	Synthetic construct		IPWGKVKDFLVGGMKAV	17	27058430	Antibacterial	Gram+,Gram-	Experimentally Validated

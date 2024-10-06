@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1881	81432542	Q812G9		Thiocillin	Bacillus cereus (strain ATCC 14579 / DSM 31)	Monera	SCTTCVCTCSCCTT	14		Antibacterial	Gram+ve	Predicted
+CAMPSQ2600	338817642	P86920		Antifungal protein 1	Arachis hypogaea	Plantae	DSLSFSYNNFEEDD	14		Antifungal		Experimentally validated
+CAMPSQ2743		P21564		  Mastoparan B 	Vespa basalis	Animalia (Insects)	LKLKSIVSWAKKVL	14	8555423, 35209228	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2810				Temporin-1CEb 	Rana chensinensis	Animalia (Amphibia)	ILPILSLIGGLLGK	14	19341344	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3140				  Temporin-1DRa 	Rana draytonii	Animalia (Amphibia)	HFLGTLVNLAKKIL	14	16307827	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3180				Temporin-LTb 	Hylarana latouchii	Animalia (Amphibia)	FIITGLVRGLTKLF	14	19022312	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3247				  Japonicin-1CDYa 	Rana chensinensis	Animalia (Amphibia)	FFPLALLCKVFKKC	14	19179051	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3393				  Polybia-MP-II 	Polybia paulista	Animalia (Insects)	IDWLKLGKMVIDAL	14	19463874	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3394				  Polybia-MP-III 	Polybia paulista	Animalia (Insects)	IDWLKLGKMVMDVL	14	19463874	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3400		D3VML5		  Plantazolicin 	Bacillus amyloliquefaciens FZB42	Monera	RCTCTTIISSSSTF	14	20971906, 21950656	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3423	284022087	C7DT09		  OdVP3 	Orancistrocerus drewseni 	Animalia (Insects)	KDLHTVVSAILQAL	14	19857508	Antifungal		Experimentally validated
+CAMPSQ3452				  Temporin-PRc 	Rana pretiosa	Animalia (Amphibia)	NFLDTLINLAKKFI	14	21295070	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ3487				  Peptide 8 	Rapana venosa	Animalia (Molluscs (Gastropoda))	APPPGYAMESDSFS	14	21703315	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3605				  Temporin-Ra 	Rana ridibunda	Animalia (Amphibia)	FLKPLFNAALKLLP	14	21956830	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3660		E7EKD0		Temporin-HN1	Odorrana hainanensis	Animalia (Amphibia)	AILTTLANWARKFL	14	22450466	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3661		E7EKD4		Temporin-HN2 	Odorrana hainanensis	Animalia (Amphibia)	NILNTIINLAKKIL	14	22450466	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3846		R4JNJ5		  Pantinin-1	Pandinus imperator	Animalia (Arachnida)	GILGKLWEGFKSIV	14	23624072	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3870		P0C912		Amythiamicin A 	Amycolatopsis sp. 	Monera	SCNCVCGVCCSCSP	14	8040071	Antibacterial		Experimentally validated
+CAMPSQ3943		P86147		Venom peptide 2-long 	Orancistrocerus drewseni 	Animalia (Insects)	EPILGIITSLLKSL	14	19857508, 18695936	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3947		P86146		Eumenine mastoparan-OD 	Orancistrocerus drewseni 	Animalia (Insects)	GRILSFIKGLAEHL	14	19857508,18695936	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ4027	403399468	P0DJO3		Amphipathic peptide CT1	Scorpiops tibetanus 	Animalia (Arachnida)	GFWGSLWEGVKSVV	14	19854232	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ4029	403399470	P0DJO4		Amphipathic peptide CT2	Scorpiops tibetanus 	Animalia (Arachnida)	GFWGKLWEGVKSAI	14	22542475	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ4034	430802812	L0GCV8		Antimicrobial peptide CT1-NDBP-5.17 precursor 	Urodacus yaschenkoi	Animalia (Arachnida)	GFWGKLWEGVKNAI	14	23182832	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4334				  Temporin-1DRb	Rana draytonii	Animalia (Amphibia)	NFLGTLVNLAKKIL	14	16307827	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4581		P0CJ39		Eumenine mastoparan-EF	Eumenes fraterculus	Animalia (Insects)	FDVMGIIKKIAGAL	14	21549739	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

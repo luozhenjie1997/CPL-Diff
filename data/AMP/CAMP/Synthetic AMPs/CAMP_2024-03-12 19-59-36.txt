@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19924		Q800R2		Caerin 1.1 [E23K,H24L,L25H]	Synthetic construct		GLLSVLGSVAKHVLPHVVPVIAKLH	25	26026377	Antiviral		Experimentally Validated
+CAMPSQ19925		Q800R2		Caerin 1.1 [S4K;H12,16,24K]	Synthetic construct		GLLKVLGSVAKKVLPKVVPVIAEKL	25	26026377	Antiviral		Experimentally Validated
+CAMPSQ19926		P81252		Caerin 1.9 [V13L]	Synthetic construct		GLFGVLGSIAKHLLPHVVPVIAEKL	25	26026377	Antiviral		Experimentally Validated
+CAMPSQ20065		P11006		Magainin 2 [F12W]-C	Synthetic construct		GIGKFLHSAKKWGKAFVGEIMNSXC	25	12450326	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20066		P11006		Magainin 2 [F12W]-N	Synthetic construct		CXGIGKFLHSAKKWGKAFVGEIMNS	25	12450326	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20293		P02070		Bovine hemoglobin beta chain (121-145)	Synthetic construct		FTPVLQADFQKVVAGVANALAHRYH	25	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20391		P84382		XPF-St6	Synthetic construct		GVWSTILGGLKKFAKGGLDAIVNPK	25	23935531	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20393		P84384		XPF-St8	Synthetic construct		GFMSKVANFAKKFAKGGVNAIMNQK	25	23935531	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20668				Granulysin 12.38	Synthetic construct		rrrrrrrvsrrpmrryrsrrprrlv	25	18310138	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20710		P85170		ChBac3.4 (1-13, 15-26)	Synthetic construct		RFRLPFRRPPIRIPPPFYPPFRRFL	25	33194795	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20739				Fallaxin [L25A]	Synthetic construct		GVVDILKGAAKDIAGHLASKVMNKA	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20740				Fallaxin [K24A]	Synthetic construct		GVVDILKGAAKDIAGHLASKVMNAL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20741				Fallaxin [N23A]	Synthetic construct		GVVDILKGAAKDIAGHLASKVMAKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20742				Fallaxin [M22A]	Synthetic construct		GVVDILKGAAKDIAGHLASKVANKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20743				Fallaxin [V21A]	Synthetic construct		GVVDILKGAAKDIAGHLASKAMNKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20744				Fallaxin [K20A]	Synthetic construct		GVVDILKGAAKDIAGHLASAVMNKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20745				Fallaxin [S19A]	Synthetic construct		GVVDILKGAAKDIAGHLAAKVMNKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20746				Fallaxin [A18L]	Synthetic construct		GVVDILKGAAKDIAGHLLSKVMNKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20748				Fallaxin [H16A]	Synthetic construct		GVVDILKGAAKDIAGALASKVMNKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20749				Fallaxin [G15A]	Synthetic construct		GVVDILKGAAKDIAAHLASKVMNKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20750				Fallaxin [A14L]	Synthetic construct		GVVDILKGAAKDILGHLASKVMNKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20751				Fallaxin [I13A]	Synthetic construct		GVVDILKGAAKDAAGHLASKVMNKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20752				Fallaxin [D12A]	Synthetic construct		GVVDILKGAAKAIAGHLASKVMNKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20753				Fallaxin [K11A]	Synthetic construct		GVVDILKGAAADIAGHLASKVMNKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20754				Fallaxin [A10L]	Synthetic construct		GVVDILKGALKDIAGHLASKVMNKL	25	17766389	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19009				KIA19	Synthetic construct		KIAGKIAKIAGKIAKIAGK	19	25807192, 32126225	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18935		P36193		Drosocin-1 [G1betaA,S7T]	Synthetic construct		XKPRPYTPRPTSHPRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18936		P36193		Drosocin-1 [G1betaA,P5tHYP,S7T]	Synthetic construct		XKPRXYTPRPTSHPRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18931		P36193		Drosocin-1 [G1betaA,P5tHYP]	Synthetic construct		XKPRXYSPRPTSHPRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18932		P36193		Drosocin-1 [P5tHYP, S7T]	Synthetic construct		GKPRXYTPRPTSHPRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18933		P36193		Drosocin-1 [P5tHYP,Y6F]	Synthetic construct		GKPRXFSPRPTSHPRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18934		P36193		Drosocin-1 [P5tHYP, Y6F,S7T]	Synthetic construct		GKPRXFTPRPTSHPRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18929		P36193		Drosocin-1 [P3,5tHYP]	Synthetic construct		GKXRXYSPRPTSHPRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18930		P36193		Drosocin-1 [P5,10,14tHYP] amide	Synthetic construct		GKPRXYSPRXTSHXRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18927		P36193		Drosocin-1 [P5,14tHYP]	Synthetic construct		GKPRXYSPRPTSHXRPIRV	19	24164265	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18928		P36193		Drosocin-1 [P5,16tHYP]	Synthetic construct		GKPRXYSPRPTSHPRXIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18926		P36193		Drosocin-1 [P10,14tHYP]	Synthetic construct		GKPRPYSPRXTSHXRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18925		P36193		Drosocin-1 [P3,10tHYP]	Synthetic construct		GKXRPYSPRXTSHPRPIRV	19	24164265	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18924		P36193		Drosocin-1 [P3,14tHYP]	Synthetic construct		GKXRPYSPRPTSHXRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18922		P36193		Drosocin-1 [P14tHYP]	Synthetic construct		GKPRPYSPRPTSHXRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18923		P36193		Drosocin-1 [P16tHYP]	Synthetic construct		GKPRPYSPRPTSHPRXIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18921		P36193		Drosocin-1 [P10tHYP]	Synthetic construct		GKPRPYSPRXTSHPRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18920		P36193		Drosocin-1 [P8tHYP]	Synthetic construct		GKPRPYSXRPTSHPRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18919		P36193		Drosocin-1 [P3tHYP]	Synthetic construct		GKXRPYSPRPTSHPRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18917		P36193		Drosocin-1 [K2R,R4N,Y6V,S7N,P8N,R9K] amide	Synthetic construct		GRPNPVNNKPTSHPRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18918		P36193		Drosocin-1 [K2R,R4N,Y6V,S7N,P8N,R9K,S12P]	Synthetic construct		GRPNPVNNKPTPHPRPIRV	19	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18914				Drosocin-4, Drosocin-1 [S7T]	Synthetic construct		GKPRPYTPRPTSHPRPIRV	19	24164265	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18897				Undefined	Synthetic construct		GXXQXXGXXXXXXGXXXGY	19	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18896				Undefined	Synthetic construct		GXXXXXXXXXXXXXXXXGY	19	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18895				Undefined	Synthetic construct		GXXQXXPXXXXXXPXXXGY	19	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

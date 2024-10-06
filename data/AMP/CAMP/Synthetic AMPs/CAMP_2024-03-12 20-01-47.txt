@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22256		P01501		BP173, BP134-AGPA-Melittin(10-19)-KDEL	Synthetic construct		KKLFKKILKYLAGPATTGLPALISWKDEL	29	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22354				Pep-7	Synthetic construct		RPHGAGEGIDRVPAGPSPSEVGLAIPSGK	29	26041027	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23016		P03138		7R-Ahx-HBV Large envelope protein (96-116)	Synthetic construct		RRRRRRRXPLSPPLRNTHPQAMQWNSTTF	29	21144865	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23115		P81534		TBP-1-GGG-hBD3-(3-15)	Synthetic construct		RKLPDAPGMHTWGGGGINTLQKYYCRVRG	29	29025642	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23116		P81534		TBP-1-GGG-hBD3-(17-30)[28E-del]	Synthetic construct		RKLPDAPGMHTWGGGGRCAVLSCLPKEQI	29	29025642	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23131				Hemoglobin beta1_1BP, Hbbeta1_1 BP	Synthetic construct		RLLGNCLTVVMAAKLGTAFSPEIQCAWQK	29	29165344	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23946		P02649		C-apoE (135162), hEP-10	Synthetic construct		CVRLASHLRKLRKRLLRDADDLQKRLAVY	29	22334503	Antiviral		Experimentally Validated
+CAMPSQ23990		P10033		FCoV Sgp (1338-1366)	Synthetic construct		FNATYLNLTGEIDDLEFRSEKLHNTTVEL	29	24312629	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24016		Q5DP94		MTSC27EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKSEEQQK	29	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24025		P04578		WQ-ENK	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSQNQQEKN	29	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24042		P0DOH7		JEV Ep (424452)	Synthetic construct		AWDFGSIGGVFNSIGRAVHQVFGGAFRTL	29	28232248	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24044		Q32ZE1		ZIKV Ep (424-452)	Synthetic construct		AWDFGSVGGVFNSLGKGIHQIFGAAFKSL	29	28232248	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24109		P03377		LP-48	Synthetic construct		WEQKITALLEQAQIQQEKNEYELQKLDKX	29	30089693	Antiviral		Experimentally Validated
+CAMPSQ24244		P25507		BLV gp (391-419)	Synthetic construct		CCFLRIQNDSIIRLGDLQPLSQRVSTDWQ	29	18680566	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24245		P25507		BLV gp (391-419)[R403A]	Synthetic construct		CCFLRIQNDSIIALGDLQPLSQRVSTDWQ	29	18680566	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24247		Q9WDA6		DENV2 Ep (419-447)	Synthetic construct		AWDFGSLGGVFTSIGKALHQVFGAIYGAA	29	20881042	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24248		Q6YMS4		DENV3 Ep (419-447)	Synthetic construct		AWDFGSVGGVLNSLGKMVHQIFGSAYTAL	29	20881042	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24249		Q5UCB8		DENV4 Ep (419-447)	Synthetic construct		AWDFGSVGGLFTSLGKAVHQVFGSVYTTM	29	20881042	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24250		P27909		DENV1 Ep (419-447)	Synthetic construct		AWDFGSIGGVFTSVGKLVHQVFGTAYGVL	29	20881042	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24251		Q9WDA6		DENV2 Ep (419-447)[A24G,I25A,Y26F]	Synthetic construct		AWDFGSLGGVFTSIGKALHQVFGGAFGAA	29	20881042	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24252		Q9Q6P4		WNV gp (419-447)	Synthetic construct		AWDFGSVGGVFTSVGKAVHQVFGGAFRSL	29	20881042	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24253		Q9Q6P4		WNV gp (419-447)[G24W,A25W,F26W]	Synthetic construct		AWDFGSVGGVFTSVGKAVHQVFGWWWRSL	29	20881042	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24314				Spgly-AMP (9-37)	Synthetic construct		GRVKRSPWHGGTWGCKPIWACQNSPPYLG	29	32771609	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24345		F6ZPB6		LOC101242983 (1-29)	Synthetic construct		KLKTWPKNYWRKVWSKKNWRKFVKKFKHW	29	32724213	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24642		Q86YZ3		HRNR (26562684)	Synthetic construct		GRHGSGLGHSSSHGQHGSGSGRSSSRGPY	29	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

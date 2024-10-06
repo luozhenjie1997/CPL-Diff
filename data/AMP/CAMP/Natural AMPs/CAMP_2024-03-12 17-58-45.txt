@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9609				A4	Cnidopus japonicus	Animalia	KAKRRARNLNQKKRK	15	29361893	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9654				Temporin-SN2	Hylarana Spinulosa	Animalia	FITGLIGGLMKALGK	15	24055160	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9655				Temporin-SN3	Hylarana Spinulosa	Animalia	FISGLIGGLMKALGK	15	24055160	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9656				Temporin-SN4	Hylarana Spinulosa	Animalia	FITGLISGLMKALGK	15	24055160	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10163				AI-hemocidins 3 (Hb-1  truncated peptide)	Arca inflata	Animalia	ISAAEFGKINGPIKK	15	28661457	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10283				AdD69-83	Adenovirus 2	Virus	RRDRRRRSVCHARTW	15	31417238	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10334				PH1	Homo sapiens	Animalia	AKRHHGLNCAKGVLA	15	26918792	Antifungal		Experimentally validated
+CAMPSQ10391				Human ?-defensin-3 (HBD3)	Homo sapiens	Animalia (Mammals)	GKCSTRGRKCCRRKK	15	28956355	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ10415				SOT1	Pelodiscus sinensis	Animalia	RSAGWVIPIGTLVKK	15	28159460	Antibacterial 		Predicted
+CAMPSQ10443				Aurein-3.1.2 	Litoria chloris 	Animalia	FDIVKKIAGHIAGSI	15	10951191	Antibacterial		Predicted
+CAMPSQ10465				AK15	Mycobacteriophage	Virus (Virus)	AKKKLSRWWLRWWVK	15	30894414	Antibacterial		Experimentally validated
+CAMPSQ10466				AK15-6	Mycobacteriophage	Virus (Virus)	AVKKLLRWWSRWWKK	15	30894414	Antibacterial		Experimentally validated
+CAMPSQ10527				FSB-AMP	Bacillus subtilis E20-fermented soybean meal	Monera	HTSKALLDMLKRLGK	15	28602685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10626				LL-37(1-4,17-27)	Homo sapiens	Animalia	LLGDFKRIVQRIKDF	15	16637646	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10682				COT1	Crocodylus siamensis	Animalia	KKSAGWVIPIGTLVK	15	28159460	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10734				HPRP-A1	Helicobacter pylori	Monera	FKKLKKLFSKLWNWK	15	31686873	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10874				Fow-3(1-15) 	Gallus gallus	Animalia	KRFWPLVPVAINTVA	15	26902768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10974				H4-(86-100)	Rattus norvegicus	Animalia	VVYALKRNGRTLYGF	15	18803668	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10975				HNr 	Rattus norvegicus	Animalia	VVYTLKRNGRTLYGF	15	18803668	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11020				P-2	Bacillus pumilus HN-10	Monera	GGSGGGSSGGSIGGR	15	29302801	Antifungal		Experimentally validated
+CAMPSQ11157				Periplanetasin-2	Periplaneta americana	Animalia (Insects)	YPCKLNLKLGKVPFH	15	28173695, 28733329, 30554389	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ11342				LL-III	Lasioglossum laticeps	Animalia (Insects)	VNWKKILGKIIKVVK	15	30753486	Antifungal		Experimentally validated
+CAMPSQ11404				Defensin-like 1	Musca domestica	Animalia (Insects)	KDSVCAAHCLLIGKS	15	30674770	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11492				Bac5(1-15)	Bos taurus	Animalia (Mammals)	RFRPPIRRPPIRPPF	15	30615305	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11598				VR15	Homo sapiens	Animalia (Mammals)	VQWLEQQVAKRRTKR	15	30555984	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

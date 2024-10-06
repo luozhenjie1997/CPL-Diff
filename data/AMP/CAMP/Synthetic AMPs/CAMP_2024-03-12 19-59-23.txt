@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ17650		Q47765		Enterocin AS-48 (46-70)[G2W,A21I,I23A]	Synthetic construct		AWRESIKAYLKKEIKKKGKRIVAAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17649		Q47765		Enterocin AS-48 (46-70)[R3S,S5R,K7W,A8K,Y9E,E13Y,K17G,G18K,R20V,A21I,V22R,I23A]	Synthetic construct		AGSERIWKELKKYIKKGKKVIRAAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17648		Q47765		Enterocin AS-48 (46-70)	Synthetic construct		AGRESIKAYLKKEIKKKGKRAVIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17646				Syn-xiamencin-92	Synthetic construct		AKRQALTKYLLEELRKRGKKAFIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17647				Syn-xiamencin-96	Synthetic construct		AKANRLTKELLEYLRKFGKIARKAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17645				Syn-xiamencin-83	Synthetic construct		AGRQKLTLELKEYLRKRGKKAFIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17644				Syn-xiamencin-60	Synthetic construct		AGRQALTKYLLEELRKRGKKAFIWW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17642				Syn-xiamencin-20	Synthetic construct		AGRQALTKYLLEELRKRWKKAFIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17643				Syn-xiamencin-57	Synthetic construct		AGRQALTLYLKEELRKRGKKAFIWW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17640				Syn-xiamencin-13	Synthetic construct		WGRQALTLYLKEELRKFGKKARIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17641				Syn-xiamencin-15	Synthetic construct		WGAQRLTKELLEYLRKFGKIARKAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17638				Syn-xiamencin-7	Synthetic construct		AGAQRLTKELLEYLRKFGKIARKAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17639				Syn-xiamencin-12	Synthetic construct		WGRQALTKYLLEELRKRGKKAFIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17637				Syn-xiamencin-1	Synthetic construct		AGRQALTLYLKEELRKRGKKAFIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17635				Syn-larvacin-91	Synthetic construct		AGKETIFQRLKKKIQEKGKRAKIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17636				Syn-larvacin-92	Synthetic construct		AGKETIRQFLKKKIQEGKKRAKIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17634				Syn-larvacin-79	Synthetic construct		AGKEKIFQRLKKTIQEGKKIAKRAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17633				Syn-larvacin-72	Synthetic construct		AGTEKIFNRLKKTINEGKKIAKRWW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17631				Syn-larvacin-69	Synthetic construct		AGKETIRQFLKKTIQEKGKRAKIWW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17632				Syn-larvacin-71	Synthetic construct		AGTEKIFQRLKKTIQEGKKIAKRWW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17630				Syn-larvacin-67	Synthetic construct		AGKETIFQRLKKKIQEKGKRATIWW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17628				Syn-larvacin-44	Synthetic construct		AGKETIRQFLKKKIQEWKKRATIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17629				Syn-larvacin-48	Synthetic construct		AGTEKIFNRLKKTINEWKKIAKRAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17627				Syn-larvacin-43	Synthetic construct		AGKETIFQRLKKKIQEKWKRATIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17626				Syn-larvacin-40	Synthetic construct		AWTEKIFNRLKKTINEGKKIAKRAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated

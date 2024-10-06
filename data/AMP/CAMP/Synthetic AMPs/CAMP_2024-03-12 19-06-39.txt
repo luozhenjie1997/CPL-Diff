@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ17168				Indopt 11	Synthetic construct		ILKWKTKWWKWFR	13	31849888	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17169				Indopt 12	Synthetic construct		ILKWKMFKWKWFR	13	31849888	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17170				MAD1	Synthetic construct		KRWHWWRRHWVVW	13	33184577	Antibacterial, Anticancer,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ17171				DAP1	Synthetic construct		LWKRWVGVWRKWL	13	33184577	Antibacterial, Anticancer,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ17172				DAP2	Synthetic construct		RWGKWFKKNSHLS	13	33184577	Antibacterial, Anticancer,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ17173				AP2	Synthetic construct		ILPWKWRWWKWWR	13	32198075	Antibacterial	Gram+	Experimentally validated
+CAMPSQ17183		P80280		C12- Dermaseptin S4 (3-15)AMD[M4K]	Synthetic construct		WKTLLKKVLKAAA	13	17043126	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17722				D-DBS1-(DBS1-G)-Con-G	Synthetic construct		rrwarrlafafrr	13	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17720				DBS1-(DBS1-G)-Con-AF	Synthetic construct		RRGWARRLAFGRR	13	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17716				DBS1-G	Synthetic construct		RRWARRLFFAYRR	13	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17664		Q9BYF1		ACE2 (24-36)	Synthetic construct		QAKTFLDKFNHEA	13	33356169	Antiviral	Gram+,Gram-	Experimentally validated
+CAMPSQ17655				FK13	Synthetic construct		FPLTWLKWWKWKK	13	33707779	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17598		P82387		Aurein-1.2 [D4K,E11K]	Synthetic construct		GLFKIIKKIAKSF	13	33271197	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17599		P82387		Aurein-1.2 [D5K,A10W,E11K]	Synthetic construct		GLFKIIKKIWKSF	13	33271197	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17597		P82387		Aurein-1.2 [A10W]	Synthetic construct		GLFDIIKKIWESF	13	33271197	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17592		P49913		LL-37 (17-29)[F11H]	Synthetic construct		FKRIVQRIKDHLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17590		P49913		LL-37 (17-29)[F11N]	Synthetic construct		FKRIVQRIKDNLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17591		P49913		LL-37 (17-29)[F11Q]	Synthetic construct		FKRIVQRIKDQLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17587		P49913		LL-37 (17-29)[V5H]	Synthetic construct		FKRIHQRIKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17588		P49913		LL-37 (17-29)[F11G]	Synthetic construct		FKRIVQRIKDGLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17589		P49913		LL-37 (17-29)[F11S]	Synthetic construct		FKRIVQRIKDSLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17585		P49913		LL-37 (17-29)[V5N]	Synthetic construct		FKRINQRIKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17586		P49913		LL-37 (17-29)[V5Q]	Synthetic construct		FKRIQQRIKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17583		P49913		LL-37 (17-29)[V5G]	Synthetic construct		FKRIGQRIKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17584		P49913		LL-37 (17-29)[V5S]	Synthetic construct		FKRISQRIKDFLR	13	23894079	Antibacterial	Gram+,Gram-	Experimentally validated

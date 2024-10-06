@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22279				Undefined	Synthetic construct		KKRK	4	28767074, 33003569	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22281				Undefined	Synthetic construct		RKKK	4	28767074, 33003569	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22284				Undefined	Synthetic construct		KRKK	4	33003569	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22286				Undefined	Synthetic construct		RRKK	4	33003569	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22320				Undefined	Synthetic construct		XKGK	4	30360400, 30392097	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23248				Undefined	Synthetic construct		IPLA	4	21339947	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23715				Undefined	Synthetic construct		KWWK	4	24946217	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23725				Undefined	Synthetic construct		KKWK	4	24946217, 28774731	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23727				Undefined	Synthetic construct		KKWW	4	24946217	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23903				Surfactin-like peptide SLP4	Synthetic construct		EVll	4	30973929	Antiviral		Experimentally Validated
+CAMPSQ24052		P83412		Alloferon (10-13)	Synthetic construct		GVHG	4	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24061				Undefined	Synthetic construct		XXWX	4	28774731	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24062				Undefined	Synthetic construct		NKKN	4	28774731	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24526				Undefined	Synthetic construct		fXXL	4	33085895	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24654				D-Pal-GR4	Synthetic construct		GRGR	4	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24655				D-Pal-GK4	Synthetic construct		GKGK	4	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24656				Pal-GDap4	Synthetic construct		GXGX	4	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24745				Undefined	Synthetic construct		XVYT	4	32067003	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24746				Undefined	Synthetic construct		DXYT	4	32067003	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24747				Undefined	Synthetic construct		DVXT	4	32067003	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24748				Undefined	Synthetic construct		XGXG	4	32067003	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24780				Undefined	Synthetic construct		KLFK	4	30526450	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24783				Undefined	Synthetic construct		DYDD	4	33509471	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24784				Undefined	Synthetic construct		DDDY	4	33509471	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24788				Undefined	Synthetic construct		WWXR	4	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated

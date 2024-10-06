@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10129				P-113D	Homo sapiens	Animalia	AKRHHGYKRKFH	12	11302797	Antifungal		Experimentally validated
+CAMPSQ10130				P-114	Homo sapiens	Animalia	HHGYKRKFHEKH	12	11302797	Antifungal		Experimentally validated
+CAMPSQ10131				P-115	Homo sapiens	Animalia	YKRKFHEKHHSH	12	11302797	Antifungal		Experimentally validated
+CAMPSQ10132				P-116	Homo sapiens	Animalia	KFHEKHHSHRGY	12	11302797	Antifungal		Experimentally validated
+CAMPSQ10137				P-113	Homo sapiens	Animalia (Mammals)	AKRHHGYKRKFH	12	11302797, 28851350	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ10404				Pap12-1 	Papilio xuthus	Animalia	RWKIFKKIEKVG	12	30846839	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10583				HLopt2	Homo sapiens	Animalia (Mammals)	CFQWKRAMRKVR	12	31513374	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10792				Allomyrinasin	Allomyrina dichotoma	Animalia	AAVTRRILCWFA	12	30955257	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11104				2-1/2-2(gamma-core)	Nasonia vitripennis	Animalia	GGKCKNGDCVCR	12	20097222	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ11130				N-107	Homo sapiens	Animalia	LLKKFSLLKPWA	12	25946035	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11344				HAL-2	Halictus sexcinctus	Animalia (Insects)	GKWMSLLKHILK	12	30753486	Antifungal		Experimentally validated
+CAMPSQ11563				OLP-PEP2 (N24)	Solanum lycopersicum	Plantae (Angiosperms)	CPRALKVPGGCN	12	30577001	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11586				YR12	Homo sapiens	Animalia (Mammals)	YYHFWHRGVTKR	12	30555984	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11635				Pol-CP-NH2	Polybia paulista	Animalia (Insects)	ILGTILGLLKSL	12	30534613	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11658				12C	Epinephelus coioides	Animalia (Pisces)	LHWDFQSWVPLL	12	30521966	Antiviral		Experimentally validated
+CAMPSQ11687				Pep 2	Dengue virus (DENV) 	Virus	DRGWGNGCGLFG	12	30508603	Antiviral		Experimentally validated
+CAMPSQ11899				Protonectin	Agelaia pallipes	Animalia (Insects)	ILGTILGLLKGL	12	28299840	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11912				Omiganan	Bos taurus	Animalia (Mammals)	ILRWPWWPWRRK	12	28105725	Antifungal		Experimentally validated
+CAMPSQ12227				?-lactoglobulin f(92-103)	Bos taurus	Animalia (Mammals )	VLVLDTDYKKYL	12	29931710	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12477				L12P	Homo sapiens	Animalia	LCLRNWDQGHRP	12	28883642, 30654366	Antifungal, Antiviral		Experimentally validated
+CAMPSQ12478				W12K	Homo sapiens	Animalia	WTFGQGTKVEIK	12	28883642	Antifungal		Predicted
+CAMPSQ12834				VpCT2	Mesomexovis variegatus	Animalia (Arthropoda)	FWSTIWNAAKSL	12	33862164	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13525				RP40-19	Rhinocricus sp	Animalia	DVATSARDPLFY	12	33894375	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13644				NCR169M	Medicago truncatula	Plantae (Angiosperms)	YKSKKPLFKIWK	12	33972675	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13662				GE12	Homo sapiens 	Animalia (Mammals)	GYGYGPYQPVPE	12	33740624	Antifungal		Experimentally validated

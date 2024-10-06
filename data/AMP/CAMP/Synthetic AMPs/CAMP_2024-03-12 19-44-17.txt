@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23773		B5A9T1		Chensinin-1 [A2K;G4,7,11W;L12H;K14A;H18L]	Synthetic construct		SKVWRHWRRFWHRAHRKL	18	29549839	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23908		P59594		SARS-CoV-S (215-232), peptide 9626	Synthetic construct		TLKPIFKLPLGINITNFR	18	19853613	Antiviral		Experimentally Validated
+CAMPSQ23949		Q9Q6P4		WNV-GP1 (2998-3015)	Synthetic construct		AKGSRAIWFMWLGARFLE	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23950		P27909		DENV-1 gp (2949-2966)	Synthetic construct		KREKKLGEFGKAKGSRAI	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23951		Q1X880		YFV gp (3328-3345)	Synthetic construct		WVLNNPHMKDKTTVKEWR	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23952		O41892		HPgV gp (1948-1965), GBV-A gp (1948-1965)	Synthetic construct		LLDWCVRLGRYLLRRLKT	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23953		Q69422		GBV-B gp (1872-1889)	Synthetic construct		IWQYVCNFFVICFNVLKA	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23954		Q96901		GBV-C gp (1872-1889)	Synthetic construct		LWEWIMRQVRMVMSRLRA	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23955		Q96662		BVDV gp (2697-2714)	Synthetic construct		VLDLIYSLHKQINRGLKK	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23956		P19712		CSFV gp (2688-2675)	Synthetic construct		ILELLYKFRDNIKSSVRE	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23957		O41892		GBV-A1	Synthetic construct		LLDCWVRLGRYLLRRLKT	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23964		O41892		GBV-A8	Synthetic construct		LDCWVRLGRYLLRRLKTP	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23965		O41892		GBV-A9	Synthetic construct		DCWVRLGRYLLRRLKTPF	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23966		O41892		GBV-A10	Synthetic construct		CWVRLGRYLLRRLKTPFT	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23967		O41892		GBV-A11	Synthetic construct		WVRLGRYLLRRLKTPFTR	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23968		O41892		GBV-A12	Synthetic construct		VRLGRYLLRRLKTPFTRL	18	23175359	Antiviral		Experimentally Validated
+CAMPSQ23969		O41892		GBV-A10 [L9K]	Synthetic construct		CWVRLGRYKLRRLKTPFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23970		O41892		GBV-A10 [L9S]	Synthetic construct		CWVRLGRYSLRRLKTPFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23971		O41892		GBV-A10 [L9A]	Synthetic construct		CWVRLGRYALRRLKTPFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23972		O41892		GBV-A10 [L9V]	Synthetic construct		CWVRLGRYVLRRLKTPFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23973		O41892		GBV-A10 [G6A]	Synthetic construct		CWVRLARYLLRRLKTPFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23974		O41892		GBV-A10 [G6V]	Synthetic construct		CWVRLVRYLLRRLKTPFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23975		O41892		GBV-A10 [G6L]	Synthetic construct		CWVRLLRYLLRRLKTPFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23976		O41892		GBV-A10 [G6L,P16L]	Synthetic construct		CWVRLLRYLLRRLKTLFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23977		O41892		GBV-A10 [P16L]	Synthetic construct		CWVRLGRYLLRRLKTLFT	18	23175359	Antiviral	Gram+	Experimentally Validated

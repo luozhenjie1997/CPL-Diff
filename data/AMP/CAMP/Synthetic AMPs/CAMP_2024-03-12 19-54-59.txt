@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23462				AT20	Synthetic construct		AKAFKKAFEKLAAVVPFGGT	20	30121851	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23463				GT20	Synthetic construct		GKSNKPALTLIQARILKHKT	20	30121851	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23464				VA20	Synthetic construct		VILTRFRFLNRIVEPLLKKA	20	30121851	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23466				FD20	Synthetic construct		FFHHIFDPQIKSGLLVSMYD	20	30121851	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23739		P60052		Superoxide dismutase [Cu-Zn] (2-21)	Synthetic construct		ATKAVCVLKGDGPVQGIINF	20	31958637	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23963		O41892		GBV-A7	Synthetic construct		CWVRLGRYLLRRLKTPFTRL	20	23175359	Antiviral		Experimentally Validated
+CAMPSQ24006		Q5DP94		SC20EK	Synthetic construct		WEEWDKKIEEYTKKIEELIK	20	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24024		Q5DP94		MTSC18EK	Synthetic construct		MTWEEWDKKIEEYTKKIEEL	20	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24033				1OAN1	Synthetic construct		FWFTLIKTQAKQPARYRRFC	20	20582308	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24070		Q84HW1		L-PLNC8-beta (1-20)	Synthetic construct		SVPTSVYTLGIKILWSAYKH	20	32107445	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24134		P59594		SARS-CoV Sgp (220-239)[N227K,S239L]	Synthetic construct		FKLPLGIKITNFRAILTAFL	20	15918330	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24135		P59594		SARS-CoV Sgp (259278([T261K]	Synthetic construct		PTKFMLKYDENGTITDAVDC	20	15918330	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24136		P59594		SARS-CoV Sgp (354373)[F360S]	Synthetic construct		VLYNSTSFSTFKCYGVSATK	20	15918330	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24137		P59594		SARS-CoV Sgp (470489)[N479K]	Synthetic construct		PALNCYWPLKDYGFYTTSGI	20	15918330	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24138		P59594		SARS-CoV Sgp (553572)[F558I]	Synthetic construct		RDVSDITDSVRDPKTSEILD	20	15918330	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24139		P59594		SARS-CoV Sgp (598617)[S607P]	Synthetic construct		YQDVNCTDVPTAIHADQLTP	20	15918330	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24140		P59594		SARS-CoV Sgp (690709)[S701L]	Synthetic construct		SNNTIAIPTNFLISITTEVM	20	15918330	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24141		P59594		SARS-CoV Sgp (737756)[T743A,A754V]	Synthetic construct		QYGSFCAQLNRALSGIAVEQ	20	15918330	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24142		P59594		SARS-CoV Sgp (890909)[T894A]	Synthetic construct		GIGVAQNVLYENQKQIANQF	20	15918330	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24143		P59594		SARS-CoV Sgp (11611180)[K1163E]	Synthetic construct		IQEEIDRLNEVAKNLNESLI	20	15918330	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24149		P03420		RSV Fgp (497-515)	Synthetic construct		EKINQSLAFIRKSDELLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24150		P03420		RSV Fgp (497-515)[A8,K12,E15,N19 - S-ALA-4-pen]	Synthetic construct		EKINQSLXFIRXSDXLLHXV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24151		P03420		RSV Fgp (497-515)[N4,A8,R11,E15 - S-ALA-4-pen]	Synthetic construct		EKIXQSLXFIXKSDXLLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24152		P03420		RSV Fgp (497-515)[K2R-ALA-4-pen; Q5,A8,K12 -S-ALA-4-pen]	Synthetic construct		EXINXSLXFIRXSDELLHNV	20	28137809	Antiviral		Experimentally Validated
+CAMPSQ24153		P03420		RSV Fgp (497-515)[E1R,K12 -ALA-7-oct; A8,N19 -S-ALA-4-pen]	Synthetic construct		XKINQSLXFIRXSDELLHXV	20	28137809	Antiviral		Experimentally Validated

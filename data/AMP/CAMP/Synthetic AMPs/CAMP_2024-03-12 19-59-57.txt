@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9416				V13V (L-substitution)	Synthetic construct		KWKSFLKTFKSAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9417				V13A (L-substitution)	Synthetic construct		KWKSFLKTFKSAAKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9418				V13S (L-substitution)	Synthetic construct		KWKSFLKTFKSASKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9419				V13K (L-substitution)	Synthetic construct		KWKSFLKTFKSAKKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9420				V13L (D-substitution)	Synthetic construct		KWKSFLKTFKSALKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9421				V13V (D-substitution)	Synthetic construct		KWKSFLKTFKSAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9422				V13A (D-substitution)	Synthetic construct		KWKSFLKTFKSAAKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9423				V13S (D-substitution)	Synthetic construct		KWKSFLKTFKSASKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9424				V13K (D-substitution)	Synthetic construct		KWKSFLKTFKSAKKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9425				S11L (L-substitution)	Synthetic construct		KWKSFLKTFKLAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9426				S11V (L-substitution)	Synthetic construct		KWKSFLKTFKVAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9427				S11A (L-substitution)	Synthetic construct		KWKSFLKTFKAAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9428				S11G	Synthetic construct		KWKSFLKTFKGAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9429				S11S (L-substitution)	Synthetic construct		KWKSFLKTFKSAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9430				S11K (L-substitution)	Synthetic construct		KWKSFLKTFKKAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9431				S11L (D-substitution)	Synthetic construct		KWKSFLKTFKLAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9432				S11V (D-substitution)	Synthetic construct		KWKSFLKTFKVAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9433				S11A (D-substitution)	Synthetic construct		KWKSFLKTFKAAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9434				S11S (D-substitution)	Synthetic construct		KWKSFLKTFKSAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9435				S11K (D-substitution)	Synthetic construct		KWKSFLKTFKKAVKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9451				K14D	Synthetic construct		KWKSFLKTFKSAKkTVLHTALKAISS	26	29280948	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9452				S11D/K14D	Synthetic construct		KWKSFLKTFKsAKkTVLHTALKAISS	26	29280948	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9453				K14D/T15D	Synthetic construct		KWKSFLKTFKSAKktVLHTALKAISS	26	29280948	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9454				S11D/K14D/T15D	Synthetic construct		KWKSFLKTFKsAKktVLHTALKAISS	26	29280948	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9455				A12D	Synthetic construct		KWKSFLKTFKSaKKTVLHTALKAISS	26	29280948	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

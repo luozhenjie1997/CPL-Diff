@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ26	110815958	P0C1R0		Polybia-CP 	Polybia paulista	Animalia (Insects)	ILGTILGLLKSL	12	16129513	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ87	122004	P02264		Histone H2A	Oncorhynchus mykiss	Animalia (Pisces)	AERVGAGAPVYL	12	12164782	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ121	13431931	P82652		Tigerinin-2	Hoplobatrachus tigerinus 	Animalia (Amphibia)	RVCFAIPLPICH	12	11031261	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ122	13431932	P82653		Tigerinin-3	Hoplobatrachus tigerinus 	Animalia (Amphibia)	RVCYAIPLPICY	12	11031261	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ428	41017608	P82820		Ranatuerin-5	Rana catesbeiana	Animalia (Amphibia)	FLPIASLLGKYL	12	9784389	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ452	416706	P22226		Cyclic dodecapeptide precursor 	Bos taurus 	Animalia (Mammals)	RLCRIVVIRVCR	12	8706679	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ477	46576886	P83879		Subpeptin JM4-B	Bacillus subtilis 	Monera	XXKEIXHIFHDN	12	16211432	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ558	60390600	P69437		Protonectin	Agelaia pallipes 	Animalia (Insects)	ILGTILGLLKGL	12	15225564	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ715				OdV1	Odorrana grahami	Animalia (Amphibia)	GLLSGTSVRGST	12	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ971	13629011	P82907		Lichenin	Bacillus licheniformis	Monera	ISLEICXIFHDN	12	11576300	Antibacterial		Experimentally validated
+CAMPSQ1104	66773812	P69839		Grammistin Gs B	Grammistes sexlineatus	Animalia (Pisces)	IGGIISFFKRLF	12	15777955	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1215	110815959	P0C1R1		PROTO_PROSY Protonectin	Protonectarina sylveirae 	Animalia (Insects)	ILGTILGLLKGL	12		Antibacterial	 	Predicted
+CAMPSQ1231	46576885	P83878		Subpeptin JM4-A	Bacillus subtilis 	Monera	XXKEIXWIFHDN	12	16211432	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1511	1705446	P54230		Bactenecin-1	Ovis aries	Animalia (Mammals)	RICRIIFLRVCR	12		Antibacterial		Predicted
+CAMPSQ1734	68053334	P84524		Antimicrobial peptide 1	Phyllomedusa hypochondrialis	Animalia (Amphibia)	LRPAVIVRTKAL	12		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ17595				Bacitracin B2, Unii-AM2V8lqg5X	Bacillus subtilis	Bacteria	XLeIKxVfHdN	11	7730158	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17593				Bacitracin A	Bacillus subtilis	Bacteria	XLeIKxIfHdN	11	7730158	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17594				Bacitracin D3, Bacitracin C1	Bacillus subtilis	Bacteria	XLeVKxVfHdN	11	7730158	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ20701		P86508,		Rothein 1	Litoria rothii		SVSNIPESIGF	11	19642086	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22230				Teixobactin	Eleftheria terrae	Bacteria	xISqiIStAXI	11	25561178	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23470		C0HL42		Tigerinin-2O	Hoplobatrachus occipitalis	Animalia	RTCIPIPLVMC	11	27560386	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23472		C0HL41		Tigerinin-4O	Hoplobatrachus occipitalis	Animalia	RTCIPIPPVCF	11	27560386	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23776				Somuncurin-2	Pleurodema somuncurense	Animalia	FILKRSYPQYY	11	32134261	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24148				Alisporivir, Debio-025	Tolypocladium inflatum		XXXVXAaXXXX	11	22046132	Antiviral		Experimentally Validated
+CAMPSQ24459		P0DSK0,		M-poneratoxin-Dq3c, Dq-1319	Dinoponera quadriceps		FWGTLAKWALK	11	32585881, 28976889	Antiparasitic, Antifungal	Gram+	Experimentally Validated

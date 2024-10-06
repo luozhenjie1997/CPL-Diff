@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3291				  Ranatuerin-2Wb 	Rana capito	Animalia (Amphibia)	GLFDSIKNVAKNVAAGLLDKLKCKITGC	28	19635516	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ3294				  Ranatuerin-2CPa 	Rana capito	Animalia (Amphibia)	GIMDTIKDTAKTVAVGLLDKIKCKITGC	28	19635516	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ3295				  Ranatuerin-2CPb 	Rana capito	Animalia (Amphibia)	GIMDTIKNTAKTVAVGLLDKIKCKITGC	28	19635516	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ3296				  Ranatuerin-2CPc 	Rana capito	Animalia (Amphibia)	GLMDTVKNAAKNLAGQLLDTIKCKITGC	28	19635516	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ3381				  Haloduracin 	Bacillus halodurans C-125	Monera	CAWYNISCRLGNKGAYCTLTVECMPSCN	28	17085596	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3382				  CPF-B1 	Xenopus borealis	Animalia (Amphibia)	GLGSLLGKAFKIGLKTVGKMMGGAPREQ	28	20656059	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3666				  Hymenochirin-3B 	Hymenochirus boettgeri	Animalia (Amphibia)	IKIPAVVKDTLKKVAKGVLSAVAGALTQ	28	22497805	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3667				  Hymenochirin-4B 	Hymenochirus boettgeri	Animalia (Amphibia)	IKIPAFVKDTLKKVAKGVISAVAGALTQ	28	22497805	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3676				  ChaC7 	Chassalia chartacea	Plantae	IPCGESCVWIPCITAIAGCSCKNKVCYT	28	22467870	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3678				  ChaC11 	Chassalia chartacea	Plantae	IPCGESCVWIPCISGMFGCSCKDKVCYS	28	22467870	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3868		P86161		Ranatuerin-2AVa	Rana arvalis 	Animalia (Amphibia)	GLLDVVKGAAKNLLASALDKLKCKVTGC	28	19308951	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3890		Q9R5C6		Antibacterial protein LC3 	Bacillus subtilis	Monera	ASGGTVGXYGAWMRSXSLVSXSTITTFS	28		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ4385		P86279		Dermaseptin DRS-DI4-like peptide	Phyllomedusa burmeisteri	Animalia (Amphibia)	ALWKNMLKGIGKLAGQAALGAVKTLVGA	28		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ4451		P86162		Ranatuerin-2AVb	Rana arvalis	Animalia (Amphibia)	GLMDMVKGAAKNLFASALDTLKCKITGC	28	19308951	Antibacterial		Predicted
+CAMPSQ4453		P86038		Raniseptin-3	Hypsiboas raniceps	Animalia (Amphibia)	AWLDKLKSIGKVVGKVAIGVAKNLLNPQ	28	18976634	Antibacterial		Predicted
+CAMPSQ4459		P86189		Raniseptin-9	Hypsiboas raniceps	Animalia (Amphibia)	ALLDKLKSLGKVVGKVAIGVAQHYLNPQ	28	18976634	Antibacterial		Predicted
+CAMPSQ4508		P84922		Dermaseptin-2	Phyllomedusa tarsius	Animalia (Amphibia)	ALWKDILKNVGKAAGKAVLNTVTDMVNQ	28		Antibacterial		Experimentally validated
+CAMPSQ4509		P84926		Dermaseptin-6	Phyllomedusa tarsius	Animalia (Amphibia)	ALWKNMLKGIGKLAGQAALGAVKTLVGA	28		Antibacterial		Experimentally validated
+CAMPSQ4595		P0CF02		Dinoponeratoxin Da-3105	Dinoponera australis	Animalia (Insects)	GLKDWWNKHKDKIIAVAKEMGKAGLQAA	28	19879289	Antibacterial		Predicted
+CAMPSQ4598		P0CF05		Dinoponeratoxin Da-3177	Dinoponera australis	Animalia (Insects)	GLKDWWNKHKDKIIDVVKEMGKAGLQAA	28	19879289	Antibacterial	Gram-ve, Gram+ve	Predicted
+CAMPSQ8178		C0HJH7		Dinoponeratoxin Dq-3104	Dinoponera quadriceps 	Animalia (Insects)	GLKDWWNKHKDKIVEVVKDSGKAGLNAA	28	24157790	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8179		C0HJH6		Dinoponeratoxin Dq-3162/Dq-3163/Dq-3178	Dinoponera quadriceps 	Animalia (Insects)	GLKDWWNKHKDKIVEVVKEMGKAGLNAA	28	24157790	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8740				Q6TV81(25-52)	Bovine papular stomatitis virus	Virus (Virus)	AAAAAAAIKMLMDLVNERIMALNKKAKK	28	23029273	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8743				A5LDU0(184-211)	Streptococcus pneumoniae	Monera	GKFHQIKKMFLSVGVKVTSLKRIQFGDF	28	23029273	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9509				Hymenochirin-4B	Hymenochirus boettgeri	Animalia	IKIPAFVKDTLKKVAKGVISAVAGALTQ	28	31102497	Antibacterial		Experimentally validated

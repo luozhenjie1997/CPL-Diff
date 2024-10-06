@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22848				Undefined	Synthetic construct		rfwwf	5	15616276	Antifungal	Gram-	Experimentally Validated
+CAMPSQ23056				Fusaricidin A/LI-F04a 13	Synthetic construct		KvVxn	5	22392790	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23361				K3C12	Synthetic construct		XKKKX	5	30354128	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23397				Undefined	Synthetic construct		WRYRW	5	12699374	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23398				Undefined	Synthetic construct		WRWRY	5	12699374	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23413				Undefined	Synthetic construct		VHLPP	5	24176365	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23422		P38398		BRCA1 (782786)	Synthetic construct		SISLL	5	30384016	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23558				D2D [k1,2del; D-1-Nal3del]	Synthetic construct		fkxkx	5	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23561				D2D [D-1-Nal6del, k7del, D-Nle8del]	Synthetic construct		kkxfk	5	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23716				Undefined	Synthetic construct		KIWWK	5	24946217	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23717				Undefined	Synthetic construct		RKWWK	5	24946217	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23726				Undefined	Synthetic construct		RIKWK	5	24946217	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23902				Surfactin-like peptide SLP10	Synthetic construct		EVlDl	5	30973929	Antiviral		Experimentally Validated
+CAMPSQ23904				Surfactin-like peptide SLP6	Synthetic construct		KVlKl	5	30973929	Antiviral		Experimentally Validated
+CAMPSQ23905				Surfactin-like peptide SLP8	Synthetic construct		EVllD	5	30973929	Antiviral		Experimentally Validated
+CAMPSQ23906				Surfactin-like peptide SLP9	Synthetic construct		EDVll	5	30973929	Antiviral		Experimentally Validated
+CAMPSQ24051		P83412		Alloferon (9-13)	Synthetic construct		HGVHG	5	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24336		A0A0L8FJ88		Transgelin (219-223), OctoPartenopin	Synthetic construct		AGTNK	5	32717885	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24469				Undefined	Synthetic construct		CXXWW	5	32852141	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24589				ATN-161	Synthetic construct		PHSCN	5	33102950	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24791				Undefined	Synthetic construct		WWXRR	5	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24792				Undefined	Synthetic construct		RWXRR	5	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24793				Undefined	Synthetic construct		WRXRR	5	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24794				Undefined	Synthetic construct		WRXWR	5	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24795				Undefined	Synthetic construct		RWXWR	5	24953028	Antibacterial	Gram+,Gram-	Experimentally Validated

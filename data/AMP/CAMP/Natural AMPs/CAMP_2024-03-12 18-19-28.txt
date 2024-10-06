@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2358	290543346	Q91X12		Cathelicidin antimicrobial peptide precursor  	Cavia porcellus	Animalia (Mammals)	LRKKFRKTRKRIQKLGRKIGKTGRKVWKAWREYGQIPYPCRI	42	9278433	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2688	343788803	G3KG76		Hepcidin  	Misgurnus mizolepis  	Animalia (Pisces)	ETTPEQSNPLALFRSKRQSHLSMCRYCCKCCRNKGCGFCCKF	42	21959039	Antibacterial	Gram-ve	Predicted
+CAMPSQ2713		P46161		  Bovine Beta-defensin 3  	Bos taurus	Animalia (Mammals)	QGVRNHVTCRINRGFCVPIRCPGRTRQIGTCFGPRIKCCRSW	42	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2714		P46163		  Bovine Beta-defensin 5  	Bos taurus	Animalia (Mammals)	QVVRNPQSCRWNMGVCIPISCPGNMRQIGTCFGPRVPCCRRW	42	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2740				  hBD-26 	Homo sapiens	Animalia (Mammals)	WYVKKCLNDVGICKKKCKPEEMHVKNGWAMCGKGRDCCVPAD	42	19373462	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3193				  Gallerimycin 	Galleria mellonella	Animalia (Insects)	GVTITVKPPFPGCVFYECIANCRSRGYKNGGYCTINGCQCLR	42	12811766	Antifungal		Experimentally validated
+CAMPSQ3315				  PP113 	Pteromalus puparum	Animalia (Insects)	GKWGWIYITILFADVGGFKSSRHPEERRVQERRFKRITRGPD	42	19950104	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3328				  Duck AvBD9 	Anas platyrhynchos	Animalia (Aves)	ADTLACRQSHQSCSFVACRAPSVDIGTCRGGKLKCCKWAPSS	42	Reference: Liao W, Ma D, Wang R, Han Z, Shao T, Li H, Liu S (2009) mRNA Cloning, Evolutionary Analysis and Biological Characterization of Duck Avian Beta-defensin 10. Acta Veterinaria et Zootechnica Sinica, 2009, 40(9): 1320-1326.	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3356				  cBD-1 	Canis lupus	Animalia (Mammals)	KCWNLRGSCREKCIKNEKLYIFCTSGKLCCLKPKFQPNMLQR	42	15845463	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3402		P01475	1Z99	  Crotamine 	Crotalus durissus terrificus	Animalia (Reptiles)	YKQCHKKGGHCFPKEKICLPPSSDFGKMDCRWRWKCCKKGSG	42	19706485, 31141959	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3419				  Beta-amyloid peptide(1-42) 	Homo sapiens	Animalia (Mammals)	DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIA	42	20209079	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4128	408387563	B3EWQ3		Antimicrobial peptide 3	Taraxacum officinale 	Plantae	ANKCIIDCMKVKTTCGDECKGAGFKTGGCALPPDIMKCCHNC	42	22640720	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8094		C9WX71		Beta-defensin (omDB-4)	Oncorhynchus mykiss 	Animalia (Pisces)	FPIPWGCSNYSGVCRAVCLSAELPFGPFGCAKGFVCCVAHVF	42	19709750	Antibacterial	Gram-ve	Predicted
+CAMPSQ8104		D2WPE0		Beta-defensin	Paralichthys olivaceus 	Animalia (Pisces)	DRPKADRPKPDRPKADCSTIQGVCKDSCLSTEFSIGALGCSA	42	19900559	Antibacterial		Predicted
+CAMPSQ9313				Cremycin-15 	Caenorhabditis remanei	Animalia (nematode)	GSEIRGPCIDRFCRVICRNNGYESGHCNRWARGCSCASWIGR	42	24434635	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10201				Ticin A4	Bacillus thuringiensis BMB3201	Monera	SLGVTLGAAGVYTATQTIATQIWKCGAVLTTSAECSRTGKSC	42	26231642	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10202				Ticin A3	Bacillus thuringiensis BMB3201	Monera	SLGVTLGAAGVYTATQTIATQIWKCGAVLTTSAECSRTGNSC	42	26231642	Antibacterial		Predicted
+CAMPSQ10203				Ticin A1	Bacillus thuringiensis BMB3201	Monera	SLGVTLGAAGLYTATQTIATQIWKCGAVLTTSAECSRTGNSC	42	26231642	Antibacterial		Predicted
+CAMPSQ10611				Cg-BigDef1[1-42]	Crassostrea gigas	Animalia	ZAQALLPIASYAGLTVSAPVFAALVTVYGAYALYRYNIRRRE	42	31641083	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10726				LSerStomox2	Lucilia sericata	Animalia	GFRKRFNKLVKKVKHTIKETANVSKDVAIVAGSGVAVGAAMG	42	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10738				Px-Mor	Plutella xylostella	Animalia	APKVNVNALKKGGRVIKKGLGVIGAAGTAHEVYNHVRNRNQG	42	31681182	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10739				Px-Mor113/114	Plutella xylostella	Animalia	APKVNVNALRKGGRVIRKGLGVIGAAGTAHEVYNHVRNRNQG	42	31681182	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10740				Px-Mor115	Plutella xylostella	Animalia	APKVNVNALKKGGHVIKKGLGVIGAAGTAHEVYNHVRNRNQG	42	31681182	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10768				Enterocin Gr17 	Enterococcus faecalis Gr17	Monera	RSYGNGVYCNNSKCWVNWGEAKENIIGIVISGWATGLAGMGR	42	31456764	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13377				Cfcec-2	Choristoneura fumiferana	Animalia (Insecta)	GRELEKIGQNVRDGIIKAGPAIEVIQKAQRIYHGKYDDDDDK	42	33973678	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8787				LL-III/3	Synthetic construct		VNWKKILKKIIKVVK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8788				LL-III/4 	Synthetic construct		VNWKKILPKIIKVVK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8789				LL-III/5	Synthetic construct		VNWKKILGKIIKVVK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8790				LL-III/6	Synthetic construct		VNWKKILGKIIKVVK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8816				RecTritrp	Synthetic construct		GTVRRFPWWWPFLRR	15	26724205	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8884				Pep-H	Synthetic construct		RRYGTCIYQGRLWAF	15	31133658	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9049				Zp41 	Synthetic construct		CGIIAGIIIKIKKC	15	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9051				AMP-002	Synthetic construct		LFDVIKKVASVIGGL	15	31336137	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9070				AMP-021	Synthetic construct		LWDVIRKVASVIGGL	15	31336137	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9121				LFP	Synthetic construct		SKCRQWQSKIRRTNP	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9122				LFH	Synthetic construct		TKCFQWQRNMRKVRG	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9123				LFC	Synthetic construct		SKCYQWQRRMRKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9124				LFH W8 (tryptophan-modified human lactoferricin derivative)	Synthetic construct		TKCFQWQWNMRKVRG	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9125				LFC W8 (tryptophan-modified caprine lactoferricin derivative)	Synthetic construct		SKCYQWQWRMRKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9126				LFP W8 (tryptophan-modified porcine lactoferricin derivative)	Synthetic construct		SKCRQWQWKIRRTNP	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9128				LFB A1 	Synthetic construct		AKCRRWQWRMKKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9129				LFB A2 	Synthetic construct		FACRRWQWRMKKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9130				LFB A3	Synthetic construct		FKARRWQWRMKKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9131				LFB A4 	Synthetic construct		FKCARWQWRMKKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9132				LFB A5 	Synthetic construct		FKCRAWQWRMKKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9133				LFBA6	Synthetic construct		FKCRRAQWRMKKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9134				LFB A7 	Synthetic construct		FKCRRWAWRMKKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9135				LFB A8	Synthetic construct		FKCRRWQARMKKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9136				LFB A9	Synthetic construct		FKCRRWQWAMKKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9137				LFB A10 	Synthetic construct		FKCRRWQWRAKKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

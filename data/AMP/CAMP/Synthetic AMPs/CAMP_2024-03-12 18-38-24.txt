@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20645				Polymyxin B3 [DAB1A]	Synthetic construct		ATXXXfLXXT	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20646				Polymyxin B3 [T2A]	Synthetic construct		XAXXXfLXXT	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20647				Polymyxin B3 [DAB3A]	Synthetic construct		XTAXXfLXXT	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20648				Polymyxin B3 [DAB5A]	Synthetic construct		XTXXAfLXXT	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20649				Polymyxin B3 [f6a]	Synthetic construct		XTXXXaLXXT	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20650				Polymyxin B3 [L7A]	Synthetic construct		XTXXXfAXXT	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20651				Polymyxin B3 [DAB9A]	Synthetic construct		XTXXXfLXAT	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20652				Polymyxin B3 [T10A]	Synthetic construct		XTXXXfLXXA	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20653				Polymyxin B3 [L7G]	Synthetic construct		XTXXXfGXXT	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20654				Polymyxin B3 [f6a,L7A]	Synthetic construct		XTXXXaAXXT	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20655				Polymyxin B3 [f6G,L7G]	Synthetic construct		XTXXXGGXXT	10	19252313	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20659		P22749		Granulysin (42-51)	Synthetic construct		RDVCRNFMRR	10	10903754	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20664		P22749		Granulysin 11.24	Synthetic construct		rrvsrrfmrr	10	18310138	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20792				(KW)5	Synthetic construct		KWKWKWKWKW	10	22914980	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20837				Undefined	Synthetic construct		GIIKKIIKKI	10	21955251	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20861		T2CH25,		Rev-NIS	Synthetic construct		ELLKAVRLIK	10	21762675, 19345214	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20862		T2CH25		Rev-NIS [E1R,L3R]	Synthetic construct		RLRKAVRLIK	10	21762675	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20863		T2CH25		Rev-NIS [L3S]	Synthetic construct		ELSKAVRLIK	10	21762675	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20898				SP1-15	Synthetic construct		KRKKLLKRLL	10	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20899				SP1-16	Synthetic construct		KRKKLLKRLI	10	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20900				SP1-17	Synthetic construct		KKKKIIKRLI	10	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21003				Gramicidin S-2	Synthetic construct		fPVXLfPXXL	10	20848624	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21004				Gramicidin S-3	Synthetic construct		fPXXLfPXXL	10	20848624	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21005				Gramicidin S-4	Synthetic construct		fPVXLfPVXX	10	20848624	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21006				Gramicidin S-5	Synthetic construct		fPVXXfPVXX	10	20848624	Antibacterial	Gram+,Gram-	Experimentally Validated

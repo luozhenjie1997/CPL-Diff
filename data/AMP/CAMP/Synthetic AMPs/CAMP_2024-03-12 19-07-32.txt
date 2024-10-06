@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21106		P51524,P51525		Tritrpticin [W6A]	Synthetic construct		VRRFPAWWPFLRR	13	27025758	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21107		P51524,P51525		Tritrpticin [W7A]	Synthetic construct		VRRFPWAWPFLRR	13	27025758	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21108		P51524,P51525		Tritrpticin [W8A]	Synthetic construct		VRRFPWWAPFLRR	13	27025758	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21109		P51524,P51525		Tritrpticin [W6,7A]	Synthetic construct		VRRFPAAWPFLRR	13	27025758	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21110		P51524,P51525		Tritrpticin [W7,8A]	Synthetic construct		VRRFPWAAPFLRR	13	27025758	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21111		P51524,P51525		Tritrpticin [W6,8A]	Synthetic construct		VRRFPAWAPFLRR	13	27025758	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21151				P10, P5 (1-14)	Synthetic construct		KWKKLLKKPLLKK	13	18289109	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21157		P19661,		Bactenecin-7 (1-13)	Synthetic construct		RRIRPRPPRLPRP	13	15572192, 25525837	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21212		O95715		CXCL14 (1-13)	Synthetic construct		SKCKCSRKGPKIR	13	25964486	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21216				K6L6W	Synthetic construct		KWKKLLKKLLKLL	13	15195974	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21217				K6L5WP	Synthetic construct		KWKKLPKKLLKLL	13	15195974	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21336		P06833		Caltrin (Seminalplasmin) (28-40) [E5K]-D-AMD, SPFK-D-AMD	Synthetic construct		PKLLKTFLSKWIG	13	11168889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21337		P06833		Retro Caltrin (Seminalplasmin)-AMD (28-40) [E5K], Retro SPFK-AMD	Synthetic construct		GIWKSLFTKLLKG	13	11168889	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21340		P06833		Caltrin (Seminalplasmin) (28-40) [E5K][P1C][G13C], SAC	Synthetic construct		CKLLKTFLSKWIC	13	10604598	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21341		P06833		Caltrin (Seminalplasmin) (28-40) [E5K][P1acmC][G13acmC], SAL	Synthetic construct		XKLLKTFLSKWIX	13	10604598	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21342		P06833		Caltrin (Seminalplasmin) (28-40) [E5K][T6K][S9K], K5	Synthetic construct		PKLLKKFLKKWIG	13	10195441	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21364		P79874		Temporin-B [P3A]	Synthetic construct		LLAIVGNLLKSLL	13	23403136	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21365		P79874		Temporin-B [G6A]	Synthetic construct		LLPIVANLLKSLL	13	23403136	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21366		P79874		Temporin-B [N7A]	Synthetic construct		LLPIVGALLKSLL	13	23403136	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21367		P79874		Temporin-B [S11A]	Synthetic construct		LLPIVGNLLKALL	13	23403136	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21368		P79874		Temporin-B [G6V]	Synthetic construct		LLPIVVNLLKSLL	13	23403136	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21369		P79874		Temporin-B [G6I]	Synthetic construct		LLPIVINLLKSLL	13	23403136	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21370		P79874		Temporin-B [G6A][S11A]	Synthetic construct		LLPIVANLLKALL	13	23403136	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21397		P0C8U2		Temporin-PTa [G3R,S4K,P10R,L13F]	Synthetic construct		FFRKVLKLIRKIF	13	29663932	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21410		Q2IAL7		Fowlicidin-2(19-31)	Synthetic construct		PKVTITIQGSARF	13	20375584	Antibacterial	Gram+,Gram-	Experimentally Validated

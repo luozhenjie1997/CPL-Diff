@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11199				Xylopin	Xylocopa appendiculata circumvolans	Animalia	GFVALLKKLPLILKHLH	17	28855917	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11201				Im-4	Isometrus maculatus	Animalia (Arachnida)	FIGMIPGLIGGLISAIK	17	28941793	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11206				Bombinin H-BO1	Bombina orientalis	Animalia (Amphibia)	IIGPVLGLVGKALGGLL	17	29098406	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11226				Nico(1-17)	Nicomache minor	Animalia (Annelida)	GFWSSVWDGAKNVGTAI	17	30360541	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11239				Esculentin-1GN (1-17)	Hylarana guentheri	Animalia	GLFSKKGGKGGKSWIKG	17	30427189	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11385				Stigmurin	Tityus stigmurus	Animalia (Arachnida)	FFSLIPSLVGGLISAFK	17	30709056	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11407				PLP1	Odontomachus monticola	Animalia (Insects)	GILDWGKKVMDWIKDKM	17	30658410	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11493				Bac5(1-17)	Bos taurus	Animalia (Mammals)	RFRPPIRRPPIRPPFYP	17	30615305	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11588				YH17	Homo sapiens	Animalia (Mammals)	YYHFWHRGVTKRSLSPH	17	30555984	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11667				Temporin-1CEa	Rana chensinensis	Animalia (Amphibia)	FVDLKKIANIINSIFGK	17	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11686				Pep 1	Dengue virus (DENV) 	Virus	LEHGSCVTTMAKDKPTL	17	30508603	Antiviral		Experimentally validated
+CAMPSQ11696				EP17	Homo sapiens	Animalia (Mammals)	EFKLQQTSCRKRDWKKP	17	30504221	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11720				TP I	Limulus polyphemus	Animalia	KWCFRVCYRGICYRRCR	17	30486233	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11721				TP II	Limulus polyphemus	Animalia	RWCFRVCYRGICYRKCR	17	30486233	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11722				TP III	Limulus polyphemus	Animalia	KWCFRVCYRGICYRKCR	17	30486233	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11805				Medusin-PT2 	Phyllomedusa tarsius	Animalia (Amphibia)	LLGMIKVAITAISALSK	17	28469603	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11816				Glycinin-17	Glycine max 	Plantae (Angiosperms)	RKSREWRSKKTQPRRPR	17	28459130	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11882				CPF-C1 	Xenopus clivii	Animalia (Frog)	GFGSLLGKALRLGANVL	17	28371431	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12079				BcDef1	Brugmansia x candida	Plantae (Dicotyledonae)	FSGGDCRGLRRRCFCTR	17	30071099	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12344				F2.3S	Sphaenorhynchus lacteus	Animalia (Amphibia)	GLVGTLLGHIGKAILGG	17	30044391	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12672				Hc3	Hydrophis cyanocinctus	Animalia (Reptiles)	KFFKRLLKSVRRAVKKF	17	28572668	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12678				Hc9	Hydrophis cyanocinctus	Animalia (Reptiles)	FKRLLKSVRRAVKKFRK	17	28572668	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12709				C1	Crotalus durissus terrificus	Animalia (Reptiles)	KQCHKKGGHCFPKEKIC	17	28888370	Antifungal		Experimentally validated
+CAMPSQ13590				NCR335C17-33	Medicago truncatula 	Plantae	KLRRANVRCRKSYCVPI	17	33915930	Antifungal		Experimentally validated
+CAMPSQ13602				Lyp1987	Lycosa poonaensis	Animalia	GRLQAFLAKMEIAAQTL	17	33729438	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

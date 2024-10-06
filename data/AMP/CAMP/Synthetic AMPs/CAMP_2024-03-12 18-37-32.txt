@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14478				Anoplin[2-6]	Synthetic construct		GOLKROKTLL	10	34966367	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14479				Anoplin[5-9]	Synthetic construct		GLLKOIKTOL	10	34966367	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14480				AnoplinS5 [5,9]	Synthetic construct		GLLKOIKTOL	10	34966367	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14497				RI-10	Synthetic construct		RIVQRIKDFL	10	34959645	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16367		P0C005		Anoplin [L2,3,9,10Meth-Leu]	Synthetic construct		GLLKRIKTLL	10	25530580, 32649983	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16450				OsDef2 (3-12)	Synthetic construct		IRGYKGGYCK	10	31713951	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ16451				OsDef2 (3-12)	Synthetic construct		IRGYKGGYCK	10	31713951, 34866270	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ16452				OsDef2 (5-14)	Synthetic construct		GYKGGYCKGA	10	31713951	Antibacterial		Experimentally validated
+CAMPSQ16453				OsDef2 (7-16)	Synthetic construct		KGGYCKGAFK	10	31713951	Antibacterial		Experimentally validated
+CAMPSQ16454				OsDef2 (9-18)	Synthetic construct		GYCKGAFKQT	10	31713951	Antibacterial		Experimentally validated
+CAMPSQ16455				OsDef2 (11-20)	Synthetic construct		CKGAFKQTCK	10	31713951	Antibacterial		Experimentally validated
+CAMPSQ16456				OsDef2 (13-22)	Synthetic construct		GAFKQTCKCY	10	31713951	Antibacterial		Experimentally validated
+CAMPSQ16459				ACWWP1	Synthetic construct		GLSRLFTALK	10	25172690	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16643				Peptide-27	Synthetic construct		WWLLWLRWL	10	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16683		P0ABH3		Ac-FtsA10	Synthetic construct		IKRLNSWLRK	10	30279152	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ17552				Dermaseptin S4 (1-10)AMD[M4K]	Synthetic construct		ALWKTLLKKV	10	11847217, 16436700	Antibacterial, Antiparasitic, Antifungal	Gram-	Experimentally validated
+CAMPSQ17543		P80280		 Dermaseptin C12-S4(6–15)	Synthetic construct		LLKKVLKAAA	10	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17542		P80280		 Dermaseptin S4(6–15)	Synthetic construct		LLKKVLKAAA	10	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18051				WR10	Synthetic construct		WRWWRRWWRR	10	27046192	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18052				WK10	Synthetic construct		WKWWKKWWKK	10	27046192	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18065				Bp3	Synthetic construct		KKLLKCLKCL	10	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18430				Cm-p5 [S1,3del; E4del]	Synthetic construct		RSLIVHQRLF	10	31763531	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18431				Cm-p5 [L5del, H8del]	Synthetic construct		SRSEIVQRLF	10	31763531	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ19429		P80281		Dermaseptin-3 (1-10), Dermaseptin-S3 (1-10)	Synthetic construct		ALWKNMLKGI	10	7989335	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19417		P49913		KR-12-a2 (2-12)[L10del]	Synthetic construct		RIVQRIKKWR	10	33398076	Antibacterial	Gram-	Experimentally Validated

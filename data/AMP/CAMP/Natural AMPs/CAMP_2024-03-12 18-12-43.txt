@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3309				  Cecropin P2 	Ascaris suum	Animalia (Chromadorea)	SWLSKTYKKLENSAKKRISEGIAIAIQGGPR	31	11772394	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3310				  Cecropin P3 	Ascaris suum	Animalia (Chromadorea)	SWLSKTAKKLENSAKKRISEGIAIAIKGGSR	31	11772394	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3311				  Cecropin P4 	Ascaris suum	Animalia (Chromadorea)	SWLSKTYKKLENSAKKRISEGVAIAILGGLR	31	11772394	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3325				  Arminin-1a 	Hydra magnipapillata	Animalia (Hydrozoans)	KPWRFRRAIRRVRWRKVAPYIPFVVKTVGKK	31	19770277	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3377				  Epilancin K7 	Staphylococcus epidermidis K7	Monera	SASVLKTSIKVSKKYCKGVTLTCGCNITGGK	31	7867636	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3645				  Nigroain-K2 	Rana nigrovittata	Animalia (Amphibia)	SLWETIKNAGKGFILNILDKIRCKVAGGCKT	31	19778602	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ3694				  hGAPDH	Homo sapiens	Animalia (Mammals)	GKVKVGVNGFGRIGRLVTRAAFNSGKVDIVA	31	22832495	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ3704				  pxCECA1  	Plutella xylostella	Animalia (Insects)	KPFKKLEKVGRNIRNGIIRYNGPAVAVIGQA	31	22258643	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3725				  Datucin 	Datura stramonium	Plantae	TFPKCAPTRPPGPKPCDINNFKSKFWHIWRA	31	23193597	Antifungal		Experimentally validated
+CAMPSQ3812				  EC-proHep3 	Epinephelus coioides	Animalia (Pisces)	APAKCTPYCYPTRDGVFCGVRCDFQHHHHHH	31	23291752	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3822				  Rattusin 	Rattus norvegicus	Animalia (Mammals)	LRVRRTLQCSCRRVCRNTCSCIRLSRSTYAS	31	23380721	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3879		P84927		Dermaseptin-7 	Phyllomedusa tarsius 	Animalia (Amphibia)	ALWKDVLKKIGTVALHAGKAALGAVADTISQ	31		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3891		P80959		Bacteriocin lactocin-705	Lactobacillus paracasei	Monera	GMSGYIQGIPDFLKGYLHGISAANKHKKGRL	31		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ4028	426018835	B3EWR4		Antimicrobial peptide 2	Echinochloa crus-galli 	Plantae	DRCSQQCQHHRDPDRKQQCMRECRRHQGRSD	31	22940285	Antifungal		Experimentally validated
+CAMPSQ4408		Q57312		Lantibiotic epilancin	Staphylococcus epidermidis	Monera	SASVLKTSIKVSKKYCKGVTLTCGCNITGGK	31	7607233	Antibacterial	Gram+ve	Predicted
+CAMPSQ8434				ModoCath11	Monodelphis domestica	Animalia (Mammals)	LYRRRKYPTSYYLLLGGKGNNRGYKPHIIYV	31	28949902	Antibacterial 		Predicted
+CAMPSQ8435				ModoCath12	Monodelphis domestica	Animalia (Mammals)	IKIFIPKGFYKGIQLVNEIIKENNERQKQKP	31	28949902	Antibacterial 		Predicted
+CAMPSQ8739				A4HW34(187-217)	Leishmania infantum	Protista (Kinetoplastea)	LVQRFHAYLHKFREAFMNVGAAAAVEGTKAA	31	23029273	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8903				EcAMP2	Echinochloa	Plantae (Commelinids)	DRCSQQCQHHRDPDRKQQCMRECRRHQGRSD	31	31012001	Antifungal		Experimentally validated
+CAMPSQ9018				RPBD-114	Sus scrofa	Animalia (Mammals)	RCSKMYGQCRTRCYKIEKQIDICYSPSKICC	31	31360462	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9461				Cycloviolacin O19 (cyO19)	Viola odorata L. and Viola tricolor L	Plantae	GTLPCGESCVWIPCISSVVGCSCKSKVCYKD	31	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9462				Cter B	Clitoria ternatea	Plantae	GVPCAESCVWIPCTVTALLGCSCKDKVCYLN	31	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9463				Cter E	Clitoria ternatea	Plantae	GIPCAESCVWIPCTVTALLGCSCKDKVCYLD	31	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9465				Cter R	Clitoria ternatea	Plantae	GIPCGESCVFIPCTVTALLGCSCKDKVCYKN	31	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10431				Ranatuerin-2Va	Rana virgatipes 	Animalia	GVFLDTLKGVGKDAAVKLLEALQCKFGVCKN	31	15996769	Antibacterial		Predicted

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14417				NKC-DOPA7	Synthetic construct		APKAMKLLKKLLKLQKKGIGGGGSGGGGSYYYYYYY	36	34769345	Antibacterial		Experimentally validated
+CAMPSQ15041				AMP3 modified	Synthetic construct		PIQGLLDSLTGILNKVLPHLVQGNVCPLVNHVLRGL	36	35201913	Antifungal		Experimentally validated
+CAMPSQ16726		P01508		Cecropin-B modified, CecM	Synthetic construct		KWKVLKKKIMKMLRNRINGLVKAGPALKVKLQALAL	36	30297841	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ17145				Cecropin B	Synthetic construct		KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKALG	36	23326415,  https://doi.org/10.1046/j.1365-2761.1999.00191.x	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ19087		P15516		P-113Tri	Synthetic construct		AKRHHGYKRKFHAKRHHGYKRKFHAKRHHGYKRKFH	36	27458227	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21037		P46158		Avian beta-defensin 2-Acm, AvBD2-Acm, Gallinacin-2-Acm	Synthetic construct		LFXKGGSXHFGGXPSHLIKVGSXFGFRSXXKWPWNA	36	22205704	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21038		P46158	2LG6	Avian beta-defensin 2 [K31A], AvBD2 [K31A], Gallinacin-2 [K31A]	Synthetic construct		LFCKGGSCHFGGCPSHLIKVGSCFGFRSCCAWPWNA	36	22205704	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21039		P46158		Avian beta-defensin 2-Acm [K31A], AvBD2-Acm [K31A], Gallinacin-2-Acm [K31A]	Synthetic construct		LFXKGGSXHFGGXPSHLIKVGSXFGFRSXXAWPWNA	36	22205704	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21322		Q6QLR3		Gallinacin-6 [6 cys del], AvBD6 [6 Cys del]	Synthetic construct		SPIHARYQRGVIPGPRWPYYRVGSGSGLKSVRNRWA	36	22512645	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21420		Q70623		Vif (30-65)	Synthetic construct		YVSGKARGWFYRHHYESPHPRISSEVHIPLGDARLV	36	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21499		P04582		Undefined	Synthetic construct		MTWMEWDREINNYTSLIHSLIEESQNQQEKNEQELL	36	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21521		P04578		Enfuvirtide [S138G], T-20 [S138G]	Synthetic construct		YTSLIHSLIEEGQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21522		P04578		Enfuvirtide [S138A], T-20 [S138A]	Synthetic construct		YTSLIHSLIEEAQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21523		P04578		Enfuvirtide [S138V], T-20 [S138V]	Synthetic construct		YTSLIHSLIEEVQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21524		P04578		Enfuvirtide [S138L], T-20 [S138L]	Synthetic construct		YTSLIHSLIEELQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21525		P04578		Enfuvirtide [S138I], T-20 [S138I]	Synthetic construct		YTSLIHSLIEEIQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21526		P04578		Enfuvirtide [S138M], T-20 [S138M]	Synthetic construct		YTSLIHSLIEEMQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21527		P04578		Enfuvirtide [S138P], T-20 [S138P]	Synthetic construct		YTSLIHSLIEEPQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21528		P04578		Enfuvirtide [S138T], T-20 [S138T]	Synthetic construct		YTSLIHSLIEETQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21529		P04578		Enfuvirtide [S138F], T-20 [S138F]	Synthetic construct		YTSLIHSLIEEFQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21530		P04578		Enfuvirtide [S138Y], T-20 [S138Y]	Synthetic construct		YTSLIHSLIEEYQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21531		P04578		Enfuvirtide [S138W], T-20 [S138W]	Synthetic construct		YTSLIHSLIEEWQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21532		P04578		Enfuvirtide [S138N], T-20 [S138N]	Synthetic construct		YTSLIHSLIEENQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21533		P04578		Enfuvirtide [S138Q], T-20 [S138Q]	Synthetic construct		YTSLIHSLIEEQQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21534		P04578		Enfuvirtide [S138D], T-20 [S138D]	Synthetic construct		YTSLIHSLIEEDQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated

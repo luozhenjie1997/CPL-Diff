@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21172		P19661		Bac7 (1-16)[P15W]	Synthetic construct		RRIRPRPPRLPRPRWR	16	32787108	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21173		P19661		Bac7 (1-16)[R1W,P13W]	Synthetic construct		WRIRPRPPRLPRWRPR	16	32787108	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21174		P19661		Bac7 (1-16)[R1W,P5R,P15W]	Synthetic construct		WRIRRRPPRLPRPRWR	16	32787108	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21175		P19661		Bac7 (1-16)[R1W,P5R,P7W,P15W]	Synthetic construct		WRIRRRWPRLPRPRWR	16	32787108	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21185		P19661		Cathelicidin-3 (9-24), Bactenecin-7 (9-24)	Synthetic construct		RLPRPRPRPLPFPRPG	16	12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21219		A8Z0V1		Phenol-soluble modulin alpha 1 peptide (6-21), PSMalpha1 (6-21)	Synthetic construct		GIIKVIKSLIEQFTGK	16	22371493	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21243				Undefined	Synthetic construct		FGTGVKRKAQCDLKSK	16	24254748	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21249				SUC-LK-EN	Synthetic construct		LKKLLKLLKKLLKLAG	16	23150226, 25056130	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21250				LK [L1,8C]	Synthetic construct		CKKLLKLCKKLLKLAG	16	23150226	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21251				LK [L1,12C]	Synthetic construct		CKKLLKLLKKLCKLAG	16	23150226	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21252				LK [L8,12C]	Synthetic construct		LKKLLKLCKKLCKLAG	16	23150226	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21310				Undefined	Synthetic construct		RLYRRLYRRLYRRLYR	16	11846794	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21373				Delta-lysin (11-26)[D11K][D18K]	Synthetic construct		KLVKWIIKTVNKFTKK	16	15629533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21374				Delta-lysin (11-26)[D11K][V13P][D18K]	Synthetic construct		KLPKWIIKTVNKFTKK	16	15629533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21388		P0C1V1		Delta-hemolysin (5-20)	Synthetic construct		IISTIGDLVKWIIDTV	16	7479693	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21389		P0C1V1		Delta-hemolysin (5-20)[D7K]	Synthetic construct		IISTIGKLVKWIIDTV	16	7479693	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21390		P0C1V1		Delta-hemolysin (5-20)[D14K]	Synthetic construct		IISTIGDLVKWIIKTV	16	7479693	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21391		P0C1V1		Delta-hemolysin (5-20)[D7,14K]	Synthetic construct		IISTIGKLVKWIIKTV	16	7479693	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21424		Q70623		Vif (59-74)	Synthetic construct		LGDARLVITTYWGLHT	16	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21425		Q70623		Vif (66-81)	Synthetic construct		ITTYWGLHTGERDWHL	16	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21439		C0HJU9		Toxin LyeTx 1(1-4)-K-(5-15)	Synthetic construct		IWLTKALKFLGKNLGK	16	33175610	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21619				RL16	Synthetic construct		RRLRRLLRRLLRRLRR	16	19427300	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21638				Undefined	Synthetic construct		KKWKMRRNQFWIKIQR	16	23581817	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21639				Undefined	Synthetic construct		RWWKWWWWWRRWKWKK	16	23581817, 21093119	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21640		Q86FU0		Penetratin [M12M-oxd]	Synthetic construct		RQIKIWFQNRRXKWKK	16	23581817	Antibacterial	Gram+,Gram-	Experimentally Validated

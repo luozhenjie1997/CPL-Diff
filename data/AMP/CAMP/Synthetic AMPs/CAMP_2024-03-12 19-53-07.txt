@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ171	157874737	P01507, P11006	1F0D	Chain A, Cecropin A	Synthetic construct		KWKLFKKIGIGKFLHSAKKF	20	11009597	Antibacterial		Experimentally validated
+CAMPSQ173	157874744	P01507, P11006	1F0G	Chain A, Cecropin A	Synthetic construct		KLKLFKKIGIGKFLHSAKKF	20	11009597	Antibacterial		Experimentally validated
+CAMPSQ174	157874747	P01507, P11006	1F0H	Chain A, Cecropin A	Synthetic construct		KAKLFKKIGIGKFLHSAKKF	20	11009597	Antibacterial		Experimentally validated
+CAMPSQ1016				CA	Synthetic construct		KWKLFKKIGIGAVLKVLTTG	20	1733777	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1064				CGA 41-60	Synthetic construct		TLRGDERILSILRHQNLLKE	20	10753865	Antifungal		Experimentally validated
+CAMPSQ2788				  D28  	Synthetic construct		FLGVVFKLASKVFPAVFGKV	20	17051220	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4599	405944876, 405944875			Chain C, D, Co-Complex Structure Of Ns3-4a Protease With The Optimized  Inhibitory Peptide Cp5-46a-4d5e. 	Synthetic construct		GELDELVYLLDGPGYDPIHS	20	22965230	Antiviral		Experimentally validated
+CAMPSQ8211				RN1	Synthetic construct		FLGGLIKIVPAMICAVRKKC	20	26046345	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8212				RN2	Synthetic construct		FLGGLIKPVPAMICAVRKKC	20	26046345	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8213				RN3	Synthetic construct		FLGGLIKRVPAMICAVRKKC	20	26046345	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8214				RN4	Synthetic construct		FLGGLIKRPPAMICAVRKKC	20	26046345	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ23960		O41892		GBV-A4	Synthetic construct		LLDCWVRLGRYLLRRLKTP	19	23175359	Antiviral		Experimentally Validated
+CAMPSQ24007		Q5DP94		SC19EK	Synthetic construct		WEEWDKKIEEYTKKIEELI	19	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24030		P29990		DN80wt	Synthetic construct		MVDRGWGNHAGLFGKGSIV	19	20582308	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24031		P29990		DN81wt	Synthetic construct		AWLVHRQWFLDLPLPWLPG	19	20582308	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24032				DN81opt	Synthetic construct		RQMRAWGQDYQHGGMGYSC	19	20582308	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24227		P60603		ROS modulator 1 (60-78)	Synthetic construct		MMQSGGTFGTFMAIGMGIR	19	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24229		P60603		ROS modulator 1 (58-76)	Synthetic construct		KTMMQSGGTFGTFMAIGMG	19	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24295				Lr-AMP1e	Synthetic construct		GIAGLLRSFVRMLAKIMGG	19	32333997	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24374				Pept_1545	Synthetic construct		FLIGKAIKRKFCLRSVWNA	19	32992666	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24467		A0A2U9CRY3		Putative supervillin-like (921-939)	Synthetic construct		HTMWRCVRLSACLFSVRRR	19	32841003	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24491				Undefined	Synthetic construct		DILIIVGGGSGKERKKRRR	19	32924418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24512				Undefined	Synthetic construct		FLGPIIKTVRAVLCAIKKL	19	32954133	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24639		P84841		Esculentin-1B (1-18)	Synthetic construct		GIFSKLAGKKLKNLLISGL	19	15019209	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24658		Q5D862		FLG-2 (20822100)	Synthetic construct		HAHSGHGQSTQRGSRTAGR	19	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ95	122063384	P0C2A9		Caerin-3.5	Litoria gracilenta	Animalia (Amphibia)	GLWEKVKEKANELVSGIVEGVK	22	16554081	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ306	26393026	P81572		Antimicrobial peptide D1 	Spinacia oleracea 	Plantae	XTCESPSHKFKGPCATNRNCES	22	9762899	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ373	37999868	Q8UUG2		Moronecidin	Morone chrysops x Morone saxatilis	Animalia (Pisces)	FFHHIFRGIVHVGKTIHKLVTG	22	11739390	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ520	55775527	Q2VWH5		Moronecidin	Siniperca chuatsi	Animalia (Pisces)	IFHHIFKGIVHVGKTIHRLVTG	22	17498177	Antibacterial		Experimentally validated
+CAMPSQ550	59798981	P84384		XT-4 	Xenopus tropicalis	Animalia (Amphibia)	GVFLDALKKFAKGGMNAVLNPK	22	11738090	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ551	59798982	P84385		XT-5 	Xenopus tropicalis	Animalia (Amphibia)	GMATKAGTALGKVAKAVIGAAL	22	11738090	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ567	62512149	P83866		Ocellatin-2	Leptodactylus ocellatus	Animalia (Amphibia)	GVLDIFKDAAKQILAHAAEKQI	22	15648972	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ720	50401864	P62562		Caerin-3.1	Litoria splendida 	Animalia (Amphibia)	GLWQKIKDKASELVSGIVEGVK	22	10601876	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ751				PlnA -22	Lactobacillus plantarum	Monera	YSLQMGATAIKQVKKLFKKWGW	22	15805109	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ777				Citropin 2.1	Litoria citropa	Animalia (Amphibia)	GLIGSIGKALGGLLVDVLKPKL	22	10504394	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ970	3047246	O68586		Mutacin 1140	Streptococcus mutans 	Monera	FKSWSLCTPGCARTGSFNSYCC	22	9596742	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ16238				N6-NH2-PEG12	Arenicola marina	Animalia	GFAWNVCVYRNGVRVCHRRAN	21	35549900	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16239				N6-NH2-PEG24	Arenicola marina	Animalia	GFAWNVCVYRNGVRVCHRRAN	21	35549900	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16240				N6-COOH-miniPEG	Arenicola marina	Animalia	GFAWNVCVYRNGVRVCHRRAN	21	35549900	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ19746		A0A0A0R7Z5		Nigroain-B-MS1	Sylvirana maosonensis (Hylarana maosonensis)	Animalia	CVVSSGWKWNYKIRCKLTGNC	21	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20620				PGLa-MW1	Xenopus muelleri West	Animalia	GMASKAGSVLGKITKIALGAL	21	21664395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21218		A8Z0V1		Phenol-soluble modulin alpha 1 peptide, PSMalpha1	Staphylococcus aureus (USA300 / TCH1516)	Bacteria	MGIIAGIIKVIKSLIEQFTGK	21	22371493	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21240				P1-Hp-1971	Hypsiboas pulchellus	Animalia	TKPTLLGLPLGAGPAAGPGKR	21	24717080	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21928		E3SYG2,D2K8D1,C3RTH8		D-Brevinin CTcu5 (11-21)	Clinotarsus curtipes,Odorrana andersonii,Odorrana grahami		LIAGLAANFLPQILCKIARKC	21	24161537, 25997127, 32679168	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22426				Nigrocin-AA1	Amolops afghanus	Animalia	GLLSGILGAGKRIVCGLSGLC	21	26452973	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22967				Ceratotoxin-like peptide Ctx-Ha	Hypsiboas albopunctatus	Animalia	GWLDVAKKIGKAAFNVAKNFL	21	22391524	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24318				Brevinin-1H	Amolops hainanensis	Animalia	FALGAVTKVLPKLFCLITRKC	21	32812694	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24418				Ocellatin-1I	Leptodactylus insularum	Animalia	GLLDLLKGAGKGLLTHLASQI	21	33092132	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24419				Ocellatin-2I	Leptodactylus insularum	Animalia	GLLDFFKGAGKELLTHLASQI	21	33092132	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24717		D4HRB8,		Gaduscidin-1	Gadus morhua		FIHHIIGWISHGVRAIHRAIH	21	33770667, 33428273	Antibacterial	Gram-	Experimentally Validated

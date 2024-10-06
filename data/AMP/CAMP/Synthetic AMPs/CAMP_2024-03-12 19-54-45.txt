@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22185		P55897,		D-VIH-D-sh-Buforin	Synthetic construct		VIHRAGLQFPVGRVHRLLRK	20	25891844, 30141623	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22186		P55897		D-RTH-D-sh-Buforin	Synthetic construct		RTHRAGLQFPVGRVHRLLRK	20	25891844	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22288		D8WN02		Centrocin 1a heavy chain, CEN1 HC (1-20)	Synthetic construct		GXFKKTFHKVSHAVKSGIHA	20	23237525	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22289		D8WN02		Centrocin 1a heavy chain, CEN1 HC (1-20)	Synthetic construct		GWFKKTFHKVSHAVKSGIHA	20	23237525	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22452				Chex1-Arg20 [R20r]	Synthetic construct		XRPDKPRPYLPRPRPPRPVR	20	18721837, 30186829, 30155456, 28154813	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22464				Reverse A3 Single chain (1-20)AMD	Synthetic construct		XRVPRPPRPRPLYPRPKDPR	20	30186829, 28154813	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22531		Q9GP18		Hemocyanin Ht (1018-1037)	Synthetic construct		PPYNLNSHTQEYSKPEDTFD	20	25445903	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22532		Q9GP18		Hemocyanin Ht (1034-1053)	Synthetic construct		DTFDYKKFGYRYDSLELEGR	20	25445903	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22533		Q9GP18		Hemocyanin Ht (1050-1069)	Synthetic construct		LEGRSISRIDELIQQRQEKD	20	25445903	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22534		Q9NDV3		Hemocyanin Ht (1066-1085)	Synthetic construct		QEKDRTFAGFLLKGFGTSAS	20	25445903	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22538		Q86FU0		HFRW-Penetratin [M12M-oxd]	Synthetic construct		HFRWRQIKIWFQNRRXKWKK	20	21093119	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22555		P02649		RApoE (133-150)	Synthetic construct		PMLRVRLASHLRKLRKRLLR	20	27028511	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22613				VR4	Synthetic construct		CVRVRVRVRpGRVRVRVRVC	20	22391533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22761				Undefined	Synthetic construct		GFXGXRXGXFXGXGRXRRRR	20	27387357	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22762				Undefined	Synthetic construct		GFXGXXXGXFXGXGXXXXXX	20	27387357	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22763				Undefined	Synthetic construct		GFXGXKXGXFXGXGKXKKKK	20	27387357	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22764				Undefined	Synthetic construct		KKKKGFXGXKXGXFXGXGKX	20	27387357	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22935		Q8IAS6		Rifin (313-332)[K323A], Peptide 35409	Synthetic construct		RYRRKKKMKKALQYIKLLKE	20	28066341, 32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22954		A0A072TJ27		NCR247 (13-24)-StrepII	Synthetic construct		QQCRRPLYCRRRWSHPQFEK	20	32153547	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22962		A0FJ29		Porcine lactoferricin LFP-20	Synthetic construct		KCRQWQSKIRRTNPIFCIRR	20	23567049	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22963		A0FJ29		Porcine lactoferricin LFP-20 [C2,17A], LF2A	Synthetic construct		KARQWQSKIRRTNPIFAIRR	20	23567049	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22964		A0FJ29		Porcine lactoferricin LFP-20 [C2,17A;S7W;N13W], LF-2	Synthetic construct		KARQWQWKIRRTWPIFAIRR	20	23567049	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22965		A0FJ29		Porcine lactoferricin LFP-20 [C2,17S;S7W;N13W], LF-4	Synthetic construct		KSRQWQWKIRRTWPIFSIRR	20	23567049	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22966		A0FJ29		Porcine lactoferricin LFP-20 [C2,17W;I9,15W], LF-6	Synthetic construct		KWRQWQSKWRRTNPWFWIRR	20	23567049	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22979		F1CNA7		Piscidin-2 (1-20), ecPis-2 (1-20)	Synthetic construct		FFFHIVKGLFHAGRMIHGLV	20	28433718	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated

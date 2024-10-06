@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ737	167013228	Q5SC60	2JSB	Arenicin-1	Synthetic construct		RWCVYAYVRVRGVLVRYRRCW	21	17935487	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ4600	405944872, 405944871			Chain C, D, Co-Complex Of The Of Ns3-4a Protease With The Inhibitory  Peptide Cp5-46-A	Synthetic construct		GELGRLVYLLDGPGYDPIHCD	21	22965230	Antiviral		Experimentally validated
+CAMPSQ8191				HBc147-167	Synthetic construct		TVVRRRGRSPRRRTPSPRRRR	21	23785287	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8193				HBc157-176	Synthetic construct		PRRRTPSPRRRRSQSPRRRRS	21	23785287	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8195				HBc155-175	Synthetic construct		SPRRRTPSPRRRRSQSPRRRR	21	23785287	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8201				Transportan-10 (TP10)	Synthetic construct		AGYLLGKINLKALAALAKKIL	21	23689723, 28556271	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ8262				Sp-96	Synthetic construct		C10XTR-cycloCXWLRXC	21	26607008	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8263				Sp-100	Synthetic construct		C10RTR-cycloCXTZRXC	21	26607008	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8280				2IH3	Synthetic construct		IHHIHHHIHHIHHHIHHIHHH	21	31199117	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8284				3IH3	Synthetic construct		IHHIHHIIHHIHHIIHHIHHI	21	31199117	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8307				Esculentin-1a(Esc(1-21-1c)	Synthetic construct		GIFSKLAGKKIKNlLIsGLKG	21	31144441, 26162435	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8309				K18	Synthetic construct		RWKRHISEQLRRRDRLQRQAF	21	31145591	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8310				K22	Synthetic construct		RWKRHISEQLRRRDRLQRQAJ	21	31145591	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ24283		R4HHV9		Influenza A virus HA (345-364)[E355K,G356K,T359K,D363K], HA-FP-2-1	Synthetic construct		GLFGAIAGFIKKGWKGMVKG	20	25581878	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24284		R4HHV9		Influenza A virus HA (345-364)[E355K,T359P,M361L,D363K], HA-FP-3	Synthetic construct		GLFGAIAGFIKGGWPGLVKG	20	25581878	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24285		R4HHV9		Influenza A virus HA (345-364)[E355K,G356K,T359P,M361L,D363K], HA-FP-3-1	Synthetic construct		GLFGAIAGFIKKGWPGLVKG	20	25581878	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24323		A0A411G5W6		Ovalbumin (271-290)	Synthetic construct		SNVMEERKIKVYLPRMKMEE	20	32715598	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24431				Undefined	Synthetic construct		IICRKPIICRKPIICRKPII	20	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24507				Undefined	Synthetic construct		ILPLLKKFGKKFGKKVWKAL	20	32954133	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24508				Undefined	Synthetic construct		IKALLALPKLAKKIAKKFLK	20	32954133	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24509				Undefined	Synthetic construct		GLRSSVKTLLRGLLGIIKKF	20	32954133	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24510				Undefined	Synthetic construct		GLKKLFSKIKIIGSALKNLA	20	32954133	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24511				Undefined	Synthetic construct		FLPAFKNVISKILKALKKKV	20	32954133	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24637		P15516		Histatin 5 (1-4)-(9-24)	Synthetic construct		DSHAGYKRKFHEKHHSHRGY	20	17176059	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24786		P05814		Beta-casein (201-220)	Synthetic construct		ELLLNPTHQIYPVTQPLAPV	20	28242197	Antibacterial	Gram+,Gram-	Experimentally Validated

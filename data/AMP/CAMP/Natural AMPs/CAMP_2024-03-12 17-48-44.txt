@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1941	88909606	P84709		Curvalicin-28a	Lactobacillus curvatus	Monera	TPVVNPPFLQQT	12	16680519	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2150	150403925	P85158		Proteinase L5	Lysobacter sp. (strain XL1)	Monera	ATVQGGIXYRMP	12		Antibacterial		Experimentally validated
+CAMPSQ2450	347602457	P0DJ02		Peptide Hp1090	Heterometrus petersii  	Animalia (Arachnida)	FKAIWSGIKSLF	12	20950663	Antibacterial, Antiviral	Gram +ve	Experimentally validated
+CAMPSQ2577	288561896	B5A9S9		Dybowskin-1CDYa	Rana dybowskii 	Animalia (Amphibia)	IPLPLGYFAKKT	12	19539775	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2708				  Alloferon 2 	Calliphora vicina	Animalia (Insects)	GVSGHGQHGVHG	12	12235362	Antiviral, Antitumour		Experimentally validated
+CAMPSQ2790		P15516		Human Histatin 8 	Homo sapiens 	Animalia (Mammals)	KFHEKHHSHRGY	12	12711380	Antifungal		Experimentally validated
+CAMPSQ2983		P82907		  Lichenin 	Bacillus licheniformis	Monera	ISLEICAIFHDN	12	11576300	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3155		A6MBS7		  Odorranain-V1 	Odorrana grahami	Animalia (Amphibia)	GLLSGTSVRGSI	12	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3348				  Myxinidin 	Myxine glutinosa	Animalia (Hyperotreti)	GIHDILKYGKPS	12	19330556	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3422				  OdVP2 	Orancistrocerus drewseni 	Animalia (Insects)	ILGIITSLLKSL	12	19857508	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ3606				  Temporin-Rb 	Rana ridibunda	Animalia (Amphibia)	FLPVLAGVLSRA	12	21956830	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3627				  Halictine 1 	Halictus sexcinctus	Animalia (Insects)	GMWSKILGHLIR	12	20198492	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3628				  Halictine 2 	Halictus sexcinctus	Animalia (Insects)	GKWMSLLKHILK	12	20198492	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3823				  Panurgine 1 	Panurgus calcaratus	Animalia (Insects)	LNWGAILKHIIK	12	23483218	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4146	408387559	B3EWQ6		Antimicrobial protein 1	Paenibacillus alvei 	Monera	YSKSLPLSVLNP	12		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4147	408387561	B3EWQ7		Antimicrobial protein 2	Paenibacillus alvei 	Monera	FCKSLPLPLSVK	12		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8245				Cm-p3	Cenchritis muricatus	Animalia (Molluscs (Gastropoda))	SRSELIVHQRRC	12	25921828	Antifungal		Experimentally validated
+CAMPSQ8246				Cm-p4	Cenchritis muricatus	Animalia (Molluscs (Gastropoda))	SRSELIVHQRMK	12	25921828	Antifungal		Experimentally validated
+CAMPSQ8247				Cm-p5	Cenchritis muricatus	Animalia (Molluscs (Gastropoda))	SRSELIVHQRLF	12	25921828	Antifungal		Experimentally validated
+CAMPSQ8856				MytC[23-34]	Mytilus galloprovincialis	Animalia (Mollusc )	GCYLLHPGKICY	12	26444944	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8857				MytC[29-40]	Mytilus galloprovincialis	Animalia (Mollusc )	PGKICYCLHCSR	12	26444944	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9576				C(10-21)	Gallus gallus	Animalia	RRFRPKVTITIQ	12	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9864				Hp1404-T1	Heterometrus petersii	Animalia	ILGKLWEGVKSI	12	29379033	Antibacterial, Antibiofilm	Gram -ve	Experimentally validated
+CAMPSQ10127				P-112	Homo sapiens	Animalia	DSHAKRHHGYKR	12	11302797	Antifungal		Experimentally validated
+CAMPSQ10128				P-113unam	Homo sapiens	Animalia	AKRHHGYKRKFH	12	11302797	Antifungal		Experimentally validated

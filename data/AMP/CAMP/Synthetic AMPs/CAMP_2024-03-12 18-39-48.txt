@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13834				B-47	Synthetic construct		KLAENVKEILR	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13835				B-48	Synthetic construct		RALHEAKEALK	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13836				B-49	Synthetic construct		FHYFWHWFHRF	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13837				B-50	Synthetic construct		LYHFLHWFQRF	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13838				B-51	Synthetic construct		YLFQTWQHLFR	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13839				B-52	Synthetic construct		YLLTEFQHLFK	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13840				B-53	Synthetic construct		FKTFLQWLHRF	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13841				B-54	Synthetic construct		IKTLLHFFQRF	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13842				B-55	Synthetic construct		KLLQTFNQIFR	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13843				B-56	Synthetic construct		TILQSLKNIFK	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13844				B-57	Synthetic construct		LKQFVKFIHRF	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13845				B-58	Synthetic construct		VKQLLKIFNRF	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13846				B-59	Synthetic construct		KLVQQLKNIFR	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13847				B-60	Synthetic construct		RVLNQVKQILK	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13848				B-61	Synthetic construct		VKKLAKLVRRF	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13849				B-62	Synthetic construct		AKRLLKVLKRF	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13850				B-63	Synthetic construct		KLAQKVKRVLR	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13851				B-64	Synthetic construct		RALKRIKHVLK	11	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14131				BP100	Synthetic construct		KKLFKKILKYL	11	33918933	Antibacterial		Experimentally validated
+CAMPSQ14132				RW-BP100	Synthetic construct		RRLFRRILRWL	11	33918933	Antibacterial		Experimentally validated
+CAMPSQ14140				BmKn-22	Synthetic construct		FIGAIARLLSK	11	34361810	Antibacterial		Experimentally validated
+CAMPSQ14391				Peptide 3.1	Synthetic construct		KKLLKWLLKLL	11	34834377	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14395				Pep-CysTetrad1	Synthetic construct		KCLARIQERCK	11	34835083	Antiviral		Experimentally validated
+CAMPSQ14396				Pep-CysTetrad2	Synthetic construct		MCLSFDSNYCR	11	34835083	Antiviral		Experimentally validated
+CAMPSQ14434				RR	Synthetic construct		WLRRIKAWLRR	11	28761101	Antibacterial	Gram -ve	Experimentally validated

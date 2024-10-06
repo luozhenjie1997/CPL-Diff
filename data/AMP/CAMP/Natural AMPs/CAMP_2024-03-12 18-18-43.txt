@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ887	116089	P14956		Cecropin-B	Drosophila melanogaster	Animalia (Insects)	GWLRKLGKKIERIGQHTRDASIQVLGIAQQAANVAATAR	39	2390977	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1108	190359306	P85148		Bacteriocin E50-52 	Enterococcus faecium	Monera	TTKNYGNGVCNSVNWCQCGNVWASCNLATGCAAWLCKLA	39	18293921	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1161	1706745	P49913	2FBS,2FBU,2FCG,2K6O,2LMF	FALL-39	Homo sapiens 	Animalia (Mammals)	FALLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	39	7529412	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1243	62901501	P84021		CECC_DROSI Cecropin-C precursor	Drosophila simulans 	Animalia (Insects)	GWLKKLGKRIERIGQHTRDATIQGLGIAQQAANVAATAR	39	11965438	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1244	543977	Q06590		Cecropin-2 	Ceratitis capitata	Animalia (Insects)	GWLKKIGKKIERVGQHTRDATIQTIGVAQQAANVAATLK	39		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1259	150421529	P83403		Cecropin	Glossina morsitans morsitans 	Animalia (Insects)	GWLKKIGKKIERVGQNTRDATVKGLEVAQQAANVAATVR	39	11886771	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1260	55584029	P84225		CECC_DROTE Cecropin-C precursor	Drosophila teissieri 	Animalia (Insects)	GWLKKLGKRIERIGQHTRDATIQGLGIAQQAANVAATAR	39	11965438	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1261	55584028	P84224		CECC_DROTK Cecropin-C precursor	Drosophila takahashii 	Animalia (Insects)	GWLKKLGKRIERIGQHTRDATIQGLGIAQQAANVAATAR	39	11965438	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1262	55584027	P84223		CECC_DROOR Cecropin-C precursor	Drosophila orena 	Animalia (Insects)	GWLKKLGKRIERIGQHTRDATIQGLGIAQQAANVAATAR	39	11965438	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1263	55584026	P84222		Cecropin-C	Drosophila erecta 	Animalia (Insects)	GWLKKLGKRIERIGQHTRDATIQGLGIAQQAANVAATAR	39		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1265	10719933	P81688		CECA1_DROSE Cecropin-A1 precursor	Drosophila sechellia 	Animalia (Insects)	GWLKKIGKKIERVGQHTRDATIQGLGVAQQAANVAATAR	39	9725836	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1269	2842738	Q94990		CEC2_DROVI Cecropin-2 precursor	Drosophila virilis 	Animalia (Insects)	GWLKKIGKKIERVGQHTRDATIQGLGIAQQAANVAATAR	39	9060393	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1271	2842734	Q94557		CEC1_DROVI Cecropin-1 precursor	Drosophila virilis 	Animalia (Insects)	GWLKKIGKKIERIGQHTRDATIQGLGIAQQAANVAATAR	39	9060393	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2131	62901500	P84020		Cecropin-C	Drosophila sechellia	Animalia (Insects)	GWLKKLGKRIERIGQHTRDATIQGLGIAQQAANVAATAR	39		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2132	62901499	P84019		Cecropin-C	Drosophila mauritiana	Animalia (Insects)	GWLKKLGKRIERIGQHTRDATIQGLGIAQQAANVAATAR	39		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2133	55584030	P84226		Cecropin-C	Drosophila yakuba	Animalia (Insects)	GWLKKLGKRIERIGQHTRDATIQGLGIAQQAANVAATAR	39		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2136	10719931	P81685		Cecropin-A1	Drosophila mauritiana	Animalia (Insects)	GWLKKIGKKIERVGQHTRDATIQGLGVAQQAANVAATAR	39		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2302	306530873	C7C1L2		Probable antimicrobial peptide Con13	Opisthacanthus cayaporum  	Animalia (Arachnida)	SKIKDFAKKAWNSPLANELKSKALNAAKNFVSEKIGATP	39	19379768	Antibacterial, Antifungal		Predicted
+CAMPSQ2698	319412668			Preprodamicornin  	Pocillopora damicornis  	Animalia (Cnidaria)	CADLRGKTFCRLFKSYCDKKGIRGRLMRDKCSYSCGCRG	39	21536670	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2777		P80571	1FJN	  Mussel Defensin MGD-1 	Mytilus galloprovincialis	Animalia (Molluscs (Bivalvia))	GFGCPNNYQCHRHCKSIPGRCGGYCGGXHRLRCTCYRCG	39	8925841	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2784				  rCRAMP 	Rattus norvegicus	Animalia (Mammals)	ISRLAGLVRKGGEKFGEKLRKIGQKIKEFFQKLALEIEQ	39	10768969	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2861				  Mussel defensin MGD-2 	Mytilus galloprovincialis	Animalia (Molluscs (Bivalvia))	GFGCPNNYACHQHCKSIRGYCGGYCAGWFRLRCTCYRCG	39	10564642	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ2910				  G. mellonella moricin-like peptide A 	Galleria mellonella	Animalia (Insects)	KVNANAIKKGGKAIGKGFKVISAASTAHDVYEHIKNRRH	39	18207081	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3079				  Enterocin 1071 	Enterococcus faecalis BFE 1071	Monera	ESVFSKIGNAVGPAAYWILKGLGNMSDVNQADRINRKKH	39	10742203	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3314				  PP102 	Pteromalus puparum	Animalia (Insects)	GSCSCSGTISPYGLRTCRATKTKPSHPTTKETHPQTLPT	39	19950104	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

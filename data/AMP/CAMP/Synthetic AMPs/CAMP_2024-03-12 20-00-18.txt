@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ17659		P01501		Melittin [K7,21EpsK]	Synthetic construct		GIGAVLXVLTTGLPALISWIXRKRQQ	26	32175733	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17658		P01501		Melittin [K7EpsK]	Synthetic construct		GIGAVLXVLTTGLPALISWIKRKRQQ	26	32175733	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17657		P01501		Melittin [K21EpsK]	Synthetic construct		GIGAVLKVLTTGLPALISWIXRKRQQ	26	32175733	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17656		P01501		Melittin [K23EpsK]	Synthetic construct		GIGAVLKVLTTGLPALISWIKRXRQQ	26	32175733	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18410				D5F	Synthetic construct		FAVGLRAIKRALKKLRRGVRKVAKDL	26	12208971	Antiviral		Experimentally Validated
+CAMPSQ19252		Q90ZY0		Ceratotoxin (1-5)-Pleurocidin (7-16)-N	Synthetic construct		SIGSAFKKAAHVGKHVGKAALTHYLN	26	10788362	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19250		Q90ZY0		K- Pleurocidin -AMD	Synthetic construct		KGWGSFFKKAAHVGKHVGKAALTHYL	26	10788362	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19201		P55788		Cecropin B(1-12) + GS + Thanatin(10-21)	Synthetic construct		RWKIFKKIEKMGGSYCNRRTGKCQRM	26	16316454	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19189		Q9S4D2		BacR1	Synthetic construct		LGGAATGVIGYISNQTCPTTACTRAC	26	20692130	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19149		P01501		Melittin [L6,13,16V]	Synthetic construct		GIGAVVKVLTTGVPAVISWIKRKRQQ	26	23324083	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19144		P01501		AzAla Melittin	Synthetic construct		GIGAVLKVLTTGLPALISXIKRKRQQ	26	25670241	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19131		P01501		Melittin [K7W]	Synthetic construct		GIGAVLWVLTTGLPALISWIKRKRQQ	26	7836358	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19130		P01501		Melittin [K7V]	Synthetic construct		GIGAVLVVLTTGLPALISWIKRKRQQ	26	7836358	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19129		P01501		Melittin [K7L]	Synthetic construct		GIGAVLLVLTTGLPALISWIKRKRQQ	26	7836358	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19126		P01501		Melittin [K7D]	Synthetic construct		GIGAVLDVLTTGLPALISWIKRKRQQ	26	7836358	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19127		P01501		Melittin [K7G]	Synthetic construct		GIGAVLGVLTTGLPALISWIKRKRQQ	26	7836358	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19128		P01501,		Melittin [K7I]	Synthetic construct		GIGAVLIVLTTGLPALISWIKRKRQQ	26	7836358, 17065623	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ19125		P01501		Melittin [K7A]	Synthetic construct		GIGAVLAVLTTGLPALISWIKRKRQQ	26	7836358	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19026				KISA26	Synthetic construct		KIAGKIASIAGKIAKIAGSIAKIAGK	26	28282123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19019				KIA7(26)	Synthetic construct		KIAGKIAAIAGKIAKIAGAIAKIAGK	26	28282123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19012				KIA26	Synthetic construct		KIAGKIAKIAGKIAKIAGKIAKIAGK	26	25807192, 32126225	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18902		P24627		LFampin 259-284	Synthetic construct		SVDGKEDLIWKLLSKAQEKFGKNKSR	26	16087276	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ18703		P11006		N-Magainin-C	Synthetic construct		APKAMHSAKKFGKAFVGEIMLQKKGI	26	14718539	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18671				Undefined	Synthetic construct		LQLLKQLLKLLKQFSGGFIKHFIHRF	26	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18670				Undefined	Synthetic construct		LQLLKQLLKLLKQFSATFIKHFIHRF	26	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated

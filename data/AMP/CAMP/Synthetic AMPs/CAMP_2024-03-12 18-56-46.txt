@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18424				Cm-p5 [E4Beta-Ala]	Synthetic construct		SRSXLIVHQRLF	12	31763531	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18425				Cm-p5 [I6R]	Synthetic construct		SRSELRVHQRLF	12	31763531	Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18426				Cm-p5 [I6K]	Synthetic construct		SRSELKVHQRLF	12	31763531	Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18427				Cm-p5 [L5K]	Synthetic construct		SRSEKIVHQRLF	12	31763531	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18444				G1A	Synthetic construct		AWWRRTVAKVRK	12	31802582	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18445				W2A	Synthetic construct		GAWRRTVAKVRK	12	31802582	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18446				W3A	Synthetic construct		GWARRTVAKVRK	12	31802582	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18447				R4A	Synthetic construct		GWWARTVAKVRK	12	31802582	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18448				R5A	Synthetic construct		GWWRATVAKVRK	12	31802582	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18449				T6A	Synthetic construct		GWWRRAVAKVRK	12	31802582	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18450				V7A	Synthetic construct		GWWRRTAAKVRK	12	31802582	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18451				K9A	Synthetic construct		GWWRRTVAAVRK	12	31802582	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18452				V10A	Synthetic construct		GWWRRTVAKARK	12	31802582	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18453				R11A	Synthetic construct		GWWRRTVAKVAK	12	31802582	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18454				K12A	Synthetic construct		GWWRRTVAKVRA	12	31802582	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ19428		P80279		Dermaseptin-3 (1-12), Dermaseptin-S3 (1-12)	Synthetic construct		ALWKNMLKGIGK	12	7989335	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19416				Undefined	Synthetic construct		RLLFRKIRRLKR	12	33398076, 23409125	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19402		P22226		D-Cathelicidin-1 [R2D-LYS-C10], D-Bactenecin-1 [R2D-LYS-C10]	Synthetic construct		rxcrivvirvcr	12	31056261	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19401		P22226		D-Cathelicidin-1 [R2k], D-Bactenecin-1 [R2k]	Synthetic construct		rkcrivvirvcr	12	31056261	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19400		P22226		D-Cathelicidin-1 [V6,7,10w], D-Bactenecin-1 [V6,7,10w]	Synthetic construct		RLCRIWWIRWCR	12	31056261	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19399		P22226		D-Cathelicidin-1 [R1,4,9,12k], D-Bactenecin-1 [R1,4,9,12k]	Synthetic construct		KLCKIVVIKVCK	12	31056261	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19398		P22226		Cathelicidin-1, BacP3K	Synthetic construct		KKCPIVVIRVCK	12	9867806	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19397		P22226		Cathelicidin-1, BacP-NH2	Synthetic construct		RRCPIVVIRVCR	12	9867806	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19337		P02788		C-LF11 [Q2Del,R11C]-R	Synthetic construct		CFWQRNIRKVCR	12	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19336		P02788		C-LF11 [Q2Del]-C	Synthetic construct		CFWQRNIRKVRC	12	20956602	Antibacterial	Gram-	Experimentally Validated

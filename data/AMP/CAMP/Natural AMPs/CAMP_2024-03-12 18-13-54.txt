@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9475				MCoTI-I	Clitoria ternatea cv	Plantae	GGVCPKILQRCRRDSDCPGACICRGNGYCGSGSD	34	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9476				MCoTI-II	Clitoria ternatea cv	Plantae	GGVCPKILKKCRRDSDCPGACICRGNGYCGSGSD	34	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10023				Cath-BF 	Bungarus fasciatus.	Animalia (Reptile)	KRFKKFFRKLKKSVKKRAKEFFKKPRVIGVSIPF	34	29392557	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10437				DRS B1	Phyllomedusa bicolor	Animalia	AMWLDVLKKIGTVALHAGKAALGAVADTISQGEQ	34	15222751	Antibacterial		Predicted
+CAMPSQ10451				Ranatuerin-2Pb	Rana pipiens	Animalia	SFLTTVKKLVTNLAALAGTVIDTIKCKVTGGCRT	34	31242693	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10714				LSer-Def4	Lucilia sericata	Animalia	LTCNIDRSFCLAHCLLRGYKRGFCTVKKICVCRH	34	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10715				LSer-Def6	Lucilia sericata	Animalia	GTCSFSSALCVVHCRVRGYPDGYCSRKGICTCRR	34	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10719				LSer-PRP3	Lucilia sericata	Animalia	SPFVDRPRRPIQHNGPKPRIITNPPFNPNARPAW	34	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10758				 crotalicidin (Ctn)	Crotalus durissus terrificus	Animalia	KRFKKFFKKVKKSVKKRLKKIFKKPMVIGVTIPF	34	31626724	Antifungal		Experimentally validated
+CAMPSQ10812				PMAP-36(1-34)	Sus scrofa	Animalia	GRFRRLRKKTRKRLKKIGKVLKWIPPIVGSIPLG	34	16128809	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10936				Oh_CRAMP	Ophiophagus hannah	Animalia	KRFKKFFKKLKNSVKKRAKKFFKKPRVIGVSIPF	34	25100358	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10943				MCRAMP	Mus musculus	Animalia	GLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPEQ	34	11557478	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10947				RCRAMP	Rattus norvegicus	Animalia	GLVRKGGEKFGEKLRKIGQKIKEFFQKLALEIEQ	34	11557478	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11729				CfTBeta	Chlamys farreri	Animalia (Molluscs (Bivalvia))	ISEVTQFDKSKLKKTETAEKNPLPTKETIEQEQA	34	30468890	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11813		P29559		Nisin-Z	Lactococcus lactis 	Monera (Bacteria)	ITSISLCTPGCKTGALMGCNMKTATCNCSIHVSK	34	28461263	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12448				Nisin	Lactococcus lactis	Monera (Bacteria)	IBaIZLaXPGaKXGALMGaNMKXAXaHaSIHVZK	34	28912758	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12561				Myticalin A8	Mytilus galloprovincialis	Animalia (Mollusca)	YSWPRMPRIPRLPRYPRYPRYPRWPRHPTIYAGR	34	28829401	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12585				AdCath	Andrias davidianus	Animalia (Amphibia)	RPKKVQGRKAEKDNGDGTTAANASGKKKSSNVFK	34	28801228	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12743				3792.25 Legumin Alike	Cicer arietinum L.	Plantae (Angiosperms)	KLQGRDEDEEKGAIVKVKGGLSFISPSEKQPRHQ	34	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14135				Pom-1	Pomacea poeyana	Animalia	KCAGSIAWAIGSGLFGGAKLIKIKKTIAELGGLQ	34	33924039	Antifungal		Experimentally validated
+CAMPSQ14136				Pom-2	Pomacea poeyana	Animalia	KEIERAGORIRDAIISAAPAVETLAOAOKIIKGG	34	33924039	Antifungal		Experimentally validated
+CAMPSQ14708				Hill-Alo 1	Hermetia illucens 	Animalia (Insects)	CINNGDGCQPDGRQGNCCSGYCHKEPGWVTGYCR	34	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14711				Hill-Dip 2	Hermetia illucens 	Animalia (Insects)	SAPKLEEESALSYIPDAAEAEIAEPASSHGRVRR	34	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15017				Peptide 46	Saccharomyces cerevisiae	Fungi	EVEKEVPIPEEEKKDEEKKDEEKKDEDDKKPKLE	34	35215278	Antibacterial		Predicted
+CAMPSQ15144				C_AMP240	Holdemanella, Collinsella	Monera (Bacteria)	DKLISILSLLSKRRKADGFRVKKTQKSSAYKKRF	34	35241840	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

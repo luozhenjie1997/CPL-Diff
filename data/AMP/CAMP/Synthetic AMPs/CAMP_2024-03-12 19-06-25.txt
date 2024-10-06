@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13926				PA-D-V	Synthetic construct		XKvvvKWvvKvvK	13	14709550	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13927				PA-D-L	Synthetic construct		XKlllKWllKllK	13	14709550	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13977				Peptide6	Synthetic construct		RRGWALRLVdLAY	13	19445503	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ13989				PpTH(7-19)	Synthetic construct		TWARNCYNVSRLP	13	15494403	Antifungal		Experimentally validated
+CAMPSQ13998				IN-1	Synthetic construct		ILPWKWPKWPWRR	13	19191872	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ13999				IN-2	Synthetic construct		ILPWKWPKKPWRR	13	19191872	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14000				IN-3	Synthetic construct		ILPWKKPKKPWRR	13	19191872	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14001				IN-4	Synthetic construct		ILPWKKPKKPKRR	13	19191872	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14005				N13-F1A	Synthetic construct		ALKALFKVASKVL	13	14739294	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14006				N13-F1W	Synthetic construct		WLKALFKVASKVL	13	14739294	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14027				Temporin A analog K1TA	Synthetic construct		KLPLIGRVLSGIL	13	10940378	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14028				Temporin A analog K7TA	Synthetic construct		FLPLIGKVLSGIL	13	10940378	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14029				Temporin A analog A512TA	Synthetic construct		FLPLAGRVLSGAL	13	10940378	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14030				Temporin A analog L512TA	Synthetic construct		FLPLLGRVLSGLL	13	10940378	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14048				Brevicidine	Synthetic construct		JNYWXXGXWTIGS	13	34338512	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14089				Kn2(G3K)	Synthetic construct		FIKAIARLLSKIF	13	34335511	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14090				Kn2(A4R)	Synthetic construct		FIGRIARLLSKIF	13	34335511	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14091				Kn2(S10R)	Synthetic construct		FIGAIARLLRKIF	13	34335511	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14092				Kn2(G3K_A4R)	Synthetic construct		FIKRIARLLSKIF	13	34335511	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14093				Kn2(G3K_S10R)	Synthetic construct		FIKAIARLLRKIF	13	34335511	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14094				Kn2(A4R_S10R)	Synthetic construct		FIGRIARLLRKIF	13	34335511	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14095				BmKn2-7	Synthetic construct		FIKRIARLLRKIF	13	34335511	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14096				BmKn2-7K	Synthetic construct		FIKKIAKLLKKIF	13	34335511	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14097				BmKn2-7R	Synthetic construct		FIRRIARLLRRIF	13	34335511	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14098				BmKn2-7(R4K)	Synthetic construct		FIKKIARLLRKIF	13	34335511	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ81	119391210	A0ZT59		Temporin-1Ob1	 Rana ornativentris 	Animalia (Amphibia)	FLPLIGKILGTILGK	15	17147973	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ104	41688534	P83706		Halocidin precursorA 	Halocynthia aurantium 	Animalia	ALLHHGLNCAKGVLA	15	12067731	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ175	158705868	A0SPI0		Mastoparan-like peptide 12c precursor	Vespa magnifica 	Animalia (Insects)	INLKAIAALAKKLLG	15	17046111	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ241	21542166	P83287		Oncorhyncin-1 	Oncorhynchus mykiss	Animalia (Pisces)	SKGKKANKDVELARG	15	10938737	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ653	91208278	P84797		Agrocybin	Agrocybe cylindracea 	Fungi	ANDPQCLYGNVAAKF	15	15629530	Antibacterial, Antifungal, Antiviral		Experimentally validated
+CAMPSQ747	206944351	B6D434		Cathelicidin-BF-15	Bungarus fasciatus	Animalia (Reptiles)	KFFRKLKKSVKKRAK	15	18795096	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ774				Dybowskin-4	Rana dybowskii	Animalia (Amphibia)	VWPLGLVICKALKIC	15	17698251	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ825	635377411	P83716		Halocin-C8	Halobacterium sp. AS7092	Archaea	DIDITGCSACKYAAG	15	17174009	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ846	2507565	P80511	1E8A,1GQM,1ODB,2WC8,2WCB,2WCE,2WCF	Calcitermin	Homo sapiens 	Animalia (Mammals)	VAIALKAAHYHTHKE	15	11522286	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ1110	26391011	P83137		Antifungal protein 3	Malva parviflora	Plantae	PEDPQRRYQEEQRRE	15	11302747	Antifungal		Experimentally validated
+CAMPSQ1120	68064398	P83957		Thaumatin-like protein	Castanopsis chinensis	Plantae	AKITFTNNHPRTIWP	15	12565869	Antifungal, Antiviral		Experimentally validated
+CAMPSQ1181	1170959	P80408		Metalnikowin-1 	Palomena prasina	Animalia (Insects)	VDKPDYRPRPRPPNM	15		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1211	1170960	P80409		Metalnikowin-2A 	Palomena prasina	Animalia (Insects)	VDKPDYRPRPWPRPN	15		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1587	6094237	P81369		Salmocidin-1	Oncorhynchus mykiss	Animalia (Pisces)	XXSVPAFGHYLPAXP	15		Antibacterial		Predicted
+CAMPSQ1743	224493142	P0C8X2		Lysozyme - like peptide	Tityus stigmurus	Animalia (Amphibia)	SIYERCELARELINR	15		Antibacterial		Predicted
+CAMPSQ1786	110810420	P0C1Q9		Mastoparan-V2	Vespula vulgaris	Animalia (Insects)	INWKKIKSLIKAAMS	15		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1787	110810419	P0C1Q8		Mastoparan-V1	Vespula vulgaris	Animalia (Insects)	INWKKIKSIIKAAMN	15		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2129	150382736	P85155		Endopeptidase L4	Lysobacter sp. (strain XL1)	Monera	AVVNGVNYVGETTAA	15		Antibacterial		Experimentally validated
+CAMPSQ2458	317411786	P0CI90		Antimicrobial peptide 143	Lychas mucronatus	Animalia (Arachnida)	FFLPSLIGGLISAIK	15	20663230	Antibacterial		Experimentally validated
+CAMPSQ2469	317411787	D9U2B8		Mucroporin-like peptide	Lychas mucronatus	Animalia (Arachnida)	FFLPSLIGGLISAFK	15	20663230	Antibacterial		Experimentally validated
+CAMPSQ2630	332715320	B5AGT4		Snakin-2	Solanum tuberosum	Plantae	SYKKIDCGGACAARC	15		Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ22473		A0A0A7NM03		Cathelicidin 4, buCATHL4E	Bubalus bubalis	Animalia	AIPWIWIWWLLRKG	14	26675301	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22474				Cathelicidin 4F, buCATHL4F	Bubalus bubalis	Animalia	AIPWSIWWRLLFKG	14	26675301	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22475				Cathelicidin 4G, buCATHL4G	Bubalus bubalis	Animalia	AIPWSIWWHLLFKG	14	26675301	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23411		V9MH43		Amurin-9KY, Kunyuenin	Rana kunyuensis		FLPFFAACAITRKC	14	30127331	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

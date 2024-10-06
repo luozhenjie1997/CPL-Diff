@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8672				HBD3r10	Synthetic construct		YCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	36	12936977	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8931				AMV9	Synthetic construct		AGAGFIKTLTKDCPEVVSQVCNMKTATCHCSIHVSK	36	31616392	Antibacterial	Gram+ve	Predicted
+CAMPSQ10347				PMAP-36PW	Synthetic construct		GRFRRLRKKTRKRLKKIGKVLKWIWWIVGSIPLGCG	36	31491551	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10348				PMAP-36PK	Synthetic construct		GRFRRLRKKTRKRLKKIGKVLKWIKKIVGSIPLGCG	36	31491551	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10804				H2d 	Synthetic construct		MRGSHHHHHHGSSGENLYFQSLASHLGHHALDHLLK	36	30857142	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11362				T-20	Synthetic construct		YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF	36	30716118	Antiviral		Experimentally validated
+CAMPSQ11429				MERS-HR2P	Synthetic construct		SLTQINTTLLDLTYEMLSLQQVVKALNESYIDLKEL	36	30646495	Antiviral		Experimentally validated
+CAMPSQ12285				T-20 peptide	Synthetic construct		YTSLIHSLIEESQNQQEKNDQELLELDKWASLWNWF	36	29899103	Antiviral 		Experimentally validated
+CAMPSQ12310				TAT-P2	Synthetic construct		YGRKKRRQRRRCWRPCPRAFRKRNCGRFRIRCCRIR	36	29907765	Antiviral 		Experimentally validated
+CAMPSQ12968				Ripcin D 	Synthetic construct		ITSISLCTPGCKTGALMGCNVPIIYTNRKTGVCKRM	36	34156232	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14360				Fp14	Synthetic construct		KQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLITG	36	34591335	Antiviral		Predicted
+CAMPSQ14364				EK1	Synthetic construct		SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKEL	36	34591335	Antiviral		Predicted
+CAMPSQ24175		P16090		FIV Egp (724-758)	Synthetic construct		IWNHGNITLGEWYNQTKDLQQKFYEIIMDIEQNNV	35	12186891	Antiviral		Experimentally Validated
+CAMPSQ24176		P16090		FIV Egp (725-759)	Synthetic construct		WNHGNITLGEWYNQTKDLQQKFYEIIMDIEQNNVQ	35	12186891	Antiviral		Experimentally Validated
+CAMPSQ24179		P16090		FIV Egp (730-764)	Synthetic construct		ITLGEWYNQTKDLQQKFYEIIMDIEQNNVQGKKGI	35	12186891	Antiviral		Experimentally Validated
+CAMPSQ24181		P16090		FIV Egp (732-766)	Synthetic construct		LGEWYNQTKDLQQKFYEIIMDIEQNNVQGKKGIQQ	35	12186891	Antiviral		Experimentally Validated
+CAMPSQ24182		P16090		FIV Egp (733-767)	Synthetic construct		GEWYNQTKDLQQKFYEIIMDIEQNNVQGKKGIQQL	35	12186891	Antiviral		Experimentally Validated
+CAMPSQ24183		P16090		FIV Egp (734-768)	Synthetic construct		EWYNQTKDLQQKFYEIIMDIEQNNVQGKKGIQQLQ	35	12186891	Antiviral		Experimentally Validated
+CAMPSQ24184		P16090		FIV Egp (735-769)	Synthetic construct		WYNQTKDLQQKFYEIIMDIEQNNVQGKKGIQQLQK	35	12186891	Antiviral		Experimentally Validated
+CAMPSQ24185		P16090		FIV Egp (736-770)	Synthetic construct		YNQTKDLQQKFYEIIMDIEQNNVQGKKGIQQLQKW	35	12186891	Antiviral		Experimentally Validated
+CAMPSQ24186		P16090		FIV Egp (737-771)	Synthetic construct		NQTKDLQQKFYEIIMDIEQNNVQGKKGIQQLQKWE	35	12186891	Antiviral		Experimentally Validated
+CAMPSQ24187		P16090		FIV Egp (738-772)	Synthetic construct		QTKDLQQKFYEIIMDIEQNNVQGKKGIQQLQKWED	35	12186891	Antiviral		Experimentally Validated
+CAMPSQ24188		P16090		FIV Egp (739-773)	Synthetic construct		TKDLQQKFYEIIMDIEQNNVQGKKGIQQLQKWEDW	35	12186891	Antiviral		Experimentally Validated
+CAMPSQ24189		P16090		FIV Egp (746-780)	Synthetic construct		FYEIIMDIEQNNVQGKKGIQQLQKWEDWVGWIGNI	35	12186891	Antiviral		Experimentally Validated
+CAMPSQ24472				CT105	Synthetic construct		MTWCDWRDEIERYTKKIEELIRAAQEKNEAALKEL	35	29433929	Antiviral		Experimentally Validated

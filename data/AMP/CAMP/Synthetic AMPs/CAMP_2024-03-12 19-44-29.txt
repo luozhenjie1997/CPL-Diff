@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2732				  GLK-19 	Synthetic construct		GLKKLLGKLLKKLGKLLLK	19	18957441	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2858				  A3-APO 	Synthetic construct		RPDKPRPYLPRPRPPRPVR	19	20031377	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ4515		P56650		Lantibiotic actagardine	Synthetic construct		SSGWVCTLTIECGTVICAC	19		Antibacterial		Predicted
+CAMPSQ24230		P60603		ROS modulator 1 (58-75)	Synthetic construct		KTMMQSGGTFGTFMAIGM	18	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24309				KL18	Synthetic construct		KLKLKLKLKLKLKLKLKL	18	32704013	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24315		I7G0X7		Profilin (67-84)	Synthetic construct		RYIYLSGTDRIIRAKLGK	18	32619153	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24316		I7G0X7		Profilin derived peptide PEP-IA18	Synthetic construct		ITRYLDKILRILRKYLKA	18	32619153	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24321		P09941		ApTI (10-27)	Synthetic construct		FLRNGGSYYIVPAFRGKG	18	32710881	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24322				Adepamycin	Synthetic construct		FQRYFHRYARFLAKIWKG	18	32710881	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24352		A0A3S8V4V1		MK049518	Synthetic construct		FLGLLGSVLGSVLPSIFK	18	32768440	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24353		A0A3S8V4V1		MK049518 [S7,11,15K]	Synthetic construct		FLGLLGKVLGKVLPKIFK	18	32768440	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24354		A0A3S8V4V1		MK049518 [G3,6,10K; S7,11,15K]	Synthetic construct		FLKLLKKVLKKVLPKIFK	18	32768440	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24356		A7WNV3		Brevinin-1PLb (1-11)-(18-24)	Synthetic construct		FLPLIAGLAAKCAITKKC	18	32781587	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24423				Undefined	Synthetic construct		VCRKPVVCRKPVVCRKPV	18	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24427				Undefined	Synthetic construct		ICRKPIICRKPIICRKPI	18	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24529		P49931		KV3	Synthetic construct		KIGKVLLVKGIKKIGKVL	18	33101226	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24530		P49931		RV3	Synthetic construct		RIGRVLLVRGIRRIGRVL	18	33101226	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24531		P49931		KF3	Synthetic construct		KIGKFLLFKGIKKIGKFL	18	33101226	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24532		P49931		KW3	Synthetic construct		KIGKWLLWKGIKKIGKWL	18	33101226	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24533		P49931		RF3	Synthetic construct		RIGRFLLFRGIRRIGRFL	18	33101226	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24534		P49931		RW3	Synthetic construct		RIGRWLLWRGIRRIGRWL	18	33101226	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24562				PA-18	Synthetic construct		KIAKRIWKILRRRLFRRV	18	32499514	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24573		A0A0L7LPN7		YqaJ domain-containing protein (378-395)[Q7W,I18K]	Synthetic construct		ILKPKLWKLTVVARKIIK	18	33063186	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24574		O58222		CheA (724-741)[S11K,R14G]	Synthetic construct		IVIKSLGKFLKNVGGFAG	18	33063186	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24763		P05814		Beta-casein (140-157)	Synthetic construct		HLPLPLLQPLMQQVPQPI	18	33673498	Antibacterial	Gram+,Gram-	Experimentally Validated

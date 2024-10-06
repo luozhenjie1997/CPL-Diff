@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ16713		P11006		MSI-78 (3-19), Pexiganan (3-19)	Synthetic construct		GKFLKKAKKFGKAFVKI	17	26066462	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16714		P11006		MSI-78 (4-20), Pexiganan (4-20)	Synthetic construct		KFLKKAKKFGKAFVKIL	17	26066462,35085925	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16715		P11006		MSI-78 (5-21), Pexiganan (5-21)	Synthetic construct		FLKKAKKFGKAFVKILK	17	30136030	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16716		P11006		MSI-78 (6-22), Pexiganan (6-22)	Synthetic construct		LKKAKKFGKAFVKILKK	17	26066462	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16720		P49913		GF-17kr1	Synthetic construct		GFKRIVQKIRDFLRNLV	17	28450045	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16721		P49913		GF-17kr2	Synthetic construct		GFRKIVQKIRDFLRNLV	17	28450045	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16722		P49913		GF-17BIPHE2kr1	Synthetic construct		GXKRlVQKlRDXlRNLV	17	28450045	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16723		P49913		GF-17BIPHE2kr2	Synthetic construct		GXRKlVQKlRDXlRNLV	17	28450045	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16730				Brevinin-1GHb	Synthetic construct		FLGAVLKVAGKLVPAAI	17	30322120	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16823		P32194,		Protegrin 1 analogue IB-367, Iseganan	Synthetic construct		RGGLCYCRGRFCVCVGR	17	10931444, 24531033, 25445605	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ16826				IB-367	Synthetic construct		RGGLCYCRGRFCVCVGR	17	10931444	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17140		A6XMY0		Arasin 1 (7-23)	Synthetic construct		GRPRPFPGRPKPIFRPR	17	23326415	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ17723		Q9H0A0		RNA cytidine acetyltransferase (891–907), Hs05	Synthetic construct		LMGLFNRIIRKVVKLFN	17	33321627	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17719				DBS1-(DBS1-G)-Con+AF	Synthetic construct		RRGWARRLAFAFAFGRR	17	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17718				DBS1-(DBS1-G)-Con+LR	Synthetic construct		RRGWARRLLRAFAFGRR	17	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17666		P69135		Tachyplesin-1	Synthetic construct		KWXFRVXYRGIXYRRXR	17	11724544	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18080				Bp18	Synthetic construct		LKCKCKLLKLLKLKKLK	17	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18081				Bp19	Synthetic construct		LCKKKLKCLKKLLLLLK	17	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18082				Bp20	Synthetic construct		LLKKLLKLCKKCLLLKK	17	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18083				Bp21	Synthetic construct		LLLKKLLKLKLCLKCKK	17	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18084				Bp22	Synthetic construct		LLLKCKKLKLKKCLKLK	17	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18085				Bp23	Synthetic construct		KLLLKCLKLLLKKKCLK	17	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18086				Bp24	Synthetic construct		KKLLLLCLLKCKKLKLK	17	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18099				Bp37	Synthetic construct		KLKKLCCLLLLKKLKKL	17	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18105				Bp40	Synthetic construct		KKLKCLLCLLLLKKLKK	17	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

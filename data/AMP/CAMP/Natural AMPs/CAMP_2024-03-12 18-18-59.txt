@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1139	5902771	P81591		Antimicrobial protein PN-AMP1	Ipomoea nil	Plantae	QQCGRQASGRLCGNRLCCSQWGYCGSTASYCGAGCQSQCR	40	9507071	Antifungal		Experimentally validated
+CAMPSQ1199	54036841	P67792		Cecropin-B	Drosophila simulans 	Animalia (Insects)	AGWLRKLGKKIERIGQHTRDASIQVLGIAQQAANVAATAR	40		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1242	55584020	O16829		Cecropin-C 	Drosophila melanogaster	Animalia (Insects)	GWLKKLGKRIERIGQHTRDATIQGLGIAQQAANVAATARG	40	1740152	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1264	54036840	P67791		CECB_DROSE Cecropin-B precursor	Drosophila sechellia 	Animalia (Insects)	AGWLRKLGKKIERIGQHTRDASIQVLGIAQQAANVAATAR	40	9725836	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1274	145566791	A3RJ36		Lingual antimicrobial peptide 	 Bubalus bubalis	Animalia (Mammals)	VRNSQSCRRNKGICVPIRCPGSMRQIGTCLGAQVKCCRRK	40		Antibacterial		Predicted
+CAMPSQ1400	31071995			TPA_exp: DEFB4-like protein	Papio anubis	Animalia (Mammals)	IRNPVTCIRSGAICYPRSCPGSYKQIGVCGVSVIKCCKKP	40		Antibacterial, Antifungal, Antiviral	Gram+ve	Predicted
+CAMPSQ1556	25089611	Q8WSV1		Andropin	Drosophila teissieri 	Animalia (Insects)	FINLLDKVEDALHTGAQAGFKLIRPVERGATPKKSEKPEK	40		Antibacterial	Gram+ve	Predicted
+CAMPSQ1570	10719932	P81686		Cecropin-B	Drosophila mauritiana	Animalia (Insects)	AGWLRKLGKKIERIGQHTRDASIQVLGIAQQAANVAATAR	40		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1574	148872799	P81602		Defensin-B	Aedes aegypti	Animalia (Insects)	ATCDLLSGFGVGDSACAAHCIARGNRGGYCNSQKVCVCRN	40	7633471	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1575	156630881	P81603		Defensin-C 	Aedes aegypti	Animalia (Insects)	ATCDLLSGFGVGDSACAAHCIARRNRGGYCNAKKVCVCRN	40	7633471	Antibacterial	Gram+ve	Predicted
+CAMPSQ1900	71152323	Q8R2I3		Beta-defensin35	 Mus musculus	Animalia (Mammals)	EIAVCETCRLGRGKCRRACIESEKIVGWCKLNFFCCRERI	40		Antibacterial		Predicted
+CAMPSQ1997	148852648	P85150		Beta-defensin 2	Bubalus bubalis	Animalia (Mammals)	VRNHVTCRINRGFCVPIRCPGRTRQIGTCFGPRIKCCRSW	40		Antibacterial		Predicted
+CAMPSQ2082	84028896	Q30KJ5		Beta-defensin134	Pan troglodytes	Animalia (Mammals)	EMHKKCYKNGICRLECYESEMLVAYCMFQLECCVKGNPAP	40		Antibacterial		Predicted
+CAMPSQ2209	74769036	Q5BU36		Defensin	Formica aquilonia	Animalia (Insects)	FTCDLLSGAGVDHSACAAHCILRGKTGGRCNSDRVCVCRA	40		Antibacterial	Gram+ve	Predicted
+CAMPSQ2715		P46168		  Bovine Beta-defensin 10  	Bos taurus	Animalia (Mammals)	QGVRSYLSCWGNRGICLLNRCPGRMRQIGTCLAPRVKCCR	40	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2745		P10891	1ICA	 Phormia defensin A 	Phormia terranovae	Animalia (Insects)	ATCDLLSGTGINHSACAAHCLLRGNRGGYCNGKGVCVCRN	40	2911573	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2804				  Hinnavin I 	Artogeia rapae	Animalia (Insects)	GWKIGKKLEHHGQNIRDGLISAGPAVFAVGQAATIYAAAK	40	9339895	Antibacterial		Experimentally validated
+CAMPSQ3188				  Smd2 	Stomoxys calcitrans	Animalia (Insects)	ATCDLLSMWNVNHSACAAHCLLLGKSGGRCNDDAVCVCRK	40	9326639	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3277				  Caenacin-5 	Caenorhabditis elegans	Animalia (Chromadorea)	QWGYNSYGGYNSYGNYGGYGGGYNNGYGVNANLGVGGRGG	40	15048112	Antifungal		Predicted
+CAMPSQ3418				  Beta-amyloid peptide(1-40) 	Homo sapiens	Animalia (Mammals)	DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV	40	20209079	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3933		P86253		Beta-defensin 1	Emys orbicularis 	Animalia (Reptiles)	YDLSKNCRLRGGICYIGKCPRRFFRSGSCSRGNVCCLRFG	40	19253295	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4156	460425417	B3EWY5		Lucifensin	Lucilia cuprina 	Animalia (Mammals)	ATCDLLSGTGIKHSACAAHCLLRGNRGGYCNGRAICVCRN	40		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ4327				  Tachystatin A	Tachypleus tridentatus	Animalia (Merostomata ( Horseshoe crabs ))	YSRCQLQGFNCVVRSYGLPTIPCCRGSYFPGSTYGRCQRP	40	10473569	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4374		Q5MGD8		Defense protein 4	Lonomia obliqua	Animalia (Insects)	WDFLKELEGVGQRVRDSIISAGPAIDVLKKSQGPRRWSRP	40	16023793	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ4482		Q0MWV8	2LG4	Aurelin	Aurelia aurita	Animalia	AACSDRAHGHICESFKSFCKDSGRNGVKLRANCKKTCGLC	40	16890198	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

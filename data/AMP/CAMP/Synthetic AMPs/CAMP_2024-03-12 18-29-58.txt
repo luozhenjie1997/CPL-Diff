@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22134				Undefined	Synthetic construct		fWfHwK	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22135				Undefined	Synthetic construct		KwFfFh	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22136				Undefined	Synthetic construct		KwFfWh	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22137				Undefined	Synthetic construct		KwFfKh	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22138				Undefined	Synthetic construct		KwFfHh	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22139				Undefined	Synthetic construct		KwFfSh	6	17304598	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22278				Undefined	Synthetic construct		CKKKRC	6	28767074, 33003569	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22280				Undefined	Synthetic construct		CKKRKC	6	28767074, 33003569	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22282				Undefined	Synthetic construct		CRKKKC	6	28767074, 33003569	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22283				Undefined	Synthetic construct		CKKKKC	6	33003569	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22285				Undefined	Synthetic construct		CKRKKC	6	33003569	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22287				Undefined	Synthetic construct		CRRKKC	6	33003569	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22578				N7	Synthetic construct		ILIKRK	6	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22586				C7	Synthetic construct		KRKILI	6	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22593				H6	Synthetic construct		KRKKRK	6	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22659		B5A9T1		Chensinin-1 (8-13) [G11W, L12H ]	Synthetic construct		RRFWHR	6	27060618	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22693		G7L736		MtDef4 (35-40)	Synthetic construct		RGFRRR	6	21533249	Antifungal	Gram-	Experimentally Validated
+CAMPSQ22696		G7L736		MtDef4 (35-40)[F3A]	Synthetic construct		RGARRR	6	21533249	Antifungal	Gram-	Experimentally Validated
+CAMPSQ22697		G7L736		MtDef4 (35-40)[R4A]	Synthetic construct		RGFARR	6	21533249	Antifungal	Gram-	Experimentally Validated
+CAMPSQ22842				Plipastatin analogue hexapeptide	Synthetic construct		ExYxEv	6	27909427	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22887				WK1	Synthetic construct		WKpGKW	6	26088720	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22892				W1	Synthetic construct		WRPGRW	6	26546414	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22923		P17737		Antifungal protein AFP-Ag (14-19)	Synthetic construct		CKYKAQ	6	28120548	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22924				DS2	Synthetic construct		CKYKAR	6	28120548	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22925				DS3	Synthetic construct		CKYKWR	6	28120548	Antifungal	Gram+,Gram-	Experimentally Validated

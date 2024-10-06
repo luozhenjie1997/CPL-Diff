@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14	110279044	P0C1M4		Mastoparan-like peptide 12a	Vespa magnifica 	Animalia (Insects)	INWKGIAAMAKKLL	14	16330062	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ25	110810422	P0C1Q4		Mastoparan-1 	Polybia paulista	Animalia (Insects)	IDWKKLLDAAKQIL	14	16129513	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ28	111118804	Q0PJU7		Astacidin 2 	Pacifastacus leniusculus	Animalia (Crustaceans (Malacostraca))	RPRPNYRPRPIYRP	14	17049601	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ176	158705869	P0C5G7		Mastoparan-like peptide 12d	Vespa magnifica 	Animalia (Insects)	INLKAIAAMAKKLL	14	17046111	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ20697		P86488		Peroniin-1.1a	Litoria peronii	Animalia	DAQEKRQPWLPFG	13	19642086	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20698		P86495		Peroniin-1.1b	Litoria peronii	Animalia	SEEEKRQPWLPFG	13	19642086	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20699		P86490		Peroniin-1.2a	Litoria peronii	Animalia	DAQEKRQPWIPFV	13	19642086	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20700		P86493		Peroniin-1.3a	Litoria peronii	Animalia	DAQEKRQPWLPFV	13	19642086	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21357				Pxt-1	Xenopus tropicalis	Animalia	IRPIPFIPRGGKT	13	25312021	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21392		A0ZT21		Grammistin Pp B	Pogonoperca punctata	Animalia	FIHHIVHAIGRLF	13	17067722	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21464		Q9TUI9		Apelin-13	Bos taurus	Animalia	QRPRLSHKGPMPF	13	10802050	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21470		D5MTH4		Temporin-TOa	Rana tagoi okiensis	Animalia	FLPILGKLLSGFL	13	19799928	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21471		D5MTH5		Temporin-TOb	Rana tagoi okiensis	Animalia	FLPILGKLLSGLL	13	19799928	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22869				Ecumicin	Nonomuraea sp. MJM5123		XVXTXVXVXXVXV	13	25409285, 25421483	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22870				Callyaerin A	Callyspongia aerizusa		IXVILPPLXPIFG	13	26213786, 20599387	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22874				Callyaerin D	Callyspongia aerizusa	Animalia	IIFPXPLXPINAI	13	20599387	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23004		A0A1B1UZP1,		Temporin-GHa	Sylvirana guentheri (Hylarana guentheri)		FLQHIIGALGHLF	13	28338958, 31752079	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23005		A0A1B1UZN5		Temporin-GHb	Sylvirana guentheri (Hylarana guentheri)	Animalia	FIHHIIGALGHLF	13	28338958	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23006		A0A1B1UZN4,		Temporin-GHc	Sylvirana guentheri (Hylarana guentheri)		FLQHIIGALTHIF	13	28338958	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23007		A0A1B1UZN2,		Temporin-GHd	Sylvirana guentheri (Hylarana guentheri)		FLQHIIGALSHFF	13	28338958	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23359		P17238		Mastoparan-Vo	Vespa orientalis	Animalia	INLKAIAALVKKV	13	30358026	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23737				H-Tridecaptin B1	Paenibacillus polymyxa NRRL B-30507		GxGswSXxIEVxA	13	25959079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23779				Somuncurin-4.2a	Pleurodema somuncurense	Animalia	DLASLARLYALAR	13	32134261	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23781				Somuncurin-4.3a	Pleurodema somuncurense	Animalia	VSFNRAVIHSLLG	13	32134261	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24460		P0DSK0,		M-poneratoxin-Dq3b, Dq-1503	Dinoponera quadriceps		FWGTLAKWALKAI	13	32585881, 28976889	Antiparasitic, Antifungal	Gram+	Experimentally Validated

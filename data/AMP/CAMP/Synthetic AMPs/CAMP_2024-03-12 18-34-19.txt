@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21418		Q70623		Vif (9-16)	Synthetic construct		IVWQVDRM	8	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21428		Q70623		Vif (30-37)	Synthetic construct		YVSGKARG	8	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21429		Q70623		Vif (33-40)	Synthetic construct		GKARGWFY	8	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21430		Q70623		Vif (37-44)	Synthetic construct		GWFYRHHY	8	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21432		Q70623		Vif (55-62)	Synthetic construct		VHIPLGDA	8	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21433		Q70623		Vif (58-65)	Synthetic construct		PLGDARLV	8	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21434		Q70623		Vif (78-85)	Synthetic construct		DWHLGQGV	8	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21435		Q70623		Vif (81-88)	Synthetic construct		LGQGVSIE	8	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21436		Q70623		Vif (85-92)	Synthetic construct		VSIEWRKK	8	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21437		Q70623		Vif (88-95)	Synthetic construct		EWRKKRYS	8	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21479				Undefined	Synthetic construct		AEAMSQVT	8	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21484				Undefined	Synthetic construct		VTNTATIM	8	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21632				Undefined	Synthetic construct		RKRRKWKK	8	19959366	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21637		Q86FU0,		Penetratin (9-16)	Synthetic construct		NRRMKWKK	8	19959366, 23581817	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21655				Undefined	Synthetic construct		RRRRWFWF	8	21286704	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21739		P01966		Hemoglobin subunit alpha (99-106)	Synthetic construct		KLLSHSLL	8	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21764				Undefined	Synthetic construct		NKPFVFLM	8	22406118	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21827				Undefined	Synthetic construct		KKKKKKKK	8	24243601, 26922474	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21832				R8	Synthetic construct		RRRRRRRR	8	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21837				P8	Synthetic construct		PPPPPPPP	8	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22079				4 x Paralysin beta-AY amide	Synthetic construct		XYXYXYXY	8	24168419	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22103		Q6JWQ9		Epinecidin-1 (42-49)	Synthetic construct		VTRRRHGV	8	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22143				Burkholdine 7	Synthetic construct		GNYSXNSN	8	23769641	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22191		P61280		Alpha-MSH (6-13)[F7D-Nal,P12F]	Synthetic construct		HxRWGKFV	8	23626703	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22192		P61280		Alpha-MSH (6-13)[F7D-Nal,G10Acpc,P12F]	Synthetic construct		HxRWXKFV	8	23626703	Antifungal	Gram+,Gram-	Experimentally Validated

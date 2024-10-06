@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ298	2612870	O30434		Enterocin P precursor 	Enterococcus faecium 	Monera	ATRSYGNGVYCNNSKCWVNWGEAKENIAGIVISGWASGLAGMGH	44	9361419	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ313	28201847	P83313		Opistoporin-1	Opistophthalmus carinatus	Animalia (Arachnida)	GKVWDWIKSTAKKLWNSEPVKELKNTALNAAKNLVAEKIGATPS	44	12354111	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ518	548575	P29430		Bacteriocin pediocin PA-1 precursor 	Pediococcus acidilactici 	Monera	KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC	44	1514784, 29899567	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ623	74834657	P84156	1OZZ,1P00,1P0A	Defensin ARD1	Archaeoprepona demophon 	Animalia (Insects)	DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET	44	14978308	Antifungal		Experimentally validated
+CAMPSQ729	159162451	P81544	1I2U,1I2V	Heliomicin	Heliothis virescens	Animalia (Insects)	DKLIGSCVWGAVNYTSDCNGECKRRGYKGGHCGSFANVNCWCET	44	10092609	Antifungal		Experimentally validated
+CAMPSQ816	488292376	Q27HG2		Bacteriocin T8	Enterococcus faecium T8	Monera	ATYYGNGLYCNKEKCWVDWNQAKGEIGKIIVNGWVNHGPWAPRR	44	Reference: Yamada, S., Komori, T., Imaseki, H (1997) Plant Physiol; 115:314.	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ820	21702214	Q8KMU4		Enterocin EJ97 	Enterococcus faecalis	Monera	MLAKIKAMIKKFPNPYTLAAKLTTYEINWYKQQYGRYPWERPVA	44	Reference: Patel S, Stott I P, Bhakoo M, Elliott P (1988) Patenting computer-designed peptides. Journal of Computer-Aided Molecular Design, 12: 543-556.	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ821				Enterocin RJ-11	Enterococcus faecalis RJ-11	Monera	APAGLVAKFGRPIVKKYYKQIMQFIGEGSAINKIIPWIARMWRT	44	Reference: Wang, C, Sun Z, Liu Y, Zhang X, Xu G (2007) A novel antimicrobial vermipeptide family from earthworm Eisenia fetida. Eur. J Soil Biol 2007; 43:S217-S134.	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ823	3087780	Q7B2P3		Enterocin L50A	Enterococcus faecium 	Monera	MGAIAKLVAKFGWPIVKKYYKQIMQFIGEGWAINKIIEWIKKHI	44	Reference: Liao W, Ma D, Wang R, Han Z, Shao T, Li H, Liu S (2009) mRNA Cloning, Evolutionary Analysis and Biological Characterization of Duck Avian Beta-defensin 10. Acta Veterinaria et Zootechnica Sinica, 2009, 40(9): 1320-1326; 35260685	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ826	123159786	Q0Z8B6		Bacteriocin hiracin-JM79	Enterococcus hirae	Monera	ATYYGNGLYCNKEKCWVDWNQAKGEIGKIIVNGWVNHGPWAPRR	44	17326750	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ880	74849791	Q9U8X3	1CIX	Tachystatin-A2	Tachypleus tridentatus 	Animalia	YSRCQLQGFNCVVRSYGLPTIPCCRGLTCRSYFPGSTYGRCQRY	44	10473569 , 11959852	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ925	417986	P33044		Antifungal protein R	Hordeum vulgare	Plantae	ATITVVNRCSYTVWPGALPGGGVRLDPGQRWALNMPAGTAGAAV	44	1936240	Antifungal		Experimentally validated
+CAMPSQ930	150387843	P0C1Z7		Tachystatin-A 1	Tachypleus tridentatus 	Animalia	YSRCQLQGFNCVVRSYGLPTIPCCRGLTCRSYFPGSTYGRCQRF	44	10473569	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ982	47117875	P80569		Bacteriocin piscicolin-126	Carnobacterium maltaromaticum	Monera	KYYGNGVSCNKNGCTVDWSKAIGIIGNNAAANLTTGGAAGWNKG	44	8702282	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1145	263406454	P85966	2LB7	WAMP-1a	Triticum kiharae	Plantae	AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGC	44	19583772	Antifungal		Experimentally validated
+CAMPSQ1191	28201848	P83314		Opistoporin-2	Opistophthalmus carinatus	Animalia (Arachnida)	GKVWDWIKSTAKKLWNSEPVKELKNTALNAAKNFVAEKIGATPS	44	12354111	Antibacterial, Antifungal		Predicted
+CAMPSQ1302	37594698	Q5VJS9		Opistoporin4 	Opistophthalmus carinatus	Animalia (Arachnida)	GKVWDWIKKTAKDVLNSDVAKQLKNKALNAAKNFVAEKIGATPS	44		Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ1483	159162452	P81544	1I2U,1I2V	Heliomicin Mutant	Heliothis virescens	Animalia (Insects)	DKLIGSCVWGAVNYTSDCNGECLLRGYKGGHCGSFANVNCWCET	44	11580275	Antibacterial, Antifungal		Predicted
+CAMPSQ1632	84029478	Q5IAA9		Beta-defensin 107A	Pan troglodytes	Animalia (Mammals)	AIHRALISKRMEGHCEAECLTFEVKTGGCRAELAPFCCKNRKKH	44		Antibacterial		Predicted
+CAMPSQ1916	152112331	A4H216		Beta-defensin 107A	Pongo pygmaeus	Animalia (Mammals)	AIHRALICKRMEGHCEAECLTFEVKIGGCRAELAPFCCKNRKKH	44		Antibacterial		Predicted
+CAMPSQ1917	152112330	A4H218		Beta-defensin107A	Macaca fascicularis	Animalia (Mammals)	AIHRALICKRMEGHCEAECLTFEVKIGGCRAELTPYCCKKRKKD	44		Antibacterial		Predicted
+CAMPSQ1918	152112329	A4H217		Beta-defensin107A	Hylobates lar	Animalia (Mammals)	AIHRALICKRMEGHCEAECLTFEVKIGGCRAELAPFCCKNRKKH	44		Antibacterial		Predicted
+CAMPSQ1919	152112328	A4H215		Beta-defensin107A	Gorilla gorilla gorilla	Animalia (Mammals)	AIHRALICKRMEGHCEAECLTFEAKIGGCRAELAPFCCKNRKKH	44		Antibacterial		Predicted
+CAMPSQ2070	123780117	Q32ZH8		Beta-defensin13	Rattus norvegicus	Animalia (Mammals)	TLYRRFLCKKMKGRCETACLSFEKKIGTCRADLTPLCCKEKKKH	44		Antibacterial		Predicted
+CAMPSQ2141	123659995	Q4L5M5		Antibacterial protein 1 homolog	Staphylococcus haemolyticus (strain JCSC1435)	Monera	MQKLAEAIAAAVQAGQDKDWGKMGTSIVGIVENGISVLGKIFGF	44		Antibacterial	Gram-ve	Predicted

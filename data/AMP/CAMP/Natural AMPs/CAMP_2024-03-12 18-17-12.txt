@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3826				  Cc-GRP 	Coffea canephora	Plantae (Angiosperms)	GNEGGGHGGHGGYGGYHHHGGGGGGYGGYHGGGGS	35	23500079	Antifungal		Experimentally validated
+CAMPSQ3851	27734551	O07623	1PXQ	  Subtilosin A1 	Bacillus subtilis	Monera	NKGCATCSIGAACLVDGPIPDFEIAGATGLFGLWG	35	19633086	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3857		P86394		Bacteriocin SRCAM 1580	Paenibacillus polymyxa	Monera	VNYGNGVSCSKTKCSVNWGIITHQAFRVTSGVASG	35	15690798	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8152		C0HJQ3		Histone H2A [Cleaved into: Acipensin 2 (Ac2)]	Acipenser gueldenstaedtii 	Animalia (Pisces)	SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLR	35	25558400	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8436				Taac-CATH1	Tachyglossus aculeatus	Animalia (Mammals)	PIRTKRRWKLIKKGGKIVKDLLTKNNIIILPGGNE	35	28949902	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8893				E53 CecB	Bombyx mori	Animalia (Arthropoda)	RWKIFKKIEKMGRNIRDGIVKAGPAIEVLGSAKAI	35	31045339	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8894				Q53 CecB	Bombyx mori	Animalia (Arthropoda)	RWKIFKKIEKMGRNIRDGIVKAGPAIQVLGSAKAI	35	31045339	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8905				EcAMP3	Echinochloa	Plantae (Commelinids)	GADRCRERCERRHRGDWQGKQRCLMECRRREQEED	35	31012001	Antifungal		Experimentally validated
+CAMPSQ10104				Lebocin?1 (SlLeb?1)124-158	Spodoptera litura	Animalia (Insect)	SLHLPDYKFPLPTLPPFNPRPRYPWDDNPRYPIYV	35	31562754	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10438				Plantaricin alpha	Lactobacillus plantarum	Monera	LNVNGAKCKWWNISCDLGNNGHVCTLSHECQVSCN	35	11238971	Antibacterial		Predicted
+CAMPSQ10542				PepR	Dengue virus	Virus	LKRWGTIKKSKAINVLRGFRKEIGRMLNILNRRRR	35	31127270	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ10733				RosA2 alpha	S. roseosporus NRRL 11379	Monera	GSGVLGTLGCCSCLPWYSGWTVCGLACNPGKPCKN	35	31696567	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10813				PMAP-36(1-35)2	Sus scrofa 	Animalia	GRFRRLRKKTRKRLKKIGKVLKWIPPIVGSIPLGC	35	16128809	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10885				HBD10	Homo sapiens	Animalia	RECRIGNGQCKNQCHENEIRIAYCIRPGTHCCLQQ	35	31325337	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10911				EcAMP3	Echinochloa crus-galli	Plantae	GADRCRERCERRHRGDWQGKQRCLMECRRREQEED	35	24275143	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10939				TEWP 	Caretta caretta 	Animalia	KKCPGRCTLKCGKHERPTLPYNCGKYICCVPVKVK	35	16700051	Antibacterial, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11069				Subtilosin A	Bacillus subtilis	Monera	NKGCATCSIGAACLVDGPIPDFEIAGATGLFGLWG	35	19633086	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11223				PR35	Sus scrofa	Animalia (Mammals)	RRRPRPPYLPRPRPPPFFPPRLPPRIPPGFPPRFP	35	30641213	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11593				QF35	Homo sapiens	Animalia (Mammals)	QKVFTNTWAVRIPGGPAVANSVARKHGFLNLQGIF	35	30555984	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11594				TR35	Homo sapiens	Animalia (Mammals)	TKRSLSPHRPRHSRLQREPQVQWLEQQVAKRRTKR	35	30555984	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11728	paaper not found			AiTBeta	Argopecten irradians	Animalia (Molluscs (Bivalvia))	VSEVANFDKSKLKKTETAEKNTLPTKETIQQEKSA	35	30468890	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12225				SlLeb1 (89-123)	Spodoptera litura	Animalia	SLSTPSHVSHGGGSRRSSSRDTGPTHPGYNRRNAR	35	29935286	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12226				SlLeb1 (124-158)	Spodoptera litura	Animalia	SLHLPDYKFPLPTLPPFNPRPRYPWDDNPRYPIYV	35	29935286	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12317				Apolipoprotein-E derived 133-167	Homo sapiens 	Animalia	LVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLL	35	29900637	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14710				Hill-Dip 1	Hermetia illucens 	Animalia (Insects)	ASVPEPADLREAFETEDAIYIPISIEEANRLRLPR	35	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

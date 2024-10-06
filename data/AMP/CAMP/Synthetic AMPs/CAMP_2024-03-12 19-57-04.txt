@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21808		P12724		Eosinophil cationic protein (24-45) [C37S]	Synthetic construct		TIAMRAINNYRWRSKNQNTFLR	22	21696142	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21861		P05866		Rev (34-50) -A4C	Synthetic construct		TRQARRNRRRRWRERQRAAAAC	22	20580677	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22200		P46160		Act Beta-defensin 2 (18-40)[C12I,C-del]	Synthetic construct		RCPGRTRQIGTIFGPRIKCRSW	22	25791057	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22201		P46160		Act Beta-defensin 2 (18-40)[C12I,C-del] linear	Synthetic construct		RXPGRTRQIGTIFGPRIKXRSW	22	25791057	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22202		P46160		Act Beta-defensin 2 (18-40)[C12I,G14p,P15G,C-del]	Synthetic construct		RCpGRTRQIGTIFpGRIKCRSW	22	25791057	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22203		P46160		Act Beta-defensin 2 (18-40)[C12I,G14p,P15G,C-del] linear	Synthetic construct		RXpGRTRQIGTIFpGRIKXRSW	22	25791057	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22235				BP203, BP134 x 2	Synthetic construct		KKLFKKILKYLKKLFKKILKYL	22	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22250				Tag54-2	Synthetic construct		KDWEHLKDWEHLKDWEHLKDEL	22	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22260		P11006		BP181, BP134-AGPA-magainin(4-10)	Synthetic construct		KKLFKKILKYLAGPAKFLHSAK	22	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22263		P11006		BP182, BP134-magainin(4-10)-KDEL	Synthetic construct		KKLFKKILKYLKFLHSAKKDEL	22	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22404		P02663		Alpha-S2-casein (151-172)	Synthetic construct		TKLTEEEKNRLNFLKKISQRYQ	22	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22440				VpAmp2.1	Synthetic construct		FWGFLGKLAMKAVPSLIGGNKK	22	26352292	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22536		Q9NDV3		Hemocyanin Ht (1082-1103)	Synthetic construct		TSASVSLQVCRVDHTCKDAGYF	22	25445903	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22631		Q8UUG0		Piscidin 1 [G8NLYS]	Synthetic construct		FFHHIFRXIVHVGKTIHRLVTG	22	20603100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22672				ISGCock_Contig12_4176	Synthetic construct		VGRKHSILNCIPYLKKKKIMRL	22	27167617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22703		A0A077D271		Lc-NK-lysin-2, Lc-NK-lysin (80-101)	Synthetic construct		VCNEIGLLKSLCKKFVKGHLGE	22	27238427	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22760				Undefined	Synthetic construct		GFXGXKKXGXFXGXGKKXKKKK	22	27387357	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22818		F4ZBW5		Warnericin RK [K9G]	Synthetic construct		MQFITDLIGKAVDFFKGLFGNK	22	25869678	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22819		F4ZBW5		Warnericin RK [K9G,G20D]	Synthetic construct		MQFITDLIGKAVDFFKGLFDNK	22	25869678	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22822				Reversed Phenol soluble modulin alpha, rPSMa	Synthetic construct		MQTFQDILGKVIEVIKAIVDAK	22	25869678	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22823		O85486		Phenol soluble modulin alpha [D3G], PSMa [D3G]	Synthetic construct		MAGVIAKIVEIVKGLIDQFTQK	22	25869678	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22824		O85486		Phenol soluble modulin alpha [G14K], PSMa [G14K]	Synthetic construct		MADVIAKIVEIVKKLIDQFTQK	22	25869678	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22825		O85486		Phenol soluble modulin alpha [D3G] [G14K], PSMa [D3G] [G14K]	Synthetic construct		MAGVIAKIVEIVKKLIDQFTQK	22	25869678	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22826		O85486		Phenol soluble modulin alpha [V4F], PSMa [V4F]	Synthetic construct		MADFIAKIVEIVKGLIDQFTQK	22	25869678	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22827		O85486		Phenol soluble modulin alpha [V9F], PSMa [V9F]	Synthetic construct		MADVIAKIFEIVKGLIDQFTQK	22	25869678	Antibacterial	Gram-	Experimentally Validated

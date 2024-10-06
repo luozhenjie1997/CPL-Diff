@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ78	118430	P80154		Defensin	Aeshna cyanea 	Animalia (Insects)	GFGCPLDQMQCHRHCQTITGRSGGYCSGPLKLTCTCYR	38	1425705	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ135	135310	P25068		Tracheal antimicrobial peptide precursor 	Bos taurus 	Animalia (Mammals)	NPVSCVRNKGICVPIRCPGSMKQIGTCVGRAVKCCRKK	38	2023943	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ148	146737994	A5JSU7		Moricin-like peptide C1	Galleria mellonella	Animalia (Insects)	KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRH	38	18207081	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ149	146737996	A5JSU8		Moricin-like peptide C2	Galleria mellonella	Animalia (Insects)	KVPIGAIKKGGKIIKKGLGVLGAAGTAHEVYNHVRNRQ	38	18207081	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ150	146737998	A5JSU9		Moricin-like peptide C3	Galleria mellonella	Animalia (Insects)	KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRQ	38	18207081	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ151	146738000, 146738002	A5JSV0, A5JSV1		Moricin-like peptide C4, Moricin-like peptide C5	Galleria mellonella	Animalia (Insects)	KVPVGAIKKGGKAIKTGLGVVGAAGTAHEVYSHIRNRH	38	18207081	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ152	146738004	A5JSV2		Moricin-like peptide D	Galleria mellonella	Animalia (Insects)	KGIGSALKKGGKIIKGGLGALGAIGTGQQVYEHVQNRQ	38	18207081	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ324	28849943	P25068		Tracheal antimicrobial peptide 	Bos taurus 	Animalia (Mammals)	NPVSCVRNKGICVPIRCPGNMKQIGTCVGRAVKCCRKK	38	2023943	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ333	298766	P46159		Beta-defensin 1 , peptide BNBD-1 	Bos taurus 	Animalia (Mammals)	DFASCHTNGGICLPNRCPGHMIQIGICFRPRVKCCRSW	38	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ469	462270	P34084		Histatin-1	Macaca fascicularis	Animalia (Mammals)	DSHEERHHGRHGHHKYGRKFHEKHHSHRGYRSNYLYDN	38	2229609	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ565	6226952	P81418	1DKC	Antimicrobial peptide 1	Phytolacca americana	Plantae	AGCIKNGGRCNASAGPPYCCSSYCFQIAGQSYGVCKNR	38	10759497	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ674	28864187	Q86LE4		Defensin	Rhipicephalus microplus	Animalia (Arachnida)	GFGCPFNQGACHRHCRSIRRRGGYCAGLIKQTCTCYRN	38	14642886	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ710		A6MBR1		OdP2a	Odorrana grahami	Animalia (Amphibia)	GLLSGILGAGKHIVCGLSGPCQSLNRKSSDVEYHLAKC	38	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ734	38641346	Q6TN20		Cathelicidin	Canis lupus familiaris	Animalia (Mammals)	RLKELITTGGQKIGEKIRRIGQRIKDFFKNLQPREEKS	38	17462733	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ738	123134	P15515		Histatin-1	Homo sapiens 	Animalia (Mammals)	DSHEKRHHGYRRKFHEKHHSHREFPFYGDYGSNYLYDN	38	3286634	Antifungal		Experimentally validated
+CAMPSQ786				HFIAP-1	Myxine glutinosa	Animalia (Pisces)	GFFKKAWRKVKHAGRRVLDTAKGVGRHYVNNWLNRYRZ	38	15019197	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ812	51039035	Q68KS5		Hinnavin II	Artogeia rapae	Animalia (Insects)	KWKIFKKIEHMGQNIRDGLIKAGPAVQVVGQAATIYKG	38	24272339	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ885	41019461	P83430	1UT3	Spheniscin-2	Aptenodytes patagonicus	Animalia (Aves)	SFGLCRLRRGFCARGRCRFPSIPIGRCSRFVQCCRRVW	38	14525994 , 15123713	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ904	26393028	P81573		Defensin D7 	Spinacia oleracea	Plantae	GIFSSRKCKTPSKTFKGYCTRDSNCDTSCRYEGYPAGD	38	9762899	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ934	51317001	P80571	1FJN	Defensin MGD-1 precursor	Mytilus galloprovincialis	Animalia (Molluscs (Bivalvia))	GFGCPNNYQCHRHCKSIPGRCGGYCGGWHRLRCTCYRC	38	8925841	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ959	75172159	Q9FR52		Shepherin II	Capsella bursa-pastoris	Plantae	GYHGGHGGHGGGYNGGGGHGGHGGGYNGGGHHGGGGHG	38	11117262	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ979	1706115	P51437		Cathelin-related antimicrobial peptide 	 Mus musculus	Animalia (Mammals)	ISRLAGLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPE	38	9148921	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1080	82086162	Q6GXJ1		Gallinacin-4	Gallus gallus	Animalia (Aves)	RYHMQCGYRGTFCTPGKCPHGNAYLGLCRPKYSCCRWL	38	17346671	Antibacterial		Experimentally validated
+CAMPSQ1126	585018	P80323		Bacteriocin curvaticin FS47	Lactobacillus curvatus	Monera	YTAKQCLQAIGSCGIAGTGAGAAGGPAGAFVGAXVVXI	38	8031103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1309	48976036	Q6IV26		Beta-defensin 5	Gallus gallus	Animalia (Aves)	ADTLACRQSHGSCSFVACRAPSVDIGTCRGGLKKCCKW	38	15148642	Antibacterial		Predicted

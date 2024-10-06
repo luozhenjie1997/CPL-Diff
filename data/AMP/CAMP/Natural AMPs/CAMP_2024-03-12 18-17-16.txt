@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1	2597848	O17513		Ceratotoxin-D	Ceratitis capitata	Animalia (Insects)	SIGTAVKKAVPIAKKVGKVAIPIAKAVLSVVGQLVG	36	9569644	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ35	112820823	A4UAF2		Sperm associated antigen 11 isoform E 	Bos taurus 	Animalia (Mammals)	RNIICLMQHGTCRLFFCRSGEKKSEICSDPWNRCCI	36	17344469	Antibacterial		Experimentally validated
+CAMPSQ59	116091	P01511		Cecropin-D	Antheraea pernyi	Animalia (Insects)	WNPFKELERAGQRVRDAIISAGPAVATVAQATALAK	36	6754375	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ60	116092	P01510		Cecropin-D	Hyalophora cecropia	Animalia (Insects)	WNPFKELEKVGQRVRDAVISAGPAVATVAQATALAK	36	7140755	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ84	121195	P01281		Gastric inhibitory polypeptide 	Sus scrofa	Animalia (Mammals)	ISDYSIAMDKIRQQDFVNWLLAQKGKKSDWKHNITQ	36	8375398	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ142	13959581	P82321	1MM0	Termicin	Pseudacanthotermes spiniger 	Animalia (Insects)	ACNFQSCWATCQAQHSIYFRRAFCDRSQCKCVFVRG	36	11053427	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ158	156139055	P46165		Beta-defensin 7 	Bos taurus 	Animalia (Mammals)	NFVTCRINRGFCVPIRCPGHRRQIGTCLGPRIKCCR	36	8454635	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ15129				Bac7 (1-35)	Bos taurus	Animalia (Mammals)	RRIRPRPPRLPRPRPRPLPFPRPGPRPIPRPLPFP	35	35254120	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ15136				C_AMP1043	Bacteroides xylanisolvens	Monera (Bacteria)	KQKTLKKVWKLSEKVLIFASAFAKKAGAAEATLVL	35	35241840	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15142				C_AMP593	Actinomyces massiliensis	Monera (Bacteria)	GVPMGSVIKKRRKRMAKKKHRKLLRKTRHQRRNKK	35	35241840	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15165				A1P394-428	Alligator mississippiensis	Animalia (Reptiles)	PPPVIKFNRPFLMWIVERDTRSILFMGKIVNPKAP	35	27542832	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15209				TT(1-35)	Thymallus thymallus	Animalia (Pisces)	KFRTRRSKSSSNGGRKGSKGGSKGRPGSGSSIAGA	35	27818338	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15211				RtCATH2(5e40)	Oncorhynchus mykiss	Animalia (Pisces)	RRGKDSGGPKMGRKNSKGGWRGRPGSGRPGFGSGI	35	27818338	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ19694		E7EKG5		Brevinin-2TP2	Hylarana taipehensis	Animalia	SILSTLKDVGISALKNAGSGVLKTLLCKLNKNCEK	35	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20826		A0A0A7DPE0		Cecropin 3 Px, Px-cec3	Plutella xylostella	Animalia	KGFKKIEKLGRHIRDGVVKAGPAVGVVGQASSIMG	35	26544076	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22231			2MFS	Ep-AMP1	Echinopsis pachanoi	Plantae	CVLIGQRCDNDRGPRCCSGQGNCVPLPFLGGVCAV	35	25821084	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22370		E1UYT9	2KUS	Sm AMP-1.1a	Stellaria media	Plantae	SGPNGQCGPGWGGCRGGLCCSQYGYCGSGPKYCAH	35	26196691	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22371		C0HJU5		Sm AMP3	Stellaria media	Plantae	VGPGGECGGRFGGCAGGQCCSRFGFCGSGPKYCAH	35	26196691	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22422				Pro-rich peptide BnPRP1	Brassica napus	Plantae	PPIQNPSMAPPTQNPYGQPMTPPTQNPYGQPMAPP	35	26383098	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22485		A0A0M3STY1		Es-Termicin, Termicin-like protein	Eupolyphaga sinensis	Animalia	ACDFQQCWVTCQRQYSINFISARCNGDSCVCTFRT	35	26823660	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22682		Q8ITS8		Cobatoxin-like protein	Galleria mellonella	Animalia	MELRGCNNSGCDSVCRALGFNHGRCVSADTCRCYN	35	27105487	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22837		A7L9C2		Aa Cecropin 3, Ccrp 3	Anopheles albimanus	Animalia	APRMEIGKRREKLGRNVFKAAKKALPVIAGYKALG	35	23880546	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23743		C0HLN6		Turgencin B	Synoicum turgens	Animalia	GIKEMLCNMACAQTVCKKSGGPLCDTCQAACKALG	35	31940927	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23744		C0HLN6		Turgencin B Mox1	Synoicum turgens	Animalia	GIKEXLCNMACAQTVCKKSGGPLCDTCQAACKALG	35	31940927	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23745		C0HLN6		Turgencin B Mox2	Synoicum turgens	Animalia	GIKEXLCNXACAQTVCKKSGGPLCDTCQAACKALG	35	31940927	Antibacterial	Gram+,Gram-	Experimentally Validated

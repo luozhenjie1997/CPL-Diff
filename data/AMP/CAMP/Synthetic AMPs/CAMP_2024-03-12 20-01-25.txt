@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20445		P04002		Pa-MAP 1.8, Antifreeze peptide analogue	Synthetic construct		LAAALTAKATALTAKLTALAAALTAKAT	28	27161201	Antiviral	Gram+	Experimentally Validated
+CAMPSQ20709		P85170		ChBac3.4-2-COOH	Synthetic construct		RFRLPFRRPWPIRIHPPPFYPWPFRRFL	28	33194795	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21159		P19661		Bactenecin-7 (29-56)	Synthetic construct		PRPLPFPRPGPRPIPRPLPFPRPGPRPI	28	15572192	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21236				Cathelicidin AM (9-36), AM-CATH28	Synthetic construct		KIKKGFKKIFKRLPPIGVGVSIPLAGKR	28	28089718	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21539		P04578		MT-WQ	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKSQNQQ	28	27795416	Antiviral		Experimentally Validated
+CAMPSQ21540		P04578		WQ-SM	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSQNQQSM	28	27795416	Antiviral		Experimentally Validated
+CAMPSQ21541		P04578		WQ-SW	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSQNQQSW	28	27795416	Antiviral		Experimentally Validated
+CAMPSQ21542		P04578		WQ-SY	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSQNQQSY	28	27795416	Antiviral		Experimentally Validated
+CAMPSQ21570		P03377,		LP-40	Synthetic construct		YTSLIHSLIEESQNQQEKNEQELLELDX	28	30867304, 30089693	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21571		P03377,		LP-50	Synthetic construct		YTSLIEELIKKSEEQQKKNEEELKKLEX	28	30867304, 30089693	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21572		P03377,		LP-51	Synthetic construct		LEANIEELLKKAEEQQKKNEEELKKLEX	28	30867304, 30089693	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21573		P03377,		LP-80	Synthetic construct		WEQKIEELLKKAEEQQKKNEEELKKLEX	28	30867304, 30089693	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21610		P24627		Lactoferricin B15(W4,10)+HP(4-16)	Synthetic construct		FKCWRWQWRWKKLGAKVFKRLEKLFSKI	28	19148638	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21981				Retro-D-BMAP28	Synthetic construct		GiriipviipGykkwarlikrGlsrlGG	28	20336731, 21655347	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ22082		F1MQ17		Bactericidal permeability-increasing protein (142-169)	Synthetic construct		VRIHISGSSLGWLIQLFRKRIESLLQKS	28	17975968	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22257		P01501		BP189, BP134-Melittin(1-13)-KDEL	Synthetic construct		KKLFKKILKYLGIGAVLKVLTTGLKDEL	28	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22271		P01507		BP188, BP134-Cecropin A(25-37)-KDEL	Synthetic construct		KKLFKKILKYLAVAVVGQATQIAKKDEL	28	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22273		P01507		BP190, Cecropin A(25-37)-BP134-KDEL	Synthetic construct		AVAVVGQATQIAKKKLFKKILKYLKDEL	28	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23380		A0A2P1AGD5		Pb-CATH1 (120-147)	Synthetic construct		RVKRFKKFFRKIKKGFRKIFKKTKIFIG	28	28630199	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23796		P05546	2NAU	Heparin cofactor 2 (192-219)[F11,19,23A;Y25A]	Synthetic construct		KYEITTIHNLARKLTHRLARRNAGATLR	28	27137928	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ23889		P59594		SARS-Cov-S (899-926)	Synthetic construct		YENQKQIANQFNKAISQIQESLTTTSTA	28	18442051	Antiviral		Experimentally Validated
+CAMPSQ23945		P02649		ApoE (135162), hEP-9	Synthetic construct		VRLASHLRKLRKRLLRDADDLQKRLAVY	28	22334503	Antiviral		Experimentally Validated
+CAMPSQ23999		Q5DP94		SC28EK	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSEEQQKK	28	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24017		Q5DP94		MTSC26EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKSEEQQ	28	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24028		P29990		DN57wt	Synthetic construct		AWLVHTQWFLDLPLPWLPGADTQGSNWI	28	20582308	Antiviral	Gram+	Experimentally Validated

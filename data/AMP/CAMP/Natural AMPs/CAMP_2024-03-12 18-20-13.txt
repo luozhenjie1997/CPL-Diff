@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ307	26397622	P83312		Parabutoporin	Parabuthus schlechteri 	Animalia (Arachnida)	FKLGSFLKKAWKSKLAKKLRAKGKEMLKDYAKGLLEGGSEEVPGQ	45	12354111	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ657	9756284	P81534	1KJ6	Beta-defensin-3 	Homo sapiens 	Animalia (Mammals)	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	45	11085990, 35052952	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1212	25091023	P83421		Psychimicin	Oiketicus kirbyi 	Animalia (Insects)	INNWVRVPPCDQVCSRTNPEKDECCRAHGHAFHATCSGGMQCYRR	45		Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1489	1170248	P80359		Pseudo-hevein	Hevea brasiliensis	Plantae	EQCGRQAGGKLCPNNLCCSQYGWCGSSDDYCSPSKNCQSNCKGGG	45		Antifungal		Predicted
+CAMPSQ1626	71153502	Q95JD2		Beta-defensin 103A 	Pan troglodytes	Animalia (Mammals)	GIINTLQKYYCRVRGGRCAVLTCLPKEEQIGKCSTRGRKCCRRKK	45		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1652	75262792	Q9FPM3		Antifungal protein precursor 	Medicago sativa	Plantae	RTCENLADKYRGPCFSGCDTHCTTKENAVSGRCRDDFRCWCTKRC	45	11101813	Antifungal		Predicted
+CAMPSQ12447				Dermaseptin-PH	Pithecopus hypochondrialis 	Animalia (Amphibia)	MDILKKSLFLILFLGVVSLSICEEEKRENEEEMEQDDEQSEMKR	44	29064402	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12489				HTP2388	Staphylococcus capitis TE8	Monera (Bacteria)	MSGIVESLHNAVNSGLHVKQDWVDMGFGIANTIAKIVDQVLKFV	44	28874737	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12490				PSM beta1	Staphylococcus capitis TE8	Monera (Bacteria)	MEKLFDAIRNTVDAGINQDWTKLGTSIVDIVDNGVKVISKFIGA	44	28874737	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12491				PSM beta2	Staphylococcus capitis TE8	Monera (Bacteria)	MQKLAEAIANTVKAGQDHDWTKLGTSIVDIVENGVSALTKVFGG	44	28874737	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12492				PSM beta3	Staphylococcus capitis TE8	Monera (Bacteria)	MTKLAEAIANAVKAGQDQDWAKLGTSIVGIAENGISLLGKVFGF	44	28874737	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12493				PSM beta4	Staphylococcus capitis TE8	Monera (Bacteria)	MQKLAEAIANTVKAGQDHDWAKLGTSIVGIAENGINAITKIFGG	44	28874737	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12494				PSM beta5	Staphylococcus capitis TE8	Monera (Bacteria)	MQKLAEAIANTVKAGQDHDWAKLGTSIVGIAENGIGALSKIFGG	44	28874737	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12495				PSM beta6	Staphylococcus capitis TE8	Monera (Bacteria)	MTKLAEAIANTVKAGQDHDWAKLGTSIVGIAENGIGLLGKVFGF	44	28874737	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12738				4922.63 Legumin Alike	Cicer arietinum L.	Plantae (Angiosperms)	ALNVNRHIVDKLQGRDEDEEKGAIVKVKGGLSFISPSEKQPRHQ	44	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13598				LcBD2	Larimichthys crocea	Animalia (Amphibia)	NEDPEMQYWTCGYRGLCRRFCYAQEYIVGHHGCPRRYRCCAVRS	44	33340371	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14123				EJ97	Enterococcus faecalis EJ97	Monera	MLAKIKAMIKKFPNPYTLAAKLTTYEINWYKQQYGRYPWERPVA	44	34230527	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14730				Hill-Cec 1	Hermetia illucens 	Animalia (Insects)	SWWKKVFKPVEKLGQRVRDATIQGIGIAQQGANVLATVRGGPPQ	44	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14734				Hill-Cec 5	Hermetia illucens 	Animalia (Insects)	SWFKKVFKPVEKVGQRVRDAGIQGVAIAQQGANVLATARGGPPH	44	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14735				Hill-Cec 6	Hermetia illucens 	Animalia (Insects)	DQSKEPFKPMERPYQRVRDAKIQGITIAQNGPNVLAITRGGLEQ	44	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14736				Hill-Cec 7	Hermetia illucens 	Animalia (Insects)	GWWKKVFKPVEKLGQRVRDAGIQGIAIAQQGANVLATVRGGPPQ	44	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ21233		T1Y9W7		Membrane protein PepG1 Long	Staphylococcus aureus	Bacteria	MVALLKSLERRRLMITISTMLQFGLFLIALIGLVIKLIELSNKK	44	24703849	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21394				MCdef	Ruditapes philippinarum	Animalia	GFGCPNDYSCSNHCRDSIGCRGGYCKYQLICTCYGCKKRRSIQE	44	21945146	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22335				Defensin Pp, PopuDef	Polypedates puerensis	Animalia	GASPALWGCDSFLGYCRIACFAHEASVGQKDCAEGMICCLPNVF	44	25792112	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24370				AmAMP1 PT07R	Acropora millepora	Animalia	RGTCIDLGSRLYCKLIRRRGMCRSRSHRARIAMMRCERSCGRCH	44	32937163	Antibacterial	Gram+,Gram-	Experimentally Validated

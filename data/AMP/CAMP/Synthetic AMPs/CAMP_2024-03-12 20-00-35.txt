@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21453		P54228		BMAP-27 [L17A]	Synthetic construct		GRFKRFRKKFKKLFKKASPVIPLLHL	26	19845398	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21454		P54228		BMAP-27 [F3A,F10A]	Synthetic construct		GRAKRFRKKAKKLFKKLSPVIPLLHL	26	19845398	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21455		P54228		BMAP-27 [L13A,L17A]	Synthetic construct		GRFKRFRKKFKKAFKKASPVIPLLHL	26	19845398	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21456		P54228		BMAP-27 [G1F,F10G,L17V,V20P,P22L]	Synthetic construct		FRFKRFRKKGKKLFKKVSPPILLLHL	26	19845398	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21538		P04578		WQ	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSQNQQ	26	27795416	Antiviral		Experimentally Validated
+CAMPSQ21586		P82592		Aedes Cecropin-A (1-26)	Synthetic construct		GGLKKLGKKLEGAGKRVFNAAEKALP	26	19483780	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21691		G9B8P3		Om-hep1 (65-90), Hepcidin (65-90)	Synthetic construct		QSHLSMCSVCCNCCKNYKGCGFCCRF	26	22051539	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21710		P14661		Cecropin-P1 Propeptide, P1P	Synthetic construct		RRRFVAEQDAIHSRVSREVPTLSDSV	26	21418660	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21711		P14661		Cecropin-P1 Propeptide [E7,18Q][D9,24N], NP1P	Synthetic construct		RRRFVAQQNAIHSRVSRQVPTLSNSV	26	21418660	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21754		P02070		Hemoglobin subunit beta (79-104)	Synthetic construct		DLKGTFAALSELHCDKLHVDPENFKL	26	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21805		P04579		Undefined	Synthetic construct		RGGLSGIVQQQNNLLRAIEAQQHLLQ	26	20605950	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21816		P02070		Bovine hemoglobin subunit beta (121-145)	Synthetic construct		FFTPVLQADFQKVVAGVANALAHRYH	26	21645568	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22074				MAP1	Synthetic construct		GWLQLALHLLQLGLHLLQLALQLRRR	26	24432760	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22075				MAP2	Synthetic construct		GWQLLALHLQLLGLHLLQLALLQRRR	26	24432760	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22076				MAP3	Synthetic construct		GWLQLAQHLLQLGQHLLQLAQQLRRR	26	24432760	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22236				BP202, BP134-AGPA-BP134	Synthetic construct		KKLFKKILKYLAGPAKKLFKKILKYL	26	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22240				BP198, BP134 x 2 - KDEL	Synthetic construct		KKLFKKILKYLKKLFKKILKYLKDEL	26	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22253		P01501		BP207, G-BP134-AGPA-Melittin(10-19)	Synthetic construct		GKKLFKKILKYLAGPATTGLPALISW	26	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22254		P01501		BP208, S-BP134-AGPA-Melittin(10-19)	Synthetic construct		SKKLFKKILKYLAGPATTGLPALISW	26	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22264		P11006		BP183, BP134-AGPA-magainin(4-10)-KDEL	Synthetic construct		KKLFKKILKYLAGPAKFLHSAKKDEL	26	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22268		P11006		BP209, G-BP134-AGPA-Magainin(1-10)	Synthetic construct		GKKLFKKILKYLAGPAGIGKFLHSAK	26	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22269		P11006		BP210, S-BP134-AGPA-Magainin(1-10)	Synthetic construct		SKKLFKKILKYLAGPAGIGKFLHSAK	26	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22395		P02662		Alpha-S1-casein (80-105)	Synthetic construct		HIQKEDVPSERYLGYLEQLLRLKKYK	26	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22405		P02663		Alpha-S2-casein (182-207)	Synthetic construct		TVYQHQKAMKPWIQPKTKVIPYVRYL	26	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22535		Q9GP18		Hemocyanin Ht (1040-1065)	Synthetic construct		KFGYRYDSLELEGRSISRIDELIQQR	26	25445903	Antibacterial	Gram+,Gram-	Experimentally Validated

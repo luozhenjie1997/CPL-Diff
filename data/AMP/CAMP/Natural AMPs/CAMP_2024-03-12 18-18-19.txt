@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1339	41223190	Q70LU6		Cryptdin related sequence peptide	 Mus musculus	Animalia (Mammals)	LQDAALGWSRRCPRCPPCPNCRRCPRCPTCPSCNCNPK	38	15235601	Antibacterial		Predicted
+CAMPSQ1551	6225049	O81338		Antimicrobial peptide 1	Mesembryanthemum crystallinum	Plantae	AKCIKNGKGCREDQGPPFCCSGFCYRQVGWARGYCKNR	38		Antibacterial, Antifungal		Predicted
+CAMPSQ1562	41019460	P83429		Spheniscin-1	Aptenodytes patagonicus	Animalia (Aves)	SFGLCRLRRGFCAHGRCRFPSIPIGRCSRFVQCCRRVW	38		Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1583	2811021	O02775		Enteric beta-defensin	Bos taurus 	Animalia (Mammals)	NPLSCRLNRGICVPIRCPGNLRQIGTCFTPSVKCCRWR	38		Antibacterial		Predicted
+CAMPSQ1598	5915768	O97946		Beta-defensin 1	Capra hircus	Animalia (Mammals)	SRRSCHRNKGVCALTRCPRNMRQIGTCFGPPVKCCRKK	38		Antibacterial		Predicted
+CAMPSQ1605	1169262	P41965		4 kDa defensin 	Leiurus quinquestriatus hebraeus	Animalia (Arachnida)	GFGCPLNQGACHRHCRSIRRRGGYCAGFFKQTCTCYRN	38		Antibacterial	Gram+ve	Predicted
+CAMPSQ2084	84028894	Q30KQ1		Beta-defensin133	Homo sapiens 	Animalia (Mammals)	AVKDTYSCFIMRGKCRHECHDFEKPIGFCTKLNANCYM	38		Antibacterial		Predicted
+CAMPSQ2121	124015192	P0C2D4		L-amino-acid oxidase	Naja kaouthia	Animalia (Reptiles)	DDRRSPLEECFQQNDYEEFLEIAKNGLKKTXNPKHVXV	38		Antibacterial		Experimentally validated
+CAMPSQ2812				  ALL-38 	Homo sapiens	Animalia (Mammals)	ALLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	38	12759353	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2874				  Chicken AvBD4 	Gallus gallus domestic	Animalia (Aves)	RYHMQCGYRGTFCTPGKCPYGNAYLGLCRPKYSCCRWL	38	17346671	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2929				  Cathelicidin-AM 	Ailuropoda melanoleuca	Animalia (Mammals)	GRLRNLIEKAGQNIRGKIQGIGRRIKDILKNLQPRPQV	38	22101189	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ3260				  Longicin 	Haemaphysalis longicornis	Animalia (Insects)	GFGCPLNQGACHNHCRSIGRRGGYCAGIIKQTCTCYRK	38	17485458	Antibacterial, Antiparasitic		Experimentally validated
+CAMPSQ3383				  CRS4C-1a 	Mus musculus	Animalia (Mammals)	LQDAALGWGRRCPQCPRCPSCPSCPRCPRCPRCKCNPK	38	15235601	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3384	41223196	Q70LU3		  CRS4C-2, Cryptdin related sequence peptide	Mus musculus	Animalia (Mammals)	LQDAALGWGRRCPRCPPCPRCSWCPRCPTCPRCNCNPK	38	15235601	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3385	41223194	Q70LU4		  CRS4C-3a, Cryptdin related sequence peptide	Mus musculus	Animalia (Mammals)	LQDAALGWGRRCPRCPPCPNCRRCPRCPTCPSCNCNPK	38	15235601	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3386				  CRS4C-3d 	Mus musculus	Animalia (Mammals)	LQDAALGWGRRCPRCPPCPNCRRCPRCPTCPRCNCNPK	38	15235601	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3776			2LR5	  Micasin	Microsporum canis	Fungi	GFGCPFNENECHAHCLSIGRKFGFCAGPLRATCTCGKQ	38	22586077	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3850				  cod beta defensin 	Gadus morhua	Animalia (Pisces)	WSCPTLSGVCRKVCLPTEMFFGPLGCGKEFQCCVSHFF	38	23638029	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3877		P85008		Defensin-1 	Crassostrea virginica 	Animalia (Molluscs (Bivalvia))	GFGCPWNRYQCHSHCRSIGRLGGYCAGSLRLTCTCYRS	38	16297885	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3882		P85876		Bacteriocin enterocin-M 	Enterococcus faecium 	Monera	ATRSYGNGVYCNNSKCWNVGEAKENIAGIVISGKASGL	38		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3959		P83139		Antifungal protein 5 	Malva parviflora 	Plantae	ITCGQVTSQVAGCLSYLQRGGAPAPXXXXGIRNLXXMA	38	11302747	Antifungal		Experimentally validated
+CAMPSQ4129	408387560	B3EWQ1		Antimicrobial peptide 1	Taraxacum officinale 	Plantae	VAKCTEESGGKYFVFCCYKPTRICYMNEQKCESTCIGK	38	22640720	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4154	408407639	B3EWQ0		U-theraphotoxin-Aju1a	Avicularia juruensis 	Animalia (Arachnida)	FTCAISCDIKVNGKPCKGSGEKKCSGGWSCKFNVCVKV	38	22973266	Antifungal		Experimentally validated
+CAMPSQ4339				Chicken AvBD1	Gallus gallus	Animalia (Aves)	GRKSDCFRKSGFCAFLKPSLTLISGKCSRFYLCCKRIW	38	19738012	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8188				Ps-AFP1	Pisum sativum	Plantae	RQLKSSRRGALVCVRLKLCSAILSRGLSCGMFSCNARR	38	23835303	Antifungal		Experimentally validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23152				Acyclin 3	Synthetic construct		WIVYKWpRKVVRYWTGKR	18	29193517	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23162				Undefined	Synthetic construct		AWRWKAFRNCWRVRSSSL	18	29214045	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23164				Undefined	Synthetic construct		SIKILKIYFIQGKRHWSF	18	29214045	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23253		P32194		Cyclic Protegrin 1 [R4C,G17C], Cyclic PG-1 [R4C,G17C]	Synthetic construct		RGGCLCYCRRRFCVCVCR	18	10824115	Antibacterial, Antiviral, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23254		P32194		Cyclic Protegrin 1 [C6,15Acm-Cys], Cyclic PG-1 [C6,15Acm-Cys]	Synthetic construct		RGGRLXYCRRRFCVXVGR	18	10824115	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23255		P32194		Cyclic Protegrin 1 [C8,13Et-Cys], Cyclic PG-1 [C8,13Et-Cys]	Synthetic construct		RGGRLCYXRRRFXVCVGR	18	10824115	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23256		P32194		Cyclic Protegrin 1 [C6,15Acm-Cys][R4C,G17C], Cyclic PG-1 [C6,15Acm-Cys][R4C,G17C]	Synthetic construct		RGGCLXYCRRRFCVXVCR	18	10824115	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23257		P32194		Cyclic Protegrin 1 [C6,8,13,15Et-Cys], Cyclic PG-1 [C6,8,13,15Et-Cys]	Synthetic construct		RGGRLXYXRRRFXVCXGR	18	10824115	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23285				A3 Single chain (1-20)[2-19]	Synthetic construct		RPDKPrPYLPRPRPPRPV	18	28154813	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23315		P54229	2NDE	BMAP-28(1-18)[G1I,S5G,L11A,R12L,A13I,W14H]	Synthetic construct		IGLRGLGRKIALIHKKYG	18	30336202	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23394		P24627		LFampin (268-285)[S18C]	Synthetic construct		WKLLSKAQEKFGKNKSRC	18	30048118	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23439				Undefined	Synthetic construct		KKKKRRXXKKWRKWLAKK	18	25970292	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23440				Undefined	Synthetic construct		KKKKKKXXKKWRKWLAKK	18	25970292	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23487		P17654,		Amylase (1-18)[K4A]	Synthetic construct		HLNARVQRELIGWLDWLK	18	26850838, 27478151	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ23488		P17654,		Amylase (1-18)[R5A]	Synthetic construct		HLNKAVQRELIGWLDWLK	18	26850838, 27478151	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ23489		P17654,		Amylase (1-18)[N3L]	Synthetic construct		HLLKRVQRELIGWLDWLK	18	26850838, 27478151	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ23491		P17654,		AmyIase (1-18)[K18A]	Synthetic construct		HLNKRVQRELIGWLDWLA	18	26850838, 27478151	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ23492		P17654,		AmyIase (1-18)[G12R]	Synthetic construct		HLNKRVQRELIRWLDWLK	18	26850838, 27478151	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ23493		P17654,		Amylase (1-18)[I11R]	Synthetic construct		HLNKRVQRELRGWLDWLK	18	26850838, 27478151	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ23494		P17654,		Amylase (1-18)[D15R]	Synthetic construct		HLNKRVQRELIGWLRWLK	18	26850838, 27478151	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ23495		P17654,		Amylase (1-18)[E9L]	Synthetic construct		HLNKRVQRLLIGWLDWLK	18	26850838, 27478151	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ23497		P17654		AmyIase (1-18)[G12R; D15R]	Synthetic construct		HLNKRVQRLLIRWLRWLK	18	26850838	Antifungal	Gram-	Experimentally Validated
+CAMPSQ23498		P17654		AmyIase (1-18)[E9L; G12R]	Synthetic construct		HLNKRVQRLLIRWLDWLK	18	27478151	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23499		P17654		AmyIase (1-18)[N3L; E9L]	Synthetic construct		HLLKRVQRLLIGWLDWLK	18	27478151	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23500		P17654		AmyIase (1-18)[N3L; G12R]	Synthetic construct		HLLKRVQRELIRWLDWLK	18	27478151	Antibacterial	Gram+	Experimentally Validated

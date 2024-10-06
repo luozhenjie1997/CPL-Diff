@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19721		P24605		PV, pEM-2 (1-11)+Mastoparan-M (10-14)	Synthetic construct		KKWRWWLKALAKKLL	15	27591703	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19819				GS16-K6	Synthetic construct		VKLKVyPKLKVKLyP	15	19278255	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19820				GS16-V5	Synthetic construct		VKLKKyPKLKVKLyP	15	19278255	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19821				GS16-K4	Synthetic construct		VKLVKyPKLKVKLyP	15	19278255	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19826		F7CN31		Parasin I (1-15)	Synthetic construct		KGRGKQGGKVRAKAK	15	18406495	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19834		B6D434,		LS-Cathelicidin-BF-15-a1-6	Synthetic construct		VKRFKKFFRKFKKFV	15	31843919	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19835		B6D434		Cathelicidin-BF-15-a2	Synthetic construct		VKRWKKWFRKWKKWV	15	31843919	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19836		B6D434		Cathelicidin-BF-15-a3	Synthetic construct		VKRWKKWKRKWKKWV	15	31843919	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19930		C4NYD0		Cg-Prp (22-36), Cg-lgPrp	Synthetic construct		GPIRRPKPRPRPRPE	15	22327168	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19931		C4NYD0		Cg-Prp (22-36)[P12Q], Cg-lgPrp P/Q	Synthetic construct		GPIRRPKPRPRQRPE	15	22327168	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19942				NK15	Synthetic construct		KILRGVSKRILTGKK	15	17389605	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20202		P80571		Defensin MGD1 (25-39) peptide I	Synthetic construct		CGGWHRLRCTSYRSG	15	12823551	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20259		Q27023		TE-(1-15), Tenecin-1 (1-15)	Synthetic construct		VTCDILSVEAKGVKL	15	9693108	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20262		Q27023		TE-(29-43)-COOH, Tenecin-1 (29-43)	Synthetic construct		RSGGYCNGKRVCVCR	15	9693108	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20662		P22749		Granulysin (37-51)	Synthetic construct		GRSRWRDVCRNFMRR	15	10903754	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20663		P22749		Granulysin (37-51) [R38Q][R40Q]	Synthetic construct		GQSQWRDVCRNFMRR	15	10903754	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20670		P22749		Granulysin 14.15	Synthetic construct		Grsrwrrvsrrfmrr	15	18310138	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20711		P85170		ChBac3.4 (12-26)	Synthetic construct		RIHPPPFYPPFRRFL	15	33194795	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20728		B6D434		L[1] Cathelicidin-BF-15 (1-14) -AMD	Synthetic construct		LVKRFKKFFRKLKKS	15	22008732	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20730		B6D434		Cathelicidin-BF-15 [L11F]	Synthetic construct		VKRFKKFFRKFKKSV	15	26881456	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20731		B6D434		Cathelicidin-BF-15 [F4,7,8W]	Synthetic construct		VKRWKKWWRKLKKSV	15	26881456	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20732		B6D434		Cathelicidin-BF-15 [F4,8W;L11W,S14W,V15W]	Synthetic construct		VKRWKKFWRKWKKWW	15	26881456	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20733		B6D434		Cathelicidin-BF-15 [F4,7W;L11W,F8R,R9W,L11W,S14W]	Synthetic construct		VKRWKKWRWKWKKWV	15	26881456	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20819		Q2LKX9		Ixosin (4-18)[E8K,E13L,S16V]	Synthetic construct		KVMRKVLGYLRNVYK	15	27622949	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20823		Q2LKX9		Ixosin (4-18)	Synthetic construct		KVMREVLGYERNSYK	15	27622949	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

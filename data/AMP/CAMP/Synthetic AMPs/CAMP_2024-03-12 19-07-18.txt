@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20050		P80399,		Gaegurin-5 (1-13)[K7,11H;V8A;A9L;,V12L], PTP-7c	Synthetic construct		FLGALFHALSHLL	13	19464332, 22526264	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20051		P80399		Gaegurin-5 (1-13)[F6W,V8A,A9L,V12L], LL-1	Synthetic construct		FLGALWKALSKLL	13	22526264	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20052		P80399		Gaegurin-5 (1-13)[F6W,K7H,V8A,A9L,V12L], LL-1a	Synthetic construct		FLGALWHALSKLL	13	22526264	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20053		P80399		Gaegurin-5 (1-13)[F6W,V8A,A9L,K11H,V12L], LL-1b	Synthetic construct		FLGALWKALSHLL	13	22526264	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20054		P80399		Gaegurin-5 (1-13)[F6W;,K7,11H;V8A;A9L;V12L], LL-1c	Synthetic construct		FLGALWHALSHLL	13	22526264	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20191		P81694		CT1-short (C-terminus of CsTx-1), Omega-ctenitoxin-Cs1a	Synthetic construct		GLFKGKKKNKKTK	13	22613721	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ20201		P80571		Defensin MGD1 (21-33) peptide H	Synthetic construct		SGGYCGGWHRLRC	13	12823551	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20283		P01966		Bovine hemoglobin alpha chain (33-45)	Synthetic construct		FLSFPTTKTYFPH	13	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20284		P01966		Bovine hemoglobin alpha chain (34-46)	Synthetic construct		LSFPTTKTYFPHF	13	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20297		P02070		Bovine hemoglobin beta chain (1-13)	Synthetic construct		MLTAEEKAAVTAF	13	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20335		P33046		Indolicidin [W8F,W9F]	Synthetic construct		ILPWKWPFFPWRR	13	19576903	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20336		P33046		Indolicidin [P7K,W8F,W9F]	Synthetic construct		ILPWKWKFFPWRR	13	19576903	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20342				Undefined	Synthetic construct		LLKKLLKKLLKKC	13	28081296, 21906803	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20371		P0C005		LKH-Anoplin	Synthetic construct		LKHGLLKRIKTLL	13	25482446	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20372		P0C005		RTH-Anoplin	Synthetic construct		RTHGLLKRIKTLL	13	25482446	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20402				Undefined	Synthetic construct		ILRWKWRWWRWRR	13	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20403				Undefined	Synthetic construct		ILPWKWRWWKWRR	13	23478953	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20557		Q06B80,		Temporin-1CEb [L2K,P3K,L5V,L7K,G9K,G10K]+K, L-K6V1	Synthetic construct		IKKIVSKIKKLLK	13	25056289, 22348663	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20558		Q06B80,		Temporin-1CEb [L2k;P3K;L5,11V;L7K;G9,10K]-K	Synthetic construct		IKKIVSKIKKVLK	13	25056289, 22348663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20586		P49913		LL-37 (17-29)[F1W,Q6R,D10R,F11W]	Synthetic construct		WKRIVRRIKRWLR	13	28161291	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20587		P49913		LL-37 (17-29)[F1W,Q6R,R7W,D10R,F11W]	Synthetic construct		WKRIVRWIKRWLR	13	28161291	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20588		P49913		LL-37 (17-29)[F1W,Q6R,K9W,D10R,F11W]	Synthetic construct		WKRIVRRIWRWLR	13	28161291	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20589		P49913		LL-37 (17-29)[I4W,I8W,D10R]	Synthetic construct		FKRWVQRWKRFLR	13	28161291	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20590		P49913		LL-37 (17-29)[F1W,I4W,I8W,D10R]	Synthetic construct		WKRWVQRWKRFLR	13	28161291	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20591		P49913		LL-37 (17-29)[F1W,I4W,I8W,D10R,F11W]	Synthetic construct		WKRWVQRWKRWLR	13	28161291	Antibacterial	Gram+,Gram-	Experimentally Validated

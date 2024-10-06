@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19471				Caseicin B [E4A]	Synthetic construct		VLNANLLR	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19472				Caseicin B [N5A]	Synthetic construct		VLNEALLR	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19473				Caseicin B [R8H]	Synthetic construct		VLNENLLH	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19474				Caseicin B [L7R][L6A][R8L]	Synthetic construct		VLNENARL	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19476				Caseicin B [E4D]	Synthetic construct		VLNDNLLR	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19477				Caseicin B [R8K]	Synthetic construct		VLNENLLK	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19479				Caseicin B [L2A]	Synthetic construct		VANENLLR	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19823				GS8	Synthetic construct		VKyPKLyP	8	12712499	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19851		P33046		Indolicidin (1-8)	Synthetic construct		ILPWKWPW	8	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19855		P33046		Indolicidin (6-13)	Synthetic construct		WPWWPWRR	8	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19975				Undefined	Synthetic construct		sKsWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19976				Undefined	Synthetic construct		tHsWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19977				Undefined	Synthetic construct		kQrWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19978				Undefined	Synthetic construct		rGdWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19979				Undefined	Synthetic construct		rQrWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19980				Undefined	Synthetic construct		kQkWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19981				Undefined	Synthetic construct		kSkWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19982				Undefined	Synthetic construct		sHkWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19983				Undefined	Synthetic construct		SKHWLWLW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19984				Undefined	Synthetic construct		sHhWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19985				Undefined	Synthetic construct		eKhWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19986				Undefined	Synthetic construct		kKkWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19987				Undefined	Synthetic construct		rRkWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19988				Undefined	Synthetic construct		kRkWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19989				Undefined	Synthetic construct		rRrWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated

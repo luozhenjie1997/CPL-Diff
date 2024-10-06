@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23	110348531	A0SN48		Amolopin-2b	Amolops loloensis	Animalia (Amphibia)	FLPIVGKLLSGLL	13	17000029	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ24	110348533	A0SN50		Amolopin-2c	 Amolops loloensis	Animalia (Amphibia)	LLPIVGKLLSGLL	13	17000029	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ30	11182441	P56917		Temporin-A	Rana temporaria	Animalia (Amphibia)	FLPLIGRVLSGIL	13	9022710, 30043322	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ31	11182442	P56918		Temporin-C	Rana temporaria	Animalia (Amphibia)	LLPILGNLLNGLL	13	9022710	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ32	11182443	P56919		Temporin-D	Rana temporaria	Animalia (Amphibia)	LLPIVGNLLNSLL	13	9022710	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ33	11182444	P56920		Temporin-E	Rana temporaria	Animalia (Amphibia)	VLPIIGNLLNSLL	13	9022710	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ34	11182445	P56921		Temporin-F	Rana temporaria	Animalia (Amphibia)	FLPLIGKVLSGIL	13	9022710	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ74	117413	P01518		Crabrolin	Vespa crabro	Animalia (Insects)	FLPLILRKIVTAL	13	9273892	Antibacterial		Experimentally validated
+CAMPSQ80	119391208	A3KD26		Temporin-1Oa1	 Rana ornativentris 	Animalia (Amphibia)	FLPLLASLFSRLL	13	17147973, 11892844	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ82	119391212	A3KD27		Temporin-1Oc1	 Rana ornativentris 	Animalia (Amphibia)	FLPLLASLFSRLF	13	17147973, 11892844, 29842923	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ86	121956658	P84858		Temporin-GH 	Rana guentheri	Animalia (Amphibia)	FLPLLFGAISHLL	13	16979798	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ170	157872589		1D6X	Tritrpticin 	Sus scrofa	Animalia (Mammals)	VRRFPWWWPFLRR	13	8706838, 16563706, 12681513	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ226	19924284	P57104		Temporin-L	Rana temporaria	Animalia (Amphibia)	FVQWFSKFLGRIL	13	9022710	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ227	20137306	P82386		Aurein-1.1	Litoria raniformis	Animalia (Amphibia)	GLFDIIKKIAESI	13	10951191	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ228	20137307	P82387	1VM5	Aurein-1.2	Litoria raniformis	Animalia (Amphibia)	GLFDIIKKIAESF	13	10951191, 15572363, 30593676, 30630076, 30043322	Antibacterial, Anticancer	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ254	246037	P33046	1G89,1G8C,1HR1,1QX9,1QXQ	Indolicidin 	Bos taurus 	Animalia (Mammals)	ILPWKWPWWPWRR	13	1537821, 19191872, 35254120	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ267	2493350	P79874		Temporin-B	Rana temporaria	Animalia (Amphibia)	LLPIVGNLLKSLL	13	9022710	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ297	25453291	P83307		Temporin-1Ja	Rana japonica	Animalia (Amphibia)	ILPLVGNLLNDLL	13	11835990	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ314	28201905	Q8MMJ7	1T51,1T52,1T54,1T55	Cytotoxic linear peptide IsCT 	Opisthacanthus madagascariensis 	Animalia (Arachnida)	ILGKIWEGIKSLF	13	15369808	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ350	32363120	P83412		Alloferon-1 	Calliphora vicina 	Animalia (Insects)	HGVSGHGQHGVHG	13	12235362	Antiviral, Anticancer		Experimentally validated
+CAMPSQ429	41017609	P82821		Ranatuerin-6	Rana catesbeiana	Animalia (Amphibia)	FISAIASMLGKFL	13	9784389	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ430	41017610	P82822		Ranatuerin-7	Rana catesbeiana	Animalia (Amphibia)	FLSAIASMLGKFL	13	9784389	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ431	41017611	P82823		Ranatuerin-8	Rana catesbeiana	Animalia (Amphibia)	FISAIASFLGKFL	13	9784389	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ441	41018245	P82830		Temporin-1La	Rana luteiventris	Animalia (Amphibia)	VLPLISMALGKLL	13	10651828	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ444	41018248	P82848		Temporin-1P	Rana pipiens	Animalia (Amphibia)	FLPIVGKLLSGLL	13	10651828	Antibacterial	Gram +ve	Experimentally validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ90	122056008	A0AEI5		Brevinin-2GHb precursor 	Rana guentheri	Animalia (Amphibia)	GVITDALKGAAKTVAAELLRKAHCKLTNSC	30	16979798	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ189	1703289	P27275, Q9S8Z7	1MMC,1ZNT,1ZUV,1ZWU	AC-AMP2	Amaranthus caudatus	Plantae	VGECVRGRCPSGMCCSQFGYCGKGPKYCGR	30	1567877	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ203	17433719	P56871	1BH4	Circulin-A 	Chassalia parviflora 	Plantae	GIPCGESCVWIPCISAALGCSCKNKVCYRN	30	10430870	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ210	18202397	P82414		Ponericin-G1	Pachycondyla goeldii 	Animalia (Insects)	GWKDWAKKAGGWLKKKGPGMAKAALKAAMQ	30	11279030	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ211	18202398	P82415		Ponericin-G2	Pachycondyla goeldii 	Animalia (Insects)	GWKDWLKKGKEWLKAKGPGIVKAALQAATQ	30	11279030	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ212	18202399	P82416		Ponericin-G3	Pachycondyla goeldii 	Animalia (Insects)	GWKDWLNKGKEWLKKKGPGIMKAALKAATQ	30	11279030	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ214	18202401	P82418		Ponericin-G5	Pachycondyla goeldii 	Animalia (Insects)	GLKDWVKIAGGWLKKKGPGILKAAMAAATQ	30	11279030	Antibacterial		Experimentally validated
+CAMPSQ309	2708727	O54220		Epicidin 280	Staphylococcus epidermidis 	Monera	SLGPAIKATRQVCPKATRFVTVSCKKSDCQ	30	9726851	Antibacterial		Experimentally validated
+CAMPSQ376	38502875	P60030		Neutrophil defensin 1 	Macaca mulatta	Animalia (Mammals)	ACYCRIPACLAGERRYGTCFYLGRVWAFCC	30	10531277	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ19739		A0A0A0RAM2		Palustrin-2HB1	Pelophylax hubeiensis	Animalia	GLWTTIKEGLKKFSLGVLDKIRCKIAGGC	29	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20684		D3UA79		Ranatuerin-2ONa	Lithobates onca	Animalia	GLMDTVKNAAKNLAGQMLDKLKCKITGSC	29	20044030	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20764				Hymenochirin-1Pa	Pseudhymenochirus merlini		LKLSPKTKDTLKKVLKGAIKGAIAIASMA	29	24212286, 25241629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20765				Hymenochirin-1Pb	Pseudhymenochirus merlini	Animalia	LKLSPETKDTLKKVLKGAIKGAIAIASLA	29	24212286	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20773				Pseudhymenochirin-1Pb [R8r]	Pseudhymenochirus merlini		IKIPSFFRNILKKVGKEAVSLIAGALKQS	29	24212286, 25447194, 26606380	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21472		D5MTH6		Ranatuerin-2TOa	Rana tagoi okiensis	Animalia	GLLNVIKDTAQNLFAAALDKLKCKVTKCN	29	19799928	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21473		D5MTH7		Ranatuerin-2TOb	Rana tagoi okiensis	Animalia	GLLNVIKDTAQNLFAAALEKLKCKVTKCN	29	19799928	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22743		R8G4G9		Cereucin XB, CexB	Bacillus cereus	Bacteria	MKYLGTLIKGAAGGAGAYVGEKIYNWYKN	29	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22976		Q46312	5UJQ	Carnobacteriocin Y, CbnY	Carnobacterium maltaromaticum (Carnobacterium piscicola)	Bacteria	SAILAITLGIFATGYGMGVQKAINDRRKK	29	28391617	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23240				Python Cathelicidin CATHPb2	Python bivittatu	Animalia	KRNGFRKFMRRLKKFFAGGGSSIAHIKLH	29	29466000	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23242		A0A2P1AGE8		Python Cathelicidin CATHPb4	Python bivittatu	Animalia	TRSRWRRFIRGAGRFARRYGWRIALGLVG	29	29466000	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23681		W8PA68		Hymenochirin-6B	Hymenochirus boettgeri	Animalia	IKVPAIVKDTQKKVAKGVISTVADALSKS	29	24466037	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23683		W8P6R5		Hymenochirin-10B	Hymenochirus boettgeri	Animalia	IKIPPIVKDTLKKVAKGVLSTVADALSKS	29	24466037	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23684		W8PA81		Hymenochirin-12B	Hymenochirus boettgeri	Animalia	LKIPGFVRDTLKKVAKEIFSAVTGAVTQS	29	24466037	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24398		O87237		Lacticin 3147 chain A2, LtnA2	Lactococcus lactis subsp. lactis	Bacteria	XXPAXPAIxILxAYIXTNTXPXTKXXRAX	29	24069959	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24624				PN-CATH2	Pelophylax nigromaculatus	Animalia	EGCNILCLLKRKVKAVKNVVKNVVKSVVG	29	33242568	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

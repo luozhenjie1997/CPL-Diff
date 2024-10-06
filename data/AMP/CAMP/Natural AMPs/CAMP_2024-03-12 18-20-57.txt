@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ51	115544	P06833		Caltrin precursor 	Bos taurus 	Animalia (Mammals)	SDEKASPDRHHRFSLSRYAKLANRLSKWIGNRGNRLANPKLLETFKSV	48	8485159	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ246	22095934	P83247		Oxyopinin-1 	Oxyopes kitabensis 	Animalia (Arachnida)	FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ	48	11976325	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ312	27806807	P06833		Seminalplasmin 	Bos taurus 	Animalia (Mammals)	SDEKASPDKHHRFSLSRYAKLANRLANPKLLETFLSKWIGDRGNRSVK	48	16453469	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ521	55976267	P84262		Palustrin-3b	Rana palustris	Animalia (Amphibia)	GIFPKIIGKGIKTGIVNGIKSLVKGVGMKVFKAGLSNIGNTGCNEDEC	48	11087945	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ531	55976286	P84281		Palustrin-3a	Rana palustris	Animalia (Amphibia)	GIFPKIIGKGIKTGIVNGIKSLVKGVGMKVFKAGLNNIGNTGCNEDEC	48	11087945	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ536	584890	P38580	1CW5,1RY3	Bacteriocin carnobacteriocin B2 	Carnobacterium maltaromaticum	Monera	VNYGNGVSCSKTKCSVNWGQAFQERYTAGINSFVSGVASGAGSIGRRP	48	8163526	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ932	18202534	Q43413		Defensin J1-1	Capsicum annuum	Plantae	KICEALSGNFKGLCLSSRDCGNVCRREGFTDGSCIGFRLQCFCTKPCA	48	8883377	Antifungal		Experimentally validated
+CAMPSQ1553	25089606	Q8WSV0		Andropin	Drosophila orena 	Animalia (Insects)	QSDALFVDIIDNVENAIHKAAKTGIGMVKPIENIFIPNQQKKSTEASN	48	11965438	Antibacterial	Gram+ve	Predicted
+CAMPSQ1654	11386627	O24331		Cysteine-rich antifungal protein 4	Raphanus sativus	Plantae	QKLCERSSGTWSGVCGNNNACKNQCINLEGARHGSCNYIFPYHRCICY	48	7780308	Antifungal		Experimentally validated
+CAMPSQ1932	37076854	P59861		Beta-defensin131	Homo sapiens 	Animalia (Mammals)	FISNDECPSEYYHCRLKCNADEHAIRYCADFSICCKLKIIEIDGQKKW	48		Antibacterial		Predicted
+CAMPSQ10721				LSer-PCecL2	Lucilia sericata	Animalia	HHHHRFGKIGHELHKGVKKVEKVTHDVNKVTSGVKKVASSIEKAKNV	47	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10923				HBD-1	Homo sapiens	Animalia	GNFLTGLGHRSDHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK	47	31313350	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11023				LcLEAP-2A	Larimichthys crocea	Animalia (Pisces)	MTPLWRIMNSKPFGAYCQNNYECSTGLCRAGHCSTSHRATSETVNY	47	24727197	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ11153				Curvaticin DN317	Lactobacillus curvatus DN317	Monera	IPYGGNGVHHGKAGDSXTVDTAIGNIGNNAASIIGGMISGWASGLAG	47	27812926	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12067				AvBD6	Gallus gallus	Animalia (Aves)	QPYFSSPIHACRYQRGVCIPGPCRWPYYRVGSCGSGLKSCCVRNRWA	47	30078596	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14739				Hill-Cec 10	Hermetia illucens 	Animalia (Insects)	RWYKKIFKPVEKAVQRVRDGTLQALGVAQQAANVYATAQGAQQQRHA	47	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15377	2160702306		7VLY_H	Chain H, Bacteriocin pediocin PA-1	Pediococcus acidilactici  	Monera	PHMKYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC	47	34851716	Antibacterial		Predicted
+CAMPSQ15378	2160702303		7VLY_E	Chain E, Bacteriocin pediocin PA-1	Pediococcus acidilactici  	Monera	PHMKYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC	47	34851716	Antibacterial		Predicted
+CAMPSQ15379	2160702300		7VLY_A	Chain A, Bacteriocin pediocin PA-1	Pediococcus acidilactici  	Monera	PHMKYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC	47	34851716	Antibacterial		Predicted
+CAMPSQ16230				Tatritin	Tachypleus tridentatus	Animalia	SLLDHKITERSLRCAGYGGRCNPWRYPRCCWPLKCTRLRCYRGFRNG	47	35401525	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ19089		Q8W434	2GL1	Mungbean Defensin PDF-1/KT46C	Vigna radiata	Plantae	KTCENLANTYRGPCFTTGSCDDHCKNKEHLRSGRCRDDFRCWCTRNC	47	27208129	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19907		A0A1B2YLI5,		Class I defensin, NaD2	Nicotiana alata		RTCESQSHRFKGPCARDSNCATVCLTEGFSGGDCRGFRRRCFCTRPC	47	24015961, 27503651	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19914		B6SJ49	6DMZ	Flower-specific gamma-thionin, ZmD32	Zea mays	Plantae	RTCQSQSHRFRGPCLRRSNCANVCRTEGFPGGRCRGFRRRCFCTTHC	47	31031739	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21040		F6MII2		Avian beta-defensin 7, AvBD7, Gallinacin-7,	Anas platyrhynchos	Animalia	XPFIPRPIDTCRLRNGICFPGICRRPYYWIGTCNNGIGSCCARGWRS	47	27561012	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22686		G7L736,	2LR3	Defensin 4, MtDef4	Medicago truncatula		RTCESQSHKFKGPCASDHNCASVCQTERFSGGRCRGFRRRCFCTTHC	47	21533249, 30252607	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

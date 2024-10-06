@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ315				Cytotoxic linear peptide IsCT precursor 	Synthetic construct		ILGKIAEGIKSLF	13	15369808	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ316				Cytotoxic linear peptide IsCT precursor 	Synthetic construct		ILGKILEGIKSLF	13	15369808	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ317				Cytotoxic linear peptide IsCT precursor 	Synthetic construct		ILGKIWKGIKSLF	13	15369808	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ318				Cytotoxic linear peptide IsCT precursor 	Synthetic construct		ILGKILKGIKKLF	13	15369808	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ962	157878253	P33046	1HR1	Indolicidin Peptide Derivative With P-->a Substitution	Synthetic construct		ILAWKWAWWAWRX	13	11294848	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ967	159164534		2F3A	Ll-37-Derived Aurein 1.2 Analog 	Synthetic construct		RLFDKIRQVIRKF	13	16716252	Antibacterial, Anticancer		Experimentally validated
+CAMPSQ24476				Deca-(ARG)10	Synthetic construct		wrrrrrrrrrrG	12	23173037	Antiviral		Experimentally Validated
+CAMPSQ24499				Undefined	Synthetic construct		DILIIVGGKRRR	12	32924418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24500				Undefined	Synthetic construct		DILIIVGGRRRR	12	32924418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24528		P49931		PMAP-36 (16-21)-revPMAP-36 (16-21), KV2	Synthetic construct		KIGKVLLVKGIK	12	33101226	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24558				P7	Synthetic construct		KIAKRIWKILRR	12	32499514	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24568		I0YNC0		COCSUDRAFT_54492 (197-208)[L1F,A3I,G9S]	Synthetic construct		FTILKKLKSFIK	12	33063186	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24621				Undefined	Synthetic construct		GGHWRWYCRGGK	12	23380915	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24671		Q5T5A8		LCE3C (55-66)	Synthetic construct		SHHRHFRSHQCR	12	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24687		A0A1I8M6I1		Cecropin A-like 4 (3-14)[E9W]	Synthetic construct		LKKIGKKIWRVG	12	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24690		A0A1I8M6I1		Cecropin A-like 4 (3-14)[K3W,E9W]	Synthetic construct		LKWIGKKIWRVG	12	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24691		A0A1I8M6I1		Cecropin A-like 4 (3-14)[K3,7W;E9W]	Synthetic construct		LKWIGKWIWRVG	12	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24694		A0A1I8M6I1		Cecropin A-like 4 (3-14)[K2W,E9W]	Synthetic construct		LWKIGKKIWRVG	12	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24695		A0A1I8M6I1		Cecropin A-like 4 (3-14)[K2,6W;E9W]	Synthetic construct		LWKIGWKIWRVG	12	33401476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24752				Undefined	Synthetic construct		KXXRIRIRWIIR	12	32130974	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24753				Undefined	Synthetic construct		XXXRIRIRWIIR	12	32130974	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24754				Undefined	Synthetic construct		KXXKRRVRWIIW	12	32130974	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24755				Undefined	Synthetic construct		XXXKRRVRWIIW	12	32130974	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24770		P02788		Lactotransferrin (295-306)	Synthetic construct		EKFGKDKSPKFQ	12	33673498	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24782				Undefined	Synthetic construct		KLFKKLFKKLFK	12	30526450	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

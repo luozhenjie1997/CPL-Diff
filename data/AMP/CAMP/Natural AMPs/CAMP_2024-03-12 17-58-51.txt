@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11688				Pep 3	Dengue virus (DENV) 	Virus	GQGKAHNGRLITANP	15	30508603	Antiviral		Experimentally validated
+CAMPSQ11693				VR15	Homo sapiens	Animalia (Mammals)	VRLEFKLQQTSCRKR	15	30504221	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11698				KP15	Homo sapiens	Animalia (Mammals)	KLQQTSCRKRDWKKP	15	30504221	Antibacterial		Experimentally validated
+CAMPSQ11762				RN15	Crocodylus siamensis	Animalia	RNCTWLFSTKLKLPA	15	30414293	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11769				RMchi-N	Mytilus coruscus	Animalia (Molluscs (Bivalvia))	HNFDGLDLDLEYPRK	15	30395994	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11904				Lfcin1 ( LfcinB17-31)	Bos taurus	Animalia (Mammals)	FKCRRWQWRMKKLGA	15	28287172, 34209722, 11095180, 30043322	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12197				Ca-LTP1	Capsicum annuum	Plantae (Angiosperms)	AVTXGQVDANLAPXV	15	21382036	Antifungal		Experimentally validated
+CAMPSQ12206				RSV peptide M209-223	Respiratory syncytial virus	Virus	NKGAFKYIKPQSQFI	15	29990516	Antiviral 		Experimentally validated
+CAMPSQ12272				L-Ctl	Homo sapiens 	Animalia	RSMRLSFRARGYGFR	15	29915284	Antifungal		Experimentally validated
+CAMPSQ12273				D-Ctl	Homo sapiens 	Animalia	rsmrlsfrargygfr	15	29915284	Antifungal		Experimentally validated
+CAMPSQ12674				Hc5	Hydrophis cyanocinctus	Animalia (Reptiles)	KFFKRLLKSVRRAVK	15	28572668	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12680				Hc11	Hydrophis cyanocinctus	Animalia (Reptiles)	RLLKSVRRAVKKFRK	15	28572668	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12684				Hc15	Hydrophis cyanocinctus	Animalia (Reptiles)	FKRLLKSVRRAVKKF	15	28572668	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13010				Flg15	Pseudomonas syringae pv tabaci	Monera (Bacteria)	RINSAKDDAAGLQIA	15	34198776	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13587				NCR335N7-21	Medicago truncatula 	Plantae	RPLNFKMLRFWGQNR	15	33915930	Antifungal		Experimentally validated
+CAMPSQ13645				NCR169CS	Medicago truncatula	Plantae (Angiosperms)	KIWKCVENVCVLWYK	15	33972675	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13728				PBmTxJ	Bothrops moojeni	Animalia (Reptiles)	YNKKYMKHLKPCKKA	15	34130109	Antibacterial, Antiparasitic, Anticancer	Gram +ve	Experimentally validated
+CAMPSQ13777				Mel(12-26)	Apis mellifera	Animalia (Arthropoda)	GLPALISWIKRKRQQ	15	14596922	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13872				6238	HIV gp120	Virus	PCVKLTPLCVTLNCT	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13873				6265	HIV gp120	Virus	PAGFAILKCNDKKFS	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13874				6269	HIV gp120	Virus	KGSCKNVSTVQCTHG	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13875				6283	HIV gp120	Virus	VQINCTRPNYNKRKR	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13876				6284	HIV gp120	Virus	CTRPNYNKRKRIHIG	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13877				6286	HIV gp120	Virus	RKRIHIGPGRAFYTT	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13878				6288	HIV gp120	Virus	GRAFYTTKNIIGTIR	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

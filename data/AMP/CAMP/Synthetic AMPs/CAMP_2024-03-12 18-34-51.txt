@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23538				D2D [k5a]	Synthetic construct		kkxfaxkx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23539				D2D [D-1-Nal6a]	Synthetic construct		kkxfkakx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23540				D2D [k7a]	Synthetic construct		kkxfkxax	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23541				D2D [D-Nle8a]	Synthetic construct		kkxfkxka	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23542				D2D [k5D-Nle]	Synthetic construct		kkxfxxkx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23543				D2D [k5f]	Synthetic construct		kkxffxkx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23544				D2D [k5s]	Synthetic construct		kkxfsxkx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23545				D2D [k5t]	Synthetic construct		kkxftxkx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23546				D2D [k5y]	Synthetic construct		kkxfyxkx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23547				D2D [k5v]	Synthetic construct		kkxfvxkx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23548				D2D [k7D-Nle]	Synthetic construct		kkxfkxxx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23549				D2D [k7f]	Synthetic construct		kkxfkxfx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23550				D2D [k7s]	Synthetic construct		kkxfkxsx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23551				D2D [k7t]	Synthetic construct		kkxfkxtx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23552				D2D [k7y]	Synthetic construct		kkxfkxyx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23553				D2D [k7v]	Synthetic construct		kkxfkxvx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23554				D2D [D-1-Nal6k, k7D-1-Nal]	Synthetic construct		kkxfkkxx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23555				D2D [k7D-Nle, D-Nle8k]	Synthetic construct		kkxfkxxk	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23562				D2D [k1r]	Synthetic construct		rkxfkxkx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23563				D2D [k2r]	Synthetic construct		krxfkxkx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23564				D2D [k5r]	Synthetic construct		kkxfrxkx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23565				D2D [k7r]	Synthetic construct		kkxfkxrx	8	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23624				PS1-1	Synthetic construct		KWYKKWYK	8	30268502	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23627				PS1-4	Synthetic construct		RWYRRWYR	8	30268502	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23768		P61281		Melanotropin alpha (6-13) [H1R, F2W, G5W]	Synthetic construct		RWRWWKPV	8	32118141	Antibacterial	Gram+	Experimentally Validated

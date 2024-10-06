@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ570	3023392	P56386		Beta-defensin 1	Mus musculus	Animalia (Mammals)	DQYKCLQHGGFCLRSSCPSNTKLQGTCKPDKPNCCKS	37	9488417	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ606	729446	P40845		Esculentin-2A	Rana esculenta (edible frog )	Animalia (Amphibia)	GILSLVKGVAKLAGKGLAKEGGKFGLELIACKIAKQC	37	8163497	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ607	729447	P40846		Esculentin-2B	Rana esculenta (edible frog )	Animalia (Amphibia)	GIFSLVKGAAKLAGKGLAKEGGKFGLELIACKIAKQC	37	8163497	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ656	94448092	Q1MU20		Esculentin-2S	Odorrana schmackeri	Animalia (Amphibia)	GLFTLIKGAVKMIGKTVAKEAGKTGLELMACKVTNQC	37	16427248	Antibacterial 		Experimentally validated
+CAMPSQ762	84027829	P84645	1R1F	Palicourein	Palicourea condensata	Plantae	GDPTFCGETCRVIPVCTYSAALGCTCDDRSDGLCKRN	37	11430013	Antiviral		Experimentally validated
+CAMPSQ780	75050050	Q9GLV5		RL-37	Macaca mulatta	Animalia (Mammals)	RLGNFFRKVKEKIGGGLKKVGQKIKDFLGNLVPRTAS	37	11557457	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ789	115503705	Q1KLX8		HmdSL-37, Antibacterial protein LL-37	Hylobates moloch	Animalia (Mammals)	SLGNFFRKARKKIGEEFKRIVQRIKDFLQHLIPRTEA	37	16720578	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ790				PobRL-37	Cercopithecidae	Animalia (Mammals)	RLGNFFRKAKKKIGRGLKKIGQKIKDFLGNLVPRTES	37	16720578	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ791				CjaRL-37	Platyrrhini	Animalia (Mammals)	RLGDILQKAREKIEGGLKKLVQKIKDFFGKFAPRTES	37	16720578	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ803	20532149	P83002		Bacteriocin lactococcin MMFII	Lactococcus lactis subsp. lactis 	Monera	TSYGNGVHCNKSKCWIDVSELETYKAGTVSNPKDILW	37	11555873	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ804	175950732	B2LS02		Sakacin G immunity protein	Lactobacillus sakei 2512	Monera	KYYGNGVSCNSHGCSVNWGQAWTCGVNHLANGGHGVC	37	11555873	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ926	417989	P33045		Antifungal protein S	Hordeum vulgare	Plantae	ATFTVINKCQYTVWAAAVPAGGGQKLDAGQTWSIXXP	37	1936240	Antifungal		Experimentally validated
+CAMPSQ976	114386732	A6XMY0		Arasin-1	Hyas araneus	Animalia (Crustaceans (Malacostraca))	SRWPSPGRPRPFPGRPKPIFRPRPCNCYAPPCPCDRW	37	17658600	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ978	1709151	P38577		Bacteriocin mesentericin Y105	Leuconostoc mesenteroides	Monera	KYYGNGVHCTKSGCSVNWGEAASAGIHRLANGGNGFW	37	1487737	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ994	110560103	A6MAW5		Esculentin-2-OG10	Rana grahami	Animalia (Amphibia)	GLFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC	37	16621155, 17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1076	224495924	P0C8T9		Esculentin-2HSa	Rana hosii	Animalia (Amphibia)	GIFSLIKGAAQLIGKTVAKEAGKTGLELMACKVTKQC	37	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1109	26391013	P83138		Antifungal protein 4	Malva parviflora	Plantae	DRQIDMEEQQLEKLNKQDRXPGLRYAAKQQMXTXRMG	37	11302747	Antifungal		Experimentally validated
+CAMPSQ1127	74829145	Q9TWW2		Diptericin	Sarcophaga peregrina	Animalia (Insects)	DLHIPPPDNKINWPQLSGGGGGSPKTGYDININAQQK	37		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1134	46396048	Q9XZH0		Cecropin-B	Spodoptera litura	Animalia (Insects)	RWKVFKKIEKMGRNIRDGIVKAGPAIEVLGSAKALGK	37	11790350	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1168	126723146	P25230	1LYP	Antimicrobial protein CAP18	Oryctolagus cuniculus	Animalia (Mammals)	GLRKRLRKFRNKIKEKLKKIGQKIQGFVPKLAPRTDY	37	8132348	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1250	1345724	P48821		CECE_BOMMO Antibacterial peptide enbocin precursor 	 Bombyx mori	Animalia (Insects)	PWNIFKEIERAVARTRDAVISAGPAVRTVAAATSVAS	37		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1310	48976029	Q6QLQ9		Beta-defensin 10	Gallus gallus	Animalia (Aves)	NNEAQCEQAGGICSKDHCFHLHTRAFGHCQRGVPCRT	37	15148642	Antibacterial		Predicted
+CAMPSQ1498	13623795	Q9BLJ4		Defensin B	Ornithodoros moubata	Animalia (Arachnida)	GYGCPFNQYQCHSHCRGIRGYKGGYCTGRFKQTCKCY	37		Antibacterial		Predicted
+CAMPSQ1499	24210464	Q8MY08		Defensin C	Ornithodoros moubata	Animalia (Arachnida)	GYGCPFNQYQCHSHCSGIRGYKGGYCKGLFKQTCNCY	37		Antibacterial		Predicted
+CAMPSQ1500	24210462	Q8MY07		Defensin D	Ornithodoros moubata	Animalia (Arachnida)	GFGCPFNQYECHAHCSGVPGYKGGYCKGLFKQTCNCY	37		Antibacterial		Predicted

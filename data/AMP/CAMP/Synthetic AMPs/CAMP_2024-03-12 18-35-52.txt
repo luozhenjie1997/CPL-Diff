@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ17680		A0A0A1I6K1		Feleucin-K3 [L4R]	Synthetic construct		FLKRLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17681		A0A0A1I6K1		Feleucin-K3 [L4N]	Synthetic construct		FLKNLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17679		A0A0A1I6K1		Feleucin-K3 [L4G]	Synthetic construct		FLKGLKKLL	9	33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17678		A0A0A1I6K1		Feleucin-K3 [L4a]	Synthetic construct		FLKALKKLL	9	30136030,33296183	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17663		Q9BYF1		ACE2 (37-45)	Synthetic construct		EDLFYQSSL	9	33356169	Antiviral	Gram+,Gram-	Experimentally validated
+CAMPSQ17545		P80280		 Dermaseptin C12-S4(7–15)	Synthetic construct		LKKVLKAAA	9	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17544		P80280		 Dermaseptin S4(7–15)	Synthetic construct		LKKVLKAAA	9	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18064				Bp2	Synthetic construct		LKLCKKLCL	9	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18392				L4	Synthetic construct		RLRLLLRLR	9	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18393				L4pfd	Synthetic construct		LLRRLRRLL	9	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18394				F4	Synthetic construct		RFRFFFRFR	9	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18395				F4pf	Synthetic construct		FFRRFRRFF	9	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18396				I4	Synthetic construct		RIRIIIRIR	9	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18397				I4pf	Synthetic construct		IIRRIRRII	9	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ19446				Undefined	Synthetic construct		IAHQGLPQE	9	21296933	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19447				Undefined	Synthetic construct		IKAQGLPQE	9	21296933	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19448				Undefined	Synthetic construct		IAAQGLPQE	9	21296933	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19444		L8I5S0,B5B3R8,P02662		Caseicin A	Synthetic construct		IKHQGLPQE	9	21296933, 22177226, 22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19387		P02788		LF11 [Q2,4Del,N6G,I7W,K9I,V10R]	Synthetic construct		FWRGWRIRR	9	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19391		P02788		LF11 [Q2,4Del,N6I,I7W,K9I,V10W]	Synthetic construct		FWRIWRIWR	9	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19395				Undefined	Synthetic construct		RRPFWIIRR	9	20302840	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19396				Undefined	Synthetic construct		PRFRWRIRI	9	20302840	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19382		P02788		LF11 [Q2Del,R8W,K9R,V10Del]	Synthetic construct		FWQRNIWRR	9	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19383		P02788		LF11 [Q2Del,Q4R,I7F,R8W,K9R,V10Del]	Synthetic construct		FWRRNFWRR	9	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19378		P02788		LF11 [Q2Del,I7W,R8I,K9R,V10Del]	Synthetic construct		FWQRNWIRR	9	20956602	Antibacterial	Gram-	Experimentally Validated

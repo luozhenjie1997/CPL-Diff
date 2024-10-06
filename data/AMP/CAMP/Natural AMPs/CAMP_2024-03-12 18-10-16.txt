@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ374	38017184	P81941, Q90ZY0	1Z64	Pleurocidin	Pseudopleuronectes americanus	Animalia (Pisces)	GWGSFFKKAAHVGKHVGKAALTHYL	25	9115266 , 10898673 , 12950255 , 12878506,  30508627	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ384	3913370	P81252		Caerin-1.9	Litoria chloris 	Animalia (Amphibia)	GLFGVLGSIAKHVLPHVVPVIAEKL	25	9516047	Antibacterial		Experimentally validated
+CAMPSQ422	41016988	P83642		Dermadistinctin-Q2 	Phyllomedusa distincta	Animalia (Amphibia)	GLWSKIKEAAKTAGLMAMGFVNDMV	25	10477123	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ424	41017604	P82741		Ranatuerin-1	Rana catesbeiana	Animalia (Amphibia)	SMLSVLKNLGKVGLGFVACKINKQC	25	9784389	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ436	41017616	P82875		Ranatuerin-1C	Rana clamitans	Animalia (Amphibia)	SMLSVLKNLGKVGLGLVACKINKQC	25	10822101	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ460	418131	P24627	1BLF,1LFC,1NKX,1SDX,1Y58,2ALU,2AYS,2B65,2DOJ,2DP8,2DQV,2DS9,2DSF,2DVC,2DWA,2DWH,2DWI,2DWJ,2DXR,2DXY,2DYX,2E0S,2E1S,2FA7,2G93,2H4I,2HCA,2NUV,2NWJ,2O1L,2O51,2OCU,2P1S,2PX1,2Q8J,2QJE,2R71,2R9J,2ZMB,3CFL,3CI8,3CRB,3E9X,3IAZ,3IB0,3IB1,3IB2,3K0V,3KJ7,3MJN,3O97,	Lactotransferrin precursor 	Bos taurus 	Animalia (Mammals)	FKCRRWQWRMKKLGAPSITCVRRAF	25	9521752 , 8980754	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ478	46577581	P83545		Chrysophsin-1	Pagrus major	Animalia (Pisces)	FFGWLIKGAIHAGKAIHGLIHRRRH	25	12581207	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ479	46577582	P83546		Chrysophsin-2	Pagrus major	Animalia (Pisces)	FFGWLIRGAIHAGKAIHGLIHRRRH	25	12581207	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ484	47605786	P61507		Lycotoxin-1 	Hogna carolinensis	Animalia (Arachnida)	IWLTALKFLGKHAAKHLAKQQLSKL	25	9442044	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ492	50401860	P62546		Caerin-1.6	Litoria xanthomera	Animalia (Amphibia)	GLFSVLGAVAKHVLPHVVPVIAEKL	25	9230483	Antibacterial		Experimentally validated
+CAMPSQ494	50401866	P62568		Caerin-1.1	Litoria splendida 	Animalia (Amphibia)	GLLSVLGSVAKHVLPHVVPVIAEHL	25	10601876, 34259550	Antibacterial, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ548	59798979	P84382		XT-2 	Xenopus tropicalis	Animalia (Amphibia)	GVWSTVLGGLKKFAKGGLEAIVNPK	25	11738090	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ549	59798980	P84383		XT-3 	Xenopus tropicalis	Animalia (Amphibia)	GLASTLGSFLGKFAKGGAQAFLQPK	25	11738090	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ566	62297695	P83951		Ocellatin-1	Leptodactylus ocellatus	Animalia (Amphibia)	GVVDILKGAGKDLLAHLVGKISEKV	25	15648972	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ569	66773950	P84525		Eryngin	Pleurotus eryngii 	Fungi	ATRVVYCNRRSGSVVGGDDTVYYEG	25	15003349	Antifungal		Experimentally validated
+CAMPSQ584	68053344	P69030		Aurein-5.2	Litoria raniformis	Animalia (Amphibia)	GLMSSIGKALGGLIVDVLKPKTPAS	25	10951191	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ585	68053345	P69031		Aurein-5.2	Litoria aurea (green and golden bell frog )	Animalia (Amphibia)	GLMSSIGKALGGLIVDVLKPKTPAS	25	10951191	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ663	1052591	Q24395		Metchnikowin-2	Drosophila melanogaster	Animalia (Insects)	RRQGPIFDTRPSPFNPNQPRPGPIY	25	7588819	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ721	3023567	P56233		Caerin-2.1	Litoria splendida 	Animalia (Amphibia)	GLVSSIGRALGGLLADVVKSKGQPA	25	10601876	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ828				Salivaricin B	Streptococcus salivarius K12	Monera	GGGVIQTISHECRMNSWQFLFTCCS	25	17194838	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ865	14030283	Q90ZX8		Winter flounder 4	Pseudopleuronectes americanus	Animalia (Pisces)	GWGSIFKHGRHAAKHIGHAAVNHYL	25	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ977	1071699	Q50848		Variacin	Kocuria varians	Monera	GSGVIPTISHECHMNSFQFVFTCCS	25	8633879	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ983	159162673	P81172	1M4E,1M4F,2KEF,3H0T	Hepcidin-25 / LEAP	Homo sapiens 	Animalia (Mammals)	DTHFPICIFCCGCCHRSKCGMCCKT	25	11034317 , 11113131	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1059	114149285	Q1EJP4		Dermaseptin-H5	Phyllomedusa azurea 	Animalia (Amphibia)	GLWSTIKNVGKEAAIAAGKAVLGSL	25	17553595	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1060	114149283	Q1EJP5		Dermaseptin-H4	Phyllomedusa azurea 	Animalia (Amphibia)	GLWSTIKNVGKEAAIAAGKAALGAL	25	17553595	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

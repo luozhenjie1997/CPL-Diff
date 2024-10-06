@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ103	123143	P15516		Histatin-3	Homo sapiens 	Animalia (Mammals)	DSHAKRHHGYKRKFHEKHHSHRGYRSNYLYDN	32	3286634, 34417532	Antifungal		Experimentally validated
+CAMPSQ138	13959326	Q9PT75		Dermatoxin	Phyllomedusa bicolor 	Animalia (Amphibia)	SLGSFLKGVGTTLASVGKVVSDQFGKLLQAGQ	32	10880984	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ201	1730115	P54684		Lebocin-1/2 precursor	Bombyx mori	Animalia (Insects)	DLRFLYPRGKLPVPTPPPFNPKPIYIDMGNRY	32	7654207	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ269	2493579	Q17313		Ceratotoxin-C	Ceratitis capitata	Animalia (Insects)	SLGGVISGAKKVAKVAIPIGKAVLPVVAKLVG	32	9569644	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ272	2494046	Q62715		Neutrophil antibiotic peptide NP-2 precursor 	Rattus norvegicus	Animalia (Mammals)	VTCYCRSTRCGFRERLSGACGYRGRIYRLCCR	32	2254017	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ285	25089847	P83420		Cecropin	Oiketicus kirbyi 	Animalia (Insects)	WKPFKKIEKAVRRVRDGVAKAGPAVAVVGQAT	32		Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ289	25090646	O15946		Lebocin-4 precursor 	Bombyx mori	Animalia (Insects)	DLRFWNPREKLPLPTLPPFNPKPIYIDMGNRY	32	9325165	Antibacterial		Experimentally validated
+CAMPSQ426	41017606	P82780		Ranatuerin-3	Rana catesbeiana	Animalia (Amphibia)	GFLDIINKLGKTFAGHMLDKIKCTIGTCPPSP	32	9784389	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ433	41017613	P82828		Ranatuerin-2La	Rana luteiventris	Animalia (Amphibia)	GILDSFKGVAKGVAKDLAGKLLDKLKCKITGC	32	10651828	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ434	41017614	P82829		Ranatuerin-2Lb	Rana luteiventris	Animalia (Amphibia)	GILSSIKGVAKGVAKNVAAQLLDTLKCKITGC	32	10651828	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ487	483220	Q62716		Defensin NP-1 - rat	Rattus norvegicus	Animalia (Mammals)	VTCYCRRTRCGFRERLSGACGYRGRIYRLCCR	32	2543629	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ489	50401306	O18495		Styelin-D	Styela clava 	Animalia	GWLRKAAKSVGKFYYKHKYYIKAAWQIGKHAL	32	10978343	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ503	51701744	P84114		Ranatuerin-2BYa	Rana boylii 	Animalia (Amphibia)	GILSTFKGLAKGVAKDLAGNLLDKFKCKITGC	32	14531844	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ556	6016491	P55796		Lebocin-3 precursor 	Bombyx mori	Animalia (Insects)	DLRFLYPRGKLPVPTLPPFNPKPIYIDMGNRY	32	7654207	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ595	728866	P80230		Enhancer of rudimentary homolog	Sus scrofa	Animalia (Mammals)	RADTQTYQPYNKDWIKEKIYVLLRRQAQQAGK	32	8375398	Antibacterial		Experimentally validated
+CAMPSQ706				OdE1	Odorrana grahami	Animalia (Amphibia)	GLGGAKKNFIIAANKTAPQSVKKTFSCKLYNG	32	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ730	109156995	Q01523	1ZMP,3I5W,4E82,4E83,4E86	Human Defensin-5	Homo sapiens	Animalia (Mammals)	ATCYCRTGRCATRESLSGVCEISGRLYRLCCR	32	18191790 , 17088326, 30808760	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ748	210060761	B5AKV3	2K1I	Oral Mucosal Alpha-Defensin 	Macaca mulatta	Animalia (Mammals)	RRTCHCRSRCLRRESNSGSCNINGRIFSLCCR	32	18930922	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ755	109156999	Q01524	1ZMQ,3QTE	Human Alpha-Defensin-6	Homo sapiens	Animalia (Mammals)	AFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL	32	17088326	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ779				Ericin S	Bacillus subtilis A1/3	Monera	WKSESVCTPGCVTGVLQTCFLQTITCNCHISK	32	11872722	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ22741				Cereucin VC, CevC	Bacillus cereus	Bacteria	MGAVVKGALKIIGGGAASGGAVYGLERIFGR	31	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23239				Python Cathelicidin CATHPb1	Python bivittatu	Animalia	KRFKKFFRKIKKGFRKIFKKTKIFIGGTIPI	31	29466000	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23241				Python Cathelicidin CATHPb3	Python bivittatu	Animalia	KRFQNFFRELEKKFREFFRVYRITIGATIRF	31	29466000	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23347		A0A284T6N8		Dermaseptin-PS1, Dermaseptin cDNA	Phyllomedusa sauvagii	Animalia	ALWKTMLKKLGTVALHAGKAALGAVADTISQ	31	30461197	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23774		F5X6X4		Nisin-P	Streptococcus agalactiae DPC7040	Bacteria	VXxKXLXxPGXKxGILMXXAIKxAxXGXHFG	31	32111904	Antibacterial	Gram+,Gram-	Experimentally Validated

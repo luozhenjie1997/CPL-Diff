@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22551				RWR	Synthetic construct		RRRRWWWWRRRR	12	22989747	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22552				RWmix	Synthetic construct		RWRRWRRWRRWR	12	22989747	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22565		S4R4C8		Collagencin	Synthetic construct		GLPGPLGPAGPK	12	27038545	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22574				N2	Synthetic construct		RKRKILILIKRK	12	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22581				C2	Synthetic construct		KRKILILIKRKR	12	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22609				O1	Synthetic construct		KKKIIIIIIKKK	12	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22611				VR2	Synthetic construct		CVRVRpGRVRVC	12	22391533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22626				CM12	Synthetic construct		WKLFLKAVKKLL	12	24039565	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22627				GMG_05X	Synthetic construct		HXMRILAQLXKR	12	24039565	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22641		E7EKD9		Odorranain-B1 (6-17)	Synthetic construct		CWTKSIPPKPCF	12	17384140	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22673				ISGCock_Contig15_1337-1	Synthetic construct		RMKLNAKKLSFC	12	27167617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22717		P51888		RRP9W3-NH2	Synthetic construct		RRPRPRPRPWWW	12	21298015	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22719		P51888		RRP9F3-NH2	Synthetic construct		RRPRPRPRPFFF	12	21298015	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22893				WD2	Synthetic construct		WRPGRWWRPGRW	12	26546414	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22896				WN2	Synthetic construct		WRNGRWWRNGRW	12	26546414	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22953		A0A072TJ27		NCR247 (13-24)	Synthetic construct		QQCRRPLYCRRR	12	32153547	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23078		P49931,		PMAP-36 (14-25)	Synthetic construct		RLKKIGKVLKWI	12	27251456, 32342079	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23079		P49931		PMAP-36 (14-25)[L2W, L9W]	Synthetic construct		RWKKIGKVWKWI	12	32342079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23080		P49931		PMAP-36 (14-25)[L2,9W; K7W]	Synthetic construct		RWKKIGWVWKWI	12	32342079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23081		P49931		PMAP-36 (14-25)[K7W]	Synthetic construct		RLKKIGWVLKWI	12	32342079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23082		P49931		PMAP-36 (14-25)[K3W]	Synthetic construct		RLWKIGKVLKWI	12	32342079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23083		P49931		PMAP-36 (14-25)[K3,7W]	Synthetic construct		RLWKIGWVLKWI	12	32342079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23085		P49931		PMAP-36 (1-12)	Synthetic construct		GRFRRLRKKTRK	12	24466055	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23086		P49931		PMAP-36 (25-36)	Synthetic construct		PPIVGSIPLGCG	12	24466055	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23137				Undefined	Synthetic construct		IKKIIKKIIKKI	12	28457962	Antibacterial	Gram+,Gram-	Experimentally Validated

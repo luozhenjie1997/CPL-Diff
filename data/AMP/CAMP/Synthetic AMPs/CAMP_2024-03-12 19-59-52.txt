@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1015	78191394			CA	Synthetic construct		KWKLFKKIGIGAVLKVLTTGLPALIS	26	1733777	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8199				Pin2 [G]	Synthetic construct		FWGALAKGALKLIGPGSLFSSFSKKD	26	25019413	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8254				CP26	Synthetic construct		KWKSFIKKLTSAAKKVVTTAKPLISS	26	10898680	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8255				CP29	Synthetic construct		KWKSFIKKLTTAVKKVLTTGLPALIS	26	10898680	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8684				CP201	Synthetic construct		KWKSFIKNLTKGGSKILTTGLPALIS	26	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8685				CP202	Synthetic construct		KWKKFIKNLTKGGSKILTTGLPALIS	26	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8686				CP203	Synthetic construct		KWKSFIKKLTSAAKKVLTTGLPALIS	26	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8690				CP207	Synthetic construct		KWKSFIKKLTSVLKKVVTTAKPLISS	26	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8691				CP208	Synthetic construct		KKKSFIKLLTSAKVSVLTTAKPLISS	26	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8696				CM2	Synthetic construct		KWKSFIKKLTKAAKKVVTTAKKPLIV	26	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8699				CM5	Synthetic construct		KLFKKIGIGAVLKVLTTGLPALKLTK	26	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8701				CEME	Synthetic construct		KWKLFKKIGIGAVLKVLTTGLPALIS	26	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8860				N-terminus cysteine-modified chrysophsin-1 (C-CHY1)	Synthetic construct		CFFGWLIKGAIHAGKAIHGLIHRRRH	26	26388176	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8861				NAT26	Synthetic construct		NATFYFKIDNVKKARVQVVAGKKYFI	26	26351912	Antifungal		Experimentally validated
+CAMPSQ8868				RP440	Synthetic construct		KKKPKPPYLPKPKPPPFFPPKLPPKI	26	29242901	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8953				CHITI25 Vit	Synthetic construct		TQYSSMATQASSRKAFIDSSISVAR	26	30823998	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8954				CCR25	Synthetic construct		IQRNVQKLKDTVKKLGESGEIKAIG	26	30823998	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9414				V13G	Synthetic construct		KWKSFLKTFKSAGKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9415				V13L (L-substitution)	Synthetic construct		KWKSFLKTFKSALKTVLHTALKAISS	26	15677462	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ24224		P60603		ROS modulator 1 (54-78)	Synthetic construct		GGIGKTMMQSGGTFGTFMAIGMGIR	25	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24272				Undefined	Synthetic construct		MDRWLVKWKKKRKIRRRRRRRRRRR	25	32347931	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24274				Undefined	Synthetic construct		MDRFSLKWKKKRKIRRRRRRRRRRR	25	32347931	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24276				Undefined	Synthetic construct		MDRALVKWKKKRKIRRRRRRRRRRR	25	32347931	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24344		H2XPU9		Ciona intestinalis Uncharacterized protein (1-25)	Synthetic construct		KGGKFLNFLKKAAKVGAKVGMAALG	25	32724213	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24376				Pept_84	Synthetic construct		IVKRFFRISYKLQSLKIIKGKRTFT	25	32992666	Antibacterial	Gram+,Gram-	Experimentally Validated

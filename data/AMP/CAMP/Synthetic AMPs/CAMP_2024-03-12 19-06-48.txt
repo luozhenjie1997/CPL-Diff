@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18379				SP11	Synthetic construct		IRRWRLHWFRRAI	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18380				SP12	Synthetic construct		IRRRIRLIVRRQI	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18381				SP13	Synthetic construct		HFKIRKRFVKKLV	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18382				SP14	Synthetic construct		RWIRWVWRKKLRI	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18383				SP1D	Synthetic construct		aikirklfkkllr	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18384				SP15D	Synthetic construct		rwirwvwrkklr	13	31163671	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ19333		P02788		R-LF11 [Q2R,V10Y]-R	Synthetic construct		RFRWQRNIRKYRR	13	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19325		P02788		LF11 [Q2Del;R11K]-KKI	Synthetic construct		FWQRNIRKVKKKI	13	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19322		P02788		LF11 [Q2Del]-RRR	Synthetic construct		FWQRNIRKVRRRR	13	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19323		P02788		LF11 [Q2Del]-RRI	Synthetic construct		FWQRNIRKVRRRI	13	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19324		P02788		LF11 [Q2Del;R11K]-KKK	Synthetic construct		FWQRNIRKVKKKK	13	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19298		P57104		Temporin-L [Q3K, W4S, S6W, F8K]	Synthetic construct		FVKSFWKKLGRIL	13	32786286	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19297		P57104		Temporin-L [Q3K, F8K]	Synthetic construct		FVKWFSKKLGRIL	13	32786286	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19296		P57104		Temporin L-D-inverse	Synthetic construct		lirGlfksfwqvf	13	21319749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19295		P57104		Temporin L [Q3P,R11Orn]	Synthetic construct		FVPWFSKFLGXIL	13	21319749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19293		P57104		Temporin L [Q3R]	Synthetic construct		FVRWFSKFLGRIL	13	21319749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19294		P57104		Temporin L [Q3R,K7R]	Synthetic construct		FVRWFSRFLGRIL	13	21319749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19290		P57104		Temporin L [R11K]	Synthetic construct		FVQWFSKFLGKIL	13	21319749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19291		P57104		Temporin L [R11ORN]	Synthetic construct		FVQWFSKFLGXIL	13	21319749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19292		P57104		Temporin L [K7R]	Synthetic construct		FVQWFSRFLGRIL	13	21319749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19289		P57104		Temporin L [V2L,Q3P]	Synthetic construct		FLPWFSKFLGRIL	13	21319749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19288		P57104		Temporin L [G10L]	Synthetic construct		FVQWFSKFLLRIL	13	21319749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19287		P57104		Temporin L [F1L,V2L,F5L,F8L,I12W]	Synthetic construct		LLQWLSKLLGRWL	13	21319749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19286		P57104		Temporin L [F1L,V2L,F5L,F8L,I12L]	Synthetic construct		LLQWLSKLLGRLL	13	21319749	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19264		P81941		Pleurocidin (1-13)	Synthetic construct		GWGSFFKKAAHVG	13	23603258	Antibacterial	Gram+,Gram-	Experimentally Validated

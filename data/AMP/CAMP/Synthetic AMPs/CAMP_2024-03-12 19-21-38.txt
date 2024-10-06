@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22701		P81571		So-D2, So Defensin D2 (37-51)-L	Synthetic construct		GDCKGIRRRCMCSKPL	16	30252607	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22883				Undefined	Synthetic construct		GVVVRVGRVVVRWVRR	16	24649883	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22885				Undefined	Synthetic construct		GVVVRVPRVVVRWVRR	16	24649883	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22886				Undefined	Synthetic construct		GVVVRVARVVVRWVRR	16	24649883	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22939		P49931		PMAP-36 (2-6)+FV7+PMAP-36 (14-17), R-FV-I16	Synthetic construct		RFRRLFRIRVRVLKKI	16	24945359	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23127		P07357		A2, Complement component C8 alpha chain (273-288)	Synthetic construct		TSFLNELNKYNEKKFI	16	24101243	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23329		P25230,		CAP7 (1-16)-AMD, sC18-AMD	Synthetic construct		GLRKRLRKFRNKIKEK	16	30389988, 25428117	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23356				Undefined	Synthetic construct		TSVRQRWRWRQRVRTS	16	30120878	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23357				Undefined	Synthetic construct		KRSKRKRRIHQRVRIS	16	30120878	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23358				Undefined	Synthetic construct		TLSKEKERIVQRVRTS	16	30120878	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23374		P10645		Chromogranin A (61-76), CGA-N16	Synthetic construct		LQDLALQGAKERAHQQ	16	27165480	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23393		P59665		HNP-1 (15-30)[C5ABU, G9(2-Abz), C15S, C16K]	Synthetic construct		RYGTXIYQXRLWAFSK	16	30048118	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23423		P04612		BRCA1 (782786)-Tat (4757)	Synthetic construct		SISLLYGRKKRRQRRR	16	30384016	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23424		P04612		Tat (4757)-BRCA1 (782786)	Synthetic construct		YGRKKRRQRRRSISLL	16	30384016	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23458				FI16	Synthetic construct		FIFHIIRFFNFRVFRI	16	30121851	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23626				PS1-3	Synthetic construct		KWYKKWYKKWYKKWYK	16	30268502	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23862		P26662		K-HCV (1677-1691)-K	Synthetic construct		KGSVVIVGRIILSGRK	16	10574908	Antiviral		Experimentally Validated
+CAMPSQ23864				Undefined	Synthetic construct		AKDLEVVCSTYVLVEA	16	14694985	Antiviral		Experimentally Validated
+CAMPSQ23867				Undefined	Synthetic construct		AKDLEVVTSTYVLVEA	16	14694985	Antiviral		Experimentally Validated
+CAMPSQ23934		P26663		HCV gp (710-725)	Synthetic construct		VSFAIKWEYVLLLFLL	16	20156485	Antiviral		Experimentally Validated
+CAMPSQ24200		O95832		Claudin-1 (1-16)	Synthetic construct		MANAGLQLLGFILAFL	16	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24257		Q8IAS6		Rifin (317-332)[K323A], Peptide 35409-2	Synthetic construct		KKKMKKALQYIKLLKE	16	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24294				Lr-AMP1d	Synthetic construct		SVAGRAMRIGLRFVLM	16	32333997	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24296				Lr-AMP1f	Synthetic construct		GSVLRAIMRMFAKLMG	16	32333997	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24298				Lr-AMP1h	Synthetic construct		GSVIRALMRMFARLVG	16	32333997	Antibacterial	Gram+,Gram-	Experimentally Validated

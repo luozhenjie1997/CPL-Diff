@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13206				Peptide 194	Synthetic construct		WWRR	4	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13221				Peptide 209	Synthetic construct		WWRW	4	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13237				Peptide 225	Synthetic construct		WWWR	4	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13252				Peptide 240	Synthetic construct		WWWW	4	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13760				Peptide 7	Synthetic construct		FFFF	4	7972024	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13810				(RH)2	Synthetic construct		RHRH	4	14693544	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14121				AMC-109	Synthetic construct		RWbR	4	33495549	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14369				Peptide 6	Synthetic construct		GVLV	4	34502335	Antiviral		Experimentally validated
+CAMPSQ14376				LIP1	Synthetic construct		JGOO	4	34817038	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14380				LIP5	Synthetic construct		UGOO	4	34817038	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14949				Peptide P8	Synthetic construct		LSFR	4	35216181	Antifungal		Experimentally validated
+CAMPSQ14950				Peptide P9	Synthetic construct		lsfr	4	35216181	Antifungal		Experimentally validated
+CAMPSQ14951				Peptide P10	Synthetic construct		LSFR	4	35216181	Antifungal		Experimentally validated
+CAMPSQ14952				Peptide P11	Synthetic construct		LSFR	4	35216181	Antifungal		Experimentally validated
+CAMPSQ17600				CMK	Synthetic construct		RVKR	4	23617302,31683742,33007239	Antiviral	Gram+,Gram-	Experimentally validated
+CAMPSQ19203				Undefined	Synthetic construct		KLIK	4	22006001	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19202				12-(Lys)4-12	Synthetic construct		KKKK	4	22006001, 28203232, 19237652, 27486068, 33003569	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19183				Undefined	Synthetic construct		KLLK	4	27606830, 19237652	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19182				Undefined	Synthetic construct		KGGk	4	27606830, 22006001, 19237652	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19181				Undefined	Synthetic construct		KAaK	4	27606830, 22006001, 19237652	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19088				Undefined	Synthetic construct		XXWW	4	27208129, 17553680, 20374251	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18883				Undefined	Synthetic construct		XKKK	4	32887236, 29292739, 31581500, 24748099, 31668583, 30392097	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19482				Undefined	Synthetic construct		KGKG	4	28203232	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19767				GS4	Synthetic construct		yPyP	4	8810288, 12712499	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20112				BPC4D	Synthetic construct		KFKQ	4	16730857	Antibacterial	Gram-	Experimentally Validated

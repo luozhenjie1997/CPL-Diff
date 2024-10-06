@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20981		Q8UUG0		Piscidin 1 [H3A][H4A][G8P]	Synthetic construct		FFAAIFRPIVHVGKTIHRLVTG	22	17328560	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20982		Q8UUG0		Piscidin 1 [H3A][H4A][R7A][G8P]	Synthetic construct		FFAAIFAPIVHVGKTIHRLVTG	22	17328560	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20983		Q8UUG0		Piscidin 1 [F1A]	Synthetic construct		AFHHIFRGIVHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20984		Q8UUG0		Piscidin 1 [F2A]	Synthetic construct		FAHHIFRGIVHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20985		Q8UUG0		Piscidin 1 [F6A]	Synthetic construct		FFHHIARGIVHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20986		Q8UUG0		Piscidin 1 [F1K]	Synthetic construct		KFHHIFRGIVHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20987		Q8UUG0		Piscidin 1 [F2K]	Synthetic construct		FKHHIFRGIVHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20988		Q8UUG0		Piscidin 1 [F6K]	Synthetic construct		FFHHIKRGIVHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20989		Q8UUG0		Piscidin 1 [F1W]	Synthetic construct		WFHHIFRGIVHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20990		Q8UUG0		Piscidin 1 [F2W]	Synthetic construct		FWHHIFRGIVHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20991		Q8UUG0		Piscidin 1 [F6W]	Synthetic construct		FFHHIWRGIVHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20992		Q8UUG0		Piscidin 1 [V10K]	Synthetic construct		FFHHIFRGIKHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20993		Q8UUG0		Piscidin 1 [F1K,V10K]	Synthetic construct		KFHHIFRGIKHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20994		Q8UUG0		Piscidin 1 [F2K,V10K]	Synthetic construct		FKHHIFRGIKHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20995		Q8UUG0		Piscidin 1 [F6K,V10K]	Synthetic construct		FFHHIKRGIKHVGKTIHRLVTG	22	25473836	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21209		P81534,		C14-HBD-3 (22-45) [C33,41Del], MPhd-3	Synthetic construct		SCLPKEEQIGKSTRGRKCRRKK	22	24086767, 16860904, 18809937, 23980689, 29682907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21210		P81534		HBD-3 (22-45)-D [C33,41Del][K45R], [D]HC-3(R)	Synthetic construct		SCLPKEEQiGKSTrGrKCrrKR	22	24086767	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21293		P81865		Pardaxin (1-22) D	Synthetic construct		GFFALIPKIISSPLFKTLLSAX	22	9914515	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21379				Delta-lysin (5-26)[D11K][D18K]	Synthetic construct		IISTIGKLVKWIIKTVNKFTKK	22	15629533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21380				Delta-lysin (5-26)[D11K][V13P][D18K]	Synthetic construct		IISTIGKLPKWIIKTVNKFTKK	22	15629533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21518				SC22EK	Synthetic construct		WEEWDKKIEEYTKKIEELIKKS	22	19114674, 31277353	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21591		Q7TNV9		Beta-defensin 14 (24-45) [33,40,41A]	Synthetic construct		LGKEEQIGRASNSGRKAARKKK	22	18180295	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21741		P01966		Hemoglobin subunit alpha (107-128)	Synthetic construct		VTLASHLPSDFTPAVHASLDKF	22	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21774		Q8UUG0		D-Piscidin 1 [ V12K]	Synthetic construct		ffhhifrGivhkGktihrlvtG	22	24670666	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21804		P04579		Envelope glycoprotein gp160 (555-576), C16- N22	Synthetic construct		SGIVQQQNNLLRAIEAQQHLLQ	22	20605950	Antiviral	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ190	1703731			Antibacterial peptide/melittin homolog	Synthetic construct		FALALKALKKALKKLKKALKKAL	23	8714745	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1175	913451			E23GIG magainin 2	Synthetic construct		SNMIEGVFAKGFKKASHLFKGIG	23	7726486	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2787				  Adepantin-1 	Synthetic construct		GIGKHVGKALKGLKGLLKGLGES	23	19947578	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4607	157879956			Chain A, E6-Bind Trp-Cage (E6apn1)	Synthetic construct		XLQELLGQWLKDGGPSSGRPPPS	23	15182185	Antiviral		Experimentally validated
+CAMPSQ8194				HBc153-175	Synthetic construct		GRSPRRRTPSPRRRRSQSPRRRR	23	23785287	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8347				Mag(i +4)0	Synthetic construct		XIGKXLHSAKKFGKAFVGEIBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8348				Mag(i +4)1	Synthetic construct		GXGKFXHSAKKFGKAFVGEIBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8349				Mag(i +4)2	Synthetic construct		GIXKFLXSAKKFGKAFVGEIBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8350				Mag(i +4)3	Synthetic construct		GIGXFLHXAKKFGKAFVGEIBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ24209		C3YAU6		BjRPS23 (17-38)	Synthetic construct		RRQQRWHDKSFKKAHLGTAVKA	22	32423862	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24215		P59594		SARS-CoV Sgp (604-625)	Synthetic construct		TDVSTAIHADQLTPAWRIYSTG	22	16153058	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24221		P60603		ROS modulator 1 (58-79)	Synthetic construct		KTMMQSGGTFGTFMAIGMGIRC	22	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24226		P60603		ROS modulator 1 (57-78)	Synthetic construct		GKTMMQSGGTFGTFMAIGMGIR	22	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24377		A0A251U6G7		Burdock peptide	Synthetic construct		LRCDYGRFFASKSLYDPLKKRR	22	32349230	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24435				Undefined	Synthetic construct		IIICRKPIICRKPIICRKPIII	22	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24466		A0A2U9BY21		Rapsyn protein (635-656)	Synthetic construct		ATLTAKDLTFLQDYKKTKKRVK	22	32841003	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24643		Q86YZ3		Myr-HRNR (26562677)	Synthetic construct		GRHGSGLGHSSSHGQHGSGSGR	22	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24644		Q86YZ3		HRNR (26562677)[H3,9,13,16R]	Synthetic construct		GRRGSGLGRSSSRGQRGSGSGR	22	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24674		Q86YZ3		HRNR (2656-2677)[R2,22H;S5,11,12,18,20G;L7G,Q15G]	Synthetic construct		GHHGGGGGHGGGHGGHGGGGGH	22	30833614	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24675		Q86YZ3		HRNR (2656-2677)[G1L]	Synthetic construct		LRHGSGLGHSSSHGQHGSGSGR	22	30833614	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24676		Q86YZ3		HRNR (2656-2677)[H3,9,13,16R]	Synthetic construct		GRRGSGLGRSSSRGGRGSGSGR	22	30833614	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24677				Undefined	Synthetic construct		GRRGGGGGRGGGRGGRGGGGGR	22	30833614	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24678		Q86YZ3		HRNR (2656-2677)[H3,9,13,16R][L7G,Q15G]	Synthetic construct		GRRGSGGGRSSSRGGRGSGSGR	22	30833614	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24679				Undefined	Synthetic construct		SRRSSSLSRSSSRSSRSSSSSR	22	30833614	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24760				Undefined	Synthetic construct		WCVASpPLSYCGXTXXXlLXXT	22	31645764	Antibacterial	Gram+,Gram-	Experimentally Validated

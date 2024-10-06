@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19074		P24627		Lfcin B (17-28)[C3Beta-Ala]	Synthetic construct		FKXRRWQWRMKK	12	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19053				Ovispirin-13	Synthetic construct		RRIIRKIIHIIK	12	11600395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18991		P32194		Protegrin 1 / Neutrophil peptide 1 (5-16)[C4T][C9T]	Synthetic construct		LCYTRRRFTVCV	12	9009324	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18992		P32194		Protegrin 1 / Neutrophil peptide 1 (5-16)[C2T][C11T]	Synthetic construct		LTYCRRRFCVTV	12	9009324	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18993		P32194		Protegrin 1 / Neutrophil peptide 1 (5-16)[C4A][C9A]	Synthetic construct		LCYARRRFAVCV	12	9009324	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18994		P32194		Protegrin 1 / Neutrophil peptide 1 (5-16)[C2A][C11A]	Synthetic construct		LAYCRRRFCVAV	12	9009324	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18986		P32194,I3LU31		Protegrin 1 (5-16), PG-1 (5-16)	Synthetic construct		LCYCRRRFCVCV	12	9009324, 9596706	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18859				Bac2a [V7P]	Synthetic construct		RLARIVPIRVAR	12	17938183	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ18847				Undefined	Synthetic construct		IXWAGXWWXLFX	12	20599694	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18846				Undefined	Synthetic construct		IXWAGXLFXLFX	12	20599694	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18845				Undefined	Synthetic construct		IKWAGKWWKLFK	12	20599694	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18844				Undefined	Synthetic construct		IKPAGKLFKLFK	12	20599694	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18843				Undefined	Synthetic construct		IKWAGKLFKLFK	12	20599694	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18820				Undefined	Synthetic construct		IVRVAVALRRIR	12	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18815				Undefined	Synthetic construct		KKWKIVVIRWRR	12	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18816				Undefined	Synthetic construct		RRWKIVVIRWKK	12	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18817				Undefined	Synthetic construct		RRRWIVVIWRRR	12	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18818				Undefined	Synthetic construct		RRWRRWWRRWRR	12	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18819				Undefined	Synthetic construct		RRRWWWRRWWRR	12	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18813				Negative control peptide	Synthetic construct		GATPEDLNQKLS	12	19171306, 17938183	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18814				Undefined	Synthetic construct		KKWKIVVIKWKK	12	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18734				KSL5	Synthetic construct		KKKVVFKVKFKK	12	11587795	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ18735				KSL6	Synthetic construct		KKVVFKVKFKKK	12	11587795	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ18709		P55897,		Buforin-2 (10-21)	Synthetic construct		FPVGRVHRLLRK	12	10890923	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18616				W-BP100	Synthetic construct		WKKLFKKILKYL	12	33445476	Antibacterial	Gram+,Gram-	Experimentally Validated

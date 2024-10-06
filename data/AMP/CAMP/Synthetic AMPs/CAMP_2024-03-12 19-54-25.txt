@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20236		Q9BLJ3		OMdeltaC, Orinthodoros Defensin A (15-37)[C15W,K35N,C26,34,36Del]	Synthetic construct		WSGIRGYKGGYKGLFKQTNY	20	16914230	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20294		P02070,P04346		Bovine hemoglobin beta chain (126-145)	Synthetic construct		QADFQKVVAGVANALAHRYH	20	18342399, 16730859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20640		P22749		Granulysin (1-20)	Synthetic construct		GRDYRTSLTIVQKLKKMVDK	20	11120840	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20641		P22749		Granulysin (31-50)	Synthetic construct		TRVSRTGRSRWRDVSRNFMR	20	11120840	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20660		P22749		Granulysin (4261)	Synthetic construct		RDVCRNFMRRYQSRVIQGLV	20	10903754	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20665		P22749,		Granulysin 12.40	Synthetic construct		rrvsrrpmrryrsrrprrlv	20	18310138	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20666		P22749		Granulysin 12.34	Synthetic construct		rrvsrrfmrryrsrrirrlv	20	18310138	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20667		P22749		Granulysin 12.35	Synthetic construct		rrvsrrfmrryrsrrprrlv	20	18310138	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20676		P83545		Chrysophsin-1 (1-20)	Synthetic construct		FFGWLIKGAIHAGKAIHGLI	20	25996410	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20679				Scrambled Bicarinalin	Synthetic construct		VVMKLGKAFVPIGKWKKDGI	20	27058430	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20736				MrMBL-N20	Synthetic construct		AWNTYDYMKREHSLVKPYQG	20	25575476	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20816		Q2LKX9		Ixosin (4-23)	Synthetic construct		KVMREVLGYERNSYKKFFLR	20	27622949	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20880				SP13-D	Synthetic construct		KRRLIARILRLAARALVKKR	20	23951222, 23901070	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20881				SP14	Synthetic construct		KRKLTLVFGVMAGVIGTKKR	20	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20882				SP15	Synthetic construct		KRKLIFLAAFLAALALFKKR	20	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20883				SP16	Synthetic construct		KRRLAAFRAFRGALKSVLKK	20	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20918				SP13-1	Synthetic construct		KRRLIARILRLAIRALVKKR	20	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20919				SP13-2	Synthetic construct		KRRLILRILRLAIRALVKKR	20	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20920				SP13-3	Synthetic construct		KRRLILRILRLAIRILVKKR	20	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20921				SP13-4	Synthetic construct		KRRLIFRILKLFFRFLVKKR	20	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20922				SP13-5	Synthetic construct		KRRILIRILKLIIKLILKKR	20	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20923				SP13-6	Synthetic construct		KRRKLIKILKLIIKLIRKKR	20	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20924				SP13-7	Synthetic construct		KRRKLIKILKLIAKLIRKKR	20	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20925				SP13-8	Synthetic construct		KRRKAIKILKLIAKLIRKKR	20	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20926				SP13-9	Synthetic construct		KRRKAIKILKLIAKAIRKKR	20	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated

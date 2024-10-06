@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18548		P54228		BMAP-18	Synthetic construct		GRFKRFRKKFKKLFKKIS	18	18591279	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ18515				Undefined	Synthetic construct		KALAKALAKLWKALAKAA	18	9042968	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18512				Undefined	Synthetic construct		KLLAKAALKWLLKALKAA	18	9042968	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18513				Undefined	Synthetic construct		KALKKLLAKWLAAAKALL	18	9042968	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18514				Undefined	Synthetic construct		KITLKLAIKAWKLALKAA	18	9042968	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18510				Undefined	Synthetic construct		KAIAKSILKWIKSIAKAI	18	9042968	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18511				Undefined	Synthetic construct		KALAALLKKWAKLLAALK	18	9042968	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18508				Undefined	Synthetic construct		KLALKAALKAWKAAAKLA	18	9042968	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18509				Undefined	Synthetic construct		KLALKAAAKAWKAAAKAA	18	9042968	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18507				Undefined	Synthetic construct		KLALKLALKAWKAALKLA	18	9042968	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18504				MAP [K1,5,9,12,16R]	Synthetic construct		RLALRLALRALRAALRLA	18	22853904	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18505				SAP (Sweet Arrow Peptide)	Synthetic construct		VRLPPPVRLPPPVRLPPP	18	22853904	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18488				Peptide [L6P9G13F16]	Synthetic construct		YKLLKLLLPKLKGLLFKL	18	16434018, 8546675	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19485		P35581		Apidaecin-1B [R17NHar]	Synthetic construct		GNNRPVYIPQPRPPHPXL	18	20560644	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19486		P35581		Apidaecin-1B [R12NHar]	Synthetic construct		GNNRPVYIPQPXPPHPRL	18	20560644	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19487		P35581		Apidaecin-1B [R4NArg]	Synthetic construct		GNNXPVYIPQPRPPHPRL	18	20560644	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19488		P35581		Apidaecin-1B [R4,12,17NArg]	Synthetic construct		GNNXPVYIPQPXPPHPXL	18	20560644	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19489		P35581		Apidaecin-1B [R18NLe]	Synthetic construct		GNNRPVYIPQPRPPHPRX	18	20560644	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19490				Apidaecin-1B [1, ORN]	Synthetic construct		XNNRPVYIPQPRPPHPRL	18	22594381	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19491		Q06602		Inverso-D-Apidaecin-1B [10rn,10 r], Retro-inverso-Api88	Synthetic construct		lrphpprprpiyvprnnx	18	22594381	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19596		P82357		Spinigerin (4-21)	Synthetic construct		KKVADKVLLLKQLRIMRL	18	12963031	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19669				HB71, Shiva 10 (1-18)	Synthetic construct		FAKKLAKKLKKLAKKLAK	18	15980369	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19674		P14215,		HBPM4, Polyphemusin I [R10K,Y14R,R15Y]	Synthetic construct		RRWCFRVCYKGFCRYKCR	18	15980369, 11087404	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19677		P14215		Polyphemusin I [R1F,R10G,F12R,Y14R,R15Y]	Synthetic construct		RRWCFRVCYKGRCRYKCR	18	11087404	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19686		P49928		SMAP-29 (1-18)[L3,6W][I10W][V14W]	Synthetic construct		RGWRRWGRKWAHGWKKYG	18	24221355	Antibacterial	Gram+,Gram-	Experimentally Validated

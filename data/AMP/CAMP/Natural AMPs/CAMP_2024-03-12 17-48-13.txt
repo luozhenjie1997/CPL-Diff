@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ15237				Anoplin-1	Anoplius samariensis	Animalia (Insects)	WLLKRWKKLL	10	25316570	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15238				Anoplin-2	Anoplius samariensis	Animalia (Insects)	wllkrwkkll	10	25316570	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15239				Anoplin-4	Anoplius samariensis	Animalia (Insects)	kllkwwkkll	10	25316570	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16800				OdVP4	Orancistrocerus drewseni	Animalia	LDPKVVQSLL	10	21184791	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ16807		D1MEI9		EpVP3S, VP3 protein	Eumenes pomiformis	Animalia	INPKSVQSLL	10	21184791	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ16808		D1MEJ0		EpVP4a, VP4a protein	Eumenes pomiformis	Animalia	LSPAVMASLA	10	21184791	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ16809		D1MEJ1		EpVP4b, VP4b protein	Eumenes pomiformis	Animalia	LSPAAMASLA	10	21184791	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ16813				Leucrocin II	Crocodylus siamensis	Animalia	NAGSLLSGWG	10	21184776	Antibacterial, Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ18487				Gramicidin S, GS	Bacillus brevis		VXLfPVXLfP	10	16434018, 19528287, 10224074, 8810288, 15981419, 19132829, 24752256, 17462586, 27328781, 22976321, 20951594	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19775				Tyrocidine A, TA	Bacillus subtilis,Bacillus aneurinolyticus,Bacillus brevis		fPFfNQYVXL	10	24752256, 17462586, 27328781, 19586775	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19776				Tyrocidine B	Bacillus aneurinolyticus,Bacillus brevis		fPWfNQYVXL	10	24752256, 17462586, 27328781, 19586775	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19777				Tyrocidine C	Bacillus aneurinolyticus,Bacillus brevis		fPWwNQYVXL	10	24752256, 17462586, 27328781, 19586775	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19780				Tyrocidine A1	Bacillus aneurinolyticus,Bacillus brevis	Bacteria	fPFfNQYVKL	10	17462586, 19586775	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ19781				Tyrocidine B1	Bacillus aneurinolyticus,Bacillus brevis	Bacteria	fPWfNQYVKL	10	17462586, 19586775	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ19782				Tyrocidine C1	Bacillus aneurinolyticus,Bacillus brevis	Bacteria	fPWwNQYVKL	10	17462586, 19586775	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ21260		A0A077SJM2		Balteatide	Phyllomedusa baltea	Animalia	LRPAILVRIK	10	25054164	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21261		C5J8E3		Sauvatide	Phyllomedusa sauvagii	Animalia	LRPAILVRTK	10	25054164	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21443				Laterocidin	Bacillus laterosporus	Bacteria	LVXLyPFfND	10	19932962	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22429				Limnochariin-1	Rana limnocharis	Animalia	RFCFKGTPCG	10	26452973	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22750				Loloatin C	Bacillus sp.	Bacteria	VXLyPWfNDW	10	9917287	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22751				Loloatin D	Brevibacillus laterosporus	Bacteria	VXLyXFfNDW	10	9917287	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22752				Loloatin B	Bacillus sp.	Bacteria	VXLyPFfNDW	10	9917287	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23775				Somuncurin-1	Pleurodema somuncurense	Animalia	FIIWPLRYRK	10	32134261	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24522				Polymyxin E7	Paenibacillus spp.,Paenibacillus polymyxa	Bacteria	XTXXXlLXXT	10	24601489, 31645764	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24630				Griselimycin, GM	Streptomyces griseus	Bacteria	XXXLXLXPxG	10	26045430	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

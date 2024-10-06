@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14959				Peptide P16	Synthetic construct		SSMKLSFR	8	35216181	Antifungal		Experimentally validated
+CAMPSQ16553				CSPC8 (C8)	Synthetic construct		TFFRLFNR	8	29434779	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16589				Battacin GZ3.27	Synthetic construct		xXXLfXXL	8	27992169	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16617				Peptide-1 	Synthetic construct		WRRWIRWL	8	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16621				Peptide-5	Synthetic construct		KWRRWIRW	8	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16657				Peptide-41	Synthetic construct		WWLWWRWWL	8	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16659				Peptide-43	Synthetic construct		WWLWWLWWR	8	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16662				Peptide-46	Synthetic construct		WWLWWLRW	8	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16979				Undefined	Synthetic construct		IYWNVSGW	8	19099395	Antiviral		Experimentally validated
+CAMPSQ17550		P80280		 Dermaseptin C14-S4(8–15)	Synthetic construct		KKVLKAAA	8	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17546		P80280		 Dermaseptin S4(8–15)	Synthetic construct		KKVLKAAA	8	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17547		P80280		 Dermaseptin C12-S4(8–15)	Synthetic construct		KKVLKAAA	8	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18047				IK8 “D isoform”, D-IK8	Synthetic construct		irikirik	8	25551573,27405275,24211081	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ18049				WR8	Synthetic construct		WWRRWWRR	8	27046192	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18050				WK8	Synthetic construct		WWKKWWKK	8	27046192	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ19449				Undefined	Synthetic construct		KHQGLPQE	8	21296933	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19450				Undefined	Synthetic construct		VLNENLLA	8	21296933	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19445				Caseicin B	Synthetic construct		VLNENLLR	8	21296933, 22177226, 22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19389		P02788		LF11 [Q2,4Del,N6Del,R8W,K9R,V10W]	Synthetic construct		FWRIWRWR	8	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19390		P02788		LF11 [Q2,4Del,N6W,I7Del,K9I,V10W]	Synthetic construct		FWRWRIWR	8	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19392		P02788		LF11 [Q2I,Q4Del,N6W,I7Del,K9W,V10Del]	Synthetic construct		FIWRWRWR	8	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19386		P02788		LF11 [Q2Del,Q4R,N6W,K9Del,V10Del]	Synthetic construct		FWRRWIRR	8	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19317		P02788		LF11 [Q2,4;N6Del]	Synthetic construct		FWRIRKVR	8	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19311		P02788,		LF11 [Q2,4Del,N6R,I7F,R8W,K9R,V10Del]	Synthetic construct		FWRRFWRR	8	20956602, 26149536, 31683553	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19308		P02788,		LF11 [Q2,4Del,N6Del,K9I,V10R]	Synthetic construct		FWRIRIRR	8	21515687, 20956602, 26149536	Antibacterial	Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19864		P33046		Indolicidin [R13A]	Synthetic construct		ILPWKWPWWPWRA	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19865		P33046		Indolicidin [W4V,W6V,W8V,W9V,W11V]	Synthetic construct		ILPVKVPVVPVRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19866		P33046		Indolicidin [W4I,W6I,W8I,W9I,W11I]	Synthetic construct		ILPIKIPIIPIRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19867		P33046		Indolicidin [W4S,W6S,W8S,W9S,W11S]	Synthetic construct		ILPSKSPSSPSRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19868		P33046		Indolicidin [W4H,W6H,W8H,W9H,W11H]	Synthetic construct		ILPHKHPHHPHRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19869		P33046		Indolicidin [W4K,W6K,W8K,W9K,W11K]	Synthetic construct		ILPKKKPKKPKRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19870		P33046		Indolicidin [W4E,W6E,W8E,W9E,W11E]	Synthetic construct		ILPEKEPEEPERR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19871		P33046		Indolicidin [K5R]	Synthetic construct		ILPWRWPWWPWRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19872		P33046		Indolicidin [K5Orn]	Synthetic construct		ILPWXWPWWPWRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19873		P33046		Indolicidin [R12Cit,R13Cit]	Synthetic construct		ILPWKWPWWPWXX	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19874		P33046		Indolicidin [P3G,P7G,P10G]	Synthetic construct		ILGWKWGWWGWRR	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19875		P33046		Indolicidin [K5D,R12D,R13D]	Synthetic construct		ILPWDWPWWPWDD	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19876		P33046		Indolicidin [K5E,R12E,R13E]	Synthetic construct		ILPWEWPWWPWEE	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19877				Indolicidin [W4F,W6F,W8F,W9F,W11F] retro-D	Synthetic construct		RRFPFFPFKFPLI	13	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19932		C4NYD0		Cg-Prp (22-36)[P12,R13Del], Cg-stPrp	Synthetic construct		GPIRRPKPRPRPE	13	22327168	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19933		C4NYD0		Cg-Prp (22-36)[P12,R13Del][K7E], Cg-stPrp K/E	Synthetic construct		GPIRRPEPRPRPE	13	22327168	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19944				NK13	Synthetic construct		KISKKIMRTFLRR	13	17389605	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20006		Q8MMJ7		IsCT [I9K]	Synthetic construct		ILGKIWEGKKSLF	13	25773522	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20007		Q8MMJ7		IsCT [E7K,I9K]	Synthetic construct		ILGKIWKGKKSLF	13	25773522	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20016		P69136,P69135	2LM8,	D Tachyplesin [C3,7,12,16Del]	Synthetic construct		KWFRVYRGIYRRR	13	16700563, 28641565	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20045				PTP5	Synthetic construct		FLKLLKKLAAKFL	13	14499271	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20046				PTP6	Synthetic construct		FLKLLKKLAAKLF	13	14499271	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20047				PTP8	Synthetic construct		FLKLLAGLLKNFA	13	14499271	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20048		P80399,		Gaegurin-5 (1-13)[K7H,V8A,A9L,V12L], PTP-7a	Synthetic construct		FLGALFHALSKLL	13	19464332, 22526264	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20049		P80399,		Gaegurin-5 (1-13)[V8A,A9L,K11H,V12L], PTP-7b	Synthetic construct		FLGALFKALSHLL	13	19464332, 22526264	Antibacterial	Gram+,Gram-	Experimentally Validated

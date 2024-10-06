@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19260		P81941		Pleurocidin (8-20) [A9L,A10K,K14L,A19L,A20K]	Synthetic construct		KLKHVGLHVGKLK	13	23603258	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19242		P24302,		Dermaseptin-S1 (1-13)	Synthetic construct		ALWKTMLKKLGTM	13	18676150, 20718719	Antibacterial, Antiviral, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ19208		P56029		HP(4-16)	Synthetic construct		KVFKRLEKLFSKI	13	21838696, 17961502	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19209		P56029		HP(4-16) [V2W]	Synthetic construct		KWFKRLEKLFSKI	13	21838696	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19174		P06833,		Caltrin / Calcium transport inhibitor / YY-2 / Seminalplasmin / SPLN [28-40]	Synthetic construct		PKLLETFLSKWIG	13	9009216, 1362637	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19173		P06833		Caltrin / Calcium transport inhibitor / YY-2 / Seminalplasmin / SPLN  [14-26]	Synthetic construct		SLSRYAKLANRLA	13	9009216	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19157		P51524,		Tritrpticin [P9A][R2,3,12,13K]	Synthetic construct		VKKFPWWWAFLKK	13	29671805	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19156		P51524,		Tritrpticin [P5A][R2,3,12,13K]	Synthetic construct		VKKFAWWWPFLKK	13	29671805	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19154		P33432,		Puroindoline-A (34-46)[K6,9,12R], PuroA [K6,9,12R]	Synthetic construct		FPVTWRWWRWWRG	13	29671805	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19155		P51524,		Tritrpticin [P5,9A][R2,3,12,13K]	Synthetic construct		VKKFAWWWAFLKK	13	29671805	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19151		P33046,		Indolicidin [R12K,R13K]	Synthetic construct		ILPWKWPWWPWKK	13	29671805, 11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19152		P33432,		Puroindoline-A (34-46), PuroA	Synthetic construct		FPVTWKWWKWWKG	13	29671805, 23562406	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19153		P51524,		Tritrpticin [R2,3,12,13Agb]	Synthetic construct		VXXFPWWWPFLXX	13	29671805, 21641334	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19142		P01501		Melittin (12-24)	Synthetic construct		GLPALISWIKRKR	13	15652642	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19083		P02788		Beta-Ala-Lactoferrin (1-11)-Beta-Ala	Synthetic construct		XGRRRRSVQWCAX	13	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19064		P33432		Puroindoline-A (34-46)[F1R,P2K,V3r,T4W,G13R]	Synthetic construct		RKRWWRWWKWWKR	13	33207639	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19063				Puroindoline-A (34-46)[F1R;P2R;V3R;T4R;K9,12R;G13R]	Synthetic construct		RRRRWRWWRWWRR	13	33207639	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19061		,P33432		Puroindoline-A (34-46)	Synthetic construct		FPVTWRWWKWWKG	13	33207639	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19052				Ovispirin-12	Synthetic construct		RRIIRKIIHIIKK	13	11600395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19051				Ovispirin-11	Synthetic construct		LRRIIRKIIHIIK	13	11600395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18987		P32194		Protegrin 1 / Neutrophil peptide 1 (6-18)	Synthetic construct		CYCRRRFCVCVGR	13	9009324	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18972		P80399		Gaegurin-5 (1-13)[G3K,V8A,A9L,V12L], PTP7k3	Synthetic construct		FLKALFKALSKLL	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18973		P80399		Gaegurin-5 (1-13)[G3K,V8A,A9L,S10K,V12L], PTP7k3k10	Synthetic construct		FLKALFKALKKLL	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18969		P80399		Gaegurin-5 (1-13)[A4V,A9L,V12L], PTP7v4v8	Synthetic construct		FLGVLFKVLSKLL	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18970		P80399		Gaegurin-5 (1-13)[F6A,V8A,A9L,V12L], PTP7a6	Synthetic construct		FLGALAKALSKLL	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated

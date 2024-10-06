@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19847		P33046,		Indolicidin (1-12)	Synthetic construct		ILPWKWPWWPWR	12	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19852		P33046		Indolicidin (2-13)	Synthetic construct		LPWKWPWWPWRR	12	11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19899				Halictine-2/11, HAL-2/11	Synthetic construct		GKWLSLLKHILK	12	30240951	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20093		P0C2F0		Ubiquicidin, UBI 18-29	Synthetic construct		KVAKQEKKKKKT	12	16814900	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20248		E0W2M5		Ph Defensin (67-78)	Synthetic construct		AAHCIALRKGYK	12	24393527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20418				Undefined	Synthetic construct		HQFRFRFRVRRK	12	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20432		,P22226		Bac2a [A3W, A11K], Sub7	Synthetic construct		RLWRIVVIRVKR	12	23478953	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20433				Undefined	Synthetic construct		RLRRIVVIRVFR	12	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20458				Gratisin [y6,12k], GR [y6,12k]	Synthetic construct		VXLfPkVXLfPk	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20459				Gratisin [y6,12G], GR [y6,12G]	Synthetic construct		VXLfPGVXLfPG	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20460				Gratisin [y6,12a], GR [y6,12a]	Synthetic construct		VXLfPaVXLfPa	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20461				Gratisin [y6,12D-ORN], GR [y6,12D-ORN]	Synthetic construct		VXLfPxVXLfPx	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20462				Gratisin [y6,12v], GR [y6,12v]	Synthetic construct		VXLfPvVXLfPv	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20463				Gratisin [y6,12l], GR [y6,12l]	Synthetic construct		VXLfPlVXLfPl	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20464				Gratisin [y6,12f], GR [y6,12f]	Synthetic construct		VXLfPfVXLfPf	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20465				Gratisin [y6,12q], GR [y6,12q]	Synthetic construct		VXLfPqVXLfPq	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20466				Gratisin [y6,12e], GR [y6,12e]	Synthetic construct		VXLfPeVXLfPe	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20467				Gratisin [y6,12t], GR [y6,12t]	Synthetic construct		VXLfPtVXLfPt	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20468				Gratisin [y6,12s], GR [y6,12s]	Synthetic construct		VXLfPsVXLfPs	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20469				Gratisin [y6,12h], GR [y6,12h]	Synthetic construct		VXLfPhVXLfPh	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20470				Gratisin [y6,12r], GR [y6,12r]	Synthetic construct		VXLfPrVXLfPr	12	19369073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20556		Q06B80,		Temporin-1CEb [L2K,P3K,L5V,L7K,G9K,G10K], L-K5V1	Synthetic construct		IKKIVSKIKKLL	12	25056289, 22348663	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20559		Q06B80		Temporin-1CEb [L2K;P3K;L5,11V;L7k;G9,10K]	Synthetic construct		IKKIVSkIKKVL	12	22348663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20777		C7ENH5		Tigerinin-1R [S4K]	Synthetic construct		RVCKAIPLPICH	12	24530698	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20778		C7ENH5		Tigerinin-1R [S4R]	Synthetic construct		RVCRAIPLPICH	12	24530698	Antibacterial	Gram+,Gram-	Experimentally Validated

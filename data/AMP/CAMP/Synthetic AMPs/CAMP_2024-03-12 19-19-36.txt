@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22141		P80511		Calcitermin [H11A]	Synthetic construct		VAIALKAAHYATHKE	15	31475275	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22142		P80511		Calcitermin [H13A]	Synthetic construct		VAIALKAAHYHTAKE	15	31475275	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22183				P3	Synthetic construct		GLARGLREASKALDR	15	22884922	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22198		B6S2X2		OH-CATH (3-17), Cathelicidin-OH (3-17)	Synthetic construct		FKKFFKKLKNSVKKR	15	20576537	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22233				BP199, BP134-AGPA	Synthetic construct		KKLFKKILKYLAGPA	15	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22234				BP214, BP134-KDEL	Synthetic construct		KKLFKKILKYLKDEL	15	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22294		P82358		Gomesin (4-18) [Q9p]	Synthetic construct		RLTYKpRTVTYTRGR	15	17183513	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22328				Vitellogenin-2, AVTG2LP	Synthetic construct		LQTKLKKLLGLESVF	15	25671663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22340				Undefined	Synthetic construct		YWKKWKKLRRIFMLV	15	25849257	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22341				Undefined	Synthetic construct		WWKRWKKLRRIFLML	15	25849257	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22342				Undefined	Synthetic construct		WWKRWKRIRRIFMMV	15	25849257	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22343				Undefined	Synthetic construct		WWKWWKRLRRLFLLV	15	25849257	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22344				Undefined	Synthetic construct		KWKLFKGIRAVLKVL	15	25849257	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22345				Undefined	Synthetic construct		GWRLIKKILRVFKGL	15	25849257	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22346				Undefined	Synthetic construct		KWKLFLGILAVLKVL	15	25849257	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22382		P49913		LL-37 (6-20)	Synthetic construct		FRKSKEKIGKEFKRI	15	26218806	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22383		P49913		LL-37 (6-20)[F1G,K5A,E6K,E11R,F12A], LLAP	Synthetic construct		GRKSAKKIGKRAKRI	15	26218806	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22640		E7EKD9		Odorranain-B1 (3-17)	Synthetic construct		LKGCWTKSIPPKPCF	15	17384140	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22669				ISGCock_Contig07_3736 - 1	Synthetic construct		NYISFFRKCKNSQST	15	27167617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22670				ISGCock_Contig10_4736-2	Synthetic construct		GTKRGKLCRISRLAL	15	27167617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22688		Q4G3V1,		MsDef1 (31-45)	Synthetic construct		GRCRDDFRCWCTKRC	15	21533249, 30252607	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22713		P51888		GRR10W5-OH	Synthetic construct		GRRPRPRPRPWWWWW	15	21298015	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22716		P51888		GRR10F5-NH2	Synthetic construct		GRRPRPRPRPFFFFF	15	21298015	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22900		Q19AZ8		Prothrombin (609-623)	Synthetic construct		RLKKWMQKVIDRFGG	15	27439393	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22913		P01507		Cecropin A (1-8) + Tritrpticin (7-13)	Synthetic construct		KWKLFKKIWWPFLRR	15	32098142	Antibacterial	Gram+,Gram-	Experimentally Validated

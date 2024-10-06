@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ96	122063469	P85059		Esculentin-1SEA	Rana sevosa	Animalia (Amphibia)	GLFSKFNKKKIKSGLIKIIKTAGKEAGLEALRTGIDVIGCKIKGEC	46	16386333	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ97	122063470	P85054		Esculentin-1SEB	Rana sevosa	Animalia (Amphibia)	GLFSKFNKKKIKSGLFKIIKTAGKEAGLEALRTGIDVIGCKIKGEC	46	16386333	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ236	20139322	P81929	1JKZ,2IIW,2IJ1,2IJT,2IJU,2IJV,2IJW,2IKL,2IKM,2IKN,2IKP,2IKR,2IKT,2IKV,2IKW,2IKX,2IKY,2IKZ,2IL0,2ILC,2ILD,2ILE,2ILF,2ILG,2ILH,2ILJ	Defense-related peptide 1 	Pisum sativum	Plantae	KTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHNWKCFCTQNC	46	10860545	Antifungal		Experimentally validated
+CAMPSQ276	2494919	P80930		Antimicrobial peptide eNAP-1	Equus caballus 	Animalia (Mammals)	DVQCGEGHFCHDXQTCCRASQGGXACCPYSQGVCCADQRHCCPVGF	46	1639474	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ459	416969	P32414		Esculentin-1	Rana esculenta	Animalia (Amphibia)	GIFSKLGRKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC	46	8508915	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ591	7993734	P82018		Bactenecin-5 	Capra hircus 	Animalia (Mammals)	RFRPPIRRPPIRPPFNPPFRPPVRPPFRPPFRPPFRPPIGPFPGRR	46	10417180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ605	729444	P40843		Esculentin-1A	Rana esculenta (edible frog )	Animalia (Amphibia)	GIFSKLAGKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC	46	8163497	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11451				PvD1	Proteus vulgaris	Monera	KTCENLADTYKGPCFTTGSCDDHCKEHLRSGRCRDDFRCWCTKNC	45	30666103	Antifungal		Experimentally validated
+CAMPSQ11812			 5LAH	Ueq 12-1	 Urticina eques	Animalia (Cnidaria)	CYPGQPGCGHCSRPNYCEGARCESGFHDCGSDHWCDASGDRCCCA	45	28468269	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11861				HBD3	Homo sapiens	Animalia (Mammals)	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	45	28423004	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12068				AvBD9	Gallus gallus	Animalia (Aves)	QEDADTLACRQSHGSCSFVACRAPSVDIGTCRGGKLKCCKWAPSS	45	30078596	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12155				Malabar grouper piscidin 1 (EmPis-1L)	Epinephelus malabaricus	Animalia	FIFHIIKGLFHAGKMIHGLVTRRRHGVEELQDLDQRAFEREKAFA	45	30032476	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13421				PsoThi1.713	Papaver somniferum	Plantae	KSCCKSTVGRNCYNACRLKFARQVCASTCSCKIVGGNRCPPGYPK	45	34260649	Antibacterial, Antifungal	Gram-ve	Experimentally validated
+CAMPSQ14115				HBD3 	Homo sapiens 	Animalia (Mammals)	GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	45	34112244	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14731				Hill-Cec 2	Hermetia illucens 	Animalia (Insects)	GWWKRVFKPVEKFGQRVRDAGVQGIAIAQQGANVLATARGGPPQQ	45	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14732				Hill-Cec 3	Hermetia illucens 	Animalia (Insects)	GWWKRVFKPVEKLGQRVRDAGIQGLEIAQQGANVLATARGGPPQQ	45	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14733				Hill-Cec 4	Hermetia illucens 	Animalia (Insects)	GWWKRVFKPVERLGQRVRDAGIQGLQIAQQGANVLATVRGGPPQQ	45	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14737				Hill-Cec 8	Hermetia illucens 	Animalia (Insects)	GWWKRVFKPVEKFGQRVRDAGIQGIEIAQQGANVLATARGGPPQQ	45	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14738				Hill-Cec 9	Hermetia illucens 	Animalia (Insects)	GWWKRVFKPVEKLGQRVRDAGIQGLEIAQQGANVLATVRGGPPQQ	45	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14740				Hill-Cec 11	Hermetia illucens 	Animalia (Insects)	RSLWKKIFKPVEKLGQRVRDAGIQGIAIAQQGANVLATVRGGPPQ	45	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ20216		Q29ZQ8		AB2, red bean antifungal peptide, Putative defensin 3.1	Adzuckia angularia	Plantae	ATCENLANTYRGPCFGGCDFHCKTKEHLLSGRCRDDFRCWCTRNC	45	11444860	Antiviral, Antifungal	Gram+	Experimentally Validated
+CAMPSQ23064		P29142		Natto peptide	Bacillus subtilis	Bacteria	SMATPHVAGAAALILSKHPTWTNAQVRDRLESTATYLGNSFYYGK	45	28641406	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23383		H6S4F4,A0A3B6CHF7,		WAMP-2	Triticum kiharae,Triticum aestivum		AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGKGSCQSQCRGCR	45	25154438, 33114433, 33291849	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23384		H6S4F9,		WAMP-3.1	Triticum aestivum		AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGEGSCQSQCRGCR	45	25154438, 33114433	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23385		H6S4F6,		WAMP-4	Aegilops speltoides		AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGNGSCQSQCRGCR	45	25154438, 33114433	Antifungal	Gram+,Gram-	Experimentally Validated

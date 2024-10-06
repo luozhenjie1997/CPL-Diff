@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10507				BPC916	Synthetic construct		KLKFKKKKLQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10508				BPC918	Synthetic construct		KFKKKLKKLQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10509				BPC920	Synthetic construct		KFKKKLLKKQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10510				BPC922	Synthetic construct		KFKLKKKKLQ	10	28672817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10562				LDP	Synthetic construct		KWRRKLKKLR	10	29329747	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10787				LFcinB(2-11)	Synthetic construct		FKCRRWQWRM	10	30959143	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10827				SB16	Synthetic construct		kykkalkkla	10	30830745	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10828				SB17	Synthetic construct		kykkalkkla	10	30830745	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10829				SB18	Synthetic construct		kykkalkkla	10	30830745	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11290				Lin-SB056-1	Synthetic construct		KWKIRVRLSA	10	30800115	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11300				Surfactant like protein	Synthetic construct		AAAAAAAAAR	10	30785266	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11401				NapFFKK-OH	Synthetic construct		NapFFKK-OH	10	30674824	Antifungal		Experimentally validated
+CAMPSQ11413				KP	Synthetic construct		AKVTMTCSAS	10	30654366	Antiviral		Experimentally validated
+CAMPSQ11414				K10S	Synthetic construct		KKVTMTCSAS	10	30654366	Antiviral		Experimentally validated
+CAMPSQ11415				L5A	Synthetic construct		NQVSATCSVK	10	30654366	Antiviral		Experimentally validated
+CAMPSQ11673				KSL	Synthetic construct		KKVVFKVKFK	10	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11674				KSL-W	Synthetic construct		KKVVFWVKFK	10	30508634, 26473368, 27910930	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11675				BP442	Synthetic construct		KKVVFWVKFk	10	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11676				BP443	Synthetic construct		KKVVFWVKfK	10	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11677				BP444	Synthetic construct		KKVVFWVkFK	10	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11678				BP445	Synthetic construct		KKVVFWvKFK	10	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11679				BP446	Synthetic construct		KKVVFwVKFK	10	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11680				BP447	Synthetic construct		KKVVfWVKFK	10	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11681				BP448	Synthetic construct		KKVvFWVKFK	10	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11682				BP449	Synthetic construct		KKvVFWVKFK	10	30508634	Antibacterial	Gram -ve	Experimentally validated

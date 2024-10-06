@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20834		P55284		PVEC [I9W,H14K,H16K]	Synthetic construct		LLIILRRRWRKQAKAKSK	18	21956793	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20835		P55284		PVEC [I9W,K11R,H14R,H16R,K18R]	Synthetic construct		LLIILRRRWRRQARARSR	18	21956793	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20836		P55284		PVEC [R6K,R7K,R8K,I9W,R10K,H14K,H16K]	Synthetic construct		LLIILKKKWKKQAKAKSK	18	21956793	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20838				Undefined	Synthetic construct		GIIKKIIKKIIKKIIKKI	18	21955251	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20845		P81865		Pardaxin P-1 (1-18)	Synthetic construct		GFFALIPKIISSPLFKTL	18	9010936	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20846		P81865		Pardaxin P-1 (1-18)[P7A]	Synthetic construct		GFFALIAKIISSPLFKTL	18	9010936	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20847		P81865		Pardaxin P-1 (1-18)[P7A,K8Q,K16Q]	Synthetic construct		GFFALIAQIISSPLFQTL	18	9010936	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20848		V5RF15		NS5A-derived peptide C5A [I6L]	Synthetic construct		SWLRDLWDWICEVLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20849		V5RF15		NS5A-derived peptide C5A [I10L]	Synthetic construct		SWLRDIWDWLCEVLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20850		V5RF15		NS5A-derived peptide C5A [V13L]	Synthetic construct		SWLRDIWDWICELLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20851		V5RF15		NS5A-derived peptide C5A [I6L,I10L]	Synthetic construct		SWLRDLWDWLCEVLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20852		V5RF15		NS5A-derived peptide C5A [I6L,V13L]	Synthetic construct		SWLRDLWDWICELLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20853		V5RF15		NS5A-derived peptide C5A [I10L,V13L]	Synthetic construct		SWLRDIWDWLCELLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20854		V5RF15		NS5A-derived peptide C5A [I6L,I10L,V13L]	Synthetic construct		SWLRDLWDWLCELLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20855		V5RF15		NS5A-derived peptide C5A [I10V]	Synthetic construct		SWLRDIWDWVCEVLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20856		V5RF15		NS5A-derived peptide C5A [I10A]	Synthetic construct		SWLRDIWDWACEVLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20857		V5RF15		NS5A-derived peptide C5A [I10G]	Synthetic construct		SWLRDIWDWGCEVLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20858		V5RF15		NS5A-derived peptide C5A [I10S]	Synthetic construct		SWLRDIWDWSCEVLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20859		V5RF15		NS5A-derived peptide C5A [I10E]	Synthetic construct		SWLRDIWDWECEVLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20860		V5RF15		NS5A-derived peptide C5A [I10K]	Synthetic construct		SWLRDIWDWKCEVLSDFK	18	21801309	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20867		C6F1K2,		Heat shock protein 70 (241-258)	Synthetic construct		DNRMVNHFVQEFKRKHKK	18	25581614, 23973864	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20967				D9-K9L8W-2	Synthetic construct		KLKKLLKKWLKLLKKLLK	18	20363271, 20665599	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20996				Novicidin	Synthetic construct		KNLRRIIRKGIHIIKKYF	18	20690652	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21029				KLW peptide	Synthetic construct		KWKKLLKKLLKLLKKLLK	18	14733952, 16142907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21030				Undefined	Synthetic construct		KWKKLLKKPLKLLKKLLK	18	14733952	Antibacterial	Gram+,Gram-	Experimentally Validated

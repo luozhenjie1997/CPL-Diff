@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18541		P49913		LL-37 (13-32)[I13G,G14I,F17W]	Synthetic construct		GIKEWKRIVQRIKDFLRNLV	20	18591279	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ18542		P49913		LL-37 (13-32)[I13G,G14I,E16Q]	Synthetic construct		GIKQFKRIVQRIKDFLRNLV	20	18591279	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ18543		P49913		LL-37 (13-32)[I13G,G14I,I20E,V21F]	Synthetic construct		GIKEFKREFQRIKDFLRNLV	20	18591279	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ19502		P37362		Pyrrhocoricin mod1	Synthetic construct		VDKGRYLEAPTPPRPIYNRN	20	12199701	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19607		O24006		MCD26	Synthetic construct		XWGRRXXGWGPGRRYXVRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19608		O24006		MCD30	Synthetic construct		XWGRRXXGWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19609		O24006		MCC02	Synthetic construct		RWGRRXXGWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19610		O24006		MCC03	Synthetic construct		XRGRRXXGWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19611		O24006		MCC04	Synthetic construct		XWRRRXXGWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19612		O24006		MCC05	Synthetic construct		XWGRRRXGWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19613		O24006		MCC06	Synthetic construct		XWGRRXRGWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19614		O24006		MCC07	Synthetic construct		XWGRRXXRWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19615		O24006		MCC08	Synthetic construct		XWGRRXXGRGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19616		O24006		MCC09	Synthetic construct		XWGRRXXGWRPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19617		O24006		MCC10	Synthetic construct		XWGRRXXGWGRGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19618		O24006		MCC11	Synthetic construct		XWGRRXXGWGPRRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19619		O24006		MCC12	Synthetic construct		XWGRRXXGWGPGRRRXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19620		O24006		MCC13	Synthetic construct		XWGRRXXGWGPGRRYRRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19621		O24006		MCC14	Synthetic construct		XWGRRXXGWGPGRRYXRRRX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19622		O24006		MCC15	Synthetic construct		XWGRRXXGWGPGRRYXRRWR	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19623		O24006		MCC16	Synthetic construct		WWGRRXXGWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19624		O24006		MCC17	Synthetic construct		XWWRRXXGWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19625		O24006		MCC18	Synthetic construct		XWGWRXXGWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19626		O24006		MCC19	Synthetic construct		XWGRWXXGWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19627		O24006		MCC21	Synthetic construct		XWGRRWXGWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8303				RA6R	Synthetic construct		RAAAAAAR	8	31157325	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ23514				ST4	Synthetic construct		lAfIkRk	7	30836162	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23556				D2D [k1del]	Synthetic construct		kxfkxkx	7	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23559				D2D [D-Nle8del]	Synthetic construct		kkxfkxk	7	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23595				Lugdunin [C1A]	Synthetic construct		AvWlVvV	7	31059155	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23596				Lugdunin [v2a]	Synthetic construct		CaWlVvV	7	31059155	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23597				Lugdunin [W3A]	Synthetic construct		CvAlVvV	7	31059155	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23598				Lugdunin [l4a]	Synthetic construct		CvWaVvV	7	31059155	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23599				Lugdunin [V5A]	Synthetic construct		CvWlAvV	7	31059155	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23600				Lugdunin [v6a]	Synthetic construct		CvWlVaV	7	31059155	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23601				Lugdunin [V7A]	Synthetic construct		CvWlVvA	7	31059155	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23602				Enantio-Lugdunin	Synthetic construct		CvWlVvV	7	31059155	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23603				Lugdunin [C1X]	Synthetic construct		XvWlVvV	7	31059155	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23604				Lugdunin [C1P]	Synthetic construct		PvWlVvV	7	31059155	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23605				Lugdunin [v6w]	Synthetic construct		CvWlVwV	7	31059155	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23606				Lugdunin [v2pra,  v6w]	Synthetic construct		cxWlVwV	7	31059155	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23720				Undefined	Synthetic construct		KIKRWWR	7	24946217	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23900				Surfactin-like peptide SLP1	Synthetic construct		EVlADlV	7	30973929	Antiviral		Experimentally Validated
+CAMPSQ24049		P83412		Alloferon (7-13)	Synthetic construct		GQHGVHG	7	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24056		P83412		Alloferon (1-7)	Synthetic construct		HGVSGHG	7	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24066		Q84HW0		L-PLNC8-alpha (9-15)	Synthetic construct		SWGYYLG	7	32107445	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24262		Q8IAS6		Rifin (326-332)[K323A], Peptide 35409-7	Synthetic construct		YIKLLKE	7	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24267		Q8IAS6		Rifin (313-319)[K323A], Peptide 35409-12	Synthetic construct		RYRRKKK	7	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24769		P07498		Kappa-casein (110-116)	Synthetic construct		RPNLHPS	7	33673498	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24776		A8R0Q4		Myosin heavy chain fast skeletal type 2 (16351641)	Synthetic construct		QAVEAQK	7	30011734	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

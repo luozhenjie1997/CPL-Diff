@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1094	66773818	P69847		Grammistin Pp3	Pogonoperca punctata	Animalia (Pisces)	NWRKILGQIASVGAGLLGSLLAGYE	25		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1097	66773810	P69835		Grammistin GsF	Grammistes sexlineatus	Animalia (Pisces)	LFGFLIKLIPSLFGALSNIGRNRNQ	25		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1140				Caerin 1.6	Litoria splendida 	Animalia (Amphibia)	GLFSVLGAVAKHVLPHVVPVIAEKL	25	10601876	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1179	115059	P29005		Bombinin-like peptide 4 	Bombina orientalis	Animalia (Amphibia)	GIGAAILSAGKSIIKGLANGLAEHF	25	1744108	Antibacterial	Gram-ve	Predicted
+CAMPSQ1213	50401867	P62569		Caerin-1.1	Litoria gilleni	Animalia (Amphibia)	GLLSVLGSVAKHVLPHVVPVIAEHL	25		Antibacterial, Antiviral		Predicted
+CAMPSQ1217	50401858	P62544		Caerin-1.4	Litoria gilleni	Animalia (Amphibia)	GLLSSLSSVAKHVLPHVVPVIAEHL	25		Antibacterial		Predicted
+CAMPSQ1219	50401859	P62545		Caerin-1.4	Litoria caerulea	Animalia (Amphibia)	GLLSSLSSVAKHVLPHVVPVIAEHL	25		Antibacterial		Predicted
+CAMPSQ1224	3023571	P56237		Caerin-2.5	Litoria gilleni	Animalia (Amphibia)	GLVASIGRALGGLLADVVKSKEQPA	25		Antibacterial		Predicted
+CAMPSQ1225	3023570	P56236		Caerin-2.4	Litoria caerulea	Animalia (Amphibia)	GLVSSIGKALGGLLADVVKTKEQPA	25		Antibacterial		Predicted
+CAMPSQ1226	3023545	P56230		Caerin-1.5	Litoria caerulea	Animalia (Amphibia)	GLLSVLGSVVKHVIPHVVPVIAEHL	25		Antibacterial		Predicted
+CAMPSQ1227	3023543	P56228		Caerin-1.3	Litoria caerulea	Animalia (Amphibia)	GLLSVLGSVAQHVLPHVVPVIAEHL	25		Antibacterial		Predicted
+CAMPSQ1228	3023542	P56227		Caerin-1.2	Litoria caerulea	Animalia (Amphibia)	GLLGVLGSVAKHVLPHVVPVIAEHL	25		Antibacterial		Predicted
+CAMPSQ1286	68052843	Q58T94		Maximin y type 2 precursor	Bombina maxima	Animalia (Amphibia)	GIGGALLSAGKAALKGLAKGFAEHF	25		Antibacterial, Antifungal		Predicted
+CAMPSQ1307	29123262	Q800R8		Caerin 1.12	Litoria caerulea	Animalia (Amphibia)	GLFGILGSVAKHVLPHVVPVIAEHS	25		Antibacterial		Predicted
+CAMPSQ1687	21542090	Q9DFD6		Hepcidin	Oncorhynchus mykiss	Animalia (Pisces)	XSHLSLCRWCCNCCHNKGXGFCCKF	25	11164886	Antibacterial		Predicted
+CAMPSQ1772	68052841	Q58T91		Maximin-y	Bombina maxima	Animalia (Amphibia)	GIGGALLSAGKSALKGLAKGFAEHF	25		Antibacterial, Antifungal		Predicted
+CAMPSQ1817	158562907	P85279		Syphaxin	Leptodactylus syphax	Animalia (Amphibia)	GVLDILKGAAKDLAGHVATKVINKI	25		Antibacterial		Predicted
+CAMPSQ2795			5U9S, 5U9Y, 5UA8	Ocellatin-F1 	Leptodactylus fallax	Animalia (Amphibia)	GVVDILKGAAKDIAGHLASKVMNKL	25	15544856, 28115922 	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2799				Ocellatin-P1 	Leptodactylus pentadactylus	Animalia (Amphibia)	GLLDTLKGAAKNVVGSLASKVMEKL	25	16236555	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2883				  NRC-11 	Hippoglossoides platessoides	Animalia (Pisces)	GWKSVFRKAKKVGKTVGGLALDHYL	25	Reference: Patel S, Stott I P, Bhakoo M, Elliott P (1988) Patenting computer-designed peptides. Journal of Computer-Aided Molecular Design, 12: 543–556.	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2884				  NRC-12 	Hippoglossoides platessoides	Animalia (Pisces)	GWKKWFNRAKKVGKTVGGLAVDHYL	25	Reference: Patel S, Stott I P, Bhakoo M, Elliott P (1988) Patenting computer-designed peptides. Journal of Computer-Aided Molecular Design, 12: 543–556.	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2905				  Ranatuerin-1Ga 	Rana grylio	Animalia (Amphibia)	SMISVLKNLGKVGLGFVACKVNKQC	25	10828493	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3222				  Laticeptin 	Leptodactylus laticeps	Animalia (Amphibia)	GVVDILKGAAKDLAGHLATKVMNKL	25	16712520	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3299				  Scolopin 2 	Scolopendra mutilans	Animalia (Centipedes)	GILKKFMLHRGTKVYKMRTLSKRSH	25	19716842	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3316	225579557	C1K8V9		Cathelicidin, EA-CATH1	Equus asinus	Animalia (Mammals)	KRRGSVTTRYQFLMIHLLRPKKLFA	25	20423460	Antibacterial	Gram -ve	Experimentally validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21073		Q8T0Z4		Trialysin (11-38)	Synthetic construct		KFGKIVGKVLKQLKKVSAVAKVAMKKG	27	16460023	Antibacterial, Antiparasitic	Gram-	Experimentally Validated
+CAMPSQ21074		Q8T0Z4		Trialysin (6-33)	Synthetic construct		GKVLDKFGKIVGKVLKQLKKVSAVAKV	27	16460023	Antibacterial, Antiparasitic	Gram-	Experimentally Validated
+CAMPSQ21076		Q8T0Z4		Trialysin (1-29)	Synthetic construct		FKIKPGKVLDKFGKIVGKVLKQLKKVS	27	16460023	Antibacterial, Antiparasitic	Gram-	Experimentally Validated
+CAMPSQ21313		P11006		(K)4 Magainin-2	Synthetic construct		KKKKGIGKFLHSAKKFGKAFVGEIMNS	27	1605597	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21411		Q58T55		Maximin 9 [C16G]	Synthetic construct		GIGRKFLGGVKTTFRGGVKDFASKHLY	27	16061233	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21467				Caps-WT	Synthetic construct		APKEWMEWDREINNYTSLIHSLIKQGI	27	11118065	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21469				Caps-MT	Synthetic construct		APKEWMAWAREIAAYAKLIAALIKQGI	27	11118065	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21775		P80280		D-Dermaseptin S4 [L7K]	Synthetic construct		alwmtlkkkvlkaaakalnavlvGana	27	24670666	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21776		P80280		D-Dermaseptin S4 [L7K,A14K]	Synthetic construct		alwmtlkkkvlkakakalnavlvGana	27	24670666	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21801		P03377		N27 -C16	Synthetic construct		RQLLSGIVQQQNNLLRAIEAQQHLLQK	27	20605950	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21806		P04579		Undefined	Synthetic construct		HQTLSGIDQEQNNLTRLIEAQIHELQK	27	20605950	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21807		P20871		Undefined	Synthetic construct		RQLLSGIDQEQNNLTRLIEAQIHELQK	27	20605950	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21812		P12724		Eosinophil cationic protein (6-17)Ahx(23-36) [C23,37S]	Synthetic construct		TRAQWFAIQHISXSTIAMRAINNYRWR	27	21696142	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22105		P81861		Pardaxin P-4 (7-33)	Synthetic construct		PKIISSPLFKTLLSAVGSALSSSGGQE	27	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22109		P81861		Pardaxin P-4 (1-27)	Synthetic construct		GFFALIPKIISSPLFKTLLSAVGSALS	27	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22237				BP193, G-BP134-AGPA-BP134	Synthetic construct		GKKLFKKILKYLAGPAKKLFKKILKYL	27	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22238				BP195, S-BP134-AGPA-BP134	Synthetic construct		SKKLFKKILKYLAGPAKKLFKKILKYL	27	24376887	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22537		Q9NDV3		Hemocyanin Ht (1102-1128)	Synthetic construct		YFTILGGSAEMPWAFDRLYKYDITKTL	27	25445903	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22702		A0A077D271		Lc-NK-lysin-1, Lc-NK-lysin (85-111)	Synthetic construct		GLLKSLCKKFVKGHLGELIEELTTSDD	27	27238427	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22816		F1CNA8		Piscidin-2 (1-27), emPis-2 M	Synthetic construct		FFFHIIKGLFHAGRMIHGLVNRRRHRH	27	27554395	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23376		P54229,		Cathelicidin-5, myeloid antimicrobial peptide BMAP-28 [S5K]	Synthetic construct		GGLRKLGRKILRAWKKYGPIIVPIIRI	27	30334982, 23905845	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23377		P54229,		Cathelicidin-5, myeloid antimicrobial peptide BMAP-28 [G1K][S5K]	Synthetic construct		KGLRKLGRKILRAWKKYGPIIVPIIRI	27	30334982, 23905845	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23378		P54229,		Cathelicidin-5, myeloid antimicrobial peptide BMAP-28 [Y17G]	Synthetic construct		GGLRSLGRKILRAWKKGGPIIVPIIRI	27	30334982, 23905845	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23379		P54229,		Cathelicidin-5, myeloid antimicrobial peptide BMAP-28 [G1K][S5K][Y17G]	Synthetic construct		KGLRKLGRKILRAWKKGGPIIVPIIRI	27	30334982, 23905845	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23614		P05484		Omega-conotoxin MVIIA-GS	Synthetic construct		CKGKGAKCSRLMYDCCTGSCRSGKCGS	27	28245769	Antibacterial	Gram+,Gram-	Experimentally Validated

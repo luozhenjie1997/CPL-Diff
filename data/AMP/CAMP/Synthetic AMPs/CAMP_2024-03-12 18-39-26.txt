@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9702				L5K5W10 	Synthetic construct		KKLLKKLLKWL	11	23344198	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9703				L5K5W11 	Synthetic construct		LKKLLKKLLKW	11	23344198	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9710				L3K6W2	Synthetic construct		LKKWLKKWLKK	11	20736034	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9711				L4K5W2 	Synthetic construct		LLKWLKKWLKK	11	20736034	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9712				L5K4W2 	Synthetic construct		LLKWLLKWLKK	11	20736034	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9713				L6K3W2 	Synthetic construct		LLKWLLKWLLK	11	20736034	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9786				TSG-8 (Ixosin-B peptide derivative)	Synthetic construct		WKSYVRRWRSR	11	23570790	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9787				TSG-8-1 (Ixosin-B peptide derivative)	Synthetic construct		WWSYVRRWRSR	11	23570790	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9859				3004	Synthetic construct		IQRWWKVWLKV	11	29382854	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ9888				YK12	Synthetic construct		NKVKEWWKWLK	11	29316742	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9943				R-BP100	Synthetic construct		RRLFRRILRYL	11	23246973	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9944				RW-BP100	Synthetic construct		RRLFRRILRWL	11	23246973	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9951				756	Synthetic construct		IKIVAPKKIKL	11	31302447	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9956				12530	Synthetic construct		KFKKVIWKSFL	11	31302447	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9960				536_2 	Synthetic construct		GFIVKRFKILV	11	31302447	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10028				Des-Lys12/Lys13-(p-BthTX-I)2	Synthetic construct		KKYRYHLKPFC	11	29113051	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10250				3.1	Synthetic construct		KKLLKWLLKLL	11	31481944	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10328				MAP-04	Synthetic construct		KSDVRRWRSRY	11	22578463	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10329				MAP-04-01 (Ixosin-B peptide derivative)	Synthetic construct		KSLVRRWRSRW	11	22578463	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10330				MAP-04-02 (Ixosin-B peptide derivative)	Synthetic construct		KSLRRVWRSWR	11	22578463	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10331				MAP-04-03 (Ixosin-B peptide derivative)	Synthetic construct		KWLRRVWRWWR	11	22578463	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10332				MAP-04-04 (Ixosin-B peptide derivative)	Synthetic construct		KRLRRVWRRWR	11	22578463	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10634				SP antagonist	Synthetic construct		RdKPQQwFwLM	11	12074933	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10635				SP	Synthetic construct		RPKPQQFFGLM	11	12074933	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10824				SB13	Synthetic construct		kalkklakkyk	11	30830745	Antibacterial	Gram -ve	Experimentally validated

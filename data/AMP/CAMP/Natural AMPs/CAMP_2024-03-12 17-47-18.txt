@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2585	357580420	B3A0L8		Antimicrobial protein 2 	Scylla serrata	Animalia (Crustaceans (Malacostraca))	SPGGA	5		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3219		P84182		  EP5-1 	Eisenia foetida 	Animalia (Annelida)	ACSAG	5	15253156	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8318				Peptide 1	Scolopendra subspinipes	Animalia (Arthropoda)	WRNWE	5	31141959	Antifungal		Experimentally validated
+CAMPSQ8319				Peptide 2	Scolopendra subspinipes	Animalia (Arthropoda)	WRNWE	5	31141959	Antifungal		Experimentally validated
+CAMPSQ8890				Pro-angiogenic venom peptide 	Daboia russelii	Animalia (Reptile)	RVVAP	5	31054289	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10454				F3-3-a	Allium sativum	Plantae	YNHNF	5	31241636	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11230				ALLRL pentapeptide	Escherichia coli O157:H7	Monera	ALLRL	5	31277504	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ12360				Poly5	Hepatitis B virus (HBV)	Virus	GRLVF	5	29752938	Antiviral 		Experimentally validated
+CAMPSQ12441				Gramicidin S (GS)	Aneurinibacillus migulanus	Monera (Bacteria)	fPVXL	5	29077406	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12466				Yamamarin	Antheraea yamamai	Animalia	DILRG	5	28893327	Antibacterial		Predicted
+CAMPSQ13611				AMP-Pp	Paenibacillus polymyxa	Monera (Bacteria)	GEXGA	5	34231758	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14159				Pep 1	Triticum aestivum	Plantae	VPLYR	5	34710691	Antifungal		Experimentally validated
+CAMPSQ14162				Pep 4	Triticum aestivum	Plantae	IILPR	5	34710691	Antifungal		Experimentally validated
+CAMPSQ15219				Pal-ano-5	Anoplius samariensis	Animalia (Insects)	GLLKR	5	29614317	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16228				APAP-3 OG	Achatina fulica	Animalia (Molluscs (Gastropoda))	VIIAH	5	35408688	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ22085				Cyclic tetrapeptide 2	Phomopsis sp. K38	Fungi	GFPY	4	25422539	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22304				Undefined	Phomopsis sp. K38	Fungi	LXlX	4	24571709	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22308				Cyclic peptide-1 Streptomyces sp. YIM67005	Streptomyces sp. YIM67005	Bacteria	YPFX	4	24304298	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ22946				Undefined	Ruegeria sp. 		GSPE	4	15270577, 25988520	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22948				Undefined	Ruegeria sp.	Bacteria	PEPE	4	15270577	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23118				Trichopeptide A	Stagonospora trichophoricola	Fungi	XaXI	4	28676717	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ23782				Undefined	Streptomyces sp. 447	Bacteria	LELE	4	27936924	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23783				Undefined	Streptomyces sp. 447	Bacteria	IEIE	4	27936924	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23784				Undefined	Streptomyces sp. 447	Bacteria	VEVE	4	27936924	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23791				Asperterrestide A	Aspergillus terreus SCSGAF0162	Fungi	Xaix	4	23806112	Antiviral	Gram+,Gram-	Experimentally Validated

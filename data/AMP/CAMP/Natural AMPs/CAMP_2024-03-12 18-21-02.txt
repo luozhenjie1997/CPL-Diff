@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ914	75232038	Q7M1F2		Defensin AMP1 , cysteine-rich antimicrobial protein 	Clitoria ternatea	Plantae	NLCERASLTWTGNCGNTGHCDTQCRNWESAKHGACHKRGNWKCFCYFNC	49	7628617	Antifungal		Experimentally validated
+CAMPSQ921	44887845	Q8H6Q0		Floral defensin-like protein 2	Petunia x hybrida	Plantae	GTCKAECPTWEGICINKAPCVKCCKAQPEKFTDGHCSKILRRCLCTKPC	49	12644678	Antifungal		Experimentally validated
+CAMPSQ2002	123780121	Q32ZI2		Beta-defensin 9	Rattus norvegicus	Animalia (Mammals)	ELKHLGLKTEFEQCQRIRGYCLNTYCRFPTSHVGSCYPEKRYCCKNIR	48		Antibacterial		Predicted
+CAMPSQ2010	123780093	Q32ZF3		Beta-defensin 43	Rattus norvegicus	Animalia (Mammals)	FLANQECFSEYRHCRMKCKANEYAIRYCADWTICCRVKKREAKKKIMW	48		Antibacterial		Predicted
+CAMPSQ2067	123780120	Q32ZI1		Beta-defensin10	Rattus norvegicus	Animalia (Mammals)	ELKHLGMTAETEWCRLFEGFCHDKNCPPPTSHVGSCHPEKRSCCKDRR	48		Antibacterial		Predicted
+CAMPSQ2096	84028872	Q30KL6		Beta-defensin111	Pan troglodytes	Animalia (Mammals)	KMKYPEYGSLDLRRECRMGNGRCKNQCHENEIRIAYCIRPGTHCCLQQ	48		Antibacterial		Predicted
+CAMPSQ2097	84028871	Q30KQ9		Beta-defensin111	Homo sapiens 	Animalia (Mammals)	KKKYPEYGSLDLRRECRIGNGQCKNQCHENEIRIAYCIRPGTHCCLQQ	48		Antibacterial		Predicted
+CAMPSQ3090				  Lactacin F 	Lactobacillus johnsonii VPI11088 (Laf+)	Monera	NRWGDTVLSAASGAGTGIKACKSFGPWGMAICGVGGAAIGGYFGYTHN	48	8157592	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3276				  Caenacin-4 	Caenorhabditis elegans	Animalia (Chromadorea)	QWGYGPYGGYGGGYPGMYGGYGMRPYGMYGGYGMGMYRPGLLGMLIGK	48	15048112	Antifungal		Predicted
+CAMPSQ3341				  Strongylocin 1 	Strongylocentrotus droebachiensis	Animalia (Echinoidea)	IFGSIYHRKCVVKNRCETVSGHKTCKDLTCCRAVIFRHERPEVCRPQT	48	18656496	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3362				  SpStrongylocin 1 	Strongylocentrotus purpuratus	Animalia (Echinoidea)	IFNSIYHRKCVVKNRCETVSGHKTCKDLTCCRAVIFRHERPEVCRPST	48	19852980	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3526				  HIMS-Defensin 	Haemaphysalis longicornis	Animalia (Arachnida)	DFGCARGMIFVCMRRCARMYPGSTGYCQGFRCMCDTMIPIRRPPFIMG	48	22033149	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ3604				  Cathelicidin-AL 	Amolops loloensis	Animalia (Amphibia)	RRSRRGRGGGRRGGSGGRGGRGGGGRSGAGSSIAGVGSRGGGGGRHYA	48	22009138	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ8090		D2WPD0		Beta-defensin	Paralichthys olivaceus 	Animalia (Pisces)	DQPKPDRPKLDCSTIQGVCKDSCLSTEFSIGALGCSAESSTVCCITKP	48	19900559	Antibacterial		Predicted
+CAMPSQ9319				SB Piscidin 4	Morone chrysops	Animalia (Pisces)	FFRHLFRGAKAIFRGARQGWRAHKVVSRYRNRDVPETDNNQEEPYNQR	48	27552222	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10403				HdDef-2	Haliotis diversicolor	Animalia (Molluscs (Gastropoda))	ASIQKRVTCDLLSLQIMGNSFGDSACAAHCIGLSHSGGHCSGGVCVCR	48	31078702	Antibacterial	Gram -ve	Predicted
+CAMPSQ11156				Homotarsinin (Htr)	Phyllomedusa tarsius	Animalia	NLVSDIIGSKKHMEKLISIIKKCRNLVSDIIGSKKHMEKLISIIKKCR	48	28102305	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11212				Paralithocin 2	Paralithodes camtschaticus	Animalia	GRSPPQCQYTNCAAVLCPAVYCANAYTPPCGCCDICPPQKYGGGYRPR	48	29338238	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11222				NaD1	Nicotiana alata	Plantae	ARECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC	48	29773800	Antifungal		Experimentally validated
+CAMPSQ11862				HBD4	Homo Sapiens	Animalia (Mammals)	ELDRICGYGTARCRKKCRSQEYRIGRCPNTYACCLRKWDESLLNRTKP	48	28423004	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12444				DCD-1L	Homo sapiens	Animalia (Mammals)	SSLLEKGLDGAKKAVGGLGKLGKDAVEDLESVGKGAVHDVKDVKDSVL	48	29066724	Antibacterial		Predicted
+CAMPSQ13357				Gj-CATH2	Gekko japonicus	Animalia (Reptilia)	RRGIKKFIKKVKKVKKAIKEGIKKGIKKLLSGGGSNIAHGPGGRRHIA	48	34237581	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14110				CNC-4 (1-48)	Caenorhabditis elegans	Animalia (nematode)	QWGYGPYGGYGGGYPGMYGGYGMRPYGMYGGYGMGMYRPGLLGMLIGK	48	34184732	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15167				Scolopendin 1	Scolopendra subspinipes mutilans	Animalia (Centipedes)	MDSFQKIEKIGEGTYGVVYKAKDKVSGRLVALKKIRLENESEGVPSTA	48	25209888	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ21196		Q8GR39		Enterocin SE-K4	Enterococcus faecalis	Bacteria	ATYYGNGVYCNKQKCWVDWSRARSEIIDRGVKAYVNGFTKVLGGIGGR	48	11302155	Antibacterial	Gram+,Gram-	Experimentally Validated

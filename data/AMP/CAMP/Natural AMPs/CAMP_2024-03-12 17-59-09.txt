@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ230	20137310	P82390		Aurein-2.3	Litoria aurea	Animalia (Amphibia)	GLFDIVKKVVGAIGSL	16	10951191	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ232	20137313	P82393		Aurein-2.6	Litoria raniformis	Animalia (Amphibia)	GLFDIAKKVIGVIGSL	16	10951191	Antibacterial, Anticancer	Gram +ve	Experimentally validated
+CAMPSQ301	26391709	P83187		Beta-basrubin	Basella alba 	Plantae	KIMAKPSKFYEQLRGR	16	11688973	Antifungal, Antiviral		Experimentally validated
+CAMPSQ391	3913672	P81437		Formaecin-2	Myrmecia gulosa	Animalia (Insects)	GRPNPVNTKPTPYPRL	16	9497332	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ392	3913673	P81438		Formaecin-1	Myrmecia gulosa	Animalia (Insects)	GRPNPVNNKPTPHPRL	16	9497332	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ576	68053335	P69016		Aurein-2.1	Litoria raniformis	Animalia (Amphibia)	GLLDIVKKVVGAFGSL	16	10951191	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ577	68053336	P69017		Aurein-2.1	Litoria aurea (green and golden bell frog )	Animalia (Amphibia)	GLLDIVKKVVGAFGSL	16	10951191	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ578	68053337	P69018		Aurein-2.5	Litoria raniformis	Animalia (Amphibia)	GLFDIVKKVVGAFGSL	16	10951191	Antibacterial, Anticancer	Gram +ve	Experimentally validated
+CAMPSQ579	68053338	P69019		Aurein-2.5	Litoria aurea (green and golden bell frog)	Animalia (Amphibia)	GLFDIVKKVVGAFGSL	16	10951191	Antibacterial, Anticancer	Gram +ve	Experimentally validated
+CAMPSQ611	730587	P39084		Ranalexin 	Rana catesbeiana	Animalia (Amphibia)	LIKIVPAMICAVTKKC	16	8144672	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ627	7531070	P81835		Citropin-1.1 	Litoria citropa	Animalia (Amphibia)	GLFDVIKKVASVIGGL	16	10504394	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ628	7531073	P81840		Citropin-1.2 	Litoria citropa	Animalia (Amphibia)	GLFDIIKKVASVVGGL	16	10504394	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ629	7531076	P81846		Citropin-1.3	Litoria citropa	Animalia (Amphibia)	GLFDIIKKVASVIGGL	16	10504394	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ714		A6MBS3		Odorranain-U1 antimicrobial peptide	Odorrana grahami	Animalia (Amphibia)	GCSRWIIGIHGQICRD	16	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ837	197239640	B5LUQ3, B5LUQ8		Fallaxidin 3.1	Litoria fallax	Animalia (Amphibia)	GLLDLAKHVIGIASKL	16	18803332	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ859	1730504	P32195		Protegrin-2	Sus scrofa	Animalia (Mammals)	RGGRLCYCRRRFCICV	16	8335113	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1007				Temporin-1TGb	Rana tagoi 	Animalia (Amphibia)	AVDLAKIANKVLSSLF	16	16675060	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1232	1170962	P80411		Metalnikowin-3 	Palomena prasina	Animalia (Insects)	VDKPDYRPRPWPRPNM	16		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1233	1170961	P80410		Metalnikowin-2B 	Palomena prasina	Animalia (Insects)	VDKPDYRPRPWPRNMI	16		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1946	18202395	P82240		Salmocidin-3	Oncorhynchus mykiss	Animalia (Pisces)	XXPQQLGHVKAAXSDY	16		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2459	317411785	P0CI89		Antimicrobial peptide 364	Lychas mucronatus	Animalia (Arachnida)	FGLIPSMMGGLVSAFK	16	20663230	Antibacterial		Experimentally validated
+CAMPSQ2463	317411788	B9UIY3		Mucroporin	Lychas mucronatus	Animalia (Arachnida)	FGLIPSLIGGLVSAFK	16	18779362	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2475	391738011	B3EWI8		Putative antimicrobial protein 3	Cenchritis muricatus  	Animalia (Molluscs (Gastropoda))	ESILIVHQQQSRSSGS	16	22210491	Antibacterial		Experimentally validated
+CAMPSQ2579	294956525	C7B247		Imcroporin	Isometrus maculatus  	Animalia (Arachnida)	FSLLPSLIGGLVSAIK	16	19451300	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3253				  Alyteserin-2a 	Alytes obstetricans	Animalia (Amphibia)	ILGKLLSTAAGLLSNL	16	19463738	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

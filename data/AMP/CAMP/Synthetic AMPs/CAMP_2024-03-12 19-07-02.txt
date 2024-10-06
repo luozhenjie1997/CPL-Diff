@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18865		P56917		Temporin-A [L2A]	Synthetic construct		FAPLIGRVLSGIL	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18864		P56917		Temporin-A [F1A]	Synthetic construct		ALPLIGRVLSGIL	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18861		P56917		"Temporin-A like"	Synthetic construct		FLPIIASLLGKLL	13	12604562	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18862		P56917		"Temporin-A like"	Synthetic construct		FLPIIASLLSKLL	13	12604562	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18860		P56917		Temporin-A [F1W]	Synthetic construct		WLPLIGRVLSGIL	13	12604562	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18858			1QXQ	CP11CN	Synthetic construct		ILKKWPWWPWRRK	13	11473117	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18857		P33046		Indolicidin [P7K, W9Thr-GLC]	Synthetic construct		ILPWKWKWXPWRR	13	31485742	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18856		P33046	5ZVF	Indolicidin [P7K, W9T]	Synthetic construct		ILPWKWKWTPWRR	13	31485742	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18852		P33046		Indolicidin [P3,10A]	Synthetic construct		ILAWKWPWWAWRR	13	25935286	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18853		P33046		Indolicidin [P7,10A]	Synthetic construct		ILPWKWAWWAWRR	13	25935286	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18851		P33046		Indolicidin [P3,7A]	Synthetic construct		ILAWKWAWWPWRR	13	25935286	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18850		P33046,		Indolicidin [P10A]	Synthetic construct		ILPWKWPWWAWRR	13	25935286, 11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18849		P33046,		Indolicidin [P7A]	Synthetic construct		ILPWKWAWWPWRR	13	25935286, 11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18848		P33046,		Indolicidin [P3A]	Synthetic construct		ILAWKWPWWPWRR	13	25935286, 11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18840		P33046		Cathelicidin-4 / Indolicidin [W4,6,9L]	Synthetic construct		ILPLKLPLLPWRR	13	10924341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18838		P33046		Cathelicidin-4 / Indolicidin [W6,8,9,11L]	Synthetic construct		ILPWKLPLLPLRR	13	10924341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18839		P33046		Cathelicidin-4 / Indolicidin [W4,6,9,11L]	Synthetic construct		ILPLKLPWLPLRR	13	10924341	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18823				Undefined	Synthetic construct		FIRWRFRWWRWRR	13	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18822				Undefined	Synthetic construct		FIKWKFRWWKWRK	13	19171306, 23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18821				Undefined	Synthetic construct		FLPKKFRWWKYRK	13	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18740		P26664		HCV (1975-1987)	Synthetic construct		SWLRDIWDWICEV	13	18287023	Antiviral		Experimentally Validated
+CAMPSQ18736				KSL7	Synthetic construct		KKKVVFKVKFKKK	13	11587795	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ18708		P55897		Buforin-2 (9-21)	Synthetic construct		QFPVGRVHRLLRK	13	10890923	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18647		P0C2F0,P62860		Ubiquicidin, UBI 29-41	Synthetic construct		TGRAKRRMQYNRR	13	18566844, 16814900	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ18594		P51524,P51525,	2I1I	Tritrpticin [P9A] -AMD	Synthetic construct		VRRFPWWWAFLRR	13	24086578, 29671805	Antibacterial	Gram+,Gram-	Experimentally Validated

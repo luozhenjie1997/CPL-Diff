@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19349		P02788		LF11 [Q2Del,R8Y]	Synthetic construct		FWQRNIYKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19348		P02788		LF11 [Q2Del,R8F]	Synthetic construct		FWQRNIFKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19347		P02788		LF11 [Q2Del,I7Y]	Synthetic construct		FWQRNYRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19345		P02788		LF11 [Q2Del,I7V]	Synthetic construct		FWQRNWRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19346		P02788		LF11 [Q2Del,I7F]	Synthetic construct		FWQRNFRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19344		P02788		LF11 [Q2Del,W3F]	Synthetic construct		FFQRNIRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19343		P02788		LF11 [Q2Del,W3Y]	Synthetic construct		FYQRNIRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19341		P02788		LF11 [Q2Del,V10Y]	Synthetic construct		FWQRNIRKYR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19342		P02788		LF11 [Q2Del,V10F]	Synthetic construct		FWQRNIRKFR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19340		P02788		LF11 [Q2Del,V10L]	Synthetic construct		FWQRNIRKLR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19339		P02788		LF11 [Q2Del,V10I]	Synthetic construct		FWQRNIRKIR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19338		P02788		C-LF11 [F1Q2Del,V10C]	Synthetic construct		CWQRNIRKCR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19312		P02788		LF11 [Q2Del]	Synthetic construct		FWQRNIRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19310		P02788,		P-Lactoferricin (20-30)[Q21F;Q23;N25Del; K28I,V29R]	Synthetic construct		PFFWRIRIRR	10	21515687, 26149536	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19307		P02788,		Lactoferricin (20-30)[Q21Del; K28I,V29R]	Synthetic construct		FWQRNIRIRR	10	21515687, 20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19305		P02788,		Lactoferricin (20-30)[Q21Del; V29W]	Synthetic construct		FWQRNIRKWR	10	21515687, 20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19122		P81534,		HBD3 (36-450[K4R][C5,6S], Pep4	Synthetic construct		RGRRSSRRKK	10	27025629, 19594489	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19082		P24627		Lfcin B (20-28)-Beta-Ala	Synthetic construct		RRWQWRMKKX	10	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19079		P24627		Lfcin B (17-26)[C3A;R4,5L]	Synthetic construct		FKALLWQWRM	10	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19078		P24627		Lfcin B (17-26)[C3A,R5L]	Synthetic construct		FKARLWQWRM	10	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19077		P24627		Lfcin B (17-26)[C3Beta-Ala]	Synthetic construct		FKXRRWQWRM	10	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19076		P24627		Lfcin B (17-26)[C3A]	Synthetic construct		FKARRWQWRM	10	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19073		P24627		Beta-Ala-LfcinB (2125)Pal	Synthetic construct		XRWQWRWQWR	10	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19056				Ovispirin-16	Synthetic construct		RIIRKIIHII	10	11600395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19004		P32194		PR-Protegrin 1 (8-13)-RP	Synthetic construct		PRCRRRFCRP	10	24952979	Antibacterial	Gram+,Gram-	Experimentally Validated

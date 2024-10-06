@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19418		P49913		KR-12-a2 (2-11)	Synthetic construct		RIVQRIKKWL	10	33398076	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19393		P02788		LF11 [Q2Del,N6R,K9I,V10R]	Synthetic construct		FWQRRIRIRR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19380		P02788		LF11 [F1R,Q2Del,K9I,V10R]	Synthetic construct		RWQRNIRIRR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19381		P02788		LF11 [Q2Del,K9F]	Synthetic construct		FWQRNIRFVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19377		P02788		LF11 [Q2,4Del,K9I,V10W]-R	Synthetic construct		FWRNIRIWRR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19376		P02788		LF11 [Q2Del,I7L,K9L,V10R]	Synthetic construct		FWQRNLRLRR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19374		P02788		LF11 [Q2Del,Q4G,K9I,V10R]	Synthetic construct		FWGRNIRIRR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19372		P02788		LF11 [Q2Del,I7W,K9F,V10R]	Synthetic construct		FWQRNWRFRR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19371		P02788		LF11 [Q2Del,I7W,K9W,V10R]	Synthetic construct		FWQRNWRWRR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19370		P02788		LF11 [Q2Del,K9F,V10R]	Synthetic construct		FWQRNIRFRR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19369		P02788		LF11 [Q2Del,K9W,V10R]	Synthetic construct		FWQRNIRWRR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19368		P02788		LF11 [Q2Del,I7W,K9I,V10R]	Synthetic construct		FWQRNWRIRR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19366		P02788		LF11 [F1I,Q2Del,K9I,V10R]	Synthetic construct		IWQRNIRIRR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19365		P02788		LF11 [F1L,Q2Del,K9I,V10R]	Synthetic construct		LWQRNIRIRR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19364		P02788		LF11 [Q2Del,R11S]	Synthetic construct		FWQRNIRKVS	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19363		P02788		LF11 [Q2Del,K9S]	Synthetic construct		FWQRNIRSVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19361		P02788		LF11 [Q2Del,R5S]	Synthetic construct		FWQSNIRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19362		P02788		LF11 [Q2Del,R8S]	Synthetic construct		FWQRNISKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19360		P02788		LF11 [Q2Del,N6G]	Synthetic construct		FWQRGIRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19359		P02788		LF11 [Q2Del,N6P]	Synthetic construct		FWQRPIRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19357		P02788		LF11 [Q2Del,Q4V]	Synthetic construct		FWVRNIRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19358		P02788		LF11 [Q2Del,Q4P]	Synthetic construct		FWPRNIRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19355		P02788		LF11 [Q2Del,Q4I]	Synthetic construct		FWIRNIRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19356		P02788		LF11 [Q2Del,Q4L]	Synthetic construct		FWLRNIRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19354		P02788		LF11 [Q2Del,Q4A]	Synthetic construct		FWARNIRKVR	10	20956602	Antibacterial	Gram-	Experimentally Validated

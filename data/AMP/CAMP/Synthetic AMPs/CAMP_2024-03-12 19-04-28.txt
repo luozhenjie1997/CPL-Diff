@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20901				SP1-18	Synthetic construct		RKKRKKLLKRLL	12	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20902				SP1-19	Synthetic construct		RKKRKKLIKRLI	12	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20903				SP1-20	Synthetic construct		RKKRKKLLKRLI	12	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20904				SP1-21	Synthetic construct		RKKKKKIIKKLI	12	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20905				SP1-22	Synthetic construct		KKKKKKIIKKII	12	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20906				SP10-1	Synthetic construct		LRFLKKILKKLF	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20907				SP10-2	Synthetic construct		LRFLKKALKKLF	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20908				SP10-3	Synthetic construct		LRFAKKALKKLF	12	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20909				SP10-4	Synthetic construct		LRFIKKILKKLI	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20910				SP10-5	Synthetic construct		LRIIKKILKKLI	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20911				SP10-6	Synthetic construct		LRIIRRILRRLI	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20912				SP10-7	Synthetic construct		LRILRRLLRRLF	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20913				SP10-8	Synthetic construct		LRFLRRILRRLL	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20914				SP10-9	Synthetic construct		LRFARRALRRLF	12	23951222	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20915				SP10-10	Synthetic construct		LRKLKKILKKLF	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20916				SP10-11	Synthetic construct		LRKAKKIAKKLF	12	23951222, 23901070	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20960				C8-K5L7	Synthetic construct		KKllKLLlKlLK	12	20058937	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20961				C8-K7L5	Synthetic construct		KKllKKLkKlLK	12	20058937	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20962				C8-K9L3	Synthetic construct		KKklKKLkKkLK	12	20058937	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21124				Undefined	Synthetic construct		KWKKKKKKPKFL	12	12573247	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21146				C12- SC4	Synthetic construct		KLFKRHLKWKII	12	15149180	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21187		P19661		Cathelicidin-3 (13-24), Bactenecin-7 (13-24)	Synthetic construct		PRPRPLPFPRPG	12	12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21245				Undefined	Synthetic construct		KKVIIEYVKIEA	12	24254748	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21297				Undefined	Synthetic construct		KWllLLKlLlLK	12	10606532	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21298				Undefined	Synthetic construct		KLllLWKlLlLK	12	10606532	Antibacterial	Gram+,Gram-	Experimentally Validated

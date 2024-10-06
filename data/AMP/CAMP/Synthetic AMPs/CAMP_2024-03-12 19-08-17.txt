@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1171				E14LKK / H14LKK	Synthetic construct		LKLLKKLLKLLKKL	14	7726486	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1174				E14KKL	Synthetic construct		LKKLLKKLKKLLKK	14	7726486	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2774				  The K4 peptide 	Synthetic construct		KKKKPLFGLFFGLF	14	19573572	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8218				RN7-IN7	Synthetic construct		FLGGLIKPWWPWRR	14	26046345	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8238				Mastoparan analogue 3	Synthetic construct		iNLKALAALAKKIL	14	26114809	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8239				Mastoparan analogue 4	Synthetic construct		InLKALAALAKKIL	14	26114809	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8242				Mastoparan analogue 8	Synthetic construct		inlkalaalakkil	14	26114810	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8243				Mastoparan analogue 9, 11, 12	Synthetic construct		INLKALAALAKKIL	14	26114811	Antibacterial		Experimentally validated
+CAMPSQ8264				ARs-N-B 	Synthetic construct		RWCVYAYVRV-NH2	14	31234579	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8279				2IH2	Synthetic construct		IHHIHHHIHHIHHH	14	31199117	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8283				3IH2	Synthetic construct		IHHIHHIIHHIHHI	14	31199117	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8577				VAMP 059	Synthetic construct		INWKKWWQVFYTVV	14	28522994	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8634				PDD-A	Synthetic construct		INWKKIFEKVKNLV	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8635				PDD-A-1 (PDD-A analog)	Synthetic construct		INWKKIFQKVKNLV	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8636				PDD-A-2 (PDD-A analog)	Synthetic construct		INWKKIFEKVKDLV	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8637				PDD-A-3 (PDD-A analog)	Synthetic construct		IDWKKIFEKVKNLV	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8638				PDD-A-4 (PDD-A analog)	Synthetic construct		IDWKKIFEKVKDLV	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8639				PDD-A-5 (PDD-A analog)	Synthetic construct		INWSKIFEKVKNLV	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8640				PDD-A-6 (PDD-A analog)	Synthetic construct		INWSSIFEKVKNLV	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8641				PDD-A-7 (PDD-A analog)	Synthetic construct		INWSSIFESVKNLV	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8642				PDD-A-9 (PDD-A analog)	Synthetic construct		INWKKIFEKVSNLV	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8643				PDD-A-10 (PDD-A analog)	Synthetic construct		INWKKIFESVKNLV	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8644				PDD-A-11 (PDD-A analog)	Synthetic construct		INWKSIFEKVKNLV	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8645				PDD-A-12 (PDD-A analog)	Synthetic construct		NIWKKIFEKVKNLV	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8646				PDD-B	Synthetic construct		INWLKLGKKILGAL	14	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

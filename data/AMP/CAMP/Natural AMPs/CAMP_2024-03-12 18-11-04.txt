@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3683				  CPF-SE2 	Silurana epitropicalis	Animalia (Amphibia)	GFLGPLLKLGLKGAAKLLPQLLPSRQQ	27	22800690	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3944		P83914		Dermaseptin-like peptide 	Schistosoma mansoni 	Animalia	DLWNSIKDMAAAAGRAALNAVTGMVNQ	27	16539015	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ5709	334350886	E0WX65		Lantibiotic nukacin	Staphylococcus simulans	Monera	KKKSGVIPTVSHDCHMNSFQFVFTCCS	27	20627619	Antibacterial		Predicted (Based on signature)
+CAMPSQ7557		C0HJF7		Trypsin inhibitor 1 (JcTI-I)	Jatropha curcas 	Plantae	VRDICKKEAERQDLSSCENYITQRRGY	27	24523715	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8429				ModoCath4	Monodelphis domestica	Animalia (Mammals)	SKTKRRSLLKRLGDGIRGFWNGFRGRK	27	28949902	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8430				ModoCath5	Monodelphis domestica	Animalia (Mammals)	RTFGNLIHQKYRKLLEAYRKLRDIFSG	27	28949902	Antibacterial 		Predicted
+CAMPSQ9907				Con10	O. cayaporum	Plantae	FWSFLVKAASKILPSLIGGGDDNKSSS	27	27917162	Antibacterial, Antibiofilm, Antifungal		Experimentally validated
+CAMPSQ10378				Dermaseptin DRP-SP3	Agalychnis spurrelli	Animalia	SLWSSIKDMAAAAGRAALNAVNGIVNP	27	31422479, 31671555	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10379				Dermaseptin DRP-SP4	Agalychnis spurrelli	Animalia	SLWSSIKDMAAAAGRAALNAVNGILNP	27	31422479, 31671555	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10380				Dermaseptin DRP-SP5	Agalychnis spurrelli	Animalia	SLRSSIKDMAAAAGRAALNAVNGIVNP	27	31422479, 31671555	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10489				BMAP-28	Bos taurus	Animalia	GGLRSLGRKILRAWKKYGPIIVPIIRI	27	28707817	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10515				BLP-7	Bombina orientalis	Animalia	GIGGALLSAGKSALKGLAKGLAEHFAN	27	28636781	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10528				Sph12-38	Scylla paramamosain	Animalia	KAKAKAVSRSARAGLQFPVGRIHRHLK	27	28600196	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10553				Magainin 2	 Xenopus laevis	Animalia (Insects)	GIGAVLKVLTTGLPALISWIKRKRQQX	27	31117348	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10576				VK13	Varanus komodoensis	Animalia	AAGGVKKPKKAAAAKKSPKKPKKPAAA	27	28164707	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10590				Lasiocepsin	Lasioglossum laticeps	Animalia	GLPRKILCAIAKKKGKCKGPLKLVCKC	27	22038181	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10591				Lasiocepsin-NH2	Lasioglossum laticeps	Animalia	GLPRKILCAIAKKKGKCKGPLKLVCKC	27	22038181	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10592				Las[C8-C27, C17-C25] 	Lasioglossum laticeps	Animalia	GLPRKILCAIAKKKGKCKGPLKLVCKC	27	22038181	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10593				Las[C8-C17, C25-C27] 	Lasioglossum laticeps	Animalia	GLPRKILCAIAKKKGKCKGPLKLVCKC	27	22038181	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10594				Las[C8-C25, Ala17,27] 	Lasioglossum laticeps	Animalia	GLPRKILCAIAKKKGKAKGPLKLVCKA	27	22038181	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10595				Las[C17-C27, Ala8,25] 	Lasioglossum laticeps	Animalia	GLPRKILAAIAKKKGKCKGPLKLVAKC	27	22038181	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10596				Las[Ala8,17,25,27] 	Lasioglossum laticeps	Animalia	GLPRKILAAIAKKKGKAKGPLKLVAKA	27	22038181	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10618				CPF-SP1 	Silurana paratropicalis 	Animalia	GFLGPLLKLGLKGVAKVLPHLIPSRQQ	27	21498136	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10619				CPF-SP2	Silurana paratropicalis 	Animalia	GFLGPLLKLGLKGAAKLLPQLLPSRQQ	27	21498136	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10858				Osm-pepA	Theobroma cacao	Plantae	RRLDRGGVWNLNVNPGTTGARVWARTK	27	26996966	Antifungal		Experimentally validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2573	385178646	G0LWV9		Kasstasin	Kassina maculata (spotted running frog)	Animalia (Amphibia)	IKELLPHLSGIIDSVANAIK	20	21624426	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2717		P82282		  Bombinin H1  	Bombina variegata	Animalia (Amphibia)	IIGPVLGMVGSALGGLLKKI	20	8223491	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2718		P82284		  Bombinin H4  	Bombina variegata	Animalia (Amphibia)	LIGPVLGLVGSALGGLLKKI	20	8223491	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2789				Human MUC7 20-Mer 	Homo sapiens	Animalia (Mammals)	LAHQKPFIRKSYKCLHKRCR	20	12543672	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2794				Lunatusin 	Phaseolus lunatus L	Plantae	KTCENLADTFRGPCFATSNC	20	16269344	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2796				Tu-AMP 2 	Tulipa gesneriana L.	Plantae	KSCCRNTTARNCYNVCRIPG	20	15056889	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2813				  human KR-20 	Homo sapiens	Animalia (Mammals)	KRIVQRIKDFLRNLVPRTES	20	14978112	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2906				  Ranalexin-1G 	Rana grylio	Animalia (Amphibia)	FLGGLMKIIPAAFCAVTKKC	20	10828493	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3106			1MQZ	  Mersacidin 	Bacillus sp. strain HIL Y-85 54728	Monera	CTFTLPGGGGVCTLTSECIC	20	1500347	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3244				  Kassinatuerin-2Md 	Kassina maculata	Animalia (Amphibia)	FIGAIAAALPHVINAIKNTF	20	19427345	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3245				  Brevinin-1CDYa 	Rana chensinensis	Animalia (Amphibia)	LLSLALAALPKLFCLIFKKC	20	19179051	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3248				  Bactrocerin-1 	Bactrocera dorsalis	Animalia (Insects)	VGKTWIKVIRGIGKSKIKWQ	20	19479741	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3269				  Chromofungin 	Homo sapiens	Animalia (Mammals)	RILSILRHQNLLKELQDLAL	20	12438152	Antifungal		Experimentally validated
+CAMPSQ3380		P0A6Y8	3QNJ	  Oncopeltus antibacte-rial peptide 4 	Oncopeltus fasciatus	Animalia (Insects)	VDKPPYLPRPPPPRRIYNNR	20	11812116	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3401				  Pelteobagrin 	Tachysurus fulvidraco	Animalia (Pisces)	GKLNLFLSRLEILKLFVGAL	20	21073979	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3462				  Maximin H39 	Bombina maxima	Animalia (Amphibia)	ILGPVLGLVGNALGGLIKKL	20	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3488				  Peptide 9 	Rapana venosa	Animalia (Molluscs (Gastropoda))	FPPPGESAVDMSFFYALSNP	20	21703315	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3491				  Piceain 1 	Picea sitchensis	Plantae	KSLRPRCWIKIKFRCKSLKF	20	21644248	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3576				  Odorranain-J-OA2 	Odorrana andersonii	Animalia (Amphibia)	GLFTLIKGAYKNDAPTVACN	20	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3581				  Andersonin-X1 	Odorrana andersonii	Animalia (Amphibia)	GLFSKFAGKGIVNFLIEGVE	20	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3588				  Odorranain-J-OA1 	Odorrana andersonii	Animalia (Amphibia)	GLFTLIKGAYKLDAPTVACN	20	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3614				  Ranacyclin-B-RL1 	Odorrana livida	Animalia (Amphibia)	AALRGCWTKSIPPKPCPGKR	20	21927839	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3617				  Ranacyclin-B-RN6 	Rana nigrovittata	Animalia (Amphibia)	SALVGCWTKSYPPNPCFGRG	20	21927839	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ3618				  Ranacyclin-B-LK1 	Limnonectes kuhlii	Animalia (Amphibia)	SALVGCWTKSWPPKPCFGRG	20	21927839	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ3808				  Bicarinalin 	Tetramorium bicarinatum	Animalia (Arthropoda)	KIKIPWGKVKDFLVGGMKAV	20	22960382, 29286296, 29751064	Antibacterial	Gram +ve	Experimentally validated

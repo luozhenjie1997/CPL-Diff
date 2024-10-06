@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ4	10863973	P81172	1M4E,1M4F,2KEF,3H0T	Hepcidin-20	Homo sapiens 	Animalia (Mammals)	ICIFCCGCCHRSKCGMCCKT	20	11113131	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ5	109287609	Q17UY9		Phylloseptin 12	Phyllomedusa azurea 	Animalia (Amphibia)	FLSLLPSIVSGAVSLAKKLG	20	17553595	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ45	115311723	Q1ELU3		Latarcin-3a 	Lachesana tarabaevi	Animalia (Arachnida)	SWKSMAKKLKEYMEKLKQRA	20	16735513	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ46	115311724	Q1ELU2		Latarcin-3b 	Lachesana tarabaevi	Animalia (Arachnida)	SWASMAKKLKEYMEKLKQRA	20	16735513	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ73	117149	P25230	1LYP	Antimicrobial protein CAP18 precursor 	Oryctolagus cuniculus	Animalia (Mammals)	GLRKRLRKFRNKIKEKLKKI	20	8313956	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ79	118432	P10891	1ICA	Phormicin precursor 	Protophormia terraenovae 	Animalia (Insects)	ACAAHCLLRGNRGGYCNGKG	20	2369900	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ143	143955273	P85102		Antifungal protein 	Cullen corylifolium 	Plantae	EWEPVQNGGSSYYMVPRIWA	20	16530884	Antifungal		Experimentally validated
+CAMPSQ154	150421624	P84572		Phylloseptin-7 	Phyllomedusa hypochondrialis	Animalia (Amphibia)	FLSLIPHAINAVSAIAKHFG	20	16963159	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ180	160380510	P0C5W6		Brevinin-1DYa	Rana dybowskii	Animalia (Amphibia)	FLSLALAALPKFLCLVFKKC	20	17688900	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ181	160380511	P0C5W7		Brevinin-1DYb	Rana dybowskii	Animalia (Amphibia)	FLSLALAALPKLFCLIFKKC	20	17688900	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ182	160380512	P0C5W8		Brevinin-1DYc	Rana dybowskii	Animalia (Amphibia)	FLPLLLAGLPKLLCLFFKKC	20	17688900	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ224	18202411	P82428		Ponericin-W6	Pachycondyla goeldii 	Animalia (Insects)	FIGTALGIASAIPAIVKLFK	20	11279030	Antibacterial		Experimentally validated
+CAMPSQ257	24637996	P83080, Q58T74, Q58T41		Maximin H1	Bombina maxima	Animalia (Amphibia)	ILGPVISTIGGVLGGLLKNL	20	11835991	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ260	24637998	P83082		Maximin H2	Bombina maxima	Animalia (Amphibia)	ILGPVLSMVGSALGGLIKKI	20	11835991	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ262	24637999	P83083, Q58T79 , Q58T77 , Q58T70 , Q58T68 , Q58T62 , Q58T52 , Q58T44 , Q58T42		Maximin H3 	Bombina maxima	Animalia (Amphibia)	ILGPVLGLVGNALGGLIKKI	20	11835991	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ279	2498604	Q26464		Pilosulin-2 	Myrmecia pilosula	Animalia (Insects)	GLLSKFGRLARKLARVIPKV	20	15639237	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ300	26391707	P83186		Alpha-basrubrin	Basella alba 	Plantae	GADFQECMKEHSQKQHQHQG	20	11688973	Antifungal, Antiviral		Experimentally validated
+CAMPSQ21242				P3-Hp-1891	Hypsiboas pulchellus	Animalia	RLGTALPALLKTLLAGLNG	19	24717080	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21359				Pxt-6	Xenopus tropicalis	Animalia	IRPVPFFPPVHAKKVFPLH	19	25312021	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21924		D2K8D2		Brevinin CTcu1	Clinotarsus curtipes	Animalia	LIAGLAANFLPKLFCKITK	19	24161537	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22770		A0A175CXT3		Phylloseptin Co, PS-Co	Phyllomedusa coelestis	Animalia	FLSMIPKIAGGIASLVKNL	19	27589802	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22910		A0A1N6QSV9,		Propeptin	Microbispora spp.		GYPWWDYRDLFGGHTFISP	19	28446822, 17827663	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23132		A0A2H4PN13		Phylloseptin-PC, PSN-PC	Phyllomedusa camba	Animalia	FLSLIPKIATGIAALAKHL	19	29112170	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24421				Ocellatin-3N	Leptodactylus nesiotus	Animalia	GIFDVLKNLAKGVITSLAS	19	33092132	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24595				Phylloseptin-PV1, PPV1	Phyllomedusa vaillantii	Animalia	FLSLIPKIAGGIAALVKNL	19	33193152	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

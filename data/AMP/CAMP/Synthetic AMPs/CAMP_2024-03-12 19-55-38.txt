@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14015				K16L	Synthetic construct		GIWDTIKSMGKVFAGLILQNL	21	19793185	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14016				L18K	Synthetic construct		GIWDTIKSMGKVFAGKIKQNL	21	19793185	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14017				D4K, L18K	Synthetic construct		GIWKTIKSMGKVFAGKIKQNL	21	19793185	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14019				D4K, K16A,L18K	Synthetic construct		GIWKTIKSMGKVFAGAIKQNL	21	19793185	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14020				D4K	Synthetic construct		GIWKTIKSMGKVFAGKILQNL	21	19793185	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14058				AMPR-11 K2	Synthetic construct		KKMMKSGGTFGTFMAIGMGIR	21	34361008	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14059				AMPR-11 K3	Synthetic construct		KKMMKKGGTFGTFMAIGMGIR	21	34361008	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14060				AMPR-11 K4	Synthetic construct		KKMMKKGGKFGTFMAIGMGIR	21	34361008	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14149				[TOAC2]Ctx(Ile21)-Ha	Synthetic construct		GOLDVAKKIGKAAFNVAKNFI	21	23585852	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14150				[TOAC13]Ctx(Ile21)-Ha	Synthetic construct		GWLDVAKKIGKAOFNVAKNFI	21	23585852	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14375				Peptide gamma 2	Synthetic construct		CLPKRRQIGKSSTRGRKSCKK	21	34818435	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14411				GWH1	Synthetic construct		GYNYAKKLANLAKKFANALWC	21	34834337	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14459				MBjAMP1	Synthetic construct		NLCASLRARHTIPQCKKFGRR	21	34733268	Antibacterial		Predicted
+CAMPSQ14460				Peptide 1-6	Synthetic construct		WKKWSKKWKHWIPQCKKFGKK	21	34733268	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14549				T-DPH1-K4	Synthetic construct		GLWKKIKNVAAAAGKAALGAL	21	34943741	Antibacterial, antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14550				T-DPH1-5K	Synthetic construct		GLWKKIKNVAKAAGKAALGAL	21	34943741	Antibacterial, antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14551				T-DPH1-6K	Synthetic construct		GLWKKIKNVAKAAGKAAKGAL	21	34943741	Antibacterial, antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14552				T-DPH1-6KW	Synthetic construct		WLWKKIKNVAKAAGKAAKGAL	21	34943741	Antibacterial, antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15062				CNs-MccJ25 Conjugates 	Synthetic construct		GGAGHVPEYFVGIGTPISFYG	21	35126369	Antibacterial		Experimentally validated
+CAMPSQ15107				U4	Synthetic construct		FINGRWDSQCHRFSNGAIACA	21	35259078	Antiviral		Experimentally validated
+CAMPSQ16439				MPA-(Ahx)3-BMAP-27(1-18)[B27(1-18)SH]	Synthetic construct		XXXGRFKRFRKKFKKLFKKLS	21	31644974	Antibacterial	Gram+ve ,Gram-ve	Experimentally validated
+CAMPSQ16727		P01508		Cecropin-B (1-21), ChoC	Synthetic construct		KWKVFKKIEKMGRNIRNGIVK	21	30297841,35085925	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16728		P01508		Cecropin-B (1-21)[G12I,G18K], ChoM	Synthetic construct		KWKVFKKIEKMIRNIRNKIVK	21	30297841	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ17138		A6XMY0		Arasin 1 (3-23)	Synthetic construct		WPSPGRPRPFPGRPKPIFRPR	21	23326415	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ17726		A0A3F2YLM5		Arenicin-3 [G1,12V;C3,20A;Y5N;Y17H], N6 [G1,12V]	Synthetic construct		VFAWNVCVYRNVVRVCHRRAN	21	33348848	Antibacterial	Gram+,Gram-	Experimentally validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9524				S9 	Synthetic construct		KWKSFIKKSTSKFLHSAKKF	20	22518150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9525				R9	Synthetic construct		KWKSFIKKRTSKFLHSAKKF	20	22518150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9526				L10	Synthetic construct		KWKSFIKKLLSKFLHSAKKF	20	22518150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9527				A10	Synthetic construct		KWKSFIKKLASKFLHSAKKF	20	22518150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9528				L11	Synthetic construct		KWKSFIKKLTLKFLHSKKKF	20	22518150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9529				D11 	Synthetic construct		KWKSFIKKLTDKFLHSAKKF	20	22518150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9530				K11 	Synthetic construct		KWKSFIKKLTKKFLHSAKKF	20	22518150	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9531				A13 	Synthetic construct		KWKSFIKKLTSKALHSAKKF	20	22518150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9532				K13	Synthetic construct		KWKSFIKKLTSKKLHSAKKF	20	22518150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9533				K17	Synthetic construct		KWKSFIKKLTSKFLHSKKKF	20	22518150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9534				D18 	Synthetic construct		KWKSFIKKLTSKFLHSADKF	20	22518150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9535				N18 	Synthetic construct		KWKSFIKKLTSKFLHSANKF	20	22518150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9536				N20	Synthetic construct		KWKSFIKKLTSKFLHSAKKN	20	22518150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9632				LR7 	Synthetic construct		RIKRFWPVVIRTVVAGYNLY	20	PMCID: PMC4131589	Antibacterial, Antifungal 	Gram -ve	Experimentally validated
+CAMPSQ9650				RL6 (homologue of Pc-CATH1)	Synthetic construct		PVVIRTVVAGYNLYRAIKKK	20	PMCID: PMC4131589	Antibacterial, Antifungal 	Gram +ve	Experimentally validated
+CAMPSQ9772				PpTG20	Synthetic construct		GLFRALLRLLRSLWRLLLRA	20	22819152	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9773				P7	Synthetic construct		GLRRALLRLLRSLRRLLLRA	20	22819152	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9852				CXCL9(74-93)	Synthetic construct		KKKQKNGKKHQKKKVLKVRK	20	26551597	Antiviral		Experimentally validated
+CAMPSQ9874				K 4 -Amurin-2	Synthetic construct		FLPKLLAGLPSFLCLVFKKC	20	29366784	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9875				K 11-Amurin-2	Synthetic construct		FLPLLLAGLPKFLCLVFKKC	20	29366784	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9925				ARs-C 	Synthetic construct		WCRRYRVLVRGVLVRYRRCW	20	31234579	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10181				PGAa	Synthetic construct		GILSKLGKALKKAAKHAAKA	20	9428709	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10214				Pyr_L7K/R14K	Synthetic construct		VDKGSYKPRPTPPKPIYNRN	20	31209863	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10215				Pyr_L7R/R14K	Synthetic construct		VDKGSYRPRPTPPKPIYNRN	20	31209863	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10305				G20R	Synthetic construct		GSKKPVPIIYCNRRTGKCQR	20	8577744	Antibacterial, Antifungal 	Gram +ve	Experimentally validated

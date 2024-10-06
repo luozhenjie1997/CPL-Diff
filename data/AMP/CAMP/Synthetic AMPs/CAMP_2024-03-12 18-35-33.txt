@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14023				Pac-521	Synthetic construct		KWIKWIKWI	9	16352849	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14024				Pac-529	Synthetic construct		KWIRWVRWI	9	16352849	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14025				Pac-527	Synthetic construct		KFRRFVRFI	9	16352849	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14026				Pac-528	Synthetic construct		KPRRPVRPI	9	16352849	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14040				OptP7	Synthetic construct		KRRVRWIIW	9	34201398	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14081				Feleucin-K65	Synthetic construct		XLKLLKKLL	9	34069651	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14083				Feleucin-K67	Synthetic construct		FXKLLKKLL	9	34069651	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14084				Feleucin-K68	Synthetic construct		FLKLXKKLL	9	34069651	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14085				Feleucin-K69	Synthetic construct		FLKLLKKXL	9	34069651	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14086				Feleucin-K70	Synthetic construct		FLKLLKKLX	9	34069651	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14087				Feleucin-K71	Synthetic construct		FLKLLXKLL	9	34069651	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14251				MCA4-3	Synthetic construct		CKKKGSPHC	9	34577539	Antibacterial		Experimentally validated
+CAMPSQ14252				MCA4-4	Synthetic construct		CRRRGSPHC	9	34577539	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14384				Pro9-3	Synthetic construct		RLWLAIWRR	9	34830401	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14385				Pro9-3D	Synthetic construct		rlwlaiwrr	9	34830401	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14386				R-Pro9-3	Synthetic construct		RRWIALWLR	9	34830401	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14387				R-Pro9-3D	Synthetic construct		rrwialwlr	9	34830401	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14393				Pep-CR1	Synthetic construct		LFNELMLWL	9	34835083	Antiviral		Experimentally validated
+CAMPSQ14394				Pep-CR2	Synthetic construct		NKLVYTGRL	9	34835083	Antiviral		Experimentally validated
+CAMPSQ14453				Peptide	Synthetic construct		OFFHHHHHH	9	34746103	Antibacterial, antiviral		Experimentally validated
+CAMPSQ14454				PC	Synthetic construct		OFFHHHHHH	9	34746103	Antibacterial, antiviral		Experimentally validated
+CAMPSQ14455				PCN	Synthetic construct		OFFHHHHHH	9	34746103	Antibacterial, antiviral		Experimentally validated
+CAMPSQ14481				OptP1	Synthetic construct		KIILRIRWR	9	34966279	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14482				OptP7	Synthetic construct		KRRVRWIIW	9	34966279	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15115				UGR1-?LFP	Synthetic construct		LDAPPSYSE	9	35257734	Antiviral		Experimentally validated

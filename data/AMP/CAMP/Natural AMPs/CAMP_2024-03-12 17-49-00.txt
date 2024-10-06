@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9	110278918	P0C1M1		Vespid chemotactic peptide 5e	Vespa magnifica 	Animalia (Insects)	FLPIIAKLLGGLL	13	16330062	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10	110278919	P0C1M2		Vespid chemotactic peptide 5f	Vespa magnifica 	Animalia (Insects)	FLPIPRPILLGLL	13	16330062	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11	110278920	P0C1M3		Vespid chemotactic peptide 5g	Vespa magnifica 	Animalia (Insects)	FLIIRRPIVLGLL	13	16330062	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16	110279046	P0C1M5		Mastoparan-like peptide 12b	Vespa magnifica 	Animalia (Insects)	INWKGIAAMKKLL	13	16330062	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15268				KR-12-a7	Homo sapiens 	Animalia (Mammals)	KRIRKRIKKWLR	12	24105706	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15269				KR-12-a8	Homo sapiens 	Animalia (Mammals)	KRIRKRIKKWKR	12	24105706	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15270				Myxinidin 1	Myxine glutinosa	Animalia	GIHHILKYGKPS	12	26450121	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15271				Myxinidin 2	Myxine glutinosa	Animalia	KIKWILKYWKWS	12	26450121	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15272				Myxinidin 3	Myxine glutinosa	Animalia	RIRWILRYWRWS	12	26450121	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ19682				Temporin-1RNa	Rana nigromaculata	Animalia	ILPIRSLIKKLL	12	23632907	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19683				Temporin-1RNb	Rana nigromaculata	Animalia	FLPLKKLRFGLL	12	23632907	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20555		B8QZV9,		Temporin-CDYb, Temporin-1CEb	Rana amurensis		ILPILSLIGGLL	12	25056289, 22348663	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20609				Temporin-PRe	Rana pretiosa	Animalia	FLPLAMALGKLL	12	23653106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20619				Tigerinin-M1	Xenopus muelleri	Animalia	WCPPMIPLCSRF	12	21664395	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20776		C7ENH5		Tigerinin-1R	Hoplobatrachus rugulosus	Animalia	RVCSAIPLPICH	12	24530698	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21893				Ohmyungsamycin B	Streptomyces sp.	Bacteria	VXVXXVXVXTVX	12	24266328	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21894				Ohmyungsamycin B	Streptomyces sp.	Bacteria	XVTXVXVXXVXV	12	24266328	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22871				Callyaerin B	Callyspongia aerizusa		IXIILPPLXPII	12	26213786, 20599387	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22872				Callyaerin C	Callyspongia aerizusa		HXLLPPVXPLFG	12	26213786, 20599387	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22909				Lysocin E	Lysobacter spp.		TrSGxLrEqwIT	12	28446822, 25485686	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23245				WAP-8294A2, Lotilibcin 1	Lysobacter sp.	Bacteria	SxSGxLxEnwxX	12	29019678	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23246				WAP-8294A2, Lotilibcin 2	Lysobacter sp.	Bacteria	SnSGxLxEnwxX	12	29019678	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23469		C0HL41		Tigerinin-1O	Hoplobatrachus occipitalis	Animalia	RICTPIPFPMCY	12	27560386	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23471		C0HL43		Tigerinin-3O	Hoplobatrachus occipitalis	Animalia	RICTAIPLPMCL	12	27560386	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24312				Granuliberin-SSa	Glandirana susurra	Animalia	FIFLPIFRRPVS	12	32751229	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

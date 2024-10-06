@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9026				Zp10 	Synthetic construct		GIKRGIKRGIKR	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9027				Zp11 	Synthetic construct		GIKRGIIKIIKR	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9028				Zp19 	Synthetic construct		GIRRGIIKIIKR	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9029				Zp20 	Synthetic construct		GIRRGIIRIIKR	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9030				Zp21 	Synthetic construct		GIRRGIRRIIKR	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9031				Zp22 	Synthetic construct		GIRRGIRRIKKR	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9032				Zp23 	Synthetic construct		AIIAGIIIKIKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9033				Zp24 	Synthetic construct		GAIAGIIIKIKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9034				Zp25 	Synthetic construct		GIAAGIIIKIKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9035				Zp26 	Synthetic construct		GIIAAIIIKIKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9036				Zp27 	Synthetic construct		GIIAGAIIKIKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9037				Zp28 	Synthetic construct		GIIAGIAIKIKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9038				Zp29 	Synthetic construct		GIIAGIIAKIKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9039				Zp30 	Synthetic construct		GIIAGIIIAIKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9040				Zp31 	Synthetic construct		GIIAGIIIKAKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9041				Zp32 	Synthetic construct		GIIAGIIIKIAK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9042				Zp33 	Synthetic construct		GIIAGIIIKIKA	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9043				Zp34 	Synthetic construct		GIIAGIGIKIKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9044				Zp35 	Synthetic construct		GIKAGIIIKIKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9045				Zp36 	Synthetic construct		GIIAKIGIKIKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9046				Zp38 	Synthetic construct		GIIAGIIiKIKK	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9047				Zp39 	Synthetic construct		GIIAGIIiKIKk	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9048				Zp40 	Synthetic construct		GIIAGIIIKIKk	12	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9234				G1 (Bac2A variant)	Synthetic construct		GLARIVVIRVAR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9235				G2 (Bac2A variant)	Synthetic construct		RGARIVVIRVAR	12	16041366	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated

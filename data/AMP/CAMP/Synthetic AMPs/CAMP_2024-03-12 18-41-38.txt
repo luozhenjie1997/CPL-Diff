@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19332		P02788		R-LF11 [Q2Del,V10Y]	Synthetic construct		RFWQRNIRKYR	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19329		P02788		LF11 [F1K,Q2Del]-R	Synthetic construct		KWQRNIRKVRR	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19330		P02788		LF11 [F1R,Q2Del]-R	Synthetic construct		RWQRNIRKVRR	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19327		P02788		LF11 [Q2Del,N6K,R11K]-K	Synthetic construct		FWQRKIRKVKK	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19326		P02788		LF11 [Q2Del,N6R]-R	Synthetic construct		FWQRRIRKVRR	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19318		P02788		LF11 [Q2Del]-R	Synthetic construct		FWQRNIRKVRR	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19319		P02788		LF11 [Q2Del;R11K]-K	Synthetic construct		FWQRNIRKVKK	11	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19309		P02788		P-Lactoferricin (20-30)[Q21,23;R24(3)R;N25Del;K28I,V29R], LF11-337	Synthetic construct		PFWRRRIRIRR	11	21515687	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19304		P02788,		C12LF11	Synthetic construct		FQWQRNIRKVR	11	21515687, 20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19224				Gaegurin 5 (1-11)[G3K][A4W][V8W][S10K]	Synthetic construct		FLKWLFKWAKK	11	22644847	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19137		Q29075,		NK11	Synthetic construct		KISKRILTGKK	11	21474443, 17389605	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19118		B6S2X0,		D-NA-CATH (1-11)	Synthetic construct		KRFKKFFKKLK	11	20399752, 25660753, 23532931	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19119		B6S2X0,		NA-CATH (16-26), ATRA-2	Synthetic construct		KRAKKFFKKPK	11	20399752, 27025629	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19055				Ovispirin-15	Synthetic construct		RIIRKIIHIIK	11	11600395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19054				Ovispirin-14	Synthetic construct		RRIIRKIIHII	11	11600395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18989		P32194		Protegrin 1 (5-15), PC72	Synthetic construct		LCYCRRRFCVC	11	9009324	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18988		P32194		Protegrin 1 / Neutrophil peptide 1 (6-16)	Synthetic construct		CYCRRRFCVCV	11	9009324	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18800				P11	Synthetic construct		QQRFEWEFEQQ	11	27226784	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18732				KSL3	Synthetic construct		KVVFKVKFKKK	11	11587795	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ18733				KSL2	Synthetic construct		KKKVVFKVKFK	11	11587795	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ18730				Undefined	Synthetic construct		KKVVFKVKFKK	11	11587795, 10390226, 25169965, 10632060	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18710		P55897		Buforin-2 (11-21)	Synthetic construct		PVGRVHRLLRK	11	10890923	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18615				Cyclo(1-4)-cILC-BP100	Synthetic construct		cILCKKILKYL	11	29750913	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19501		P37362		K-Pyrrhocoricin (1-10)	Synthetic construct		KVDKGSYLPRP	11	12199701	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19577		P81835		Citropin 1.1 (6-16)	Synthetic construct		IKKVASVIGGL	11	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8330				BF2-A-parasin (B-A-P)	Synthetic construct		TRSSRAGLQWPVGRVHRLLRKAKGRGKQGGKVRWKAKTRSS	41	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13343				Peptide 6 (NZL)	Synthetic construct		GFGCNGPWSEDDIQCHNHCKSIKGYKGGYCAKGGFVCKCY	40	34063982	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ13344				Peptide 7	Synthetic construct		GFGCNGPWSEDDLQCHNHCKSIKGYKGGYCARGGFVCKCY	40	34063982	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ13346				Peptide 9	Synthetic construct		GFGCNGPWQEDDLKCHNHCKSIKGYKGGYCASAGFVCKCY	40	34063982	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ13347				Peptide 10	Synthetic construct		GFGCNGPWTEDDIQCHNHCKSIKGYKGGYCARGGFVCKCY	40	34063982	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ13348				Peptide 11	Synthetic construct		GFGCNGPWTEDDLKCHNHCKSIKGYKGGYCASAGFVCKCY	40	34063982	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ13954				Defb14-1CV?(1-5)	Synthetic construct		LRKFFARIRGGRAAVLNALGKEEQIGRASNSGRKCARKKK	40	 20176896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13983				PpTH(3-41)	Synthetic construct		KSCCRNTWARNCYNVCRLPGTISREICAKKCDKIISGTTC	40	15494403	Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14355				Fp9	Synthetic construct		DISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE	40	34591335	Antiviral		Predicted
+CAMPSQ14358				Fp12	Synthetic construct		GVTQNVLYENQKQIANQFNKAISQIQESLTTTSTALGKLQ	40	34591335	Antiviral		Predicted
+CAMPSQ17706		P18428		LBP14-G4 S-N6CK, G6CK	Synthetic construct		RVQGRWKVRASFFKGGGGSVCVYRGFAWNCHRRANNGVRV	40	31974490	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17702		A0A3F2YLM5	6K4V	LBP14-G4 S-N6	Synthetic construct		RVQGRWKVRASFFKGGGGSGFAWNVCVYRNGVRVCHRRAN	40	31974490	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ19213		,P81534		Beta-defensin 103 (6-45), hBD-3	Synthetic construct		LQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	40	16008365	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19215		P81534		Beta-defensin 103 (6-45) [C11,13,18,28,35,36A]	Synthetic construct		LQKYYARVRGGRAAVLSALPKEEQIGKASTRGRKAARRKK	40	16008365	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19216		P81534		Beta-defensin 103 (6-45) [C11,13,18,28,35,36W]	Synthetic construct		LQKYYWRVRGGRWAVLSWLPKEEQIGKWSTRGRKWWRRKK	40	16008365	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19678		O62842		LLK-eCATH-3	Synthetic construct		KRFHSVGSLIQRLQQMIRDLSEATRHGIRKITRPKLLLAS	40	11181349	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20348		Q53I06,		Plectasin-derived peptide MP1106	Synthetic construct		GFGCNGPWSEKDMHCHNHCKSIKGYKGGYCAKGGFICKCY	40	25261129, 26921181	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20349		Q53I06,		Plectasin-derived peptide NZ2114 [N9Q,L13V,R14K], MP1102	Synthetic construct		GFGCNGPWQEDDVKCHNHCKSIKGYKGGYCAKGGFVCKCY	40	26921181, 25620367, 30863725	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21746		P01966		Hemoglobin subunit alpha (67-106)	Synthetic construct		TKAVEHLDDLPGALSELSDLHAHKLRVDPVNFKLLSHSLL	40	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22232		P17722		Royalisin (1-40) reduced	Synthetic construct		VTCDLLSFKGQVNDSACAANCLSLGKAGGHCEKGVCICRK	40	25784287	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24076				EtCec1-NH2	Synthetic construct		GFLKKIGKKLEGAVQRTRDATIQTIAVAQAAANVAATAKQ	40	32344933	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24077				EtCec2	Synthetic construct		GWLRDFGKRIERTGQNIRDATIQTIGIAQEAANVAATLKG	40	32344933	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24080				EtCec3-NH2	Synthetic construct		GFLKKVGKKLEGASDLTRDATIQTIAVAQAAANVAATAKQ	40	32344933	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24083				EtDef4	Synthetic construct		ATCDLLSFLNVKDAACAAHCLAKGYRGGYCDGRKVCNCRK	40	32344933	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24634		W5U4X3,		Defensin-like peptide 4/DLP4 [K32G], ID13	Synthetic construct		ATCDLLSPFKVGHAACAAHCIARGKRGGWCDGRAVCNCRK	40	32582062, 32506158	Antibacterial	Gram+,Gram-	Experimentally Validated

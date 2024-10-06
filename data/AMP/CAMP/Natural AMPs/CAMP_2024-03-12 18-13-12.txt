@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ69	1169813	P80395		Gaegurin-1	Rana rugosa 	Animalia (Amphibia)	SLFSLIKAGAKFLGKNLLKQGACYAACKASKQC	33	7999137	Antibacterial, Antifungal, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ70	1169814	P80396		Gaegurin-2	Rana rugosa 	Animalia (Amphibia)	GIMSIVKDVAKNAAKEAAKGALSTLSCKLAKTC	33	7999137	Antibacterial, Antifungal, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ71	1169815	P80397		Gaegurin-3	Rana rugosa 	Animalia (Amphibia)	GIMSIVKDVAKTAAKEAAKGALSTLSCKLAKTC	33	7999137	Antibacterial, Antifungal, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ76	118419	P01376		Corticostatin-3 precursor 	Oryctolagus cuniculus	Animalia (Mammals)	VVCACRRALCLPRERRAGFCRIRGRIHPLCCRR	33	2745983	Antibacterial, Antifungal, Antiviral	Gram +ve	Experimentally validated
+CAMPSQ77	118422, 246393	P01377, G1U2G9		Corticostatin-4 precursor 	Oryctolagus cuniculus	Animalia (Mammals)	VVCACRRALCLPLERRAGFCRIRGRIHPLCCRR	33	2745983	Antifungal, Antiviral		Experimentally validated
+CAMPSQ111	126793	P28794		Antimicrobial peptide MBP-1	Zea mays 	Plantae	RSGRGECRRQCLRRHEGQPWETQECMRRCRRRG	33	1527010	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ183	160380516	P0C5X2		Brevinin-2DYb	Rana dybowskii	Animalia (Amphibia)	GLFDVVKGVLKGAGKNVAGSLLEQLKCKLSGGC	33	17688900	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ184	160380518	P0C5X4		Brevinin-2DYd	Rana dybowskii	Animalia (Amphibia)	GIFDVVKGVLKGVGKNVAGSLLEQLKCKLSGGC	33	17688900	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ255	24636789	P83376		Dolabellanin-B2	Dolabella auricularia	Animalia	SHQDCYEALHKCMASHSKPFSCSMKFHMCLQQQ	33	12590964	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ264	2493347	P80954		Rugosin-A	Rana rugosa 	Animalia (Amphibia)	GLLNTFKDWAISIAKGAGKGVLTTLSCKLDKSC	33	7612013	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ265	2493348	P80955		Rugosin-B	Rana rugosa 	Animalia (Amphibia)	SLFSLIKAGAKFLGKNLLKQGAQYAACKVSKEC	33	7612013	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ287	25089860	P83414		Cecropin-B	Heliothis virescens	Animalia (Insects)	KWKVFKKIEKVGRNIRDGIVKAGPAIAVLGQAN	33		Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ288	25089862	P83415		Cecropin-C	Heliothis virescens	Animalia (Insects)	RWKVFKKIEKMGRNIRDGVIKAAPAIEVLGQAK	33		Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ379	38502898	P82319		Neutrophil defensin 4  	Macaca mulatta	Animalia (Mammals)	RRTCRCRFGRCFRRESYSGSCNINGRIFSLCCR	33	10531277	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ20606				Ranatuerin-2PRf	Rana pretiosa	Animalia	GILDTFKGVAKGVAKDLAVHMLEKLKCKMTGC	32	23653106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20607				Ranatuerin-2PRg	Rana pretiosa	Animalia	GILSSFKDVAKGVAKNVAAQLLDKLKCKITGC	32	23653106	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20828				SJGAP (Skipjack tuna GAPDH-related AMP)	Katsuwonus pelamis	Animalia	VKVGINGFGRIGRLVTRAAFHGKKVEIVAIND	32	24412436	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21289		Q91322		Pepsinogen C-derived antimicrobial peptide, bPcAP	Lithobates catesbeiana (Rana catesbeiana)	Animalia	IIKVPLKKFKSMREVMRDHGIKAPVVDPATKY	32	9639668	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22367		C0HK01,		Ocellatin-PT6	Leptodactylus pustulatus		GVFDIIKGAGKQLIAHAMEKIAEKVGLNKDGN	32	26107622, 27463422, 29308671	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ22368		C0HK02,		Ocellatin-PT7	Leptodactylus pustulatus		GVFDIIKGAGKQLIAHAMGKIAEKVGLNKDGN	32	26107622, 27463422	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ22369		C0HK03,		Ocellatin-PT8	Leptodactylus pustulatus		GVFDIIKGAGKQLIARAMGKIAEKVGLNKDGN	32	26107622, 27463422	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ22566		P69015		Protamine	Oncorhynchus keta	Animalia	MPRRRRSSSRPVRRRRRPRVSRRRRRRGGRRR	32	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22734		A0A1B0Z2N8		Garvicin KC, GakC	Lactococcus garvieae KS1546	Bacteria	MGAIIKAGAKIVGKGALTGGGVWLAEKLFGGK	32	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22774		A0A1B1AAZ6		Thusin A2, ThsA2	Bacillus thuringiensis BGSC 4BT1	Bacteria	GXPAIXXAIXAIIAATAQSPXPTSAXSKSXNK	32	27486447	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24762		A0A1E3KYX3		CMB001	Paenibacillus spp.	Bacteria	WKXQXFXXPGXVXGVLQXXFIQXAXXNAHIXK	32	33324379	Antibacterial	Gram+,Gram-	Experimentally Validated

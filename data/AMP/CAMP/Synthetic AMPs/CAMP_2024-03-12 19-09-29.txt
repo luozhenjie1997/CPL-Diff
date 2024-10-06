@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20497				Undefined	Synthetic construct		LRLKKRRWKYRFpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20498				Undefined	Synthetic construct		LRLKKRRWKYRWpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20499				Undefined	Synthetic construct		LRLKKRRWKYRYpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20500				Undefined	Synthetic construct		LRLKKRRWKYRLpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20501				Undefined	Synthetic construct		LRLKKRRWKYRXpP	14	15727859, 23716061	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20502				Undefined	Synthetic construct		LYLKKRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20503				Undefined	Synthetic construct		LWLKKRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20504				Undefined	Synthetic construct		LLLKKRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20505				Undefined	Synthetic construct		LHLKKRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20506				Undefined	Synthetic construct		LTLKKRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20507				Undefined	Synthetic construct		LQLKKRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20508				Undefined	Synthetic construct		LRLRKRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20509				Undefined	Synthetic construct		LRLWKRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20510				Undefined	Synthetic construct		LRLLKRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20511				Undefined	Synthetic construct		LRLHKRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20512				Undefined	Synthetic construct		LRLTKRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20513				Undefined	Synthetic construct		LRLQKRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20514				Undefined	Synthetic construct		LRLKRRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20515				Undefined	Synthetic construct		LRLKWRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20516				Undefined	Synthetic construct		LRLKLRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20517				Undefined	Synthetic construct		LRLKHRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20518				Undefined	Synthetic construct		LRLKTRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20519				Undefined	Synthetic construct		LRLKQRRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20520				Undefined	Synthetic construct		LRLKKYRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20521				Undefined	Synthetic construct		LRLKKWRWKYRVpP	14	15727859	Antibacterial	Gram+,Gram-	Experimentally Validated

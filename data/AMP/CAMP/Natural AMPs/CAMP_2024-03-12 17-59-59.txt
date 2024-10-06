@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3181				Temporin-LTc 	Hylarana latouchii	Animalia (Amphibia)	SLSRFLSFLKIVYPPAF	17	19022312	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3254				  Alyteserin-2b 	Alytes obstetricans	Animalia (Amphibia)	ILGAILPLVSGLLSNKL	17	19463738	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ3255				  Alyteserin-2c 	Alytes obstetricans	Animalia (Amphibia)	ILGAILPLVSGLLSSKL	17	19463738	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ3301				  Imcroporin 	Isometrus maculatus	Animalia (Arachnida)	FFSLLPSLIGGLVSAIK	17	19451300	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3424				  CPF-C1 	Xenopus clivii 	Animalia (Amphibia)	GFGSLLGKALRLGANVL	17	21199684	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3492				  Piceain 2 	Picea sitchensis	Plantae	RPRCWIKIKFRCKSLKF	17	21644248	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3493				  Brevinin-1Da 	Rana dalmatina	Animalia (Amphibia)	ILPLLLGKVVCAITKKC	17	15050930	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3567				  Andersonin-W1 	Odorrana andersonii	Animalia (Amphibia)	ATNIPFKVHFRCKAAFC	17	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3569				  Andersonin-W2 	Odorrana andersonii	Animalia (Amphibia)	AVNIPFKVHFRCKAAFC	17	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3599				  Schmackerin-C1 	Odorrana schmackeri	Animalia (Amphibia)	AAPRGGKGFFCKLFKDC	17	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3611				  CPF-PG1 	Xenopus pygmaeus	Animalia (Amphibia)	GFGSLLGKALKIGTNLL	17	22123629	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3612				  CPF-L1 	Xenopus lenduensis	Animalia (Amphibia)	GIGSLLAKAAKLGANLL	17	22123629	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3613				  CPF-L2 	Xenopus lenduensis	Animalia (Amphibia)	GIGSALAKAAKLVAGIV	17	22123629	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3620				  Ranacyclin-B-AL1 	Amolops loloensis	Animalia (Amphibia)	AAFRGCWTKNYSPKPCL	17	21927839	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3652				  Temporin-RN1 	Rana nigrovittata	Animalia (Amphibia)	FLPLVLGALSGILPKIL	17	19778602	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3653				  Temporin-RN3 	Rana nigrovittata	Animalia (Amphibia)	FFPLLFGALSSHLPKLF	17	19778602	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3811				  Brevinin 1Tb  	Rana temporaria	Animalia (Amphibia)	LVPLFLSKLICFITKKC	17	23121565	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3852		P84782		Napin-like polypeptide 	Brassica oleracea var. alboglabra 	Plantae	PAQPFRIKKRQGPFERP	17	15485558	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3948		P0CD70		Osmin	Osmia rufa 	Animalia (Insects)	GFLSALKKYLPIVLKHV	17	19109988	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4067	425872851	K7ZGS2		Jingdongin-1 antimicrobial peptide precursor 	Amolops jingdongensis 	Animalia (Amphibia)	FLPLFLPKIICVITKKC	17	22828809	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8162		S6D3A7		Antimicrobial peptide TsAP-2	Tityus serrulatus 	Animalia (Arachnida)	FLGMIPGLIGGLISAFK	17	23770440	Antibacterial, Antifungal, Anticancer	Gram +ve	Experimentally validated
+CAMPSQ8176		S6CWV8		Antimicrobial peptide TsAP-1	Tityus serrulatus 	Animalia (Arachnida)	FLSLIPSLVGGSISAFK	17	23770440	Antibacterial, Antifungal, Anticancer	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9283				Andersonin-N1 	Odorrana andersonii 	Animalia (Amphibia)	ENMFNIKSSVESDSFWG	17	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9330				Kunitzin-OS (amphibians, animals)	Odorrana schmackeri	Animalia	AVNIPFKVHLRCKAAFC	17	27311856	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9332				Kunitzin-RE (amphibians, animals)	 Rana esculenta	Animalia	AAKIILNPKFRCKAAFC	17	27311856	Antibacterial	Gram -ve	Experimentally validated

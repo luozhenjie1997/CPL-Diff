@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18877		P79874		Temporin-B LG21	Synthetic construct		LLPIVGNLLKSLLGWKRKRFG	21	24419338	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18771				Undefined	Synthetic construct		GCKKFRRFKLKCKQKLWLWCG	21	20606063	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18774				Undefined	Synthetic construct		GCRRWKKFRWRYRGKFWFWCG	21	20606063	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18768				Undefined	Synthetic construct		GCKKFRRLKWKYKGKFWFWCG	21	20606063	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18769				Undefined	Synthetic construct		GCKKYRRFRWKFKGKFWFWGG	21	20606063	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18748		Q96662		BVDV (2697-2717)	Synthetic construct		VLDLIYSLHKQINRGLKKIVL	21	18287023	Antiviral		Experimentally Validated
+CAMPSQ18717		P55897		Buforin-2 [14-20]3	Synthetic construct		RVHRLLRRVHRLLRRVHRLLR	21	10890923	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18686				Undefined	Synthetic construct		KKLAGLAKKWAGLAKKLAGLA	21	16304158	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18687				Undefined	Synthetic construct		KLKAGLAKWKAGLAKLKAGLA	21	16304158	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18688				Undefined	Synthetic construct		KLAKGLAKWAKGLAKLAKGLA	21	16304158	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18689				Undefined	Synthetic construct		KLAGKLAKWAGKLAKLAGKLA	21	16304158	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18690				Undefined	Synthetic construct		KLAGLKAKWAGLKAKLAGLKA	21	16304158	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18691				CSP	Synthetic construct		SGSLSTFFRLFNRSFTQALGK	21	17060534	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ18661				Undefined	Synthetic construct		FHFHLHFASASAFIKHFIHRF	21	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18660				Undefined	Synthetic construct		FHFHLHFPSPSPFIKHFIHRF	21	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18659				Undefined	Synthetic construct		FHFHLHFPSGSPFIKHFIHRF	21	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18597		P85090		Ocellatin-4 [G1,8K][D4K][D12A][A15K][Q16,20A]	Synthetic construct		KLLKFVTKVGKAIFKALIKAI	21	30192822	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18539		P49913		LL-37 (9-29)	Synthetic construct		SKEKIGKEFKRIVQRIKDFLR	21	18591279	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ18502				MSI-103 [K1,5,8,12,15,19R]	Synthetic construct		RIAGRIARIAGRIARIAGRIA	21	22853904	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18503		Q99134		PGLa [K5,12,15,19R]	Synthetic construct		GMASRAGAIAGRIARVALRAL	21	22853904	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18495		Q99134		PGLa [L18W]	Synthetic construct		GMASKAGAIAGKIAKVAWKAL	21	26099623	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19882				Maculatin 1.1 [P15A]	Synthetic construct		GLFGVLAKVAAHVVAAIAEHF	21	15298176	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19883		P82066		Maculatin-1.1 [H12K]	Synthetic construct		GLFGVLAKVAAKVVPAIAEHF	21	15298176	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19884		P82066		Maculatin-1.1 [E19K]	Synthetic construct		GLFGVLAKVAAHVVPAIAKHF	21	15298176	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19885		P82066		Maculatin-1.1 [H12K][E19K]	Synthetic construct		GLFGVLAKVAAKVVPAIAKHF	21	15298176	Antibacterial	Gram+,Gram-	Experimentally Validated

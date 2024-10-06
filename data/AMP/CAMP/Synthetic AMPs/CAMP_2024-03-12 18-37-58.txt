@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20136				BPC86	Synthetic construct		LKKKLFKKLQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20137				BPC100	Synthetic construct		KKKKLFLLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20138				BPC102	Synthetic construct		KKKLKFLLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20139				BPC104	Synthetic construct		KKLKKFLLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20140				BPC106	Synthetic construct		KLKKKFLLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20141				BPC108	Synthetic construct		LKKKKFLLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20142				BPC110	Synthetic construct		KKKLLFKLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20143				BPC112	Synthetic construct		KKLKLFKLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20144				BPC114	Synthetic construct		KLKKLFKLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20145				BPC116	Synthetic construct		LKKKLFKLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20146				BPC118	Synthetic construct		KKLLKFKLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20147				BPC120	Synthetic construct		LKKLKFKLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20148				BPC122	Synthetic construct		KLLKKFKLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20149				BPC124	Synthetic construct		LKLKKFKLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20150				BPC126	Synthetic construct		LLKKKFKLKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20151				BPC128	Synthetic construct		KKKLLFLKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20152				BPC130	Synthetic construct		KKLKLFLKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20153				BPC132	Synthetic construct		KLKKLFLKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20154				BPC134	Synthetic construct		LKKKLFLKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20155				BPC136	Synthetic construct		KKLLKFLKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20156				BPC138	Synthetic construct		KLKLKFLKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20157				BPC140	Synthetic construct		LKKLKFLKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20158				BPC142	Synthetic construct		KLLKKFLKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20159				BPC144	Synthetic construct		LKLKKFLKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20160				BPC146	Synthetic construct		LLKKKFLKKQ	10	20708052	Antibacterial	Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ497	51315827	P84071		Ascalin	 Allium cepa var. aggregatum	Plantae	YQCGQGG	7	12126728	Antifungal, Antiviral		Experimentally validated
+CAMPSQ834	75347354	Q47505	3H5R,3H9G,3H9J,3H9Q	Microcin C7	Escherichia coli	Monera	MRTGNAN	7	2861788	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1091	223635095	P86168		Colutellin-A	Colletotrichum dematium	Fungi	VISIIPV	7	18599825	Antifungal		Experimentally validated
+CAMPSQ2460	308191396	P86707		Antimicrobial peptide 3	Cocos nucifera	Plantae	CSYTMEA	7	19111587	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3121				  Microcin 7 	Escherichia coli	Monera	MRTGNAD	7	2861788	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3440				  JCpep7 	Jatropha curcas	Plantae	KVFLGLK	7	21268582	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3889		P36960		Lantibiotic carnocin-UI49 	Carnobacterium sp. 	Monera	GSEIQPR	7		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8320				Cheliferin	Chelifer cancroides	Animalia (Arachnida)	GAVLDIR	7	31141959	Antifungal		Experimentally validated
+CAMPSQ11233				HD5(26-32)	Homo sapiens	Animalia (Mammals)	LYRLCCR	7	30808760	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11672				JCpep7	Jatropha curcas	Plantae (Angiosperms)	KVFLGLK	7	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12362				Poly7	Hepatitis B virus (HBV)	Virus	GRLVFQT	7	29752938	Antiviral 		Experimentally validated
+CAMPSQ12475				ASP-1	Bacillus subtilis URID 12.1 	Monera (Bacteria)	FTAVBFX	7	28887200	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12740				870.02 Legumin Alike	Cicer arietinum L.	Plantae (Angiosperms)	DLPALRW	7	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12937				SAAP2	Ovis sp.	Animalia (Mammals)	GDDDDDD	7	34203496	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12938				SAAP3	Ovis sp.	Animalia (Mammals)	DDDDDDD	7	34203496	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12939				SAAP6	Ovis sp.	Animalia (Mammals)	GADDDDD	7	34203496	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14407				Pug-2	Punica granatum	Plantae	GAVGSVV	7	34780520	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ15217				Pal-ano-7	Anoplius samariensis	Animalia (Insects)	GLLKRIK	7	29614317	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16224				APAP1-OG	Achatina fulica	Animalia (Molluscs (Gastropoda))	KRATVYR	7	35408688	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ16225				APAP1-MOD	Achatina fulica	Animalia (Molluscs (Gastropoda))	KRLHVIG	7	35408688	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ23594				Lugdunin	Staphylococcus lugdunensis		vWlVvX	6	27466123, 31059155	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23612				Bacicyclin	Bacillus sp. (associated with Mytilus edulis)	Bacteria	GLVIaf	6	29422389	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23907				Globomycin	Streptomyces halstedii		GXXXSX	6	17101680	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24628				Viomycin, Celiomycin	Streptomyces vinaceus,Streptomyces lividans	Bacteria	XSSSXX	6	21768509, 4371987	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24629				Capreomycin	Streptomyces capreolus		XXSXXX	6	21768509	Antibacterial	Gram+	Experimentally Validated

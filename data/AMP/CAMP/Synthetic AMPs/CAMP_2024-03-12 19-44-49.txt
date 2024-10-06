@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11732				PaDBS1R1-amide	Synthetic construct		PKILNKILGKILRLAAAFK	19	30463701	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11825				D-Ranalexin 	Synthetic construct		flgglikivpamicavtkk	19	28453851	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11839				PAF112	Synthetic construct		NCGSAANKRAKSDRHHCE	19	28428776	Antifungal		Experimentally validated
+CAMPSQ11849				K0 -W6 -Hy-a1	Synthetic construct		KIFGAIWPLALGALKNLIK	19	20560142	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11850			5J6V	D0 -W6 -Hy-a1	Synthetic construct		DIFGAIWPLALGALKNLIK	19	20560142	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11865				KE-18 	Synthetic construct		KEFKRIVQRIKDFLRNLV	19	28408902	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11974				IP-1	Synthetic construct		KFLNRFWHWLQLKPGQPMY	19	28013505	Antifungal		Experimentally validated
+CAMPSQ12004				Onc72	Synthetic construct		VDKPPYLPRPRPPROIYNO	19	25968331	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12245				EcDBS1R4	Synthetic construct		PMKKKLAARILAKIVAPVW	19	29928920	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12246				EcDBS1R8	Synthetic construct		PMKKLFAAKILARVVAKIW	19	29928920	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12248				MmDBS1R5	Synthetic construct		PKKINKLLLRILDKIASFS	19	29928920	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ12249				MmDBS1R9	Synthetic construct		PKKINNTILKLLDRVASKI	19	29928920	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ12251				PaDBS1R2	Synthetic construct		PMKLLKRLGKKIRLAAAFK	19	29928920	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ12252				PaDBS1R5	Synthetic construct		PMARNKILGKILRKIAAFK	19	29928920	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12255				PcDBS1R1	Synthetic construct		PKLAIRITCKIHKKVAISV	19	29928920	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12258				PyDBS1R8	Synthetic construct		PNRESQFYKILRKILSKIV	19	29928920	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12259				PyDBS1R9	Synthetic construct		PNRESQFYQKLLKKLSSKI	19	29928920	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12261				TcDBS1R2	Synthetic construct		PMKLLVRVKKKIGDALELG	19	29928920	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ12369				Designed peptide 2	Synthetic construct		FLRRIRVTPWVNPPFLQQT	19	30046138	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12370				Designed peptide 3	Synthetic construct		FWRRIRVTPVVNPPFLQQT	19	30046138	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12371				Designed peptide 4	Synthetic construct		FWRRIRVTPVVNPWFLQQT	19	30046138	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12372				Designed peptide 5	Synthetic construct		FWRRIRVTPWVNPPFLQQT	19	30046138	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12531				ASU014	Synthetic construct		IMKPFETHRLGPERFDGSG	19	28835801	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13268				TB2U-?	Synthetic construct		GVIIDTLKGAAKTVAAELL	19	34438945	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13269				TB2U-K	Synthetic construct		GVIIKTLKGAAKTVAAKLL	19	34438945	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

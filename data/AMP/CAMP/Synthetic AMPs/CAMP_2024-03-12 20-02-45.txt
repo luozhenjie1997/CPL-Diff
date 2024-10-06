@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19761		Q01523		Human Defensin-5, HD5 T2,7,12K][Y4,27K][C3,10,30,31A][E14,21K][S15,17,23K]	Synthetic construct		AKAKCRKGRAAKRKKLKGVCRIKGRLKRLAAR	32	29158275	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19762		Q01523,		Human Defensin-5/HD5 [T7R]	Synthetic construct		ATCYCRRGRCATRESLSGVCEISGRLYRLCCR	32	23269800, 25782105	Antibacterial, Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ19763		Q01523,	4RBX	Human Defensin-5/HD5 [E21R]	Synthetic construct		ATCYCRTGRCATRESLSGVCRISGRLYRLCCR	32	23269800, 25782105	Antibacterial, Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ19764		Q01523,		Human Defensin-5, HD5 [S23R]	Synthetic construct		ATCYCRTGRCATRESLSGVCEIRGRLYRLCCR	32	23269800, 25782105	Antibacterial, Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ19765		Q01523		HD5 [L16R]	Synthetic construct		ATCYCRTGRCATRESRSGVCEISGRLYRLCCR	32	23269800	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20268		P01967		Bovine hemoglobin alpha chain 1-32	Synthetic construct		VLSAADKGNVKAAWGKVGGHAAEYGAEALERM	32	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20292		P02070		Bovine hemoglobin beta chain (114-145)	Synthetic construct		ARNFGKFFTPVLQADFQKVVAGVANALAHRYH	32	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21075		Q8T0Z4		Trialysin (1-33)	Synthetic construct		FKIKPGKVLDKFGKIVGKVLKQLKKVSAVAKV	32	16460023	Antibacterial, Antiparasitic	Gram-	Experimentally Validated
+CAMPSQ21077		Q8T0Z4		Trialysin (1-33)[P5A][G6S]	Synthetic construct		FKIKASKVLDKFGKIVGKVLKQLKKVSAVAKV	32	16460023	Antibacterial, Antiparasitic	Gram-	Experimentally Validated
+CAMPSQ21078		Q8T0Z4		Trialysin (1-33)[K2S][K4S]	Synthetic construct		FSISPGKVLDKFGKIVGKVLKQLKKVSAVAKV	32	16460023	Antibacterial, Antiparasitic	Gram-	Experimentally Validated
+CAMPSQ21311				Undefined	Synthetic construct		RLYRRLYRRLYRRLYRRLYRRLYRRLYRRLYR	32	11846794	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21740		P01966		Hemoglobin subunit alpha (34-65)	Synthetic construct		LSFPTTKTYFPHFDLSHGSAQVKGHGAKVAAA	32	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21749		P01966		Hemoglobin subunit alpha (110-141)	Synthetic construct		ASHLPSDFTPAVHASLDKFLANVSTVLTSKYR	32	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21756		P02070		Hemoglobin subunit beta (114-145)	Synthetic construct		ARNFGKEFTPVLQADFQKVVAGVANALAHRYH	32	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21864		P0C207		Rex (1-21) -RTD	Synthetic construct		MPKTRRRPRRSQRKRPPTPWPYGRKKRRQRRR	32	20580677	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22195		B6S2X2		OH-CATH (334), Cathelicidin-OH (3-34)	Synthetic construct		FKKFFKKLKNSVKKRAKKFFKKPRVIGVSIPF	32	20576537	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23427		P49929		3G-Cathelin-related peptide SC5	Synthetic construct		GGGRGLRRLGRKIAHGVKKYGPTVLRIIRIAG	32	29984452	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23428		P49929		3G-Cathelin-related peptide SC5 [R4,11C]	Synthetic construct		GGGCGLRRLGCKIAHGVKKYGPTVLRIIRIAG	32	29984452	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23611		G4V7C7		SmHDM-2p58, Smp_194860 (54-85)	Synthetic construct		IRKYLEEDNLGEKLAAVVSIYVKRLNKRLDMR	32	23875042	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ23633		Q01523		Human Defensin-5, HD5 [G24R]	Synthetic construct		ATCYCRTGRCATRESLSGVCEISRRLYRLCCR	32	25782105	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23634		Q01523	4RBW	Human Defensin-5, HD5 [T7R,E21R]	Synthetic construct		ATCYCRRGRCATRESLSGVCRISGRLYRLCCR	32	25782105	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23937		P02649		ApoE (131-162), hEP-2/delC	Synthetic construct		EELRVRLASHLRKLRKRLLRDADDLQKRLAVY	32	22334503	Antiviral		Experimentally Validated
+CAMPSQ23996		Q5DP94		SC32EK	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSEEQQKKNEKE	32	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24013		Q5DP94		MTSC30EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNE	32	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24072				Undefined	Synthetic construct		EMTWEEWEKKIEEYTKKIEEILKKSQNQQIDL	32	30901967	Antiviral	Gram+,Gram-	Experimentally Validated

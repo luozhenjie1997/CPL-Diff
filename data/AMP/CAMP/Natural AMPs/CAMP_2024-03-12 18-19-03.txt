@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ6445	334350799	P86363		Osmotin (Fragment)	Calotropis procera 	Plantae	ATFTIRNNCPYTIWAAAVPGGGRRLNSGGTWTINVAPGTA	40	21334906	Antifungal		Experimentally validated
+CAMPSQ8099	328929996	G9CU49		Beta-defensin	Gadus morhua 	Animalia (Pisces)	FPWSCPTLSGVCRKVCLPTEMFFGPLGCGKEFQCCVSHFF	40	23638029	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8180	745997996	P0DKH7		Antimicrobial peptide 1 (Fa-AMP1)	Fagopyrum esculentum	Plantae	AQCGAQGGGATCPGGLCCSQWGWCGSTPKYCGAGCQSNCK	40	12951494	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8181	745997997	P0DKH8		Antimicrobial peptide 2 (Fa-AMP2)	Fagopyrum esculentum	Plantae	AQCGAQGGGATCPGGLCCSQWGWCGSTPKYCGAGCQSNCR	40	12951494	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8276				BpNKL	Boleophthalmus pectinirostris	Animalia (Pisces)	SIKAKLLAVCKNIGLLKSLCQKFVNKHLGVLIEELTTTDD	40	31200076	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8852				MytC[1-40]	Mytilus galloprovincialis	Animalia (Mollusc )	QSVACTSYYCSKFCGSAGCSLYGCYLLHPGKICYCLHCSR	40	26444944	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9323				Panusin 	Panulirus genus	Animalia	SYVGDCGSNGGSCVSSYCPYGNRLNYFCPLGRTCCRRSYG	40	27616720	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10099				MPaBD	Plecoglossus altivelis	Animalia	FPWGCSKYSGVCRPVCLAAELPFGPFGCSKGFVCCVAHVI	40	31580833	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10343				Cec4	Musca domestica	Animalia	GWLKKIGKKIERVGQNTRDATIQAIGVAQQAANVAATLKG	40	31496754	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10484				DLP2	Hermetia illucens	Animalia	ATCDLLSPFKVGHAACALHCIAMGRRGGWCDGRAVCNCRR	40	28935900	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10485				DLP4	Hermetia illucens	Animalia	ATCDLLSPFKVGHAACAAHCIARGKRGGWCDKRAVCNCRK	40	28935900	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10543				Cm-CATH1  	Chelonia mydas	Animalia	RRSIFRKLRRKIKKGLKKGIQHLLAGGRQGLPQGGRPGMI	40	31121185	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10705				LSer-Cec1	Lucilia sericata	Animalia	GWLKKIGKKIERVGQHTRDATIQTIGVAQQAANVAATLKG	40	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10706				LSer-Cec2	Lucilia sericata	Animalia	GWLRDFGKRIERVGQHTRDATIQAIGVAQQAANVAATVRG	40	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10707				LSer-Cec3	Lucilia sericata	Animalia	GWLKKIGKKIERVGQHTRDATIQVLGVAQQAANVAATARG	40	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10708				LSer-Cec4	Lucilia sericata	Animalia	GWLKKIGKKIERVGQHTRDASIQAIGIAQQAANVAATARG	40	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10709				LSer-Cec5	Lucilia sericata	Animalia	GLVKKIGKKIERVGQHTRDASIQAIGIAQQAANVAATARG	40	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10710				LSer-Cec6	Lucilia sericata	Animalia	GWLKKFGKKIERVGQHTRDATIQAIGVAQQAANVAATLKG	40	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10711				LSer-Def1	Lucilia sericata	Animalia	ATCDLLSATGFSGTACAAHCLLIGHRGGYCNTKSVCVCRD	40	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10712				LSer-Def2	Lucilia sericata	Animalia	ATCDLLSGTGVKHSACAAHCLLRGNRGGYCNGRAICVCRN	40	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10713				LSer-Def3	Lucilia sericata	Animalia	ATCDLLSGTGANHSACAAHCLLRGNRGGYCNSKAVCVCRN	40	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10898				Def-AAA	Anopheles gambiae 	Animalia	ATCDLASGFGVGSSLCAAHCIARRYRGGYCNSKAVCVCRN	40	18214975	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11024				LcLEAP-2C	Larimichthys crocea	Animalia (Pisces)	SLLWRWNSLKPVGASCRDHAECGTKYCRKNICSFWISS	40	24727197	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ11175				Crassicorin-I	Urticina crassicornis	Animalia (Cnidaria)	GASCDCHPFVGTYWFGISNCPSGHGYRKKCASFFGVCCVK	40	28796463	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11409				PLP3	Odontomachus monticola	Animalia (Insects)	KIKWGKIFKKGGKLIGKTALEAAANAAASEAISAMASQNE	40	30658410	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

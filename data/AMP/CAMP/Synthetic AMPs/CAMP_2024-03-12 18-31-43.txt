@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18831				Undefined	Synthetic construct		RWWKWRR	7	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18832				Undefined	Synthetic construct		KWWKWKK	7	19171306	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18830		P33046,		Indolicidin (7-13)	Synthetic construct		PWWPWRR	7	19171306, 11695650	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18784				Undefined	Synthetic construct		XRWRWRW	7	24900420	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18783				Undefined	Synthetic construct		KRWRWRW	7	24900420	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18779				[E4W3]	Synthetic construct		EEEEWWW	7	25157458	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18781				C12-[KR6]	Synthetic construct		KRRRRRR	7	25157458	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18782				Undefined	Synthetic construct		RWRWRWX	7	24900420, 24147906	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18663				Undefined	Synthetic construct		FHFHLHF	7	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19451				Undefined	Synthetic construct		VLNENLL	7	21296933	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19478				Caseicin B Minus-E4	Synthetic construct		VLNNLLR	7	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19510				SAAP analog 1	Synthetic construct		ADDDDDD	7	9210699	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19511				SAAP analog 3	Synthetic construct		AADDDDD	7	9210699	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19585		P81835		Citropin 1.1 (1-7)	Synthetic construct		GLFDVIK	7	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19587		P81835		Citropin 1.1 (6-12)	Synthetic construct		IKKVASV	7	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20611				K4-7	Synthetic construct		KKKKPLF	7	30143998	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20917		P08311		Cathepsin G (77-83)	Synthetic construct		HPQTNQR	7	23951222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21182		P19661		Cathelicidin-3 (1-7), Bactenecin-7 (1-7)	Synthetic construct		RRIRPRP	7	12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21480				Undefined	Synthetic construct		AEAMSQV	7	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21633				Undefined	Synthetic construct		RKRRKKK	7	19959366	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21644				Undefined	Synthetic construct		RQIRWQR	7	23581817	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21737		P01966		Hemoglobin subunit alpha (99-105)	Synthetic construct		KLLSHSL	7	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21763				Undefined	Synthetic construct		KPFVFLM	7	22406118	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21826				7K	Synthetic construct		KKKKKKK	7	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21836				P7	Synthetic construct		PPPPPPP	7	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated

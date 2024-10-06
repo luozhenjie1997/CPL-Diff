@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10242				Hfp4	Likely of sticklefish origin	Animalia	FVKKFWGGVKAIFKGARKGLK	21	22188679	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10428				Chensinin-1CEb	Rana zhenhaiensis	Animalia	LALERRSGWLRLFGLKPRRKH	21	22943778	Antibacterial, Antifungal		Predicted
+CAMPSQ10429				Chensinin-1CEc	Rana zhenhaiensis	Animalia	LALERRDGWLRLFGLKPRRKH	21	22943778	Antibacterial		Predicted
+CAMPSQ10440				Maculatin-1.3 	Litoria eucnemis 	Animalia	GLLGLLGSVVSHVVPAIVGHF	21	15203252	Antibacterial		Predicted
+CAMPSQ10444				Bac-GM100  	Brevibacillus brevis strain GM100	Monera	DWTFANWSCLVCDDCSVNLTY	21	23291759	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10574				VK11 	Varanus komodoensis	Animalia	AKAVKPKTAKPKTAKPKTAKA	21	28164707	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10597				Las[des1-6]-NH2	Lasioglossum laticeps	Animalia	LCAIAKKKGKCKGPLKLVCKC	21	22038181	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10672				Japonicin-2OM1 	Rana omeimontis 	Animalia	FIVPSIFLLKKAFCIALKKNC	21	25001915	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10841				Pep-1	Simian virus	Virus	KETWWETWWTEWSQPKKKRKV	21	16945333, 28556271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10968				WjAMP-1 (C-terminal domain of hevein; Plant defensin)	Wasabia japonica 	Plantae	TGESASNVRATYHFYNPEQNN	21	12668776	Antibacterial, Antifungal 	Gram -ve	Experimentally validated
+CAMPSQ10973				Brevinin-2Va 	Rana virgatipes	Animalia	GIWDTLKNVGKAVLGKVLENV	21	15996769	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10978		G0LWV9		Kasstasin	Kassina maculata 	Animalia	FIKELLPHLSGIIDSVANAIK	21	21624426	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11240				Esculentin-1GN (1-21)	Hylarana guentheri	Animalia	GLFSKKGGKGGKSWIKGVFKG	21	30427189	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11320				Aborycin	Streptomyces sp. SCSIO ZS0098	Monera	CLGIGSCNDFAGCGYAVVCFW	21	30795576	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11495				Bac5(1-21)	Bos taurus	Animalia (Mammals)	RFRPPIRRPPIRPPFYPPFRP	21	30615305	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11499				Bac5(5-25)	Bos taurus	Animalia (Mammals)	PIRRPPIRPPFYPPFRPPIRP	21	30615305	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11600				Nigrocin-HL	Hylarana latouchii	Animalia (Amphibia)	GLLSGILGAGKKIVCGLSGLC	21	30555431	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11604				Epinecidin-1	Epinephelus coioides	Animalia (Pisces)	GFIFHIIKGLFHAGKMIHGLV	21	30552913, 28882626, 17570764, 35052952	Antibacterial, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11795				Maculatin 1.1	Litoria raniformis	Animalia (Amphibia)	GLFGVLAKVAAHVVPAIAEHF	21	28478484	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11902			2NCU	KYE21	Homo sapiens	Animalia (Mammals)	KYEITTIHNLFRKLTHRLFRR	21	28303012	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12343				BF2	Sphaenorhynchus lacteus	Animalia (Amphibia)	TRSSRAGLQFPVGRVHRLLRK	21	30044391	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12399				Pteroicidin-?-COOH or ?-Pte	Pterois volitans	Animalia	FIHHIIGGLFHVGKSIHDLIR	21	29108968	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12400				Pteroicidin-?-CONH2 or ?-PteCONH2	Pterois volitans	Animalia	FIHHIIGGLFHVGKSIHDLIR	21	29108968	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12408				MccJ25	Escherichia coli AY25	Monera (Enterobacteriaceae)	VGIGTPISPTGGGAGHVPGTP	21	29107655	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12742				2269.57 Legumin Alike	Cicer arietinum L.	Plantae (Angiosperms)	KLQGRDEDEEKGAIVKVKGGL	21	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

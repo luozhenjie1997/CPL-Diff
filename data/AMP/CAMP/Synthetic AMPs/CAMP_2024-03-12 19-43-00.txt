@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18997		P32194		Protegrin 1/Neutrophil peptide 1/PG-1 [C8T][R10p][C13T]	Synthetic construct		RGGRLCYTRpRFTVCVGR	18	17176094	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18995		P32194		Protegrin 1/Neutrophil peptide 1/PG-1 [C6,8,13,15T][R10p]	Synthetic construct		RGGRLTYTRpRFTVTVGR	18	17176094	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18958		P54228		Myeloid antimicrobial peptide BMAP-27(1-18)-I, BMAP-18-I	Synthetic construct		GRIKRIRKKIKKLIKKLS	18	21497177	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18959		P54229		BMAP-28(10-27)	Synthetic construct		ILRAWKKYGPIIVPIIRI	18	15019203	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18956		P54228		Myeloid antimicrobial peptide BMAP-27(1-18)-W, BMAP-18-W	Synthetic construct		GRWKRWRKKWKKLWKKLS	18	21497177	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18957		P54228		Myeloid antimicrobial peptide BMAP-27(1-18)-L, BMAP-18-L	Synthetic construct		GRLKRLRKKLKKLLKKLS	18	21497177	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18949		P14661		Cecropin-P1 (1-9)x2	Synthetic construct		WLSKTAKKLWLSKTAKKL	18	29266746	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18947		Q91X12		Neutrophil cationic antibacterial polypeptide CAP11 (1-18)m2, CAP11 (1-18)[G1K;K5L;T9L;R10,12L;Q14R;G17L]	Synthetic construct		KLRKLFRKLLKLIRKLLR	18	26656394	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18944		A0A2R7WNA0		Oncopeltus 4 [11K]	Synthetic construct		VDKPPYLPRPKPPRRIYN	18	19400239	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18945		P32194,I3LU31		Protegrin 1 / Neutrophil peptide 1 [C6A][C8A][C13A][C15A]	Synthetic construct		RGGRLAYARRRFAVAVGR	18	10795591, 9009324	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18942		A0A2R7WNA0		Oncopeltus 4 [11T]	Synthetic construct		VDKPPYLPRPTPPRRIYN	18	19400239	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18943		A0A2R7WNA0		Oncopeltus 4 [11H]	Synthetic construct		VDKPPYLPRPHPPRRIYN	18	19400239	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18941		A0A2R7WNA0		Oncopeltus 4 [11P]	Synthetic construct		VDKPPYLPRPPPPRRIYN	18	19400239	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18938		A0A2R7WNA0,		Oncocin (1-18), Oncopeltus 4 [11R]	Synthetic construct		VDKPPYLPRPRPPRRIYN	18	19400239	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18915		P36193		Drosocin-1 (1-18) amide	Synthetic construct		GKPRPYSPRPTSHPRPIR	18	24164265	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18882		P86018,P40843,		Esculentin (1-18)	Synthetic construct		GIFSKLAGKKLKNLLISG	18	32722535, 20606068, 25959536	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18764		P26664		HCV (1975-1992)[D8,16R;E12K]	Synthetic construct		SWLRDIWRWICKVLSRFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18765		P26664		HCV (1975-1992)[D5,8,16R;E12K]	Synthetic construct		SWLRRIWRWICKVLSRFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18750				HCV (1975-1992) scrambled	Synthetic construct		KWLCRIWSWISDVLDDFE	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18751				HCV (1975-1992) scrambled	Synthetic construct		SIWRDWVDLICEFLSDWK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18752		P26664		HCV (1975-1992)[I6D,E12T,S15T]	Synthetic construct		SWLRDVWDWICTVLTDFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18753		P26664		HCV (1975-1992)[I6,10V;E12T;V13I;S15T]	Synthetic construct		SWLRDVWDWVCTILTDFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18754		P26664		HCV (1975-1992)[S1D,D5I,I10V,E12S,L14V]	Synthetic construct		DWLRIIWDWVCSVVSDFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18755		P26664		HCV (1975-1992)[R4W;D5E;I6,10V;C11L,E12H]	Synthetic construct		SWLWEVWDWVLHVLSDFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18756		P26664		HCV (1975-1992)[S1T,D5A,I10V,E12T,V13A,S15T]	Synthetic construct		TWLRAIWDWVCTALTDFK	18	18287023	Antiviral		Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19306		P02788		Lactoferricin (20-30)[Q21,23;N25Del; V29W]	Synthetic construct		FWRIRKWR	8	21515687	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19212				D-BM0	Synthetic construct		RFWWFRRR	8	17867640, 15616276	Antifungal	Gram-	Experimentally Validated
+CAMPSQ19069		P33432		Puroindoline-A (37-44)[T1W]	Synthetic construct		WWRWWKWW	8	33207639	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19068		P33432		Puroindoline-A (38-45)	Synthetic construct		WRWWKWWK	8	33207639	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18886				Com7	Synthetic construct		CRRWWRFC	8	20844765	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18884		P24627		Lfcin B (19-25)-C	Synthetic construct		CRRWQWRC	8	20844765	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18854				Undefined	Synthetic construct		XXXXXXXX	8	25941221, 30901860	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18777				[D-R4W4]	Synthetic construct		RRRRWWWW	8	25157458, 28594345, 30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18778				[E4W4]	Synthetic construct		EEEEWWWW	8	25157458, 30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18694		Q08GI9,		CSPM8, Competence stimulating peptide (31-38)	Synthetic construct		TFFRLFNR	8	17060534	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ18645				Lactoferrin (4-11)	Synthetic construct		RRSVQWCA	8	21827807	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ18613				Undefined	Synthetic construct		GWKRKRFG	8	19520860	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18529				Undefined	Synthetic construct		kKhKwLwK	8	16048940	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ18526				Undefined	Synthetic construct		SwFkHkSk	8	16048940	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ18527				Undefined	Synthetic construct		SwXkNkSk	8	16048940	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ18525				Undefined	Synthetic construct		SwFkTkSk	8	16048940	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19452				Undefined	Synthetic construct		VLNENLAR	8	21296933	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19453				Undefined	Synthetic construct		VLNENALR	8	21296933	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19461				Caseicin A [K2R][H3R] minus-Q8	Synthetic construct		IRRQGLPE	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19463		B5B3R8		Caseicin A Minus-H3	Synthetic construct		IKQGLPQE	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19464		B5B3R8		Caseicin A Minus-K2	Synthetic construct		IHQGLPQE	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19467				Caseicin B [L7A][R8A]	Synthetic construct		VLNENLAA	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19468				Caseicin B [L7R]	Synthetic construct		VLNENLRR	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19469				Caseicin B [L6A][L7A]	Synthetic construct		VLNENAAR	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19470				Caseicin B [L2I]	Synthetic construct		VINENLLR	8	22247170	Antibacterial	Gram+,Gram-	Experimentally Validated

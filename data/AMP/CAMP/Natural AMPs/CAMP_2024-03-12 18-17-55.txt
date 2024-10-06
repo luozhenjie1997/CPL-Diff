@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3578				  Esculentin-2-OR3 	Odorrana rotodora	Animalia (Amphibia)	GVFTLLKGATQLIGKTLGKELGKTGLELMACKITNQC	37	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3579				  Esculentin-2-OR4 	Odorrana rotodora	Animalia (Amphibia)	GVFTLIKGATQLIGKTLGKELGKTGLELMACKITEQC	37	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3580				  Esculentin-2-OR5 	Odorrana rotodora	Animalia (Amphibia)	GVFTLIKGATQLIGKTLGKELGKTGLEIMACKITKQC	37	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3630				  Esculentin-2-ALa 	Amolops loloensis	Animalia (Amphibia)	GIFALIKTAAKFVGKNLLKQAGKAGLEHLACKANNQC	37	19843479	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3631				  Esculentin-2-ALb 	Amolops loloensis	Animalia (Amphibia)	GIFSLIKTAAKFVGKNLLKQAGKAGVEHLACKANNQC	37	19843479	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3767				  Esculentin-2CHa 	Lithobates chiricahuensis	Animalia (Amphibia)	GFSSIFRGVAKFASKGLGKDLAKLGVDLVACKISKQC	37	21262304	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3873		P68577		SPBc2 prophage-derived bacteriocin sublancin-168	Bacillus subtilis 	Monera	GLGKAQCAALWLQCASGGTIGCGGGAVACQNYRQFCR	37	21196935	Antibacterial		Experimentally validated
+CAMPSQ4151	410591613	B3A0M8		Esculentin-2JDa	Odorrana jingdongensis 	Animalia (Amphibia)	GLFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC	37	22917879	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4153	410591614	B3A0M9		Esculentin-2JDb	Odorrana jingdongensis 	Animalia (Amphibia)	GIFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC	37	22917879	Antibacterial		Predicted
+CAMPSQ4341				Enterocin X beta	Enterococcus faecium KU-B5	Monera	IAPIIVAGLGYLVKDAWDHSDQIISGFKKGWNGGRRK	37	20418437	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ4460		P68578		Bacteriocin sublancin-168	Bacillus phage SPbeta	Monera	GLGKAQCAALWLQCASGGTIGCGGGAVACQNYRQFCR	37	10376821	Antibacterial	Gram+ve	Predicted
+CAMPSQ6871	255077	Q9S8X1		25 kDa antifungal protein (Fragment)	Linum usitatissimum 	Plantae	ARFDIQNKCPYTVWAASVPVGGGRQLNSGQTWXIDAP	37	1520338	Antifungal		Predicted (Based on signature)
+CAMPSQ9338				CecropinXJ 	Bombyx mori	Animalia	RWKIFKKIEKMGRNIRDGIVKAGPAIEVLGSAKAIGK	37	23500722	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9672				Esculentin-2SN1	Hylarana Spinulosa	Animalia	GIFSLFKAGAKFFGKNLLKEAGKAGAEHLACKAANQC	37	24055160	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10234		B5L172		OGA1 antimicrobial peptide 	Odorrana grahami 	Animalia	EEERDADEEENEVSGYAANVNVKRCGYKHGRANCGRG	37		Antibacterial, Antifungal, Antiviral		Predicted
+CAMPSQ10349				Serrulin	Tityus serrulatus	Animalia	GFGGGRGGFGGGRGGFGGGGIGGGGFGGGYGGGKIKG	37	31489876	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10389				Porcine Beta-Defensin 2	Sus scrofa	Animalia	DHYICAKKGGTCNFSPCPLFNRIEGTCYSGKAKCCIR	37	31379864	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10909				EcAMP1	Echinochloa crus-galli	Plantae	GSGRGSCRSQCMRRHEDEPWRVQECVSQCRRRRGGGD	37	24275143	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10941				CAP-18 	Oryctolagus cuniculus	Animalia	GLRKRLRKFRNKIKEKLKKIGQKIQGLLPKLAPRTDY	37	11557478	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10954				Leucocin A-QU 15	Leuconostoc pseudomesenteroides QU 15	Monera	KYYGNGVHCTKSGCSVNWGEAFSAGVHRLANGGNGFW	37	20070442	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10971				Brevinin-2ZHa	Rana zhenhaiensis 	Animalia	GIMRVFKGVLKTAGKSVAKNVAGSFLDRLKCKISGGC	37	22943778	Antibacterial, Antifungal 		Experimentally validated
+CAMPSQ11096				I1_xm11a	Conasprella ximenes	Animalia	GRCRGFREDCSQHRDCCGDLCCNGNTCVITVIACPKW	37	29360782	Antibacterial		Experimentally validated
+CAMPSQ11111				Bacteriocin L-1077	Lactobacillus Salivarius 1077 (NRRL B-50053)	Monera	TNYGNGVGVPDAIMAGIIKLIFIFNIRQGYNFGKKAT	37	21378051	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11543				Sublancin	Bacillus subtilis 168	Monera	GLGLAQCAALWLQCASGGTIGCGGGAVACQNYRQFCR	37	30582697	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11786				SpPR-AMP1	Scylla paramamosain	Animalia (Crustacean)	GYFPGRPPFPRPFPRPPSRPFPRPPFPGPFPRPYPWR	37	28479344	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

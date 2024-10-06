@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ832				Ascaphin-5	Ascaphus truei	Animalia (Amphibia)	GIKDWIKGAAKKLIKTVASNIANQ	24	15207717	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ833		P0CJ31		Ascaphin-7	Ascaphus truei	Animalia (Amphibia)	GFKDWIKGAAKKLIKTVASSIANQ	24	15207717	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ861	14030273	Q90VX5		Winter flounder 1	Pseudopleuronectes americanus	Animalia (Pisces)	GKGRWLERIGKAGGIIIGGALDHL	24	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ864	14030279	Q90VW7		Winter flounder 3	Pseudopleuronectes americanus	Animalia (Pisces)	FLGALIKGAIHGGRFIHGMIQNHH	24	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ903	26393014	P81567		Defensin D6 	Spinacia oleracea	Plantae	GIFSNMYXRTPAGYFRGPXGYXXN	24	9762899	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ993				Brevinin -1 Gra	Rana grahami	Animalia (Amphibia)	FLPLLAGLAANFLPKIFCKITKKC	24	16621155	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ997				Brevinin-1CSa	Rana cascadae	Animalia (Amphibia)	FLPILAGLAAKIVPKLFCLATKKC	24	17451843	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1085	224487672	P0C8T1		Brevinin-1PTa	Rana picturata	Animalia (Amphibia)	FMGGLIKAATKIVPAAYCAITKKC	24	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1086	224487671	P0C8S8		Brevinin-1HSb	Rana hosii	Animalia (Amphibia)	FLPAVLRVAAQVVPTVFCAISKKC	24	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1087	224487670	P0C8S7		Brevinin-1HSa	Rana hosii	Animalia (Amphibia)	FLPAVLRVAAKIVPTVFCAISKKC	24	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1096	66773811	P69836		Grammistin GsG	Grammistes sexlineatus	Animalia (Pisces)	LFGFLIPLLPHIIGAIPQVIGAIR	24		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1130	124015194	P0C2D6		L-amino-acid oxidase	Trimeresurus mucrosquamatus	Animalia (Reptiles)	ADNKNPLEECFRETNYEEFLEIAR	24	12621545	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1299	38257918	P83675		LANA_RUMHA	Ruminococcus hansenii 	Monera	GNGVLKTISHECNMNTWQFLFTCC	24		Antibacterial	Gram+ve	Predicted
+CAMPSQ1306	29123264	Q800R7		Caerin 1.13	Litoria caerulea	Animalia (Amphibia)	GLLSVLGSLKLIVPHVVPLIAEHL	24		Antibacterial		Predicted
+CAMPSQ1527	13959340	O93455		Dermaseptin PD-3-7	Pachymedusa dacnicolor	Animalia (Amphibia)	LLGDLLGQTSKLVNDLTDTVGSIV	24		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1529	29337225	P81490		Dermaseptin-B6	Phyllomedusa bicolor	Animalia (Amphibia)	ALWKDILKNAGKAALNEINQLVNQ	24		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1765	221271913	P86149		Brevinin-1E	Rana ridibunda	Animalia (Amphibia)	FLPLLAGLAANFLPKIFCKITRKC	24		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1766	221271912	P86150		Brevinin-1Ecb	Rana ridibunda	Animalia (Amphibia)	FLPLLAGLAANFFPKIFCKITRKC	24		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1815	224487673	P0C8T2		Brevinin-1PTb	Rana picturata	Animalia (Amphibia)	FMGGLIKAATKALPAAFCAITKKC	24		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1887	66773947	P69838		Grammistin Pp4b	Pogonoperca punctata	Animalia (Pisces)	LFGFLIPLLPHLIGAIPQVIGAIR	24		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1888	66773946	P69837		Grammistin Pp4a	Pogonoperca punctata	Animalia (Pisces)	LFGFLIPLLPHIIGAIPQVIGAIR	24		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2452	306530876	P0CH49		Antimicrobial peptide scolopin-2 	Scolopendra mutilans  	Animalia (Centipedes)	ILKKFMLHRGTKVYKMRTLSKRSH	24	19716842	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2601	317411859	P0CI92		Ponericin-W-like 322	Lychas mucronatus	Animalia (Arachnida)	FGSLFSLGSKLLPTVFKLFSRKKQ	24	20663230	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ2603	317411858	P0CI91		Ponericin-W-like 321	Lychas mucronatus	Animalia (Arachnida)	FGSLFSLGSKLLPSVFKLFSRKKQ	24	20663230	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2605	308197120	P86711		Ocellatin-K1 	Leptodactylus knudseni	Animalia (Amphibia)	VVDILKGAAKDLAGHLASKVMNKI	24		Antibacterial		Predicted

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21419		Q70623		Vif (17-29)	Synthetic construct		RIRTWKSLVKHHM	13	10074409	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21487				Undefined	Synthetic construct		AEASQVTNTATIM	13	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21559				IBP	Synthetic construct		DCAWHLGELVWCT	13	31805154	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21666				VSL2	Synthetic construct		AXKAXWKXVKXVK	13	21321136	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21830				K13	Synthetic construct		KKKKKKKKKKKKK	13	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21842				P13	Synthetic construct		PPPPPPPPPPPPP	13	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21954				Undefined	Synthetic construct		WHWTWLRIRKKLR	13	16169733	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21956				Undefined	Synthetic construct		WHWTWLPKKKRKV	13	16169733	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22021				L-K6 [I1W][L5W]	Synthetic construct		WKKIWSKIKKLLK	13	24496141, 31824473, 32023094	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22022				L-K6 [I4W][L5W]	Synthetic construct		IKKWWSKIKKLLK	13	24496141, 31824473, 32023094	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22023				L-K6 [L11W]	Synthetic construct		IKKILSKIKKWLK	13	31824473, 32023094, 23710779	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22024				L-K6 [L12W]	Synthetic construct		IKKILSKIKKLWK	13	31824473, 32023094, 23710779	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22025				L-K6 [I1W]	Synthetic construct		WKKILSKIKKLLK	13	32023094, 23710779	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22026				L-K6 [I4W]	Synthetic construct		IKKWLSKIKKLLK	13	32023094, 23710779	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22027				L-K6 [L5W]	Synthetic construct		IKKIWSKIKKLLK	13	32023094, 23710779	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22093		Q6JWQ9		Epinecidin-1 (23-35)	Synthetic construct		FIFHIIKGLFHAG	13	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22319				[R7W6]	Synthetic construct		RRRRRRRWWWWWW	13	30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22327		A0A151PB79		Fibrinogen Am2, FGG(401-413)	Synthetic construct		KKTSMKIIPFTRL	13	25671663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22329		A0A151NV03		Histone deacetylase complex subunit SAP130 isoform B (837-849), ASAP130LP	Synthetic construct		PPGASPRKKPRKQ	13	25671663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22359		C6F1K2		Heat shock protein 70 (158-170)	Synthetic construct		SQRQATKDAGVIS	13	23973864	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ22476				RP-13, RP-11 [Y3K, K4Y]	Synthetic construct		ALKYRLFKKLKKF	13	25729870	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22500				Octyl Tridecaptin A1 [v1a]	Synthetic construct		axGswSXxFEVxA	13	24816483	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22501				Octyl Tridecaptin A1 [D-DAB2a]	Synthetic construct		vaGswSXxFEVxA	13	24816483	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22502				Octyl Tridecaptin A1 [G3A]	Synthetic construct		vxAswSXxFEVxA	13	24816483	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22503				Octyl Tridecaptin A1 [s4a]	Synthetic construct		vxGawSXxFEVxA	13	24816483	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20029		W8PRC4,W8NYW9,		Hymenochirin-1B [E6K,D9K]	Synthetic construct		IKLSPkTKkNLKKVLKGAIKGAIAVAKMV	29	24434793, 24185042, 24172540	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20269		P01966		Bovine hemoglobin alpha chain (1-29)	Synthetic construct		VLSAADKGNVKAAWGKVGGHAAEYGAEAL	29	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20628				Hymenochirin-1B [P5K]	Synthetic construct		IKLSKETKDNLKKVLKGAIKGAIAVAKMV	29	24185042, 24172540	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20629		W8PRC4,W8NYW9		Hymenochirin-1B [E6k]	Synthetic construct		IKLSPKTKDNLKKVLKGAIKGAIAVAKMV	29	24185042, 24172540	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20630		W8PRC4,W8NYW9		Hymenochirin-1B [D9k]	Synthetic construct		IKLSPETKKNLKKVLKGAIKGAIAVAKMV	29	24185042, 24172540	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20631		W8PRC4,W8NYW9		Hymenochirin-1B [P5K,E6K]	Synthetic construct		IKLSKKTKDNLKKVLKGAIKGAIAVAKMV	29	24185042, 24172540	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20632		W8PRC4,W8NYW9		Hymenochirin-1B [P5K,D9K]	Synthetic construct		IKLSKETKKNLKKVLKGAIKGAIAVAKMV	29	24185042, 24172540	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20656		P22749		Granulysin (23-51)	Synthetic construct		QRSVSNAATRVCRTGRSRWRDVCRNFMRR	29	10903754	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20657		P22749		Granulysin (23-51) [C34S][C45S]	Synthetic construct		QRSVSNAATRVSRTGRSRWRDVSRNFMRR	29	10903754	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20775				Hymenochirin-1Pa [D9k]	Synthetic construct		LKLSPKTKKTLKKVLKGAIKGAIAIASMA	29	25241629	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21134		P82656		Hadrurin/Vejovine based peptide, H/V-peptide	Synthetic construct		GILKTIKSIASKVANTVQKLKRKAKNAVA	29	23403131	Antibacterial, Antiparasitic	Gram-	Experimentally Validated
+CAMPSQ21178		P19661		Cathelicidin-3 (31-59), Bactenecin-7 (31-59)	Synthetic construct		PLPFPRPGPRPIPRPLPFPRPGPRPIPRP	29	12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21519				C29	Synthetic construct		WMEWDREINNYTSLIHSLIEESQNQQEKN	29	19114674	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21520				SC29EK	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSEEQQKKN	29	19114674, 31277353	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21544		P04578		WQ-LDL	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSQNQQLDL	29	27795416	Antiviral		Experimentally Validated
+CAMPSQ21545		P04578		WQ-IDI	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSQNQQIDI	29	27795416	Antiviral		Experimentally Validated
+CAMPSQ21546		P04578		WQ-LDI	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSQNQQLDI	29	27795416	Antiviral		Experimentally Validated
+CAMPSQ21547		P04578		WQ-IDL	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSQNQQIDL	29	27795416, 31277353	Antiviral		Experimentally Validated
+CAMPSQ21574		P03377		LP-83	Synthetic construct		WEQKIEELLKKAEEQQKKNEEELKKLEKC	29	30867304	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21575		P03377		LP-86	Synthetic construct		LEANIEELLKKAEEQQKKNEEELKKLEKC	29	30867304	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21648		P46161		Template Beta-defensin (10-38) [C25S]	Synthetic construct		GFCIPIRCPGHTRQIGTCFGPRVKSCRKW	29	19453294	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21795		P49928		SMAP-29 [I27T,G29T]	Synthetic construct		RGLRRLGRKIAHGVKKYGPTVLRIIRTAT	29	21377841	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21796		P49928		SMAP-29 [R1G,G2A,A11T,G13A]	Synthetic construct		GALRRLGRKITHAVKKYGPTVLRIIRIAG	29	21377841	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21797		P49928		SMAP-29 [Y17G]	Synthetic construct		RGLRRLGRKIAHGVKKGGPTVLRIIRIAG	29	21377841	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21811		P12724		Eosinophil cationic protein (8-36) [C23,37S]	Synthetic construct		AQWFAIQHISLNPPRSTIAMRAINNYRWR	29	21696142	Antibacterial	Gram+,Gram-	Experimentally Validated

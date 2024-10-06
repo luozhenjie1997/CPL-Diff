@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19990				Undefined	Synthetic construct		hKhWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19991				Undefined	Synthetic construct		kHkWlWlW	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19992				Undefined	Synthetic construct		WkKkWlWl	8	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20094		P0C2F0		Ubiquicidin, UBI 31-38	Synthetic construct		RAKRRMQY	8	16814900	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20115				BPC8D	Synthetic construct		KLKFKLKQ	8	16730857	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20118				BPC8S1	Synthetic construct		KLKLKLKQ	8	16730857	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20119				BPC8S2	Synthetic construct		KLKLKLKE	8	16730857	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20120				BPC8S3	Synthetic construct		LKLKLKLQ	8	16730857	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20121				BPC8S4	Synthetic construct		KKLKLKKQ	8	16730857	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20447		D4YWD1		Temporin-SHf [F2S]	Synthetic construct		FSFLSRIF	8	26181487	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20448				Temporin-Retro-SHf	Synthetic construct		firslfff	8	26181487	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20449		D4YWD1		Temporin-SHf-CO2H [S5R]	Synthetic construct		FFFLRRIF	8	26181487	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20450		D4YWD1		Temporin-SHf [S5H-MET-SER]	Synthetic construct		FFFLXRIF	8	26181487	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20451		D4YWD1		Temporin-SHf [F3TERT BU PHE]	Synthetic construct		FFXLSRIF	8	26181487	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20452		D4YWD1		Temporin-SHf [F2TERT BU PHE]	Synthetic construct		FXFLSRIF	8	26181487	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20453		D4YWD1		Temporin-SHf [F1TERT BU PHE]	Synthetic construct		XFFLSRIF	8	26181487	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20454		D4YWD1		Temporin-SHf [F3TERT BU PHE; S5R]	Synthetic construct		FFXLRRIF	8	26181487	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20455		D4YWD1		Temporin-SHf [F1TERT BU PHE; S5R]	Synthetic construct		XFFLRRIF	8	26181487	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20456		D4YWD1		Temporin-SHf [F2TERT BU PHE; S5R]	Synthetic construct		FXFLRRIF	8	26181487	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20457		D4YWD1		Temporin-SHf [L4C, I7C]	Synthetic construct		FFFCSRCF	8	30924306	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20997				Trichogin-8	Synthetic construct		XGGLXGIL	8	19399781	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21022		P56029		HP(6-13) 50S ribosomal protein L1	Synthetic construct		FKRLEKLF	8	17961502	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21163		P19661		Bac7 (1-8)[P8R]	Synthetic construct		RRIRPRPR	8	25525837	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21309				Undefined	Synthetic construct		RLYRRLYR	8	11846794	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21417		Q70623		Vif (1-8)	Synthetic construct		MENRWQVM	8	10074409	Antiviral	Gram+,Gram-	Experimentally Validated

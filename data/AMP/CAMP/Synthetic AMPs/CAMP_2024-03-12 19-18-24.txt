@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ16474				K9L6	Synthetic construct		LKKLKKLLKKLKKKL	15	22969424	Antibacterial	Gram+	Experimentally validated
+CAMPSQ16540				L1R	Synthetic construct		ELDrIGYGTArrKKR	15	25810238	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16541				ML1	Synthetic construct		ELDRIGYGTARRKKR	15	25810238	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16542				ML1R	Synthetic construct		ELDrIGYGTArrKKR	15	25810238	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16590		Q9NFY6		L1	Synthetic construct		VNFLLHKIYGNIRYS	15	29728914	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16591		Q9NFY6		L2	Synthetic construct		GGEAVQKLVREVKDG	15	29728914	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16592		Q9NFY6		L8	Synthetic construct		GVARIRDLLIIESRI	15	29728914	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16593		Q9NFY6		L10	Synthetic construct		RIRDAIAHGYIVDKV	15	29728914	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16594		Q9NFY6		L12	Synthetic construct		YYGALHNTAHIVLGR	15	29728914	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16595		Q9NFY6		M1	Synthetic construct		VNGLLHKIYGNIRYS	15	29728914	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16596		Q9NFY6		M2	Synthetic construct		VNFLLHKIYDNIRYS	15	29728914	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16597		Q9NFY6		M3	Synthetic construct		VNFLLHKIYGNIRDS	15	29728914	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16610		A1DBL3		NFAP2 (38-52)	Synthetic construct		GKCEWQGGQLNCIAT	15	29563903	Antifungal		Experimentally validated
+CAMPSQ16835				IB-469	Synthetic construct		GLCYCRGRFCVCVGR	15	10931444	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17141		A6XMY0		Arasin 1 (9-23)	Synthetic construct		PRPFPGRPKPIFRPR	15	23326415	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ17149		P80054,		PR-39 (1-15)	Synthetic construct		RRRPRPPYLPRPRPP	15	24755622,11179998	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17735				PR-39(1-15)	Synthetic construct		RRRPRPPYLPRPRPP	15	24755622	Antibacterial	Gram -ve, Gram +ve	Experimentally validated
+CAMPSQ17721				DBS1-(DBS1-G)-Con R to K	Synthetic construct		KKGWAKKLAFAFGKK	15	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17717				D-DBS1-(DBS1-G)-Consensus	Synthetic construct		RRGWARRLAFAFGRR	15	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17714				D-DBS4	Synthetic construct		RRGWARRLVFAFGRR	15	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17713				D-DBS3	Synthetic construct		RRGWARRLFAAFGRR	15	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17712				D-DBS2	Synthetic construct		RRGWAARLFAAFGRR	15	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17710				D-RDBS2	Synthetic construct		rrGwarapafafGrr	15	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17711				D-DBS1	Synthetic construct		RRGWARRLFFAYGRR	15	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17709				D-RDBS1	Synthetic construct		RRGWAFRRALAYGRR	15	32241895	Antibacterial	Gram+,Gram-	Experimentally validated

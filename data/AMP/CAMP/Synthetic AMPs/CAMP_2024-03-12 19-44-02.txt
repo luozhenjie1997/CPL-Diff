@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22620				Codesane [L6w], COD-5	Synthetic construct		GMASLWAKVLPHVVKLIK	18	25123582	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22625		P01507		Cecropin (1-7)+Melittin (2-12), CM18	Synthetic construct		KWKLFKKIGAVLKVLTTG	18	24039565	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22645		E7EKD9		Odorranain-B1 (2-19)	Synthetic construct		ALKGCWTKSIPPKPCFGK	18	17384140	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22668				ISGCock_Contig16_4974	Synthetic construct		KKVWFIFHVCPKLKQRIL	18	27167617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22674				ISGCock_Contig15_1337-2	Synthetic construct		HNSSKQWSHWLWHNGIRI	18	27167617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22698		P02788		Human lactoferricin (21-32)+SRRRRG, HLR1r	Synthetic construct		FQWQRNMRKVRGSRRRRG	18	27155369	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22699		A0A072TL50		MtDef5 (89-106)	Synthetic construct		GACHRQGFGFACFCYKKC	18	30252607	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22875		P34034		Leucocin A (18-35)	Synthetic construct		WGEAFSAGVHRLANGGNG	18	28002968	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22876		P34034		Leucocin A (18-35)[E3R]	Synthetic construct		WGRAFSAGVHRLANGGNG	18	28002968	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22877		P34034		Leucocin A (18-35)[E3R;N14,17R]	Synthetic construct		WGRAFSAGVHRLARGGRG	18	28002968	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22878		P34034		Leucocin A (18-35)[E3R;A7R;H10R;N14,17R]	Synthetic construct		WGRAFSRGVRRLARGGRG	18	28002968	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22879		P34034		Leucocin A (18-35)[E3R;S6R;A7R;H10R;N14,17R;G18R]	Synthetic construct		WGRAFRRGVRRLARGGRR	18	28002968	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22880		P34034		Leucocin A (18-35)[E3R;S6R;A7R;G8,16L;H10R;N14,17R;G18R]	Synthetic construct		WGRAFRRLVRRLARGLRR	18	28002968	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22881				Leucocin A (18-35)[G2,8,15,16L;E3R;S6R;A7R;H10R;N14,17R;G18R]	Synthetic construct		WLRAFRRLVRRLARLLRR	18	28002968	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22884				Undefined	Synthetic construct		GVVVRVGRVVVRWVRRRR	18	24649883	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22890				WK4	Synthetic construct		WKWKWKWKpGKWKWKWKW	18	26088720	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22894				WD3	Synthetic construct		WRPGRWWRPGRWWRPGRW	18	26546414	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22897				WN3	Synthetic construct		WRNGRWWRNGRWWRNGRW	18	26546414	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22917		B5A9T1		Chensinin-1 [G4,7,11W]	Synthetic construct		SAVWRHWRRFWLRKHRKH	18	28054660	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22919		B5A9T1		Chensinin-1 [G4,7,11W;H6,15,18R]	Synthetic construct		SAVWRRWRRFWLRKRRKR	18	28054660	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23015				7R-Ahx-P3	Synthetic construct		RRRRRRRXGSLLGRMKGA	18	21144865	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23076		P49931		PMAP-36 (7-24)	Synthetic construct		RKKTRKRLKKIGKVLKWI	18	27251456	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23128		P07357		A3, Complement component C8 alpha chain (356-374) -del 372	Synthetic construct		VIDKAKMESLGITSRDTT	18	24101243	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23129		P07357		A4, Complement component C8 alpha chain (400-417)	Synthetic construct		KKFGGGKTERARKAMAVE	18	24101243	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23151				Acyclin 2	Synthetic construct		WIVYKWrRKVVRYWTGKR	18	29193517	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19132		Q29075		NK-2 C7A	Synthetic construct		KILRGVAKKIMRTFLRRISKDILTGKK	27	21474443	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19123		P82387		E(Aurein-1.2)2	Synthetic construct		FSEAIKKIIDFLGEGLFDIIKKIAESF	27	23519707	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19124		P82387		(Aurein-1.2)2K	Synthetic construct		GLFDIIKKIAESFKFSEAIKKIIDFLG	27	23519707	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19115		Q9MC90		Phage D3 ORF31 (5379)a, X2a	Synthetic construct		PRLKVYLPRYKVYSTAAGRYQLLSRYW	27	16165250	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ19062		P33432		Puroindoline-A (34-46)-K-Puroindoline-A (34-46)	Synthetic construct		FPVTWRWWKWWKGKFPVTWRWWKWWKG	27	33207639	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19033				CKIA27	Synthetic construct		IAGKIAKIAGKIAKIAGKIAKIAGKIA	27	32126225	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18950		P14661		Cecropin-P1 (1-9)x3	Synthetic construct		WLSKTAKKLWLSKTAKKLWLSKTAKKL	27	29266746	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18695				M8G2	Synthetic construct		TFFRLFNRGGGKNLRIIRKGIHIIKKY	27	17060534	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ18506		P01514,P31234	1SMZ	Transportan, Galanin (1-12)-K-Mastoparan	Synthetic construct		GWTLNSAGYLLGKINLKALAALAKKIL	27	22853904, 32153547	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20096		P54229		BMAP-28 [L3A]	Synthetic construct		GGARSLGRKILRAWKKYGPIIVPIIRI	27	19735644	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20097		P54229		BMAP-28 [I10A]	Synthetic construct		GGLRSLGRKALRAWKKYGPIIVPIIRI	27	19735644	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20098		P54229		BMAP-28 [I20A]	Synthetic construct		GGLRSLGRKILRAWKKYGPAIVPIIRI	27	19735644	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20099		P54229		BMAP-28 [L3A,I10A]	Synthetic construct		GGARSLGRKALRAWKKYGPIIVPIIRI	27	19735644	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20100		P54229		BMAP-28 [L3A,I10A,I20A]	Synthetic construct		GGARSLGRKALRAWKKYGPAIVPIIRI	27	19735644	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20271		P01966		Bovine hemoglobin alpha chain (1-27)	Synthetic construct		VLSAADKGNVKAAWGKVGGHAAEYGAE	27	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20289		P01966		Bovine hemoglobin alpha chain (107-133)	Synthetic construct		VTLASHLPSDFTPAVHASLDKFLANVS	27	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20384		P84387		CPF-St4	Synthetic construct		SLFGTFAKMALKGASKLIPHLLPSRQQ	27	23935531	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20385		P84387		CPF-St5	Synthetic construct		GVFGLLAKAALKGASKLIPHLLPSRQQ	27	23935531	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20446		P04002		Pa-MAP3, Antifreeze peptide analogue	Synthetic construct		LAAKLTKAAKLTAALTKLAAALTAAAT	27	27161201	Antiviral	Gram+	Experimentally Validated
+CAMPSQ20669				Granulysin 12.39	Synthetic construct		rrrrrrrrrvsrrpmrryrsrrprrlv	27	18310138	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20689		D3UA61		Esculentin-2CHa (11-37)	Synthetic construct		KFASKGLGKDLAKLGVDLVACKISKQC	27	23159562	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20707		P85170		ChBac3.4-1-COOH	Synthetic construct		RFRLPFRRIHPPPFVRIHPPPFYRRFL	27	33194795	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21070		Q8T0Z4		Trialysin (26-53)	Synthetic construct		VSAVAKVAMKKGAALLKKMGVKISPLK	27	16460023	Antibacterial, Antiparasitic	Gram-	Experimentally Validated
+CAMPSQ21071		Q8T0Z4		Trialysin (21-48)	Synthetic construct		KQLKKVSAVAKVAMKKGAALLKKMGVK	27	16460023	Antibacterial, Antiparasitic	Gram-	Experimentally Validated
+CAMPSQ21072		Q8T0Z4		Trialysin (16-43)	Synthetic construct		VGKVLKQLKKVSAVAKVAMKKGAALLK	27	16460023	Antibacterial, Antiparasitic	Gram-	Experimentally Validated

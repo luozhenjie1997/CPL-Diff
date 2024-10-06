@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ259	24637998	P83082, Q58T83 , Q58T80 , Q58T70 , Q58T69 , Q58T68 , Q58T64 , Q58T48 , Q58T46 , Q58T40		Maximin 3	Bombina maxima	Animalia (Amphibia)	GIGGKILSGLKTALKGAAKELASTYLH	27	11835991	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ261	24637999	P83083, Q58T79 , Q58T77 , Q58T62 , Q58T52 , Q58T44 , Q58T42		Maximin 4	Bombina maxima	Animalia (Amphibia)	GIGGVLLSAGKAALKGLAKVLAEKYAN	27	11835991	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ263	24638000	P83084, Q58T61 , Q58T60		Maximin 5	Bombina maxima	Animalia (Amphibia)	SIGAKILGGVKTFFKGALKELASTYLQ	27	11835991	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ440	41017620	P82879		Ranatuerin-2Cb	Rana clamitans	Animalia (Amphibia)	GLFLDTLKGLAGKLLQGLKCIKAGCKP	27	10822101	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ463	461478	P30227		Cysteine-rich antifungal protein 1 (Br-AFP1)	Brassica rapa subsp. rapa	Plantae	QKLCERPSGTWSGVCGNNNACKNQCIN	27	8422949	Antifungal		Experimentally validated
+CAMPSQ464	461481	P30228		Cysteine-rich antifungal protein 2 (Br-AFP2)	Brassica rapa subsp. rapa	Plantae	QKLCERPSGTXSGVCGNNNACKNQCIR	27	8422949	Antifungal		Experimentally validated
+CAMPSQ467	461938	P80280	2DCX,2DD6	Dermaseptin-4 	Phyllomedusa sauvagii	Animalia (Amphibia)	ALWMTLLKKVLKAAAKALNAVLVGANA	27	11850249	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ485	47605787	P61508		Lycotoxin-2 	Hogna carolinensis	Animalia (Arachnida)	KIKWFKTMKSIAKFIAKEQMKKHLGGE	27	9442044	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ491	50401829	P83960		Alpha-benincasin	Benincasa hispida 	Plantae	RDWERREFERRQNELRREQEQRREELL	27	12576080	Antifungal		Experimentally validated
+CAMPSQ507	52783032	O54329		Lantibiotic mutacin-2 	Streptococcus mutans 	Monera	NRWWQGVVPTVSYECRMNSWQHVFTCC	27	8592997	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ517	547823	P36499		Lantibiotic lacticin-481	Lactococcus lactis subsp. lactis 	Monera	KGGSGVIHTISHECNMNSWQFVFTCCS	27		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ526	55976281	P84276		Palustrin-1c	Rana palustris	Animalia (Amphibia)	ALSILRGLEKLAKMGIALTNCKATKKC	27	11087945	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ527	55976282	P84277		Palustrin-1d	Rana palustris	Animalia (Amphibia)	ALSILKGLEKLAKMGIALTNCKATKKC	27	11087945	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ553	59798984	P84387		XT-1 	Xenopus tropicalis	Animalia (Amphibia)	GFLGPLLKLAAKGVAKVIPHLIPSRQQ	27	11738090	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ630	75416081	Q9KWM4		Lantibiotic nukacin precursor 	Staphylococcus warneri 	Monera	KKKSGVIPTVSHDCHMNSFQFVFTCCS	27	16233732 , 16957223	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ679				MBMAP28	Bos taurus 	Animalia (Mammals)	GGLRSLGRKILRAWKKYGPQATPATRQ	27	8910461	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ829	1536914	P71449		Bacteriocin J46	Lactococcus lactis	Monera	KGGSGVIHTISHEVIYNSWNFVFTCCS	27	8588891	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1235	505484, 743626	P80282		Dermaseptin B1	Phyllomedusa bicolor	Animalia (Amphibia)	DVLKKIGTVALHAGKAALGAVADTISQ	27		Antibacterial, Antifungal		Predicted
+CAMPSQ1311	68052268	Q58T41 , Q58T59		Maximin-6 	Bombina maxima	Animalia (Amphibia)	GIGGALLSAGKSALKGLAKGLAEHFAN	27	11835991	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1522	13959332	O93223		Dermaseptin AA-3-1	Agalychnis annae	Animalia (Amphibia)	SLWSKIKEMAATAGKAALNAVTGMVNQ	27		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1526	13959334	O93225		Dermaseptin AA-3-4	Agalychnis annae	Animalia (Amphibia)	GMWGSLLKGVATVVKHVLPHALSSQQS	27		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1538	24638002	P83086 , Q58T74 , Q58T58		Maximin-7	Bombina maxima	Animalia (Amphibia)	GIGAKILGGVKTALKGALKELASTYVN	27		Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1752	68052272	Q58T45 , Q58T39		Maximin-10	Bombina maxima	Animalia (Amphibia)	GIGGALLSAGKSALKGLAKGLAEHFAS	27		Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1754	68052034	Q58T55		Maximin-9	Bombina maxima	Animalia (Amphibia)	GIGRKFLGGVKTTFRCGVKDFASKHLY	27	11835991	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1775	68052422	Q58T90		Maximin-z	Bombina maxima	Animalia (Amphibia)	GIGGALLSAGKSALKGLAKGLVEHFAN	27		Antibacterial, Antifungal		Predicted

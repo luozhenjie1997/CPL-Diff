@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8163		P0DME6		Peptide Hp1036	Heterometrus petersii 	Animalia (Arachnida)	ILGKIWEGIKSIF	13	24315793	Antiviral		Experimentally validated
+CAMPSQ8169		P0DME7		Peptide Hp1165	Heterometrus petersii 	Animalia (Arachnida)	ILGEIWKGIKDIL	13	24315793	Antiviral		Predicted
+CAMPSQ8173		P0DME9		Peptide Hp1412	Heterometrus petersii 	Animalia (Arachnida)	IFKAIWSGIKRLC	13	24315793	Antiviral		Predicted
+CAMPSQ8174		P0DMF0		Peptide Hp1478	Heterometrus petersii 	Animalia (Arachnida)	ILGKFCDEIKRIV	13	24315793	Antiviral		Predicted
+CAMPSQ8175		P0DME8		Peptide Hp1239	Heterometrus petersii 	Animalia (Arachnida)	ILSYLWNGIKSIF	13	24315793	Antiviral		Experimentally validated
+CAMPSQ8302				Sarconesin II	Sarconesiopsis magellanica	Animalia (Insects)	VALTGLTVAEYFR	13	31159162	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9270				Temporin-PE 	Pelophylax kl.esculentus	Animalia (Amphibia)	FLPIVAKLLSGLL	13	29191658	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9290				Wuchuanin A1	Odorrana andersonii 	Animalia (Amphibia)	APDRPRKFCGILG	13	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9291				Wuchuanin C1	Odorrana andersonii 	Animalia (Amphibia)	VFLGNIVSMGKKI	13	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9298				UyCT3	Urodacus yaschenkoi	Animalia (Arthropoda)	ILSAIWSGIKSLF	13	28067810, 23182833	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9299				UyCT5	Urodacus yaschenkoi	Animalia (Arthropoda)	IWSAIWSGIKGLL	13	28067810	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9300				Uy17	Urodacus yaschenkoi	Animalia (Arthropoda)	ILSAIWSGIKGLL	13	28067810	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9301				Uy192	Urodacus yaschenkoi	Animalia (Arthropoda)	FLSTIWNGIKGLL	13	28067810	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9305				Um4	Urodacus manicatus	Animalia (Arachnida)	FFSALLSGIKSLF	13	28067810	Antibacterial		Experimentally validated
+CAMPSQ9306				Um5	Urodacus manicatus	Animalia (Arachnida)	IFKAIWSGIKSLF	13	28067810	Antibacterial		Experimentally validated
+CAMPSQ9575				C(9-21)	Gallus gallus	Animalia	IRRFRPKVTITIQ	13	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9806				BmKn2	Mesobuthus martensii	Animalia	FIGAIARLLSKIF	13	22792229	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9909				NDBP-5.7	O. cayaporum	Plantae	ILSAIWSGIKSLF	13	27917162	Antibacterial, Antibiofilm, Antifungal		Experimentally validated
+CAMPSQ9969				P2	Crotalus durissus terrificus	Animalia	KMDSRWRWKSSKK	13	23022146	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10095				LPR-KRK	Low protein rice by-products	Plantae	KRKARKKGRFSKK	13	31585860	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10154				IsCT1	Opisthacanthus madagascariensis	Animalia	ILGKIWEGIKSLF	13	31642159	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10268				Holosin 3	Ixodes holocyclus	Animalia	CDSWFRRRCHCYG	13	31445875	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10335				PH2	Homo sapiens	Animalia	AKRHHGLNCAKFH	13	26918792	Antifungal		Experimentally validated
+CAMPSQ10435				Citropin-1.2.2	Litoria citropa	Animalia	DIIKKVASVVGGL	13	10504394	Antibacterial		Predicted
+CAMPSQ10450				Aurein1.2	Litoria aurea 	Animalia	GLFDIIKKIAESF	13	31264322	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1604	61211661	Q95J22		Beta-defensin 1	Hylobates moloch	Animalia (Mammals)	DHYNCVRSGGQCLYSACPIYTKIQGTCYQGKAKCCK	36		Antibacterial		Predicted
+CAMPSQ1629	152060597	P60023		Beta-defensin 1	Pan troglodytes	Animalia (Mammals)	DHYNCVSSGGQCLYSACPIFTKIQGTCYGGKAKCCK	36		Antibacterial		Predicted
+CAMPSQ1634	47115610	P61262		Beta-defensin 1	Papio anubis	Animalia (Mammals)	DHYNCVRSGGQCLYSACPIYTRIQGTCYHGKAKCCK	36		Antibacterial		Predicted
+CAMPSQ1635	47115611	P61263		Beta-defensin 1	Pongo pygmaeus	Animalia (Mammals)	DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK	36		Antibacterial		Predicted
+CAMPSQ1636	61211582	Q7JGM0		Beta-defensin 1	Presbytis cristata	Animalia (Mammals)	DHYNCVRSGGQCLYSACPIYTKIQGTCYHGKAKCCK	36		Antibacterial		Predicted
+CAMPSQ1637	61211660	Q95J18		Beta-defensin 1	Presbytis melalophos	Animalia (Mammals)	DHYNCVRSGGQCLYSACPIYTKIQGTCYHGKAKCCK	36		Antibacterial		Predicted
+CAMPSQ1638	61211581	Q7JGL9		Beta-defensin 1	Presbytis obscura	Animalia (Mammals)	DHYNCVRSGGQCLYSACPIYTKIQGTCYHGKAKCCK	36		Antibacterial		Predicted
+CAMPSQ1640	61211663	Q95M66		Beta-defensin 1	Saguinus oedipus	Animalia (Mammals)	DHYNCVKGGGQCLYSACPIYTKVQGTCYGGKAKCCK	36		Antibacterial		Predicted
+CAMPSQ2138	1705753	P50724		Cecropin-A	Trichoplusia ni	Animalia (Insects)	RWKFFKKIEKVGQNIRDGIIKAGPAVAVVGQAASIT	36		Antibacterial		Predicted
+CAMPSQ2754		P80392		  THP-2 	Meleagris gallopavo 	Animalia (Aves)	LFCKRGTCHFGRCPSHLIKVGSCFGFRSCCKWPWDA	36	7964174	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2770		P80952		  Skin peptide tyrosine-tyrosine 	Phyllomedusa bicolor	Animalia (Amphibia)	YPPKPESPGEDASPEEMNKYLTALRHYINLVTRQRY	36	7937944	Antifungal		Predicted
+CAMPSQ2898		P83653	1Q3J	  Alo-3 	Acrocinus longimanus	Animalia (Insects)	CIKNGNGCQPNGSQNGCCSGYCHKQPGWVAGYCRRK	36	14661954	Antifungal		Experimentally validated
+CAMPSQ3265				  Neuropeptide Y 	Homo sapiens	Animalia (Mammals)	YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY	36	9756788	Antifungal		Experimentally validated
+CAMPSQ3508				  Palustrin-2SIb 	Odorrana ishikawae	Animalia (Amphibia)	GLWNSIKIAGKKLFVNVLDKIRCKVAGGCKTSPDVE	36	21911019	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3510				  WAM1 	Macropus eugenii	Animalia (Mammals)	KRGFGKKLRKRLKKFRNSIKKRLKNFNVVIPIPLPG	36	21912615	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3511				  WAM2 	Macropus eugenii	Animalia (Mammals)	KRGLWESLKRKATKLGDDIRNTLRNFKIKFPVPRQG	36	21912615	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3973		P84064		Glycine-rich protein GWK 	Cucumis melo 	Plantae	YKRGGGGWGGGGGWKGGGGGGGGWKGGGGGGKGGGG	36		Antifungal		Experimentally validated
+CAMPSQ4169	403318319	J9QU63		Beta-defensin 1TB precursor 	Tupaia belangeri 	Animalia (Mammals)	DHYLCVKNEGICLYSSCPSYTKIEGTCYGGKAKCCK	36	22939868	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4365		P0CF77		Tddefensin	Tityus discrepans	Animalia (Arachnida)	RYCPRNPEACYNYCLRTGRPGGYCGGRSRITCFCFR	36	19470401	Antibacterial	Gram+ve	Predicted
+CAMPSQ7549		P86358		Gloverin (Fragments)	Heliothis virescens 	Animalia (Insects)	VFGTLGSTDDSLFGRYKQDIFNDHRGHLQGQAYGSR	36		Antibacterial		Predicted
+CAMPSQ8424				MaeuCath7	Macropus eugenii	Animalia (Mammals)	KRGLWESLKRKVTKLGDDIRNTLRNFKIKFPVPRQG	36	28949902	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8426				ModoCath1	Monodelphis domestica	Animalia (Mammals)	LKKIFGSIVKKAVSKGVAEGLKAVDEARKAEKKGKK	36	28949902	Antibacterial 		Predicted
+CAMPSQ8427				ModoCath2	Monodelphis domestica	Animalia (Mammals)	LKKFFSSMIKKAVSKGISKGISKGIQEVDKAIKQKK	36	28949902	Antibacterial 		Predicted
+CAMPSQ8432				ModoCath9	Monodelphis domestica	Animalia (Mammals)	PKQKNGSKNRRFRIGGYTMISMKQPRVQKAPYMEAL	36	28949902	Antibacterial 		Predicted
+CAMPSQ8433				ModoCath10	Monodelphis domestica	Animalia (Mammals)	TLTQAHCPYFLRKKPEGEMATGGRPQETPKLLGAL	36	28949902	Antibacterial 		Predicted

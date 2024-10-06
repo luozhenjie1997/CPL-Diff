@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19828		Q90ZD8		Parasin I (2-19)	Synthetic construct		GRGKQGGKVRAKAKTRSS	18	18406495	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19833		F7CN31		Parasin I (2-19) [K2]	Synthetic construct		KRGKQGGKVRAKAKTRSS	18	18406495	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19892				KABT (1-9)-Uperin 3.6 (9-17), KU1	Synthetic construct		GIWKKWIKKVVNVLKNLF	18	25965506	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19894				KABT (1-11)-Uperin 3.6 (11-17),  KU2	Synthetic construct		GIWKKWIKKWLNVLKNLF	18	25965506	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19895				KABT (1-11)-Uperin 3.6 (11-17)[N11K],  KU3	Synthetic construct		GIWKKWIKKWLKVLKNLF	18	25965506	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19896				KABT (1-11)-Uperin 3.6 (11-17)[N11K,V12K],  KU4	Synthetic construct		GIWKKWIKKWLKKLKNLF	18	25965506	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20008		P82358		Gommut 1, Gomesin [C6,11W][Q9G]	Synthetic construct		ECRRLWYKGRWVTYCRGR	18	27859052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20015		P82358		Gomesin [PYA1E]	Synthetic construct		ECRRLCYKQRCVTYCRGR	18	27859052	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20022		P84381		XT-7 [G1K]	Synthetic construct		KLLGPLLKIAAKVGSNLL	18	18554256	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20023		P84381		XT-7 [P5K]	Synthetic construct		GLLGKLLKIAAKVGSNLL	18	18554256	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20024		P84381		XT-7 [A11K]	Synthetic construct		GLLGPLLKIAKKVGSNLL	18	18554256	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20025		P84381		XT-7 [S15K]	Synthetic construct		GLLGPLLKIAAKVGKNLL	18	18554256	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20026		P84381		XT-7 [S15K,N16K]	Synthetic construct		GLLGPLLKIAAKVGKKLL	18	18554256	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20027		P84381		XT-7 [P5K,S15K,N16K]	Synthetic construct		GLLGKLLKIAAKVGKKLL	18	18554256	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20028		P84381		XT-7 [G4K,P5K,S15K,N16K]	Synthetic construct		GLLKKLLKIAAKVGKKLL	18	18554256	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20074		P86170		Melectin [M14NLE]	Synthetic construct		GFLSILKKVLPKVXAHMK	18	20499256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20075		P86170		Melectin [L6V][M14LNE]	Synthetic construct		GFLSIVKKVLPKVXAHMK	18	20499256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20090		P0C2F0		Ubiquicidin, UBI 1-18	Synthetic construct		KVHGSLARAGKVRGQTPK	18	16814900	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20092		P0C2F0		Ubiquicidin, UBI 42-59	Synthetic construct		FVNVVPTFGKKKGPNANS	18	16814900	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20196		P14216		T22, Polyphemusin II [Tyr-5,12, Lys-7]	Synthetic construct		RRWCYRKCYKGYCYRKCR	18	1384424	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ20237		O16137		SCdeltaC, Defensin Sc-2 analogue	Synthetic construct		WLLLGKSGGRNDDAVVRK	18	16914230	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20300				Peptide [L6P9P13F16]	Synthetic construct		YKLLKLLLPKLKPLLFKL	18	8546675	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20301				Peptide [L6P9G13I16]	Synthetic construct		YKLLKLLLPKLKGLLIKL	18	8546675	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20302				Peptide [L6P9P13I16]	Synthetic construct		YKLLKLLLPKLKPLLIKL	18	8546675	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20303				Peptide [L6P9G13P16]	Synthetic construct		YKLLKLLLPKLKGLLPKL	18	8546675	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

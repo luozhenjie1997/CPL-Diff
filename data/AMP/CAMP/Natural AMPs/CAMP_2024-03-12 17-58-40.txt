@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2785			1MAG	  Gramicidin A 	Bacillus brevis	Monera	VGALAVVVWLWLWLW	15	19870884	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3154				  Odorranain-T1 	Odorrana grahami	Animalia (Amphibia)	TSRCYIGYRRKVVCS	15	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3165				  BTL 	Bacillus  subtilis B-TL2	Monera	KQQLATEAESAGPIL	15	18241956	Antifungal		Experimentally validated
+CAMPSQ3257				  Lasioglossin LL-I 	Lasioglossum laticeps	Animalia (Insects)	VNWKKVLGKIIKVAK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3259				  Lasioglossin LL-III 	Lasioglossum laticeps	Animalia (Insects)	VNWKKILGKIIKVVK	15	19591185, 28892177	Antifungal		Experimentally validated
+CAMPSQ3549				  Andersonin-D1 	Odorrana andersonii	Animalia (Amphibia)	FIFPKKNIINSLFGR	15	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3874		P86131		Signiferin-2.1	Crinia signifera 	Animalia (Amphibia)	IIGHLIKTALGMLGL	15	18601958,16470724	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3876		P84911, P84910		Cystatin-1, Cystatin-2 	Capra hircus 	Animalia (Mammals)	DTHISEKIIDCNDIG	15	16257555	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3883		P0C931		Eumenitin 	Eumenes rubronotatus 	Animalia (Insects)	LNLKGIFKKVASLLT	15	16762455	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3954		P83141		Antifungal protein 1 large subunit 	Malva parviflora 	Plantae	VAGPFRIPPLRREFQ	15	11118343	Antifungal		Experimentally validated
+CAMPSQ3963		P85004		Antifungal lectin AMML 	Astragalus mongholicus 	Plantae	ESGINLQGDATLANN	15	16140255	Antifungal		Experimentally validated
+CAMPSQ3965		P84754		Chitinase 	Streptomyces violaceus 	Monera	EQPGGDKVNLGYFTN	15	16972135	Antifungal		Experimentally validated
+CAMPSQ3979		P86781		Amaryllin 	Amaryllis belladonna 	Plantae	QKIQEIDLQTYLQPQ	15	19478451	Antifungal		Experimentally validated
+CAMPSQ4022		P86796		Antifungal protein Pr-2 	Cucurbita maxima 	Plantae	QGIGVGDNDGKRGKR	15	19807165	Antifungal		Experimentally validated
+CAMPSQ4594		P0CF01		Dinoponeratoxin Da-1585	Dinoponera australis	Animalia (Insects)	ALKAVPAVMGMIKKE	15	19879289	Antibacterial		Predicted
+CAMPSQ7531		P83630		Chitin-binding protein HM30 (Fragment)	Hydrangea macrophylla 	Plantae	NSMERVEELRKKLQD	15	11812226	Antifungal		Experimentally validated
+CAMPSQ8145		P0CJ37		Eumenitin-F	Eumenes rubrofemoratus 	Animalia (Insects)	LNLKGLFKKVASLLT	15	21549739	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8146		P0CJ36		Eumenitin-R	Eumenes rubrofemoratus 	Animalia (Insects)	LNLKGLIKKVASLLN	15	21549739	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8171		P0DMF5		Peptide Ctri9194	Chaerilus tricostatus 	Animalia (Arachnida)	YIRDFITRRPPFGNI	15	23415044	Antiviral		Experimentally validated
+CAMPSQ9284				Andersonin-Q1 	Odorrana andersonii 	Animalia (Amphibia)	EMLKKKKEVKMERKT	15	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9568				C(1-15)	Gallus gallus	Animalia	RFGRFLRKIRRFRPK	15	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9573				C(7-21)	Gallus gallus	Animalia	RKIRRFRPKVTITIQ	15	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9606				A1	Cnidopus japonicus	Animalia	DRVFKFACRRNKAAR	15	29361893	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9607				A2	Cnidopus japonicus	Animalia	NGKTWKKNRKACQVK	15	29361893	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9608				A3	Cnidopus japonicus	Animalia	RNSVRNRVMLWRTKR	15	29361893	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

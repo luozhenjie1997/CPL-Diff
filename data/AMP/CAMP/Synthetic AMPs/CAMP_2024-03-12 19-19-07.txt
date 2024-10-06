@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19542				ADAMP19	Synthetic construct		TSLGGWKLIQQKMDK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19543				ADAMP20	Synthetic construct		GNDYLHKLTQRKSVK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19544				ADAMP21	Synthetic construct		EIENGVKWVSFKGAK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19545				ADAMP22	Synthetic construct		YTGIFTKQVLSKLKK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19546				ADAMP23	Synthetic construct		GSHLVEKLYLVKERK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19547				ADAMP24	Synthetic construct		GISLANKMSLAKWEK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19548				RP1	Synthetic construct		DEKIYLIKVADVDQR	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19549				RP2	Synthetic construct		LMEIHHRASQDTPKE	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19550				RP3	Synthetic construct		WYADHSDQYQLLDTP	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19551				RP5	Synthetic construct		DLVELAMLEADRMSR	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19552				RP11	Synthetic construct		QDNYWVTQGLNILSG	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19553				CRP1	Synthetic construct		DEKIYLKKVADKDQK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19554				CRP2	Synthetic construct		LMEIHHKASQDKPKK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19555				CRP3	Synthetic construct		WYADHSKQYQLKDTK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19556				CRP5	Synthetic construct		DLVELAKLEADKMSK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19557				CRP11	Synthetic construct		QDNYWVKQGLNKLSK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19558				NAP1	Synthetic construct		TPIESHQVEKRKSNT	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19559				NAP2	Synthetic construct		MHMNVQNGKWDSDPS	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19560				CNAP1	Synthetic construct		TPIESHKVEKRKSNK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19561				CNAP2	Synthetic construct		MHMNVQKGKWDKDPK	15	21928454	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19579		P81835		Citropin 1.1 (1-15)	Synthetic construct		GLFDVIKKVASVIGG	15	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19590		P81835		Citropin 1.1 (1-15)[D4A]	Synthetic construct		GLFAVIKKVASVIGG	15	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19594		P81835		Citropin 1.1 [V5Del]	Synthetic construct		GLFDIKKVASVIGGL	15	30878358	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19597		D8L127		Papiliocin (1-7)+Jelleine-1, PAJE	Synthetic construct		RWKIFKKPFKISIHL	15	32627752	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19681				Undefined	Synthetic construct		fkklkklfsklfsfk	15	25169965	Antibacterial	Gram+,Gram-	Experimentally Validated

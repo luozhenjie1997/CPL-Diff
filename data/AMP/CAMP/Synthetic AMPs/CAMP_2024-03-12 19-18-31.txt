@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ17708				D-DRD2	Synthetic construct		RRGWARRLAAAYGRR	15	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17707				D-DRD1	Synthetic construct		RRGWALRPVLAFGRR	15	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17653		P51524,		C-Tritrpticin-C	Synthetic construct		CVRRFPWWWPFLRRC	15	26781579,32126228	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17553		P80280		C12- Dermaseptin S4 (1-15)-AMD	Synthetic construct		ALWKTLLKKVLKAAA	15	17043126,16436701,17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17533		P80280		 Dermaseptin C12-S4(1–15)	Synthetic construct		ALWKTLLKKVLKAAA	15	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17532		P80280		 Dermaseptin S4(1–15)a	Synthetic construct		ALWKTLLKKVLKAAA	15	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18072				Bp10	Synthetic construct		KLCKLLCLKLLKKKK	15	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18073				Bp11	Synthetic construct		LKCLLLLKKKCKKKL	15	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18074				Bp12	Synthetic construct		LLKKKKCLKLLCLKL	15	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18075				Bp13	Synthetic construct		LLLKKLLKKCLKCKK	15	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18115				Bp51	Synthetic construct		LKLKKKCKCLLLKKL	15	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18339				LW	Synthetic construct		LRRLRRRWRRRLRRL	15	28230992	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18340				AW	Synthetic construct		ARRARRRWRRRARRA	15	28230992	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18341				FW	Synthetic construct		FRRFRRRWRRRFRRF	15	28230992	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18342				WW	Synthetic construct		WRRWRRRWRRRWRRW	15	28230992	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18343				LrW	Synthetic construct		LRRLRRRWLRRLRRR	15	28230992	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18432				P1	Synthetic construct		GKLLVKKIVSLVRSA	15	29626331	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18433				P1-A	Synthetic construct		GKSLVKWIVKSVRKA	15	29626331	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18434				P1-B	Synthetic construct		GKSLVKWIVKSVRKA	15	29626331	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18436				P2-A	Synthetic construct		KVWTLFRAAGKLMAK	15	29626331	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18439				P3-B	Synthetic construct		AILRKATRRLVKLIV	15	29626331	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18440				P3-C	Synthetic construct		AIWRKATRRLVKLIV	15	29626331	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ18441				P4	Synthetic construct		LRKATRRLVQLIVSG	15	29626331	Antibacterial	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ19427		P80279		Dermaseptin-3 (1-15), Dermaseptin-S3 (1-15)	Synthetic construct		ALWKNMLKGIGKLAG	15	7989335	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19263		P81941		Pleurocidin (7-21)	Synthetic construct		KKAAHVGKHVGKAAL	15	23603258	Antibacterial	Gram+,Gram-	Experimentally Validated

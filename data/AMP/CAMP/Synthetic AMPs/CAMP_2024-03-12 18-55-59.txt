@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11654				[Glu]3-[Lys]5-[Glu]12-Pol-CP-NH2	Synthetic construct		ILETKLGLLKSE	12	30534613	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11655				[Gly]1 -Pol-CP-NH2	Synthetic construct		GLGTILGLLKSL	12	30534613	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11716				(HKK)4	Synthetic construct		HKKHKKHKKHKK	12	30486512	Antifungal		Experimentally validated
+CAMPSQ11740				Peptide 2	Synthetic construct		GKWKKILGKLIR	12	30447380	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11744				Peptide D2	Synthetic construct		gkwkkilgklir	12	30447380	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11791				MS-5	Synthetic construct		KRKIFLRTKILV	12	28479275	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11792				MS-6	Synthetic construct		VLIKTRLFIKRK	12	28479275	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11824				D-Omiganan 	Synthetic construct		ilrwpwwpwrrk	12	28453851	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11866				KR-12 	Synthetic construct		KRIVQRIKDFLR	12	28408902	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11896				GH12	Synthetic construct		GLLWHLLHHLLH	12	28366785	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11900				D-Lys-pro	Synthetic construct		ILGTILGLLkGL	12	28299840	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11901				D-pro	Synthetic construct		ilgtilgllkgl	12	28299840	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11983				Peptide 8101	Synthetic construct		RRWIRVAVILRV	12	27819280	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12038				Pm13 	Synthetic construct		FKFFKKFFKKWK	12	27341459	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12137				Phage-HTK	Synthetic construct		HTKQIPRHIYSA	12	30041713	Antiviral 		Experimentally validated
+CAMPSQ12138				Phage- VSR	Synthetic construct		VSRHQSWHPHDL	12	30041713	Antiviral 		Experimentally validated
+CAMPSQ12139				1	Synthetic construct		HTLHRQVPKHWL	12	30041713	Antiviral 		Predicted 
+CAMPSQ12140				2	Synthetic construct		HSSQWHPMAVHR	12	30041713	Antiviral 		Predicted 
+CAMPSQ12141				3	Synthetic construct		KHLPHANMQLYG	12	30041713	Antiviral 		Predicted 
+CAMPSQ12142				4	Synthetic construct		SPHVNHRHWSGS	12	30041713	Antiviral 		Predicted 
+CAMPSQ12143				5	Synthetic construct		AHGWNPHKTHSR	12	30041713	Antiviral 		Predicted 
+CAMPSQ12144				6	Synthetic construct		HPVKPLFAHPVL	12	30041713	Antiviral 		Predicted 
+CAMPSQ12145				7	Synthetic construct		NHVHRMHATPAY	12	30041713	Antiviral 		Predicted 
+CAMPSQ12146				8	Synthetic construct		HHRLHSAPAPQA	12	30041713	Antiviral 		Predicted 
+CAMPSQ12147				9	Synthetic construct		WPMPHKHQHTAL	12	30041713	Antiviral 		Predicted 

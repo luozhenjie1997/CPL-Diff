@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13	110279043	P0C1M6		Dominulin-A	Polistes dominulus	Animalia (Insects)	INWKKIAEVGGKILSSL	17	16446098	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15	110279045	P0C1M7		Dominulin-B	Polistes dominulus	Animalia (Insects)	INWKKIAEIGKQVLSAL	17	16446098	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ132	135266	P14213	1MA2,1MA4,1MA5,1MA6,1WO0,1WO1	Tachyplesin-1	Tachypleus tridentatus 	Animalia	KWCFRVCYRGICYRRCR	17	3141410, 28960954, 31455019	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ133	135267	P14214		Tachyplesin-2 	Tachypleus tridentatus 	Animalia	RWCFRVCYRGICYRKCR	17	2514185	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ134	135268	P18252		Tachyplesin-3 	Tachypleus gigas	Animalia	KWCFRVCYRGICYRKCR	17	2229025	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ233	20137316	P82396		Aurein-3.3	Litoria raniformis	Animalia (Amphibia)	GLFDIVKKIAGHIVSSI	17	10951191	Antibacterial, Anticancer	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ382	3913075	P81464		Apidaecin	Bombus pascuorum 	Animalia (Insects)	GNRPVYIPPPRPPHPRL	17	9219367	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ399	41016800	P82233		Brevinin-1Ta	Rana temporaria	Animalia (Amphibia)	FITLLLRKFICSITKKC	17	10333736	Antibacterial		Experimentally validated
+CAMPSQ457	41688618	P83663		Ranacyclin-E	Rana esculenta (edible frog )	Animalia (Amphibia)	SAPRGCWTKSYPPKPCK	17	14636071	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ481	47117121	P83719		Ranacyclin-T	Rana temporaria	Animalia (Amphibia)	GALRGCWTKSYPPKPCK	17	14636071	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ580	68053340	P69020		Aurein-3.1	Litoria raniformis	Animalia (Amphibia)	GLFDIVKKIAGHIAGSI	17	10951191	Antibacterial, Anticancer	Gram +ve	Experimentally validated
+CAMPSQ581	68053341	P69021		Aurein-3.1	Litoria aurea (green and golden bell frog )	Animalia (Amphibia)	GLFDIVKKIAGHIAGSI	17	10951191	Antibacterial, Anticancer	Gram +ve	Experimentally validated
+CAMPSQ582	68053342	P69022		Aurein-3.2	Litoria raniformis	Animalia (Amphibia)	GLFDIVKKIAGHIASSI	17	10951191	Antibacterial, Anticancer	Gram +ve	Experimentally validated
+CAMPSQ583	68053343	P69023		Aurein-3.2	Litoria aurea (green and golden bell frog)	Animalia (Amphibia)	GLFDIVKKIAGHIASSI	17	10951191	Antibacterial, Anticancer	Gram +ve	Experimentally validated
+CAMPSQ612	730587	P39084		Ranalexin 	Rana catesbeiana	Animalia (Amphibia)	GLIKIVPAMICAVTKKC	17	8144672	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ638	7994711	P82032		Uperin-3.1	Uperoleia inundata 	Animalia (Amphibia)	GVLDAFRKIATVVKNVV	17		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ639	7994714	P82035		Uperin-4.1	Uperoleia inundata 	Animalia (Amphibia)	GVGSFIHKVVSAIKNVA	17		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ641	7994721	P82042		Uperin-3.5	Uperoleia mjobergii 	Animalia (Amphibia)	GVGDLIRKAVSVIKNIV	17		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ642	7994722	P82043		Uperin-3.6	Uperoleia mjobergii 	Animalia (Amphibia)	GVIDAAKKVVNVLKNLP	17		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ659				Bombin H7	Bombina orientalis	Animalia (Amphibia)	ILGPILGLVSNALGGLL	17	10333736	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ22290				Cephaibol E	Acremonium tubakii, DSM 12774	Fungi	FXXXXGLXXXQXXXPX	16	11372779	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22977		P21880		Bacteriocin TP	Bacillus subtilis	Bacteria	ASVVNKLTGGVAGLLK	16	28254375	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23346		P02671		Fibrinopeptide A	Homo sapiens	Animalia	ADSGEGDFLAEGGGVR	16	30425969	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23741				Bacteriocin Pantocin wh-1	Pantoea dispersa W18	Bacteria	VMWCYVFGYGFNCAVW	16	31979296	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24346		D5GRW4		Temporin-SHe	Pelophylax saharicus	Animalia	FLPALAGIAGLLGKIF	16	32933215	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated

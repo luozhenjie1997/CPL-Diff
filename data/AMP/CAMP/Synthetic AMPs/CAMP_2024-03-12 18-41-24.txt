@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ15065				L6	Synthetic construct		RRLFRRILRWL	11	35203875	Antibacterial	Gram --ve	Experimentally validated
+CAMPSQ15066				L6S1	Synthetic construct		RRSFRRSLRWL	11	35203875	Antibacterial	Gram --ve	Experimentally validated
+CAMPSQ15067				L6S2	Synthetic construct		RRLFRRSLRWS	11	35203875	Antibacterial	Gram --ve	Experimentally validated
+CAMPSQ15068				L6S3	Synthetic construct		RRLRRRILRWS	11	35203875	Antibacterial	Gram --ve	Experimentally validated
+CAMPSQ15121				ENaC	Synthetic construct		TAPPPAYATLG	11	35257734	Antiviral		Experimentally validated
+CAMPSQ15122				Dr-Comm	Synthetic construct		TGLPSYDEALH	11	35257734	Antiviral		Experimentally validated
+CAMPSQ15124				Ebola	Synthetic construct		ILPTAPPEYME	11	35257734	Antiviral		Experimentally validated
+CAMPSQ16466				KW-WK	Synthetic construct		KWRRWQWRRWK	11	30262770	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16467				FP-PF	Synthetic construct		FPRRWQWRRPF	11	30262770	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16469				KK-KK	Synthetic construct		KKRRWQWRRKK	11	30262770	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16470				LFcinB18–28	Synthetic construct		KCRRWQWRMKK	11	30262770	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16480		P51524		STPk	Synthetic construct		KKFkWWWkFKK	11	17604338	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16544		Q08GI9		CSPC11, Competence stimulating peptide (31-41)	Synthetic construct		TFFRLFNRSFT	11	29434779	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16573		P24627		Undeca 1	Synthetic construct		FKARRWAWRMK	11	11831560	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16574		P24627		Undeca 2	Synthetic construct		YKARRWAWRMK	11	11831560	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16575		P24627		Undeca 3	Synthetic construct		YKARRWAWRWK	11	11831560	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16576		P24627		Undeca 4	Synthetic construct		YKAWRWAWRWK	11	11831560	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16577		P24627		Undeca 5	Synthetic construct		YKAWRWAWRWK	11	11831560	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16578				Undeca 6	Synthetic construct		YRAWRWAWRWR	11	11831560	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16579		P24627		Undeca 7	Synthetic construct		YRMWRWAWRWR	11	11831560	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16580		P24627		Undeca 8	Synthetic construct		YRMWRWRWRWR	11	11831560	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16581				Undeca 9	Synthetic construct		RRWYRWAWRMR	11	11831560	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16611		A1DBL3		NFAP2 (13-23)	Synthetic construct		NNCKHKKGSGC	11	29563903	Antifungal		Experimentally validated
+CAMPSQ16612				SHUFFLE NFAP2 (13-23)	Synthetic construct		CCNKGKNKGSH	11	29563903	Antifungal		Experimentally validated
+CAMPSQ16678		Q8MPK6		Beta-thymosin (9-19), Paracentrin 1	Synthetic construct		EVASFDKSKLK	11	25401078	Antibacterial	Gram+ve, Gram-ve	Experimentally validated

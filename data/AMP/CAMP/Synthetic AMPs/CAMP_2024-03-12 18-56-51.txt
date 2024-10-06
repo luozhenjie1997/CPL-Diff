@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19335		P02788		R-LF11 [F1R,Q2Del,V10Y]-R	Synthetic construct		RRWQRNIRKYRR	12	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19331		P02788		R-LF11 [F1R,Q2Del]-R	Synthetic construct		RRWQRNIRKVRR	12	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19328		P02788		R-LF11 [Q2Del]-R	Synthetic construct		RFWQRNIRKVRR	12	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19321		P02788		LF11 [Q2Del;R11K]-KK	Synthetic construct		FWQRNIRKVKKK	12	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19320		P02788		LF11 [Q2Del]-RR	Synthetic construct		FWQRNIRKVRRR	12	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19261		P81941		Pleurocidin (14-25)	Synthetic construct		KHVGKAALTHYL	12	23603258	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19243		P24302,		Dermaseptin-S1 (1-12)	Synthetic construct		ALWKTMLKKLGT	12	18676150, 20718719	Antibacterial, Antiviral, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ19193				Undefined	Synthetic construct		NVMTYWWLDPPL	12	20692130	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19143		L0HA15		Tat (47-58) peptide	Synthetic construct		YGRKKRRQRRRD	12	16678135	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19102		P11006		CEM3, MSI-78 (3-14)	Synthetic construct		GKFLKKAKKFGK	12	25680229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19103		P11006		CEM4, MSI-78 (4-15)	Synthetic construct		KFLKKAKKFGKA	12	25680229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19104		P11006		CEM5, MSI-78 (5-16)	Synthetic construct		FLKKAKKFGKAF	12	25680229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19105		P11006		CEM6, MSI-78 (6-17)	Synthetic construct		LKKAKKFGKAFV	12	25680229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19106		P11006		CEM7, MSI-78 (7-18)	Synthetic construct		KKAKKFGKAFVK	12	25680229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19107		P11006		CEM8, MSI-78 (8-19)	Synthetic construct		KAKKFGKAFVKI	12	25680229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19108		P11006		CEM9, MSI-78 (9-20)	Synthetic construct		AKKFGKAFVKIL	12	25680229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19109		P11006		CEM10, MSI-78 (10-21)	Synthetic construct		KKFGKAFVKILK	12	25680229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19110		P11006		CEM11, MSI-78 (11-22)	Synthetic construct		KFGKAFVKILKK	12	25680229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19101		P11006		CEM2, MSI-78 (2-13)	Synthetic construct		IGKFLKKAKKFG	12	25680229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19100		P11006		CEM1, MSI-78 (1-12)	Synthetic construct		GIGKFLKKAKKF	12	25680229	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19085		P02788		Beta-Ala-Lactoferrin (1-11)	Synthetic construct		XGRRRRSVQWCA	12	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19084		P02788		Lactoferrin (1-11)-Beta-Ala	Synthetic construct		GRRRRSVQWCAX	12	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19081		P24627		Lfcin B (20-30)[K8,9R]-Beta-Ala	Synthetic construct		RRWQWRMRRLGX	12	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19080		P24627		Beta-Ala-Lfcin B (20-30)	Synthetic construct		XRRWQWRMKKLG	12	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19075		P24627		Lfcin B (17-28)[C3A]	Synthetic construct		FKARRWQWRMKK	12	25815317	Antibacterial	Gram+,Gram-	Experimentally Validated

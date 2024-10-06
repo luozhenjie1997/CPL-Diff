@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11322				Conotoxin  O1_cal29b	Californiconus californicus	Animalia (Molluscs (Gastropoda))	RPKCCCVCGVVGRKCCSTWKDCHPVHLPCPSSG	33	30791616	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11408				PLP2	Odontomachus monticola	Animalia (Insects)	GWGSIFKTVGKMIAKAAVKAAPEAISAMASQNE	33	30658410	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11736				Ps-CATH6	Pelodiscus sinensis	Animalia	KKPSKKPKPQAMTFPKVTVEYFPASFSTAALTV	33	30452933	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11856				HNP4	Homo Sapiens	Animalia (Mammals)	VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV	33	28423004	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12267				SFV33	Homo sapiens 	Animalia (Mammals )	SFVARNTFKRVRNGFLMRKVAVFFSNTPTRASP	33	29925677	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12719				HR-CATH	Hoplobatrachus rugulosus	Animalia (Amphibia)	ASKKGKCNLLCKLKQKLRSVGAGTHIGSVVLKG	33	33965586	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12854				IWK	Mus musculus 	Animalia (Mammals)	IWKSCCKLEPTLKNARIVGELTGFRPVRPQVRL	33	33484270	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12855				GLT	Mus musculus 	Animalia (Mammals)	GLTIHWGCAMEAANLFGKILEEKKLSRLPPSHL	33	33484270	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13588				NCR335C1-33	Medicago truncatula 	Plantae	HFSLILSDCKTNKDCPKLRRANVRCRKSYCVPI	33	33915930	Antifungal		Experimentally validated
+CAMPSQ14055				CC-AMP1	Capsicum chinense	Plantae	ZETLDPICMAKCVLKCGKKAWCLTKCIAGCVL	33	34445876	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14219				CcG2-PinII	Capsicum chinense	Plantae	KGCNYYSADGTFICEGESDPNNPKACTLECDPR	33	34671924	Antifungal		Experimentally validated
+CAMPSQ16572		P56425		Cathelicidin-7, BMAP34	Bos taurus	Animalia	GLFRRLRDSIRRGQQKILEKARRIGERIKDIFR	33	9795251	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16615				OL-Cathelicidin-1, OL-CATH1	Odorrana livida	Animalia	KKCKGYRCRPVGFSSPISRRINDSENIYLPFGV	33	30127328	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16616				OL-Cathelicidin-2, OL-CATH2	Odorrana livida	Animalia	RKCNFLCKVKNKLKSVGSKSLIGSATHHGIYRV	33	30127328	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ19693		E7EKG2		Brevinin-2TP1	Hylarana taipehensis	Animalia	SILSTLKDVGISAIKSAGSGVLSTLLCKLNKNC	33	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19699		E1AZ84		Brevinin-2LF1	Amolops lifanensis	Animalia	GFMDTAKNVAKNVAKNVAVTLLDKLRCKVTGGC	33	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19700		E1B2T7		Brevinin-2LF2	Amolops lifanensis	Animalia	SIMSTLKQFGISAIKGAAQNVLGVLSCKIAKTC	33	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19745		A0A0A0RAM8		Brevinin-2MS1	Sylvirana maosonensis (Hylarana maosonensis)	Animalia	SFLDKFKDVAIGVAKGAGTGVLKALLCKLDNSC	33	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22434				Brevinin-2RE1	Rana exilispinosa	Animalia	SFLSTFKKLAIDAAKNAGQSVLHTLTCKLDNQC	33	26452973	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22677		A0A0X8XQY5		Dermaseptin PD-2	Pachymedusa dacnicolor	Animalia	GMWSKIKNAGKAAAKAAAKAAGKAALDAVSEAI	33	27187467	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22868		X5DVC4		Cathelicidin-RC2	Lithobates catesbeiana	Animalia	KKCGFFCKLKNKLKSTGSRSNIAAGTHGGTFRV	33	24675879	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22975		Q46313	5UJR	Carnobacteriocin X, CbnX	Carnobacterium maltaromaticum (Carnobacterium piscicola)	Bacteria	WGWKEVVQNGQTIFSAGQKLGNMVGKIVPLPFG	33	28391617	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23243				Python Cathelicidin CATHPb5	Python bivittatu	Animalia	SPPQAMGFPPQVNVEHYIPASYSVAALTVTEEE	33	29466000	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23759		A0A6G6CZ26		Brevinin-2GHk, BR2GK	Sylvirana guentheri	Animalia	GFSSLFKAGAKYLLKQVGKAGAQQLACKAANNC	33	32075067	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24636		D4P8I5		Nasonin-1	Nasonia vitripennis	Animalia	ACNDRDCSLDCIMKGYNTGSCVRGSCQCRRTSG	33	20302637	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21299				Undefined	Synthetic construct		KLllLLKlLlWK	12	10606532	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21300				Undefined	Synthetic construct		KWllKLKlKlLK	12	10606532	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21301				Undefined	Synthetic construct		KLllKWKlKlLK	12	10606532	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21302				Undefined	Synthetic construct		KLllKLKlKlWK	12	10606532	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21303				Undefined	Synthetic construct		KKwlKLKlKlKK	12	10606532	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21304				Undefined	Synthetic construct		KKllKWKlKlKK	12	10606532	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21305				Undefined	Synthetic construct		KKllKLKlKwKK	12	10606532	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21344		P06833		Caltrin (Seminalplasmin) (28-40) [E5K] [T6del]	Synthetic construct		PKLLKFLSKWIG	12	10195441	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21345		P06833		Caltrin (Seminalplasmin) (28-40) [E5K][S9del]	Synthetic construct		PKLLKTFLKWIG	12	10195441	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21346		P06833		Caltrin (Seminalplasmin) (28-40) [E5K] [L4del]	Synthetic construct		PKLKTFLSKWIG	12	10195441	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21396		P0C8U2		Temporin-PTa (1-12)[G3R,S4K,P10R]	Synthetic construct		FFRKVLKLIRKI	12	29663932	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21449				VMI 7	Synthetic construct		SNQGGSPLPRSV	12	12480936	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21450				VMI 9	Synthetic construct		LPLPAPSFHRTT	12	12480936	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21451				Vif (155-166)	Synthetic construct		KPKQIKPPLPSV	12	12480936	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21465		Q9TUI9		Apelin-12	Synthetic construct		RPRLSHKGPMPF	12	10802050	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21606		Q7Z4V5		HRP2 (483-493)	Synthetic construct		WKFALKVDSPDV	12	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21657				Undefined	Synthetic construct		RRRRRRWFWFWF	12	21286704	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21665				VSL1	Synthetic construct		XKAXWKXVKXVK	12	21321136	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21829				K12	Synthetic construct		KKKKKKKKKKKK	12	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21834				R12	Synthetic construct		RRRRRRRRRRRR	12	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21841				P12	Synthetic construct		PPPPPPPPPPPP	12	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21871		P51681		CCR5 ECL2 (168-179)	Synthetic construct		RSQKEGLHYTCS	12	22403408	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21907				Myxinidin [H3K]	Synthetic construct		GIKDILKYGKPS	12	24002100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21908				Myxinidin [D4K]	Synthetic construct		GIHKILKYGKPS	12	24002100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21909				Myxinidin [P11K]	Synthetic construct		GIHDILKYGKKS	12	24002100	Antibacterial	Gram+,Gram-	Experimentally Validated

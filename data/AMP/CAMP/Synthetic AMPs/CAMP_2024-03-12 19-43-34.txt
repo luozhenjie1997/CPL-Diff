@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20304				Peptide [L6P9P13P16]	Synthetic construct		YKLLKLLLPKLKPLLPKL	18	8546675	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20305				Peptide [YLK]	Synthetic construct		YKLLKKLLKKLKKLLKKL	18	8546675	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20306				Peptide [W6L9A13E16]	Synthetic construct		YKLLKWLLLKLKALLEKL	18	8546675	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20387		P84386,		CPF-St7, Pxt-12	Synthetic construct		NLLGSLLKTGLKVGSNLL	18	23935531, 26802742	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20560		B5A9T1		Chensinin-1 [G7L]	Synthetic construct		SAVGRHLRRFGLRKHRKH	18	22686707	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20561		B5A9T1		Chensinin-1 [G7L][G11L]	Synthetic construct		SAVGRHLRRFLLRKHRKH	18	22686707	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20562		B5A9T1		Chensinin-1 [G4L][G7L][G11L]	Synthetic construct		SAVLRHLRRFLLRKHRKH	18	22686707	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20563		B5A9T1		Chensinin-1 [A2K][L12H][K14A][H18L]	Synthetic construct		SKVGRHGRRFGHRAHRKL	18	22686707	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20564		B5A9T1		Chensinin-1 [G7L][L12H][K14A][H18L]	Synthetic construct		SKVGRHLRRFGHRAHRKL	18	22686707	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20565		B5A9T1		Chensinin-1 [A2K][G7L][G11L][L12H][K14A][H18L]	Synthetic construct		SKVGRHLRRFLHRAHRKL	18	22686707	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20566		B5A9T1		Chensinin-1 [A2K][G4L][G7L][G11L][L12H][K14A][H18L]	Synthetic construct		SKVLRHLRRFLHRAHRKL	18	22686707	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20675		P02776		HPF4 related peptide C18H	Synthetic construct		ALYKKIIKKLLESAKKLG	18	1644916	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20715				P18 Rev-1	Synthetic construct		FKKALHLFKPIKKFLKWK	18	12370027	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20716				P18 Rev-2	Synthetic construct		KFLHLAKKFPKWKLFKKI	18	12370027	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20723		B6D434		Cathelicidin-BF-15 16[K]17[K]18[L] -AMD	Synthetic construct		VKRFKKFFRKLKKSVKKL	18	22008732	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20726		B6D434		L[1] Cathelicidin-BF-15 17[K]18[K] -AMD	Synthetic construct		LVKRFKKFFRKLKKSVKK	18	22008732	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20810		P82358		Gomesin c(1-18)[Gln1]	Synthetic construct		QCRRLCYKQRCVTYCRGR	18	22865764	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20811		P82358		Gomesin [Cys(Acm)2,15]	Synthetic construct		XXRRLCYKQRCVTYXRGR	18	22865764	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20812		P82358		Gomesin c(1-18)[Gln1,Cys(Acm)2,15]	Synthetic construct		QXRRLCYKQRCVTYXRGR	18	22865764	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20813		P82358		Gomesin [C2,6,11,15T][Q9p]	Synthetic construct		XTRRLTYKpRTVTYTRGR	18	22865764, 17183513	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20814		P82358		Gomesin c(1-18)[Gln1,Thr2,6,11,15,D-Pro9]	Synthetic construct		QTRRLTYKpRTVTYTRGR	18	22865764	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20817		Q2LKX9		Ixosin [E8K,E13L,S16V]	Synthetic construct		GLHKVMRKVLGYLRNVYK	18	27622949	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20818		Q2LKX9		Ixosin [H3A,E8K,E13L,S16V]	Synthetic construct		GLAKVMRKVLGYLRNVYK	18	27622949	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20822		Q2LKX9		Ixosin (1-18)	Synthetic construct		GLHKVMREVLGYERNSYK	18	27622949	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20833		P55284		PVEC [I9W,H14R,H16R]	Synthetic construct		LLIILRRRWRKQARARSK	18	21956793	Antibacterial	Gram+,Gram-	Experimentally Validated

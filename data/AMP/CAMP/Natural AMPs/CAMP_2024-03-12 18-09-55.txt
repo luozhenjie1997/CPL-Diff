@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11241				Esculentin-1GN (1-24)	Hylarana guentheri	Animalia	GLFSKKGGKGGKSWIKGVFKGIKG	24	30427189	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11723				IETI	Inga edulis	Plantae (Angiosperms)	GVGLIGLGEMVKNGGKYYIVPAIN	24	30483842	Antifungal		Experimentally validated
+CAMPSQ11756				NCR247	Medicago truncatula	Plantae (Angiosperms)	RNGCIVDPRCPYQQCRRPLYCRRR	24	30425705, 28167938	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11807				Ps-K18	Pseudis paradoxa	Animalia (Amphibia)	GLNALKKVFQGIHEAIKKINNHVQ	24	28469145	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11809				Ps-P 	Pseudis paradoxa	Animalia (Amphibia)	GLNALKKVFQPIHEAIKLINNHVQ	24	28469145	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11810				Ps-K18-P 	Pseudis paradoxa	Animalia (Amphibia)	GLNALKKVFQPIHEAIKKINNHVQ	24	28469145	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11811				Ps-K18-P 	Pseudis paradoxa	Animalia (Amphibia)	GLNALKKVFQPIHKAIKKINNHVQ	24	28469145	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12223				SlLeb1 (22-45)	Spodoptera litura	Animalia	QLIIRPTYRPPPPPRRPVIMRARR	24	29935286	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12482				WLBU2	Homo sapiens	Animalia (Mammals)	RRWVRRVRRVWRRVVRVVRRWVRR	24	28882728	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13639				Histatin5	Homo sapiens 	Animalia (Mammals)	DSHAKRHHGYKRKFHEKHHSHRGY	24	34417532, 33740624, 31417503, 11302797, 3286634	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ14112				CNC-4 (1-24)	Caenorhabditis elegans	Animalia (nematode)	QWGYGPYGGYGGGYPGMYGGYGMR	24	34184732	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14260				PcDode	Physeter catodon	Animalia (Mammals)	QICRIIVVRVCRPICRITVIRVCS	24	34484167	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14591				Delta-toxin	Staphylococcus auricularis	Monera	MTKDIVETVGGLVKWILDTVKKFA	24	34937169	Antibacterial		Experimentally validated
+CAMPSQ14592				Delta-toxin (df)	Staphylococcus auricularis	Monera	MTKDIVETVGGLVKWILDTVKKFA	24	34937169	Antibacterial		Experimentally validated
+CAMPSQ14990				Peptide 19	Saccharomyces cerevisiae	Fungi	GGAPGGAAGGAPGGFPGGAPPAPE	24	35215278	Antibacterial		Predicted
+CAMPSQ15033				Pom-1C	Pomacea poeyana	Animalia	AGSIAWAIGSGLFGGAKLIKIKKY	24	35214049	Antifungal		Experimentally validated
+CAMPSQ16507		Q571V3		Frenatin 4.1	Litoria infrafrenata	Animalia	GFLEKLKTGAKDFASAFVNSIKGT	24	27792198	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16729				Brevinin-1GHa	Hylarana guentheri	Animalia	FLGAVLKVAGKLVPAAICKISKKC	24	30322120	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ19692		E7EKG0		Brevinin-1TP3	Hylarana taipehensis	Animalia	FLPGLIKVAVGVGSTILCKITKKC	24	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19696		E1B2T6		Brevinin-1LF1	Amolops lifanensis	Animalia	FLPMLAGLAANFLPKIICKITKKC	24	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19697		E1AZ83		Brevinin-1LF2	Amolops lifanensis	Animalia	FLPIVASLAANFLPKIICKITKKC	24	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19706		E7EKF9		Brevinin-1TP1	Hylarana taipehensis	Animalia	FLPGLIKAAVGVGSTILCKITKKC	24	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19707		E7EKG1		Brevinin-1TP2	Hylarana taipehensis	Animalia	FLPGLIKAAVGIGSTIFCKISKKC	24	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19729		A0A0A0R7W1		Brevinin-1DY1	Amolops daiyunensis	Animalia	FLPLLAGLAANFLPTIICKIARKC	24	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19736		A0A0A0RAB9		Brevinin-1HB1	Pelophylax hubeiensis	Animalia	FLPAIIGMAAKVLPAFLCKITKKC	24	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

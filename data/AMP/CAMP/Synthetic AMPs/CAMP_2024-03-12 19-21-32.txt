@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21641		Q86FU0		Penetratin [W6,14F;M12M-oxd]	Synthetic construct		RQIKIFFQNRRXKFKK	16	23581817	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21642		Q86FU0		Penetratin [R1,10,11K;M12M-oxd]	Synthetic construct		KQIKIWFQNKKXKWKK	16	23581817	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21693				Val/Arg-rich peptide G1	Synthetic construct		GVVVRVGRVVVRGVRR	16	21425418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21694				Val/Arg-rich peptide G2	Synthetic construct		GVVVRIGRVVVRGVRR	16	21425418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21695				Val/Arg-rich peptide G3	Synthetic construct		GVVVRWGRVVVRGVRR	16	21425418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21696				Val/Arg-rich peptide G4	Synthetic construct		GVVVRIGRVIVRGVRR	16	21425418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21697				Val/Arg-rich peptide G5	Synthetic construct		GVVVRWGRVIVRGVRR	16	21425418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21698				Val/Arg-rich peptide G6	Synthetic construct		GVVVRWGRVWVRGVRR	16	21425418, 22587781	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21874		P51681		CCR5 ECL2 (172-187)	Synthetic construct		EGLHYTCSSHFPYSQY	16	22403408	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21916				AAG-WMR, AAG-W-Myxinidin [H3,6l;D4R;P11R]	Synthetic construct		AAGwGlrrllkyGkrs	16	26902766	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21961		P49931,		PMAP-36 (2-17), RI16	Synthetic construct		RFRRLRKKTRKRLKKI	16	24021230, 25494332	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21962		P49931		PMAP-36 (2-17) [K7,8W]	Synthetic construct		RFRRLRWWTRKRLKKI	16	24021230	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21963		P49931		PMAP-36 (2-17) [K8,11W]	Synthetic construct		RFRRLRKWTRWRLKKI	16	24021230	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21964		P49931		PMAP-36 (2-17) [K7,14W]	Synthetic construct		RFRRLRWKTRKRLWKI	16	24021230	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22017		P49931		PMAP-36 (2-17) [T9I]	Synthetic construct		RFRRLRKKIRKRLKKI	16	25494332	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22018		P49931		PMAP-36 (2-17) [T9K]	Synthetic construct		RFRRLRKKKRKRLKKI	16	25494332	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22019		P49931		PMAP-36 (2-17) [T9F]	Synthetic construct		RFRRLRKKFRKRLKKI	16	25494332	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22020		P49931,		PMAP-36 (2-17) [T9W]	Synthetic construct		RFRRLRKKWRKRLKKI	16	25494332, 25753629	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22094		Q6JWQ9		Epinecidin-1 (23-38)	Synthetic construct		FIFHIIKGLFHAGKMI	16	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22326		A0A151PB79		Fibrinogen Am1, FGG(398-413)	Synthetic construct		YSLKKTSMKIIPFTRL	16	25671663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22539		O39650		Dengue virus peptide fragment VG16	Synthetic construct		VDRGWGNGCGLFGKGG	16	26144972	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22540		O39650		Dengue virus peptide fragment VG16 [D2A]	Synthetic construct		VARGWGNGCGLFGKGG	16	26144972	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22612				VR3	Synthetic construct		CVRVRVRpGRVRVRVC	16	22391533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22646		E7EKD9		Odorranain-B1 (3-18)	Synthetic construct		LKGCWTKSIPPKPCFG	16	17384140	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22689		G7L736,		MtDef4 (32-47)	Synthetic construct		GRCRGFRRRCFCTTHC	16	21533249, 30252607	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

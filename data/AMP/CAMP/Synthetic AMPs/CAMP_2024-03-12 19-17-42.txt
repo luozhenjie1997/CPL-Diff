@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8664				PMM-3 (PMM analog)	Synthetic construct		WKKIASIGKEVLKAL	15	18375018	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8705				CM-2	Synthetic construct		LULLLKILLLKKLKA	15	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8706				CM-1	Synthetic construct		LALLKVLLRKIKKAL	15	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8712				MB-00	Synthetic construct		LKLLKKLLKKLKKLL	15	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8713				MB-03	Synthetic construct		VSSKYLSKVKVKAGK	15	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8714				MB-04	Synthetic construct		ARLAKKALRRLAKKD	15	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8717				MB-18	Synthetic construct		LKALKKLAKKLKKLA	15	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8719				MB-25	Synthetic construct		LSSALSALSSALSSK	15	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8720				MB-31	Synthetic construct		EAALKAALDLAAKLA	15	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8721				MB-32	Synthetic construct		ERSAAKSAARSLARR	15	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8722				MB-33	Synthetic construct		EKTLARTAAKTALKK	15	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8724				MB-35	Synthetic construct		VSSKYLSKALVKAGR	15	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8774				LL-I	Synthetic construct		VNWKKVLGKIIKVAK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8775				LL-I/1 	Synthetic construct		NVWKKVLGKIIKVAK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8776				LL-I/2 (Lasioglossin LL-I peptide)	Synthetic construct		VNWKKVLAKIIKVAK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8777				LL-I/3 	Synthetic construct		VNWKKVLKKIIKVAK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8778				LL-I/4 	Synthetic construct		VNWKKVLPKIIKVAK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8779				LL-II	Synthetic construct		VNWKKILGKIIKVAK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8780				LL-II/1 	Synthetic construct		NVWKKILGKIIKVAK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8781				LL-II/2 	Synthetic construct		VNWKKILAKIIKVAK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8782				LL-II/3 	Synthetic construct		VNWKKILKKIIKVAK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8783				LL-II/4 	Synthetic construct		VNWKKILPKIIKVAK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8784				LL-III	Synthetic construct		VNWKKILGKIIKVVK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8785				LL-III/1 	Synthetic construct		NVWKKILGKIIKVVK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8786				LL-III/2 	Synthetic construct		VNWKKILAKIIKVVK	15	19591185	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

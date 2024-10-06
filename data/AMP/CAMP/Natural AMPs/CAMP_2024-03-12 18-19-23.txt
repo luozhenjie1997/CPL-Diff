@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ164	156630949	P85211		Lebocin-like anionic peptide 1	Galleria mellonella	Animalia (Insects)	EADEPLWLYKGDNIERAPTTADHPILPSIIDDVKLDPNRRYA	42	17194500	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ166	156633554	P85212		Proline-rich antimicrobial peptide 2 	Galleria mellonella	Animalia (Insects)	EIRLPEPFRFPSPTVPKPIDIDPILPHPWSPRQTYPIIARRS	42	17194500	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ334	298768	P46161		Beta-defensin 3 , BNBD-3	Bos taurus 	Animalia (Mammals)	EGVRNHVTCRINRGFCVPIRCPGRTRQIGTCFGPRIKCCRSW	42	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ337	298771			Beta-defensin 6 , BNBD-6	Bos taurus 	Animalia (Mammals)	EGVRNHVTCRIYGGFCVPIRCPGRTRQIGTCFGRPVKCCRRW	42	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ483	47523178	O62697		Beta-defensin 1	Sus scrofa	Animalia (Mammals)	KNIGNSVSCLRNKGVCMPGKCAPKMKQIGTCGMPQVKCCKRK	42	16552064	Antibacterial		Experimentally validated
+CAMPSQ592	71152326	Q7TNV7		Beta-defensin 38 	Mus musculus	Animalia (Mammals)	IGPDTKKCVQRKNACHYFECPWLYYSVGTCYKGKGKCCQKRY	42	14718547	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ594	71796859	Q0R5P1		Cathelicidin-related antimicrobial peptide	Chinchilla lanigera 	Animalia (Mammals)	AKRGGFWRKVGRKLGKGIRKIGKTIKSQLGKFRPRLQYRYQF	42	17113647	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ645	82126776	Q6QLR3		Gallinacin-6 	Gallus gallus	Animalia (Aves)	SPIHACRYQRGVCIPGPCRWPYYRVGSCGSGLKSCCVRNRWA	42	17346671	Antibacterial		Experimentally validated
+CAMPSQ827				Penocin A	Pediococcus pentosaceus ATCC 25745	Monera	KYYGNGVHCGKKTCYVDWGQATASIGKIIVNGWTQHGPWAHR	42	16735728	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ907	47117252	Q8T9R8	1ZRX	Stomoxyn	Stomoxys calcitrans	Animalia (Insects)	RGFRKHFNKLVKKVKHTISETAHVAKDTAVIAGSGAAVVAAT	42	12372834	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ929	150387844	P0C1Z8	2DCV	Tachystatin-B1	Tachypleus tridentatus 	Animalia	YVSCLFRGARCRVYSGRSCCFGYYCRRDFPGSIFGTCSRRNF	42	10473569	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ975	145566914	P85116		Ostricacin-4	Struthio camelus	Animalia (Aves)	LPVNEAQCRQVGGYCGLRICNFPSRFLGLCTRNHPCCSRVWV	42	16459058	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1027	159163502	Q7YZB4	1X22	SI Moricin	Bean golden mosaic virus-[Brazil]	Virus (Virus)	GKIPVKAIKKAGAAIGKGLRAINIASTAHDVYSFFKPKHKKK	42	16115804	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1031	189095921	P84818	2JR3	Pelovaterin	Pelodiscus sinensis	Animalia	DDTPSSRCGSGGWGPCLPIVDLLCIVHVTVGCSGGFGCCRIG	42	18341335	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ1032	170784960	Q86MA1	2JR8	Manduca Sexta Moricin	Manduca sexta	Animalia (Insects)	GKIPVKAIKQAGKVIGKGLRAINIAGTTHDVVSFFRPKKKKH	42	18265434	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1074	150387845	P0C1Z9	2DCW	Tachystatin-B2	Tachypleus tridentatus 	Animalia	YITCLFRGARCRVYSGRSCCFGYYCRRDFPGSIFGTCSRRNF	42	10473569	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1090	20138941, 1246017	P82818, O96059	1KV4	Moricin-1, Moricin-2	Bombyx mori	Animalia (Insects)	AKIPIKAIKTVGKAVGKGLRAINIASTANDVFNFLKPKKRKH	42	8530391	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1612	71152317	Q8R2I4		Beta-defensin 13	Mus musculus	Animalia (Mammals)	TLYRRFLCKKMNGQCEAECFTFEQKIGTCQANFLCCRKRKEH	42		Antibacterial		Predicted
+CAMPSQ1622	3023390	O19038		Beta-defensin 1	Ovis aries	Animalia (Mammals)	QGVRNRLSCHRNKGVCVPSRCPRHMRQIGTCRGPPVKCCRKK	42		Antibacterial		Predicted
+CAMPSQ1623	3023391	O19039		Beta-defensin 2	Ovis aries	Animalia (Mammals)	HGVTDSLSCRWKKGICVLTRCPGTMRQIGTCFGPPVKCCRLK	42		Antibacterial		Predicted
+CAMPSQ1657	21465926	P82818	1KV4	Moricin	Bombyx mori	Animalia (Insects)	AKIPIKAIKTVGKAVGKGLRAINIASTANDVFNFLKPKKRKA	42	11997013	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1840	82126773	Q6QLR2		Gallinacin-7	Gallus gallus	Animalia (Aves)	RPIDTCRLRNGICFPGICRRPYYWIGTCNNGIGSCCARGWRS	42		Antibacterial		Predicted
+CAMPSQ2007	123780101	Q32ZG1		Beta-defensin 33	Rattus norvegicus	Animalia (Mammals)	RKRNTKFRQCEKMGGICKYQKTHGCSILPAECKSRYKHCCRL	42		Antibacterial		Predicted
+CAMPSQ2008	123780098	Q32ZF8		Beta-defensin 38	Rattus norvegicus	Animalia (Mammals)	TDQDTAKCVQKKNVCYYFECPWLSISVSTCYKGKAKCCQKRY	42		Antibacterial		Predicted
+CAMPSQ2014	123779962	Q30KN3		Beta-defensin 33	 Mus musculus	Animalia (Mammals)	RKRNSKFRPCEKMGGICKSQKTHGCSILPAECKSRYKHCCRL	42		Antibacterial		Predicted

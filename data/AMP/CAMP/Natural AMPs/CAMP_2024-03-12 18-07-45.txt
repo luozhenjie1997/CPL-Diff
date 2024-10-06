@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3833				  Chemerin peptide 4	Homo sapiens	Animalia (Mammals)	VRLEFKLQQTSCRKRDWKKP	20	23527010, 30504221, 34803962	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3957		P83143		Antifungal protein 2 large subunit 	Malva parviflora 	Plantae	PEDPQRRYQEXQREXRXQQE	20	11118343	Antifungal		Experimentally validated
+CAMPSQ4132	410591584	B3A0L3		Antimicrobial peptide EP-20	Xenorhabdus budapestensis	Monera	EGPVGLADPDGPASAPLGAP	20	22497806	Antibacterial		Experimentally validated
+CAMPSQ4550		P37155		Lysozyme C	Felis catus	Animalia (Mammals)	KIFTKCELARKLRAEGMDGF	20	2344734	Antibacterial		Predicted
+CAMPSQ5850	339272017	F7UI84		Phylloseptin-s1	Phyllomedusa sauvagei 	Animalia (Amphibia)	FLSLIPHIVSGVASIAKHFG	20		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8742				Q7YRI0(9-28)	Bos taurus	Animalia (Mammals)	LAKRRVLTLLRQLRRVSPSS	20	23029273	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8854				MytC[9-28]	Mytilus galloprovincialis	Animalia (Mollusc )	YCSKFCGSAGCSLYGCYLLH	20	26444944	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8958				Tc02	Theobroma cacao	Plantae (Angiosperms)	GKILKYLLYLLRKYANLIIR	20	29038449	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8961				Tc05	Theobroma cacao	Plantae (Angiosperms)	IVNHLVKLFDKGLNSIVNLR	20	29038449	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8971				At04	Arabidopsis thaliana	Plantae (Angiosperms)	GLYNFIKVLGRTVFGLYKQF	20	29038271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9293				Wuchuanin E1	Odorrana andersonii 	Animalia (Amphibia)	CVDIGFSPTGKRPPFCPYPG	20	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12013				Saha-CATH5 	Sarcophilus harrisii	Animalia (Mammals)	KRIGLIRLIGKILRGLRRLG	20	27725697	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9870				Amurin	Rana amurensis 	Animalia	FLSLALAALPKLFCLIFKKC	20	29366784	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9871				Amurin-2a	Rana amurensis 	Animalia (Amphibia)	FLPLLLAGLPSFLCLVFKKC	20	29366784	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9872				Amurin-2b	Rana amurensis 	Animalia (Amphibia)	FLPLLLSALPSFLCLVFKKC	20	29366784	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9873				Amurin-2c	Rana amurensis 	Animalia (Amphibia)	FLSLALAALPKFLCLVFKKC	20	29366784	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9897				Api795	Apis mellifera	Animalia	OIOIORPVYOPRPRPPHPRL	20	29309652	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9983				Phylloseptin-PBa 	 Phyllomedusa baltea 	Animalia	FFSMIPKIAGGIASLVKNLG	20	26633506	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10227		P83363		Protein PR-L1 (Plant defensin)	Lupinus luteus 	Plantae	GIFTFEDESTSTVAPAKLYK	20		Antibacterial, Antifungal 		Predicted
+CAMPSQ10228		P83364		Protein PR-L2 (Plant defensin)	Lupinus luteus 	Plantae	SVFAFENEQSSTIAPARLYK	20		Antibacterial, Antifungal 		Predicted
+CAMPSQ10229		P83365		Protein PR-L3 (Plant defensin)	Lupinus luteus 	Plantae	GIFTFEDESTTTVAPAKLYK	20		Antibacterial, Antifungal 		Predicted
+CAMPSQ10230		P83366		Protein PR-L4 (Plant defensin)	Lupinus luteus 	Plantae	SVFAFQDESTSTIAQARLFI	20		Antibacterial, Antifungal 		Predicted
+CAMPSQ10231		P83367		Protein PR-L5 (Plant defensin)	Lupinus luteus 	Plantae	SIFAFQDESPSAIAQAKLFK	20		Antibacterial, Antifungal 		Predicted
+CAMPSQ10232		P83368		Protein PR-L6 (Plant defensin)	Lupinus luteus 	Plantae	GVFTFEDESTSTVAPAKLYK	20		Antibacterial, Antifungal 		Predicted
+CAMPSQ10284				Smallt115-134	JC PolyomaVirus	Virus	MLKLRHRNRKFLRSSPLVWI	20	31417238	Antibacterial	Gram +ve	Experimentally validated

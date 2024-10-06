@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9469				Kalata B2 (kB2)	Oldenlandia affinis	Plantae	GLPVCGETCFGGTCNTPGCSCTWPICTRD	29	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9471				Kalata B7 (kB7)	Oldenlandia affinis	Plantae	GLPVCGETCTLGTCYTQGCTCSWPICKRN	29	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9472				Kalata B7-Y15F	Oldenlandia affinis	Plantae	GLPVCGETCTLGTCFTQGCTCSWPICKRN	29	28669767	Antibacterial		Predicted
+CAMPSQ9473				Kalata B7-Y15S	Oldenlandia affinis	Plantae	GLPVCGETCTLGTCSTQGCTCSWPICKRN	29	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9474				Kalata B7-Y15A	Oldenlandia affinis	Plantae	GLPVCGETCTLGTCATQGCTCSWPICKRN	29	28669767	Antibacterial	Gram +ve, Gram -ve	Predicted
+CAMPSQ9506				Hymenochirin-1B	Hymenochirus boettgeri	Animalia	IKLSPETKDNLKKVLKGAIKGAIAVAKMV	29	31102497	Antibacterial		Experimentally validated
+CAMPSQ9508				Hymenochirin-2B	Hymenochirus boettgeri	Animalia	LKIPGFVKDTLKKVAKGIFSAVAGAMTPS	29	31102497	Antibacterial		Experimentally validated
+CAMPSQ9984				Palustrin-2ISa	Odorrana ishikawae	Animalia	GFMDTAKNVAKNVAVTLLDKLKCKITGGC	29	21911019	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10430				Ranatuerin-2Vb	Rana virgatipes 	Animalia	GVFLDALKGVGKGVAVSLLNGLKCKLGVC	29	15996769	Antibacterial		Predicted
+CAMPSQ10681				COT2 	Crocodylus siamensis	Animalia	KKSCHTGLKKSAGWVIPIGTLVKNGIIVR	29	28159460	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10962				Brevinin-2Ek	Rana esculenta complex	Animalia	GLWNTKLEAGLLFAMGKLDLKRCLKAGGC	29	14499272	Antibacterial		Predicted
+CAMPSQ10998				Brevinin-2HS1	Huia schmackeri 	Animalia	GLWDTIKQAGKKIFLSVLDKIRCKVAGGC	29	18423796	Antibacterial, Antifungal, Antiviral		Predicted
+CAMPSQ11010				Kalata B1 	Viola yedoensis	Plantae	GLPVCGETCVGGTCNTPGCTCSWPVCTRN	29	18081258	Antiviral		Experimentally validated
+CAMPSQ11014				Varv E	Viola yedoensis	Plantae	GLPICGETCVGGTCNTPGCSCSWPVCTRN	29	18081258	Antiviral		Experimentally validated
+CAMPSQ11128				CT3	Clitoria ternatea 	Plantae	GLPTCGETCTLGTCYVPDCSCSWPICMKN	29	21596752	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11336				Abaecin	Apis mellifera	Animalia (Insects)	YVPLPNVPQPGRRPFPTFPGQGPFNPKIK	29	30770741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11410				PLP4	Odontomachus monticola	Animalia (Insects)	GVKELFGKAWGLVKKHLPKACGLLGYVKQ	29	30658410	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11772				C-LalT2	Liocheles australasiae	Animalia (Arachnida)	CPIISNMCEDHCRRKKMEGQCDLLDCVCS	29	30393903	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14227				Sparamosin26-54	Scylla paramamosain	Animalia	GLGPNPCRKKCYKRDFLGRCRLNFTCMFG	29	34690992	Antibacterial, Antibiofilm, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14675				SP1	Saccharomyces cerevisiae	Fungi	IRIAINGFGRIGRLVLRLALQRKDIEVVA	29	35019693	Antifungal		Experimentally validated
+CAMPSQ15139				C_AMP2041	Ruminococcus gnavus, Bacteroides dorei	Monera (Bacteria)	SVIWRKLFFIFIKRSGNWIKKVEKRQNLL	29	35241840	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ17323		H3JST0		Lantibiotic Enterocin W-beta	Enterococcus faecalis NKR-4-1	Bacteria	VXxXIPXXVMVxAAVXPxLVXxNKXGGRG	29	22138996	Antibacterial	Gram+	Experimentally validated
+CAMPSQ19192		P01211		Enkelytin	Bos taurus	Animalia	FAEPLPSEEEGESYSKEPPEMEKRYGGFM	29	20692130	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19705		E1AXE7		Palustrin-2GN3	Amolops granulosus	Animalia	GILDTLKQLGKAAAQSLLSKAACKLAKTC	29	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19730		A0A0A0R7M8		Palustrin-2DY1	Amolops daiyunensis	Animalia	GIMDTIKNAAKDVVQSLLNKASCKLAKTC	29	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20712		P85170		ChBac3.4 (1-19)	Synthetic construct		RFRLPFRRPPIRIHPPPFY	19	33194795	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20940		P01501		Melittin-D (1-9)(15-24)	Synthetic construct		GIGAVLKVLALISWIKRKR	19	19635451	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21023		P56029		HP(2-20) [A1W,Q17W,D19W] 50S ribosomal protein L1	Synthetic construct		WKKVFKRLEKLFSKIWNWK	19	17961502	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21154		P19661		Bactenecin-7 (5-23)	Synthetic construct		PRPPRLPRPRPRPLPFPRP	19	15572192	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21207		P60022,		C14-HBD-1 (16-36) [C27,35Del], MPhd-1	Synthetic construct		ACPIFTKIQGTYRGKAKCK	19	24086767, 16860904, 18809937, 23980689, 29682907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21208		P60022		HBD-1 (16-36)-D [C27,35Del][K30,36R], [D]HC-1(R)	Synthetic construct		ACPIFTKIQGTYRGRAKCR	19	24086767	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21211		O15263,		C14-HBD-2 (19-39) [C30,38Del], MPhd-2	Synthetic construct		FCPRRYKQIGTGLPGTKCK	19	16860904, 18809937, 23980689, 29682907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21213		O95715		CXCL14 (55-73)	Synthetic construct		LQSTKRFIKWYNAWNEKRR	19	25964486	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21244				Undefined	Synthetic construct		GIGRIGKVHAANLIKIPKG	19	24254748	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21404				Undefined	Synthetic construct		GLLKKWLKKWKEFKRIVGY	19	24269514	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21809		P12724		Eosinophil cationic protein (1-19)	Synthetic construct		RPPQFTRAQWFAIQHISLN	19	21696142	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21867				RhoA 77-95	Synthetic construct		TDVILMCFSIDSPDSLENI	19	21198428	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21868				RhoA scrmbl	Synthetic construct		DDMSVISELICTSPLDFIN	19	21198428	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21930		E3SYG2		Brevinin CTcu5 (3-21)	Synthetic construct		AGLAANFLPQILCKIARKC	19	25997127	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21938		E3SYG2		Brevinin CTcu5 (2-20)	Synthetic construct		IAGLAANFLPQILCKIARK	19	25997127	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22072		P36193		Drosocin [T11S]	Synthetic construct		GKPRPYSPRPSSHPRPIRV	19	25617693	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22073		P36193		Drosocin-D [S7,12P;T-GLC11P]	Synthetic construct		GKPRPYPPRPPPHPRPIRV	19	25617693	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22144		A0A2R7WNA0		Oncocin [R19A]	Synthetic construct		VDKPPYLPRPRPPRRIYNA	19	21185160	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22145		A0A2R7WNA0		Oncocin [R19N]	Synthetic construct		VDKPPYLPRPRPPRRIYNN	19	21185160	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22146		A0A2R7WNA0,		Oncocin [R19H]	Synthetic construct		VDKPPYLPRPRPPRRIYNH	19	21185160	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22147		A0A2R7WNA0		Oncocin [R19Homo-ARG]	Synthetic construct		VDKPPYLPRPRPPRRIYNX	19	21185160	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22148		A0A2R7WNA0		Oncocin [R15A]	Synthetic construct		VDKPPYLPRPRPPRAIYNR	19	21185160	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22149		A0A2R7WNA0		Oncocin [R15ORN]	Synthetic construct		VDKPPYLPRPRPPRXIYNR	19	21185160	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22150				Oncocin [P13Hyp][R15Hyp][R19Orn]	Synthetic construct		VDKPPYLPRPRPXRXIYNX	19	21387510	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22151				Oncocin [R15,19Orn][I16Tle]	Synthetic construct		VDKPPYLPRPRPPRXXYNX	19	21387510	Antibacterial	Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8352				Mag(i +4)5	Synthetic construct		GIGKFXHSAXKFGKAFVGEIBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8355				Mag(i +4)8	Synthetic construct		GIGKFLHSXKKFXKAFVGEIBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8365				Mag(i +4)18	Synthetic construct		GIGKFLHSAKKFGKAFVGXIBNX	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8367				Mag(i +4)15(I2K)	Synthetic construct		GKGKFLHSAKKFGKAXVGEXBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8381				Mag(i +4)15(N22K)	Synthetic construct		GIGKFLHSAKKFGKAXVGEXBKS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8382				Mag(i +4)15(S23K)	Synthetic construct		GIGKFLHSAKKFGKAXVGEXBNK	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8383				Mag(i+4)1, 15(A9K)	Synthetic construct		GXGKFXHSKKKFGKAXVGEXBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8384				Mag(i+4)1, 15(K4R, A9K)	Synthetic construct		GXGRFXHSKKKFGKAXVGEXBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8385				Mag(i+4)1, 15(K4R, A9K, K10R)	Synthetic construct		GXGRFXHSKRKFGKAXVGEXBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8386				Mag(i+4)1, 15(K4H, A9K)	Synthetic construct		GXGHFXHSKKKFGKAXVGEXBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8387				Mag(i+4)1, 15(K4H, A9K, K10H)	Synthetic construct		GXGHFXHSKHKFGKAXVGEXBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8388				Mag(i+4)1, 15(K4H, A9K, K10H, K11H)	Synthetic construct		GXGHFXHSKHHFGKAXVGEXBNS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8389				Mag(i+4)1, 15(A9K, B21A)	Synthetic construct		GXGKFXHSKKKFGKAXVGEXANS	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8390				Mag(i+4)1, 15(A9K, B21A, N22K, S23K)	Synthetic construct		GXGKFXHSKKKFGKAXVGEXAKK	23	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8683				CP?3	Synthetic construct		KKWKKFIKKIGIGAVLTTPGAKK	23	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8689				CP206	Synthetic construct		KKWWKFIKKAVNSGTTGLQTLAS	23	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8871				RP443	Synthetic construct		FAFAFOAFOOAFOOFOOAFOOAF	23	29242901	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8872				RP444	Synthetic construct		FAOOFAOOFOOFAOOFAOFAFAF	23	29242901	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8950				ACX23	Synthetic construct		PRKELFKNTLRKAAYAWKRIIEL	23	30823998	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9090				D1?23	Synthetic construct		FLPKTLRKFFARIRGGRAAVLNA	23	31207076	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ9354				Temporin-PEb	Synthetic construct		FLPIVAKLLSGLLGRKKRRQRRR	23	29191658	Antibacterial, Antifungal, Anticancer	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9629				LR4 	Synthetic construct		RIKRFWPVVIRTVVAGYNLYRAI	23	PMCID: PMC4131589	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9647				RL3 (homologue of Pc-CATH1)	Synthetic construct		RFWPVVIRTVVAGYNLYRAIKKK	23	PMCID: PMC4131589	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9729				ADP2	Synthetic construct		GIGKHVGKALKGLKGLLKGLGEC	23	23196344	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9730				ADP3	Synthetic construct		GLKGLLGKALKGIGKHIGKAQGC	23	23196344	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

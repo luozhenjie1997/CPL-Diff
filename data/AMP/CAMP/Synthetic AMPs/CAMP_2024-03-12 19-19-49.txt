@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23928		P26663		HCV gp (710-724)	Synthetic construct		VSFAIKWEYVLLLFL	15	20156485	Antiviral		Experimentally Validated
+CAMPSQ23985		Q99IB8		HCV gp (548562), E2-42	Synthetic construct		QGSWFGCTWMNSTGF	15	28638089	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23986		Q99IB8		HCV gp (552566), E2-43	Synthetic construct		FGCTWMNSTGFTKTC	15	28638089	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23987		Q99IB8		HCV gp (692706), E2-78	Synthetic construct		GLLHLHQNIVDVQYM	15	28638089	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23988		Q99IB8		HCV gp (696710), E2-79	Synthetic construct		LHQNIVDVQYMYGLS	15	28638089	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24036		P14340		DENV-2 gp (613-627)	Synthetic construct		CKIPFEIMDLEKRHV	15	29709564	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24067		Q84HW0		L-PLNC8-alpha (1-15)	Synthetic construct		DLTTKLWSSWGYYLG	15	32107445	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24231		P26662		HCV gp (1155-1169), NS3proC-C15	Synthetic construct		PRPISYLKGSSGGPL	15	22910295	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24258		Q8IAS6		Rifin (318-332)[K323A], Peptide 35409-3	Synthetic construct		KKMKKALQYIKLLKE	15	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24291				La-AMP1	Synthetic construct		MSLLERKLLMHFLRV	15	32333997	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24350				Undefined	Synthetic construct		RRRKLDLKLDLKLDL	15	25934283	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24359		A7WNV3		K2-Brevinin-1PLb (12-24)	Synthetic construct		KKFLPKIFCAITKKC	15	32781587	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24360		A7WNV3		K-Brevinin-1PLb (1-3)-W-(15-24)	Synthetic construct		KFLPWKIFCAITKKC	15	32781587	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24362		A7WNV3		K-Brevinin-1PLb (1-3)[L3W]-W-(15-24)	Synthetic construct		KFWPWKIFCAITKKC	15	32781587	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24363		A7WNV3		K-Brevinin-1PLb (1-3)-W-(15-24)[I7W]	Synthetic construct		KFLPWKWFCAITKKC	15	32781587	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24458				LZ1	Synthetic construct		VKRWKKWWRKWKKWV	15	24013774	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24464		B6D434		Cathelicidin-BF-15 [K2,5,6,10,12,13R]	Synthetic construct		VRRFRRFFRRLRRSV	15	28664269	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24513				Undefined	Synthetic construct		LFTMADPIQSIEKEI	15	32954133	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24557				P0	Synthetic construct		RKEKIKKRIGKIDRL	15	32499514	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24565				PA-15	Synthetic construct		KIAKRIWKILRRRLF	15	32499514	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24575		Q9Y8Y1		3-oxoacyl-[acyl-carrier-protein] reductase (117-131)[V1F,Y2K,T5W,L12A,R13L,A15L]	Synthetic construct		FKLVWKLLKKLALKL	15	33063186	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24576		B6YW36		GTP-dependent dephospho-CoA kinase (A4W, G14K)[A4W,G14K]	Synthetic construct		ITKWLLNAIKKGFKL	15	33063186	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24577		B6YTI2		Ph1570 domain-containing protein (115-129)[K5V,G7L,L8W,V10N,N14K]	Synthetic construct		IHKLVKLWLNLGKKF	15	33063186	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24578		B6YWQ6		Hydrogenase 4, subunit 3 (20-34)[I6W,G8L,I12L,Q14K]	Synthetic construct		LFSIIWKLNRKLIKA	15	33063186	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24716				Undefined	Synthetic construct		WlWlWlWvKkAkAkK	15	33469079	Antibacterial	Gram+,Gram-	Experimentally Validated

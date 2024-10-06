@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2805				  Siamycin II 	Streptomyces strains AA3891	Monera	CLGIGSCNDFAGCGYAIVCFW	21	7787424	Antiviral		Experimentally validated
+CAMPSQ2809				  Brevinin-2-related peptide 	Rana septentrionalis	Animalia (Amphibia)	GIWDTIKSMGKVFAGKILQNL	21	15556063, 19793185, 31549575	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2919				  Catestatin 	Homo sapiens	Animalia (Mammals)	SSMKLSFRARAYGFRGPGPQL	21	15723172	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2928				  Brevinin-1Ja 	Rana japonica	Animalia (Amphibia)	FLGSLIGAAIPAIKQLLGLKK	21	18558801	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2934				  SP-B 	Sus scrofa	Animalia (Mammals)	APPGARPPPGPPPPGPPPPGP	21	17883246	Antifungal		Experimentally validated
+CAMPSQ2986				  Mutacin 1140	Streptococcus mutans	Monera	KSWSLCTPGCARTGSFNSYCC	21	9596742	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3068				  Siamycin I 	Streptomyces strain AA6532	Monera	CLGVGSCNDFAGCGYAVVCFW	21	8557614	Antibacterial, Antiviral	Gram +ve	Experimentally validated
+CAMPSQ3069				  NP-06 	Streptomyces strain AA6532	Monera	CLGVGSCNDFAGCGYAIVCFW	21	8619594	Antiviral		Experimentally validated
+CAMPSQ3153				  Odorranain-H1 	Odorrana grahami	Animalia (Amphibia)	GIFGKILGVGKKVLCGLSGWC	21	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3157				  Nigrocin-OG13 	Odorrana grahami	Animalia (Amphibia)	GLLSGILGAGKHIVCGLSGLK	21	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3158				  Nigrocin-OG21 	Odorrana grahami	Animalia (Amphibia)	GLLSGVLGVGKKVDCGLSGLC	21	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3284				  GHH20 	Homo sapiens	Animalia (Mammals)	GHHPHGHHPHGHHPHGHHHPH	21	18797515	Antifungal		Experimentally validated
+CAMPSQ3298				  Scolopin 1 	Scolopendra mutilans	Animalia (Centipedes)	FLPKMSTKLRVPYRRGTKDYH	21	19716842	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3323				  Ocellatin-5 	Leptodactylus ocellatus	Animalia (Amphibia)	AVLDILKDVGKGLLSHFMEKV	21	19739090	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3420				  PvD1 	Phaseolus vulgaris 	Plantae	KTCENLADTYKGPCFTTGSCD	21	18786582	Antifungal		Experimentally validated
+CAMPSQ3436				  Nigrocin-2ISa  	Odorrana ishikawae	Animalia (Amphibia)	GIFSTVFKAGKGIVCGLTGLC	21	 21193000	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3437				  Nigrocin-2ISb  	Odorrana ishikawae	Animalia (Amphibia)	GILGTVFKAGKGIVCGLTGLC	21	 21193000	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3582				  Nigrocin-1-OA1 	Odorrana andersonii	Animalia (Amphibia)	GLLSGVLGVGKKIVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3583				  Nigrocin-1-OA2 	Odorrana andersonii	Animalia (Amphibia)	GIFGKILGVGKKTLCELSGMC	21	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3584				  Nigrocin-1-OA3 	Odorrana rotodora	Animalia (Amphibia)	GIFLKVLGVGKKVLCGVSGLC	21	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3585				  Nigrocin-1-OR1 	Odorrana rotodora	Animalia (Amphibia)	GLISGILGVGKKLVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3586				  Nigrocin-1-OR2 	Odorrana rotodora	Animalia (Amphibia)	GLISGILGVGKMLVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3587				  Nigrocin-1-OR3 	Odorrana rotodora	Animalia (Amphibia)	GLISGLLGVGKMLVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3589				  Nigrocin-1-OW2 	Odorrana wuchuanensis	Animalia (Amphibia)	GILGNIVGMGKKIVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3590				  Nigrocin-1-OW3 	Odorrana wuchuanensis	Animalia (Amphibia)	GILGNIVGMGKKVVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

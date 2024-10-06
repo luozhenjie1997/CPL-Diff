@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ106	12585254	P82656		Hadrurin	Hadrurus aztecus 	Animalia (Arachnida)	GILDTIKSIASKVWNSKTVQDLKRKGINWVANKLGVSPQAA	41	10931184	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ323	28849941	P46162		Neutrophil beta-defensin 4 	Bos taurus 	Animalia (Mammals)	QRVRNPQSCRWNMGVCIPFLCRVGMRQIGTCFGPRVPCCRR	41	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11701				NZX	Pseudoplectania nigrella	Fungi	GFGCNGPWSEDDIQCHNHCKSIKGYKGGYCARGGFVCKCY	40	30514507	Antibacterial		Experimentally validated
+CAMPSQ11867				Peptide GT-40	Homo Sapiens	Animalia (Mammals)	GRHIYIYVPDPDVAFVPLGMTDYLVIVEDDDSAIIPCRTT	40	28403220	Antiviral		Experimentally validated
+CAMPSQ11898				Abacein	Apis Melifera	Animalia (Insects)	YVPLPNVPQPGRRPFPTFPGQGPFNPKIKWPQGYHHHHHH	40	28468662	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ12199				CaThi	Capsicum annuum	Plantae (Angiosperms)	KEICCKVPTTPFLCTNDPQCKTLCSKVNTEDGNCFDILSK	40	26819228, 23896704	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ14720				Hill-Def 2a	Hermetia illucens 	Animalia (Insects)	ATCDLLSPFKVGHAACAAHCIARGKRGGWCDKRAVCNCRK	40	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14722				Hill-Def 4	Hermetia illucens 	Animalia (Insects)	ATCDLLSPFKVGHAACALHCIALGRRGGWCDGRAVCNCRR	40	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14723				Hill-Def 5	Hermetia illucens 	Animalia (Insects)	AMCDLLSGLNMGRSVCAMRCILKGHRGGWCDDQGVCNCRV	40	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14724				Hill-Def 6	Hermetia illucens 	Animalia (Insects)	LSCLFENQAVSAIACGASCITRKGKRGGWCSNGVCRCTPN	40	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14727				Hill-Def 2b	Hermetia illucens 	Animalia (Insects)	ATCDLLSPFKVGHAACAAHCIARGKRGGWCDKRAVCNCRK	40	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15064				Pyronesin4	Pyronema confluens	Fungi	GFGCNGPWDEDDMKCHNHCKSIKGYKGGYCAKAGFVCKCY	40	35205928	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ15212				RtCATH2(1e40	Oncorhynchus mykiss	Animalia (Pisces)	KIRTRRGKDSGGPKMGRKNSKGGWRGRPGSGSRPGFGSGI	40	27818338	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15284	2106178920			Antimicrobial peptide U-VVTX-Vm1e [Vespa affinis]	Vespa affinis	Animalia	MSAEALADPIADPVAGPNPEADPEAINLRAIAAFAKKLLG	40	34237341	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15285	2106178918			Antimicrobial peptide U-VVTX-Vm1d [Vespa mandarinia]	Vespa mandarinia	Animalia	MSAEALADPKADPLAGPNPDADPEAINLKAIAALGKKLLG	40	34237341	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15286	2106178916			Antimicrobial peptide U-VVTX-Vm1c [Vespa ducalis]	Vespa ducalis	Animalia	MSAEALADPKADPLAGPNPDADPEAINLKACAALAKKLLG	40	34237341	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15287	2106178914			Antimicrobial peptide U-VVTX-Vm1b [Vespa ducalis]	Vespa ducalis	Animalia	MSAEALADPKADPLAGPNPDADPEAINLRAIAALAKKLLG	40	34237341	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15288	2106178912			Antimicrobial peptide U-VVTX-Vm1a [Vespa ducalis]	Vespa ducalis	Animalia	MSAEALADPKADPLAGPNPDADPEAINLKAIAASAKKLLG	40	34237341	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ20351		U4LWE8,		Similar to Plectasin acc. no. Q53I06, Po Defensin-like peptide	Pyronema omphalodes CBS 100304		GFGCNGPWDEDDMKCHNHCKSIKGYKGGYCASAGFVCKCY	40	31025073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20352		U4LNY7		Similar to Plectasin acc. no. Q53I06, Po Defensin-like peptide	Pyronema omphalodes CBS 100304	Fungi	GFGCGGPWNEDDMQCHNHCKSIKGYKGGYCASAGFVCKCY	40	31025073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20353		U4LND7		Similar to Plectasin acc. no. Q53I06, Po Defensin-like peptide	Pyronema omphalodes CBS 100304	Fungi	GFGCNGPWDEDDMKCHNHCKTIKGYKGGYCASAGFVCKCY	40	31025073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22305		Q86BU1,A2I900		Defensin Mdde, Phormicin C	Musca domestica		ATCDLLSGTGVGHSACAAHCLLRGNRGGYCNGKGVCVCRN	40	17131057	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22323		Q8GWS2		ARACIN1	Arabidopsis thaliana	Plantae	GSCGASIAEFNSSQILAKRAPPCRRPRLQNSEDVTHTTLP	40	25593351	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23846		P82019		Beta-defensin 4, MBD-4	Mus musculus	Animalia	IINNPITCMTNGAICWGPCPTAFRQIGNCGHFKVRCCKIR	40	26911565	Antiviral		Experimentally Validated
+CAMPSQ24310				Brevinin-2SSb	Glandirana susurra	Animalia	SLFSLIKAGAKFLGKNMLKQGPQYPACKVSKDSENVNWKS	40	32751229	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

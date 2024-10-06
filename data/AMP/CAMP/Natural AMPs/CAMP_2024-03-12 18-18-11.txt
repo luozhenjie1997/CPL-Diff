@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8	109940059, 298776	P46169		Beta-defensin 11 precursor 	Bos taurus 	Animalia (Mammals)	GPLSCRRNGGVCIPIRCPGPMRQIGTCFGRPVKCCRSW	38	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ64	1168634	P46166		Beta-defensin 8 	Bos taurus 	Animalia (Mammals)	VRNFVTCRINRGFCVPIRCPGHRRQIGTCLGPQIKCCR	38	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ65	1168638	P46170	1BNB	Beta-defensin 12 , BNDB-12	Bos taurus 	Animalia (Mammals)	GPLSCGRNGGVCIPIRCPVPMRQIGTCFGRPVKCCRSW	38	8454635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11798				LL-37	Homo sapiens	Animalia	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	37	28476579	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11864	1706745	P49913	2FBS,2FBU,2FCG,2K6O,2LMF	LL-37	Homo sapiens	Animalia (Mammals)	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	37	28408902, 30076860, 28400226, 27367675, 30076864, 30043322, 29022391, 31417238, 31396193, 31016971	Antibacterial, Antifungal, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12012				Saha-CATH4	Sarcophilus harrisii	Animalia (Mammals)	KREDFLDQIIRDFRNFIYQKYRRLRDEFRKLRDILSG	37	27725697	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ12020				OMBAC	Ornithodoros moubata	Animalia (Insect )	GFGCPFNQYECHAHCSGVPGYKGGYCKGLFKQTCNCY	37	27531221	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12558				Myticalin A5	Mytilus galloprovincialis	Animalia (Mollusca)	YSWPRMPRIPRLPRYPRYPRYPRYPRWPRQPTIYAGR	37	28829401	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12578				Myticalin D5	Mytilus galloprovincialis	Animalia (Mollusca)	WPRFPKPRKPTYPGPTYPGPTWPRPTWRRSATIDTEH	37	28829401	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12793				Esculentin 2 HYba1 (E2/1)	H. bahuvistara	Animalia (Amphibia)	SIFSLFKMGAKALGKTLLKQAGKAGAEYAACKATNQC	37	31328553	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12795				Esculentin 2 HYba2 (E2/2)	H. bahuvistara	Animalia (Amphibia)	SILSLFKMGAKALGKTLIKQAGKAGAEYVACKATNQC	37	31328553	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14056				CC-AMP2	Capsicum chinense	Plantae	KVGRHLVKGLGKIFRAGKVIFCNTCKTCNGLCDYCCA	37	34445876	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ15128				LL-37	Homo sapiens	Animalia (Mammals)	LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES	37	35254120	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ15210				STF(1e37)	Salmo trutta fario	Animalia (Pisces)	KIRTRRSQARKXSRGNGGGIRXPGGGIRLGGGSLIGR	37	27818338	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ19091		Q9SDS1		Antimicrobial Seed Protein/AC34H	Phytolacca americana	Plantae	ACIKNGGRCVASGGPPYCCSNYCLQIAGQSYGVCKKH	37	27208129	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19680		P50720,A0A096XPN0,		Hyphancin-3D, ABP-dHC-Cecropin A	Hyphantria cunea		RWKIFKKIERVGQNVRDGIIKAGPAIQVLGTAKALGK	37	25241628, 28347740, 28827052	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ19701		E1AZ79		Esculentin-2LF1	Amolops lifanensis	Animalia	GIFSLIKTAAKFVGKNLLKQAGKAGLEHLACKANNQC	37	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21197			5L82	Enterocin K1, EntK1	Enterococcus faecium	Bacteria	MKFKFNPTGTIVKKLTQYEIAWFKNKHGYYPWEIPRC	37	28515717	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22336				Cathelicidin BG, BG-CATH37	Bufo bufo gargarizans	Animalia	SSRRPCRGRSCGPRLRGGYTLIGRPVKNQNRPKYMWV	37	26091834	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22378		B7QGE4,		Defensin MT7	Ixodes ricinus,Ixodes scapularis	Animalia	GFGCPKSALSCSQQCRENNTHSGGYCNGPFNIVCSCY	37	26255244, 27822206	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22833		A0A0A7DQF5		Px Defensin, PxDef	Plutella xylostella	Animalia	RIPCQYEDATEDTICQQHCLPKGYSYGICVSYRCSCV	37	27443911	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22906		A0A165FV95		Plantaricin Pln1	Lactobacillus plantarum	Bacteria	IWQWIVGGLGFLAGDAWSHSDQISSGIKKRKKKGYGY	37	26586613	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22972		Q27239		Cecropin-A	Bombyx mori	Animalia	RWKLFKKIEKVGRNVRDGLIKAGPAIAVIGQAKSLGK	37	32322274	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23244				Python Cathelicidin CATHPb6	Python bivittatu	Animalia	RAAPQRRLRAMARLKKFAEAGGADPDSGGLRARFPER	37	29466000	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24121		A0A0G2SJF3		Cathelicidin-DM	Duttaphrynus melanostictus	Animalia	SSRRKPCKGWLCKLKLRGGYTLIGSATNLNRPTYVRA	37	32363280	Antibacterial	Gram+,Gram-	Experimentally Validated

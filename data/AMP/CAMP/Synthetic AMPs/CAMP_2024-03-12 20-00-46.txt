@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8695				CM1	Synthetic construct		KWKSFIKKLTSAAKKVVTTAKPLALIS	27	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8697				CM3	Synthetic construct		KWKKFIKSLTKSAAKTVVKTAKKPLIV	27	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8925				AMV3	Synthetic construct		ITSISLCTPGCATSLFRTCLTRSCKGC	27	31616392	Antibacterial	Gram+ve	Predicted
+CAMPSQ8951				GST26	Synthetic construct		PQMIARSQDNARQKLRVLYQRADAHL	27	30823998	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10037				NK-2	Synthetic construct		KILRGVCKKIMRTFLRRISKDILTGKK	27	29043494	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10038				NK-pro	Synthetic construct		KILRGVCKKIMRPFLRRISKDILTGKK	27	29043494	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10039				NK-dpro	Synthetic construct		KILPGVCKKIMRPFLRRISKDILTGKK	27	29043494	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ23685		P82243		LCI [22-47]	Synthetic construct		KWIFKSKYYDSSKGYWVGIYEVWDRK	26	31519325	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23740		P19957		Elafin (37-62)	Synthetic construct		VKAQEPVKGPVSTKPGSCPIILIRCA	26	31958637	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24001		Q5DP94		SC26EK	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSEEQQ	26	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24019		Q5DP94		MTSC24EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKSEE	26	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24084		P03377		LP-53	Synthetic construct		YTSLIHSLIEESQNQQEKNEQELLEX	26	30089693	Antiviral		Experimentally Validated
+CAMPSQ24086		P03377		LP-55	Synthetic construct		WEQKIEELLKKAEEQQKKNEEELKKX	26	30089693	Antiviral		Experimentally Validated
+CAMPSQ24091		P03377		LP-60	Synthetic construct		SLIEELIKKSEEQQKKNEEELKKLEX	26	30089693	Antiviral		Experimentally Validated
+CAMPSQ24094		P03377		LP-63	Synthetic construct		QKIEELLKKAEEQQKKNEEELKKLEX	26	30089693	Antiviral		Experimentally Validated
+CAMPSQ24113		P03377		P-60	Synthetic construct		SLIEELIKKSEEQQKKNEEELKKLEK	26	30089693	Antiviral		Experimentally Validated
+CAMPSQ24114		P03377		P-63	Synthetic construct		QKIEELLKKAEEQQKKNEEELKKLEK	26	30089693	Antiviral		Experimentally Validated
+CAMPSQ24218		P60603		ROS modulator 1 (54-79)	Synthetic construct		GGIGKTMMQSGGTFGTFMAIGMGIRC	26	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24273				Undefined	Synthetic construct		MDRWLVKGILQWRKIRRRRRRRRRRR	26	32347931	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24275				Undefined	Synthetic construct		MDRFSLKGILQWRKIRRRRRRRRRRR	26	32347931	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24395		Q26464,		M-myrmeciitoxin-Mp2a [C16,23S]	Synthetic construct		IDWKKVDWKKVSKKTSKVMLKASKFL	26	28513074, 32629771	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24432				Undefined	Synthetic construct		IICRKPIICRKPIICRKPIICRKPII	26	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24523		P0DJD8		(P)IMY25, P-Pepsin A-3 (16-40)	Synthetic construct		PIMYKVPLIRKKSLRRTLSERGLLKD	26	30124040	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24663		Q86YZ3		HRNR (2004-2029)	Synthetic construct		GQHGSSSGHSSTHGQHGSASGQSSSX	26	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24665		Q86YZ3		HRNR (1389-1414)	Synthetic construct		GRHGSGSGQSSGFGHHESSSWQSSGX	26	30833614	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

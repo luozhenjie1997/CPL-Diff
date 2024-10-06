@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ83	119852237	A1IKN3		Preprotemporin-1SKa 	Rana sakuraii	Animalia (Amphibia)	FLPVILPVIGKLLNGILGK	19	17174009	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ136		P80070		Tricholongin BI 	Trichoderma longibrachiatum 	Fungi	AGFAAQAAASLAPVAAQQL	19	1935961	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ141	13959424	P81565		Phylloxin	Phyllomedusa bicolor	Animalia (Amphibia)	GWMSKIASGIGTFLSGMQQ	19	10632707	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ216	18202403	P82420		Ponericin-G7	 Pachycondyla goeldii 	Animalia (Insects)	GLVDVLGKVGGLIKKLLPG	19	11279030	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ281	2500218	P56029	1OT0,1P0G,1P0J,1P0L,1P0O,1P5K,1P5L	50S ribosomal protein L1 	 Helicobacter pylori 	Monera	AKKVFKRLEKLFSKIQNDK	19	16255716	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ299	26390784	P81925		27 kDa antibacterial protein	Cyprinus carpio	Animalia (Pisces)	GIGGKPVQTAFVDNDGIYD	19	8797847	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ328	29123272	Q800R3		PBN1 	Phyllomedusa bicolor	Animalia (Amphibia)	FLSLIPHIVSGVAALAKHL	19	12709067	Antibacterial		Experimentally validated
+CAMPSQ506	52782770	P84158		Cucurmoschin	Cucurbita maxima	Plantae	PQRGEGGRAGNLLREEQEI	19	14499274	Antifungal		Experimentally validated
+CAMPSQ515	544189	P36193		Drosocin	Drosophila melanogaster	Animalia (Insects)	GKPRPYSPRPTSHPRPIRV	19	7588819	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ588	215276702	P84567, P84566	2JQ0	Phylloseptin-1 	Phyllomedusa hypochondrialis	Animalia (Amphibia)	FLSLIPHAINAVSAIAKHN	19	15752569	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16245				Hylin a1-11K	Hypsiboas albopunctatus 	Animalia (Amphibia)	IAKAILPLALKALKNLIK	18	35561952	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16246				Hylin a1-15K	Hypsiboas albopunctatus 	Animalia (Amphibia)	IAKAILPLALKALKKLIK	18	35561952	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16503		E4VP60		Venom antimicrobial peptide-10, MeuFSPL-2	Mesobuthus eupeus	Animalia	FLFSLIPSAISGLINAFK	18	29599756	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ18474				Astacidin PcAst-1a	Procambarus clarkii	Animalia	SNGYRPAYRPAYRPSYRP	18	31884202	Antibacterial, Anticancer	Gram +ve,Gram -ve	Experimentally Validated
+CAMPSQ19598				Bombin GH-1D	Bombina orientalis	Animalia	IxGPVLGLVGKPLESLLE	18	11090921	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19698		E1AZ80		Amolopin-p-LF1	Amolops lifanensis	Animalia	NILSSIANGINRALSFFG	18	25066917	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21238		U6E343		Hylaranin-L1	Hylarana latouchii	Animalia	GVLSAFKNALPGIMKIIV	18	24378871	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21239		U6E412		Hylaranin-L2	Hylarana latouchii	Animalia	GVLSVIKNALPGIMRFIA	18	24378871	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22471		A0A0A7NSH2		Cathelicidin 4, buCATHL4C	Bubalus bubalis	Animalia	RIRFPWPWRWPWWRRVRG	18	26675301	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22472		A0A0A7NSG9		Cathelicidin 4, buCATHL4D	Bubalus bubalis	Animalia	RIRFPWPWRWPWWPRFRG	18	26675301	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22616				Codesane, COD	Colletes daviesanus	Animalia	GMASLLAKVLPHVVKLIK	18	25123582	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23012		C5H0C7		Amolopin P1	Amolops loloensis	Animalia	NILSSIVNGINRALSFFG	18	18312859	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23013		C5H0C8		Amolopin P2	Amolops loloensis	Animalia	NVLSSVANGINRALSFFG	18	18312859	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23353		D0VDZ4		Bombolitin, Bi-bombolitin	Bombus ignitus	Animalia	LNLKKILGKIGVMLSHLN	18	20350616	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24364		A0A2L2DDE6		Figainin 1	Boana raniceps	Animalia	FIGTLIPLALGALTKLFK	18	32967114	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10700				Mel4	Synthetic construct		KNKRKRRRRRRGGRRRR	17	31075940	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10809				APX-17 	Synthetic construct		KKAEVKTVGKLALKHWL	17	30845708	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11108				EFK17a	Synthetic construct		EFKRIVQRIKDFLRNLV	17	29087182	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11277				17BIPHE2	Synthetic construct		GXKRLVQRLKDXLRNLV	17	30800727	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11278				Merecidin (17BIPHE2-R23O)	Synthetic construct		GXKRLVQOLKDXLRNLV	17	30800727	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11279				17BIPHE2-V21A	Synthetic construct		GXKRLAQRLKDXLRNLV	17	30800727	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11280				17BIPHE2-R23A	Synthetic construct		GXKRLVQALKDXLRNLV	17	30800727	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11281				17BIPHE2-R23S	Synthetic construct		GXKRLVQSLKDXLRNLV	17	30800727	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11328				D4E1	Synthetic construct		FKLRAKIKVRLRAKIKL	17	30776385	Antifungal		Experimentally validated
+CAMPSQ11384				Dadapin-8	Synthetic construct		AAKKGCWTVSIPPKPCF	17	30710514	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11386				StigA25	Synthetic construct		FFSLIPSLVKKLIKAFK	17	30709056	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11387				StigA31	Synthetic construct		FFKLIPKLVKKLIKAFK	17	30709056	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11393				VRF005	Synthetic construct		KKKWFETWFTEWPKKKK	17	30697045	Antifungal		Experimentally validated
+CAMPSQ11394				VRF007	Synthetic construct		KDRPIFQLNTSYWEMGA	17	30697045	Antifungal		Experimentally validated
+CAMPSQ11418				G17K	Synthetic construct		GLEEELQFSLGSKINVK	17	30654366	Antiviral		Experimentally validated
+CAMPSQ11419				S17K	Synthetic construct		SEETKENEGFTVTAEGK	17	30654366	Antiviral		Experimentally validated
+CAMPSQ11461				WR17	Synthetic construct		WKLLSKAQEKFGKNKSR	17	30658284	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ11618				Peptide 11	Synthetic construct		RCRVYNNGLPTGLYRWC	17	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11841				PAF118	Synthetic construct		NTCTYLKGGRNVIVNCG	17	28428776	Antifungal		Experimentally validated
+CAMPSQ11883				CPF-1 	Synthetic construct		KFWSLLKKALRLWANVL	17	28371431	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11884				CPF-2 	Synthetic construct		kFwSLLkKALRLwANVL	17	28371431	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11885				CPF-3	Synthetic construct		KFWKLLKKALRLWAKVL	17	28371431	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11886				CPF-4	Synthetic construct		kFWKlLKkAlrLWAkVL	17	28371431	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11887				CPF-5 	Synthetic construct		kFwKLLkKALrLwAkVL	17	28371431	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11888				CPF-6 	Synthetic construct		lFwKLLlKAlrLwAkVL	17	28371431	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

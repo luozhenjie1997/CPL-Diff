@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3434				  Brevinin-2ISb  	Odorrana ishikawae	Animalia (Amphibia)	SFLTTFKDLAIKAAKSAGQSVLSTLSCKLSNTC	33	 21193000	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3435				  Brevinin-2ISc  	Odorrana ishikawae	Animalia (Amphibia)	SVLGTVKDLLIGAGKSAAQSVLTTLSCKLSNSC	33	 21193000	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3542				  Brevinin-2-OA1 	Odorrana andersonii	Animalia (Amphibia)	GILDTFKNMALNAAKSAGVSVLNALSCKLSKTC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3543				  Brevinin-2-OA3 	Odorrana andersonii	Animalia (Amphibia)	GLLDTFKNMAINAAHGAGVSVLNALSCKLKKTC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3544				  Brevinin-2-OA4 	Odorrana andersonii	Animalia (Amphibia)	GLLDTFKNLAINAAESAGVSVLNSLSCKLSKTC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3545				  Brevinin-2-OA5 	Odorrana andersonii	Animalia (Amphibia)	GLLDGILNANFNAAKSAGTSVLNALSCKLSKTC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3546				  Brevinin-2-OA6 	Odorrana andersonii	Animalia (Amphibia)	GVLATVKNLLIGTGDGAAQSVLKTLSCKLSNDC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3547				  Brevinin-2-OA7 	Odorrana andersonii	Animalia (Amphibia)	GVLGTVKDLLIGAGKSAAQSTLKTLSCKISNDC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3548				  Brevinin-2-OA8 	Odorrana andersonii	Animalia (Amphibia)	GVLATVKNLLNGTGDGAAQSVLKTLSCKLSNDC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3550				  Brevinin-2-OR2 	Odorrana rotodora	Animalia (Amphibia)	GLLDTIKNMALNAAKSAGVSVLNSLSCKLSKTC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3551				  Brevinin-2-OR3 	Odorrana rotodora	Animalia (Amphibia)	GLIDTIKNMALNAAKSAGVSVLNTLSCKLSKTC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3552				  Brevinin-2-OR4 	Odorrana rotodora	Animalia (Amphibia)	SVLGTVKDLLIGAGKSAAQSVLTANSCKLSNSC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3553				  Brevinin-2-OR5 	Odorrana rotodora	Animalia (Amphibia)	SFLDTLKNLAISAAKGAGQSVLSTLSCKLSETC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3554				  Brevinin-2-OR6 	Odorrana rotodora	Animalia (Amphibia)	GLLDTIKNMALNAAKSAGVSVLNSLSCKDSKTC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3555				  Brevinin-2-OR7 	Odorrana rotodora	Animalia (Amphibia)	GLLDTIKNMALNAAKSAGVSVLNTLSCKLSKTC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3557				  Brevinin-2-OR9 	Odorrana rotodora	Animalia (Amphibia)	SFLSTFKELAINAAKNAGQSILHTLSCKLDKTC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3558				  Brevinin-2-OR10 	Odorrana rotodora	Animalia (Amphibia)	SFLSTFKELAINAAKNAGQSLLHTLSCKLDKTC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3559				  Brevinin-2-OW1 	Odorrana wuchuanensis	Animalia (Amphibia)	SVMGTVKDLLIGAGKSAAQSVLKSLSCKISNDC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3560				  Brevinin-2-OW2 	Odorrana wuchuanensis	Animalia (Amphibia)	SVMGTVKDLLIGAGKSAAQSVLKSLSCKLSNDC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3561				  Brevinin-2-OW3 	Odorrana wuchuanensis	Animalia (Amphibia)	SVMGTVKDLLIGAGKSAAQSVLKALSCKLSKDC	33	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3602				  Brevinin-2RTa 	Amolops ricketti	Animalia (Amphibia)	GLMSTLKDFGKTAAKEIAQSLLSTASCKLAKTC	33	22100518	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3603				  Brevinin-2RTb 	Amolops ricketti	Animalia (Amphibia)	GILDTLKEFGKTAAKGIAQSLLSTASCKLAKTC	33	22100518	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3649				  Rugosin-RN1 	Rana nigrovittata	Animalia (Amphibia)	SIRDKIKTIAIDLAKSAGTGVLKTLICKLDKSC	33	19778602	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3650				  Rugosin-RN3 	Rana nigrovittata	Animalia (Amphibia)	SIRDKIKTIAIDLAKSAGMGILKTLICKLDKSC	33	19778602	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3651				  Rugosin-RN5 	Rana nigrovittata	Animalia (Amphibia)	SIRDKIKTIAIDLAKSAGTGVLKTLICKLNKSC	33	19778602	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

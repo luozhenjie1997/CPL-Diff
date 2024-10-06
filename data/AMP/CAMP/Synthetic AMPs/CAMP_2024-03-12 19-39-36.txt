@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9208				E1P52-2	Synthetic construct		ISLTPLLVCVAALLLLEQ	18	26905802	Antiviral		Experimentally validated
+CAMPSQ9336				Pepcon 	Synthetic construct		FLFSLIPSAIGGLISAFK	18	28096686	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9444				NN2_0027	Synthetic construct		VLSAFHKVIKIIHHISHF	18	29259134	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9548				[L9]-P18 (analog of P18)	Synthetic construct		KWKLFKKILKFLHLAKKF	18	12005420	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9549				[S9]-P18 (analog of P18)	Synthetic construct		KWKLFKKISKFLHLAKKF	18	12005420	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9579				C(4-21)W2	Synthetic construct		RWLRKIRRWRPKVTITIQ	18	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9583				C(4-21)Y2	Synthetic construct		RYLRKIRRYRPKVTITIQ	18	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9634				LR9	Synthetic construct		RIKRFWPVVIRTVVAGYN	18	PMCID: PMC4131589	Antifungal 		Experimentally validated
+CAMPSQ9652				RL8	Synthetic construct		VIRTVVAGYNLYRAIKKK	18	PMCID: PMC4131589	Antifungal		Experimentally validated
+CAMPSQ9825				C5A	Synthetic construct		SWLRDIWDWICEVLSDFK	18	26552985	Antiviral		Experimentally validated
+CAMPSQ9850				CXCL9(86-103)	Synthetic construct		KKVLKVRKSQRSRQKKTT	18	26551597	Antiviral		Experimentally validated
+CAMPSQ10018				C18G	Synthetic construct		ALWKKLLKKLLKSAKKLG	18	29401708	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10019				C18G-Arg	Synthetic construct		ALWRRLLRRLLRSARRLG	18	29401708	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10020				C18G-His	Synthetic construct		ALWHHLLHHLLHSAHHLG	18	29401708	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10021				C18G-Orn	Synthetic construct		ALWOOLLOOLLOSAOOLG	18	29401708	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10022				C18G-Dap	Synthetic construct		ALWXXLLXXLLXSAXXLG	18	29401708	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10141				BMAP-18	Synthetic construct		GRFKRFRKKLKKLFKKLS	18	31506312	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10178				PGG	Synthetic construct		GLLRRLRKKIGEIFKKYG	18	9428709	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10193				MEP-N (melectin peptide derivative)	Synthetic construct		GFLSILKKVLPKVXAHXK	18	22526241	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10194				MEP-Ns-1 (melectin peptide derivative)	Synthetic construct		GFLSILKKVLPKSXAHSK	18	22526241	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10195				MEP-Ns-2 (melectin peptide derivative)	Synthetic construct		GFLSSLKKSLPKVXAHXK	18	22526241	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10196				MEP-Ns-3 (melectin peptide derivative)	Synthetic construct		GFLSSLKKSLPKSXAHSK	18	22526241	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10197				MEP-Ns-4 cis	Synthetic construct		GFRSILKKVSPKVXAHXK	18	22526241	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10198				MEP-Ns-4 trans	Synthetic construct		GFRSILKKVSPKVXAHXK	18	22526241	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10199				MEP-Ns-5 (melectin peptide derivative)	Synthetic construct		GFLSSLKKSLGKSXAHSK	18	22526241	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ48	115311727	Q1ELU9		Latarcin-5 	Lachesana tarabaevi	Animalia (Arachnida)	GFFGKMKEYFKKFGASFKRRFANLKKRL	28	16735513, 19563807	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ101	122069646	P85058		Ranatuerin-2SEB	Rana sevosa	Animalia (Amphibia)	AIMDTIKDTAKTVAVGLLNKLKCKITGC	28	16386333	Antibacterial		Experimentally validated
+CAMPSQ102	122069647	P85053		Ranatuerin-2SEC	Rana sevosa	Animalia (Amphibia)	GIMDTIKDTAKTVAVGLLNKLKCKITGC	28	16386333	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ139	13959342	P81485		Dermaseptin-B3 	Phyllomedusa bicolor	Animalia (Amphibia)	ALWKNMLKGIGKLAGQAALGAVKTLVGA	28	9614066	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ140	13959343	P81486		Dermaseptin-B4 	Phyllomedusa bicolor	Animalia (Amphibia)	ALWKDILKNVGKAAGKAVLNTVTDMVNQ	28	9614066	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ419	41016985	P83639		Dermadistinctin-L 	Phyllomedusa distincta	Animalia (Amphibia)	ALWKTLLKNVGKAAGKAALNAVTDMVNQ	28	10477123	Antibacterial, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10873				Fow-3	Gallus gallus	Animalia	KRFWPLVPVAINTVAAGINLYKAIRRK	27	26902768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10972				Ranatuerin-2ZHa	Rana zhenhaiensis 	Animalia	GLADYWRTAFRANFANLGPGIRCKSAR	27	22943778	Antibacterial, Antifungal 		Experimentally validated
+CAMPSQ11469				NP-2	Zanthoxylum bungeanum	Plantae (Angiosperms)	DVIVVGAGIMGSSAAYQLAKRGQKTLL	27	30623204	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11599				ChMAP-28	Capra hircus	Animalia (Mammals)	GRFKRFRKKLKRLWHKVGPFVGPILHY	27	30555455	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11819		Q7Z5J1		GVF27	Homo Sapiens	Animalia (Mammals)	GVFYPWRFRLLCLLRRWLPRPRAWFIR	27	28454736	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12021				BMAP28	Bos taurus	Animalia (Mammals)	GGLRSLGKKILRAWKKYGPIIVPIIRI	27	27531221	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12687				MAF-1A	Musca domestica	Animalia	KKFKETADKLIESAKQQLESLAKEMK	27	28567034	Antifungal		Experimentally validated
+CAMPSQ14971				GVF27	Homo sapiens 	Animalia (Mammals)	GVFYPWRFRLLCLLRRWLPRPRAWFIR	27	35215373	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14986				Peptide 15	Saccharomyces cerevisiae	Fungi	GAPGGAAGGAAGGAPGGFPGGAPPAPE	27	35215278	Antibacterial		Predicted
+CAMPSQ15038				AMP2	Homo sapiens 	Animalia (Mammals)	AVRDKQERIHLVLGDCTHSPGSLQISL	27	35201913	Antifungal		Experimentally validated
+CAMPSQ15152				Megin 2	Megophrys minor	Animalia (Amphibia)	FFVLKFLLKWAGKVGLEHLACKFKNWC	27	27114317	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15213				SF(18-45)	Salvelinus fontinalis	Animalia (Pisces)	KFRSNGRHGSGSRLGGGSLIGRPGGGS	27	27818338	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ19414		Q9KWM4		Lantibiotic Nukacin ISK-1	Staphylococcus warneri  ISK-1	Bacteria	KKKSGVIPxVxHDXHMNxFQFVFXXXS	27	19506061	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20766				Hymenochirin-5Pa	Pseudhymenochirus merlini	Animalia	ITIPPIVKDTLKKFFKGGIAGVMGKSQ	27	24212286	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20768				Hymenochirin-5Pc	Pseudhymenochirus merlini	Animalia	ITIPPIIKDTLKKFFKGGIAGVMGKSQ	27	24212286	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20774				Pseudhymenochirin-2Pa	Pseudhymenochirus merlini		GIFPIFAKLLGKVIKVASSLISKGRTE	27	24212286, 25447194, 26606380	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22445		X5JAN0		Bombinin-BV	Bombina variegata	Animalia	GIGGALLNVGKVALKGLAKGLAEHFAN	27	25003126	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22742				Cereucin XA, CexA	Bacillus cereus	Bacteria	MGKKIGKWIITGAAGWAGWEIGEGIWK	27	27316965	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24128				Dermaseptin-AC4, DRP-AC4	Agalychnis callidryas	Animalia	SLWGKLKEMAAAAGKAALNAVNGLVNQ	27	32397600	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

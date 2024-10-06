@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8337				DesHDAP1-parasin (D-P)	Synthetic construct		ARDNKKTRIWPRHLQLAVRNKGRGKQGGKVRWKAKTRSS	39	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8339				Parasin-DesHDAP1 (P-D)	Synthetic construct		KGRGKQGGKVRWKAKTRSSARDNKKTRIWPRHLQLAVRN	39	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ21509		Q70626		Undefined	Synthetic construct		TTWEAWDRAIAEYAARIEALIRALQEQQEKNEAILREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21510		Q70626		Undefined	Synthetic construct		TTWEAWDRAIAEYAARIEALIRAAQEQQEKLEAALREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21511		Q70626		Undefined	Synthetic construct		TTWEAWDRAIAEYAARIEALIRAAQEQQEKLEAVLREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21512		Q70626		Undefined	Synthetic construct		TTWEAWDRAIAEYAARIEALIRALQELQEKNEAALREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21513		Q70626		Undefined	Synthetic construct		TTWEAWDRAIAEYAARIEALIRALQELQEKNEAILREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21515		Q70626		Undefined	Synthetic construct		TTWEAWDRAIAEYAARIEALIRALQELQEKLEAILREL	38	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21553				T21N17	Synthetic construct		RIQQIEQKIHHIEQRIQQIEQLLQLTVWGIKQLQARIL	38	31932193	Antiviral		Experimentally Validated
+CAMPSQ21576		P03377		C34-Chol	Synthetic construct		WMEWDREINNYTSLIHSLIEESQNQQEKNEQELLGSGC	38	30867304	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21646		P46161		Template Beta-defensin	Synthetic construct		XGVSCLRNGGFCIPIRCPGHTRQIGTCFGPRVKCCRKW	38	19453294	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21647		P46161		Template Beta-defensin [C34S]	Synthetic construct		XGVSCLRNGGFCIPIRCPGHTRQIGTCFGPRVKSCRKW	38	19453294	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21731				Undefined	Synthetic construct		KIEEIESKQKKIENEIARIKKLLQLTVWGIKQLQARIL	38	11572974	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21732				Undefined	Synthetic construct		KIEEIESKIKKIENEIARIKKLLQLTVWGIKQLQARIL	38	11572974	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21810		P12724		Eosinophil cationic protein (8-45) [C23,37S]	Synthetic construct		AQWFAIQHISLNPPRSTIAMRAINNYRWRSKNQNTFLR	38	21696142	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23181		Q8GVD4		Glycine-rich protein (101-138), LsGRP1 (101-138)	Synthetic construct		RCYNGCCRRGYYGGCRCCAHPDEIPDPEYRAEPAYGHP	38	24620722	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23283				TC38, CsTFPI-2 (191-228)	Synthetic construct		RNCMEVCVKGEKKHTGQGMIRRLRRNKNNSIFVVRKRV	38	28263880, 27717901	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23582		E4VP04,		Potassium channel toxin MeuTXKalpha3 [P30N]	Synthetic construct		VDFPNKGGKCDRKECRKTCKKLNYRGKCFNNYCRCFPG	38	29867003, 26358403	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23909		P59594		SARS-CoV-S (889926)	Synthetic construct		NGIGVTQNVLYENQKQIANQFNKAISQIQESLTTTSTA	38	15184046	Antiviral		Experimentally Validated
+CAMPSQ24104		P03377		LP-74	Synthetic construct		WEEWEKKIEEYTKKIEEILKKSEEQQKKNEEELKKLEX	38	30089693	Antiviral		Experimentally Validated
+CAMPSQ24119		P03377		P-74	Synthetic construct		WEEWEKKIEEYTKKIEEILKKSEEQQKKNEEELKKLEK	38	30089693	Antiviral		Experimentally Validated
+CAMPSQ24366		A0A1J9QEC5		Blapersin/Bp Defensin [W2F]	Synthetic construct		GFGCNIFGGNDYRCHRHCKSIRGYKGGYCKLGGICKCY	38	32871207	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24367		A0A1J9QEC5		Blapersin/Bp Defensin [W2Y]	Synthetic construct		GYGCNIFGGNDYRCHRHCKSIRGYKGGYCKLGGICKCY	38	32871207	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24368		A0A1J9QEC5		Blapersin/Bp Defensin [W2A]	Synthetic construct		GAGCNIFGGNDYRCHRHCKSIRGYKGGYCKLGGICKCY	38	32871207	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24594		P59594		SARS-CoV-S (11491186)	Synthetic construct		GDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELG	38	15158473	Antiviral	Gram+,Gram-	Experimentally Validated

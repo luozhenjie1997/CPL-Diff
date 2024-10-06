@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ862	14030271	Q90WJ0		Winter flounder 1a	Pseudopleuronectes americanus	Animalia (Pisces)	WLRRIGKGVKIIGGAALDHL	20	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1068	68052206	Q8JHE1		Maximin-H5	Bombina maxima	Animalia (Amphibia)	ILGPVLGLVSDTLDDVLGIL	20	12127963	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1119	68064399	P83958		Thaumatin-like protein , Actc2	Actinidia chinensis	Plantae	ATFNFINNCPFTVWAAAVPG	20	12165295 , 12417892	Antifungal, Antiviral		Experimentally validated
+CAMPSQ1133	93204534	P84794		Antifungal protein J 	Solanum tuberosum	Plantae	LPSDATLVLDQTGKELDARL	20	16076139	Antifungal		Experimentally validated
+CAMPSQ1157	254674358	C7C1L0		Kasseptin 1Mc	Kassina maculata	Animalia (Amphibia)	FVGAIAAALPHVISAIKNAL	20	19427345	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1158	254674356	C7C1K9		Kasseptin 1Mb	Kassina maculata	Animalia (Amphibia)	FFGAIAAALPHVISAIKNAL	20	19427345	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1159	254674354	C7C1K8		Kasseptin 1Ma	Kassina maculata	Animalia (Amphibia)	FLGAIAAALPHVINAVTNAL	20	19427345	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ1237	109940030	P81903		Histone H2B 1 	Ictalurus punctatus 	Animalia (Pisces)	PDPAKTAPKKGSKKAVTKXA	20	9645227	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1312	24638003	P83087		Maximin-Hu 	Bombina maxima	Animalia (Amphibia)	ILGPVLSLVGNALGGLLKNE	20	11835991	Antibacterial		Experimentally validated
+CAMPSQ1316	68052293	Q58T87		Maximin H12	Bombina maxima	Animalia (Amphibia)	LLGPVLGLVSNALGGLLKNI	20	11835991	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1321	68052844	Q58T95, Q58T65 , Q58T64 , Q58T48		Maximin-H11	Bombina maxima	Animalia (Amphibia)	ILGPVLGLVGSALGGLIKKI	20		Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1322	68052842	Q58T93, Q58T40		Maximin-H16	Bombina maxima	Animalia (Amphibia)	ILGPVLSLVGNALGGLIKKI	20		Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1749	68052292	Q58T86, Q58T49		Maximin-H8	Bombina maxima	Animalia (Amphibia)	ILGPVLGLVSNALGGLLKNI	20		Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1750	68052290	Q58T80, Q58T69		Maximin-H9	Bombina maxima	Animalia (Amphibia)	ILGPVLGLVSNALGGLIKKI	20		Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1751	68052273	Q58T46		Maximin-H14	Bombina maxima	Animalia (Amphibia)	ILGPVLGLVGEPLGGLIKKI	20		Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1753	68052270	Q58T43, Q58T39		Maximin-H15	Bombina maxima	Animalia (Amphibia)	ILGPVLGLVGNALGGLLKNL	20		Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1773	68052841	Q58T91, Q58T89 , Q58T94		Maximin-Hv 	Bombina maxima	Animalia (Amphibia)	ILGPVLSLVGSALGGLIKKI	20		Antibacterial, Antifungal		Predicted
+CAMPSQ1774	68052423	Q58T92		Maximin-Hw	Bombina maxima	Animalia (Amphibia)	ILGPVLGLVSNAIGGLIKKI	20		Antibacterial, Antifungal		Predicted
+CAMPSQ1776	68052279	Q58T59		Maximin-H10	Bombina maxima	Animalia (Amphibia)	ILGPVLGLVSNALGGLLKNL	20		Antibacterial, Antifungal		Predicted
+CAMPSQ1777	68052278	Q58T58		Maximin-H13	Bombina maxima	Animalia (Amphibia)	ILGPVIKTIGGVLGGLLKNL	20		Antibacterial, Antifungal		Predicted
+CAMPSQ1779	68052036	Q58T72		Maximin-H6	Bombina maxima	Animalia (Amphibia)	ILGPVIGTIGNVLGGLLKNL	20		Antibacterial, Antifungal		Predicted
+CAMPSQ1780	68052035	Q58T56		Maximin-H7	Bombina maxima	Animalia (Amphibia)	ILGPVIKTIGGVIGGLLKNL	20		Antibacterial, Antifungal		Predicted
+CAMPSQ2120	124015193	P0C2D5		Apoxin I-like protein , L-amino-acid oxidase	Trimeresurus flavoviridis	Animalia (Reptiles)	AHDRNPLEEYFRETDYEEFL	20		Antibacterial		Experimentally validated
+CAMPSQ2151	148839571	P85152		Lysozyme	Lysobacter sp. (strain XL1)	Monera	IAIQGGXGYLXQPGDGYKYA	20		Antibacterial		Experimentally validated
+CAMPSQ2451	306530875	P0CH48		Antimicrobial peptide scolopin-1 	Scolopendra mutilans  	Animalia (Centipedes)	LPKMSTKLRVPYRRGTKDYH	20	19716842	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

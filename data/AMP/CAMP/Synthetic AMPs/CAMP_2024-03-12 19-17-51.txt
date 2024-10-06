@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9138				LFB A11 	Synthetic construct		FKCRRWQWRMAKLGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9139				LFB A12 	Synthetic construct		FKCRRWQWRMKALGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9140				LFB A13	Synthetic construct		FKCRRWQWRMKKAGA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9141				LFB A14 	Synthetic construct		FKCRRWQWRMKKLAA	15	11095180	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9142				LFM	Synthetic construct		EKCLRWQNEMRKVGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9143				LFM W8 	Synthetic construct		EKCLRWQWEMRKVGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9144				LFM W8 Y13 	Synthetic construct		EKCLRWQWEMRKYGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9145				LFM A1 W8	Synthetic construct		AKCLRWQWEMRKVGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9146				LFM A9 W8	Synthetic construct		EKCLRWQWAMRKVGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9147				LFM A1,9 W8 	Synthetic construct		AKCLRWQWAMRKVGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9148				LFM R1 W8 	Synthetic construct		RKCLRWQWEMRKVGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9149				LFM R9 W8	Synthetic construct		EKCLRWQWRMRKVGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9150				LFM A1 R9 W8 	Synthetic construct		AKCLRWQWRMRKVGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9151				LFM A9 R1 W8	Synthetic construct		RKCLRWQWAMRKVGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9152				LFM R1,9 W8 	Synthetic construct		RKCLRWQWRMRKVGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9153				LFM A1 W8 Y13 	Synthetic construct		AKCLRWQWEMRKYGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9154				LFM A1,9 W8 Y13	Synthetic construct		AKCLRWQWAMRKYGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9155				LFM A9 W8 Y13 	Synthetic construct		EKCLRWQWAMRKYGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9156				LFM R1 W8 Y13 	Synthetic construct		RKCLRWQWEMRKYGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9157				LFM R9 W8 Y13 	Synthetic construct		EKCLRWQWRMRKYGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9158				LFM A1 R9 W8 Y13	Synthetic construct		AKCLRWQWRMRKYGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9159				LFM A9 R1 W8 Y13	Synthetic construct		RKCLRWQWAMRKYGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9160				LFM R1,9 W8 Y13 	Synthetic construct		RKCLRWQWRMRKYGG	15	11168896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9441				NN2_0018	Synthetic construct		YLARAIRRTLARLLL	15	29259134	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9450				NN2_0055	Synthetic construct		YKRWKKWRSKAKKIL	15	29259134	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

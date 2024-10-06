@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1778	68052276	Q58T51, Q58T41		Maximin-11	Bombina maxima	Animalia (Amphibia)	GIGTKIIGGLKTAVKGALKELASTYVN	27		Antibacterial, Antifungal		Experimentally validated
+CAMPSQ1781	68052035	Q58T56		Maximin-8	Bombina maxima	Animalia (Amphibia)	GIGTKILGGLKTAVKGALKELASTYVN	27		Antibacterial, Antifungal		Predicted
+CAMPSQ2122	124015191	P0C2D3		L-amino-acid oxidase	Eristocophis macmahoni	Animalia (Reptiles)	ADDKNPLEEAFREADYEVFLEIAKNGL	27		Antibacterial		Experimentally validated
+CAMPSQ2676	339958754	G1ERV9		Ranatuerin-2YJ precursor  	Rana dybowskii	Animalia (Amphibia)	LMDIFKVAVNKLLAAGMNKPRCKAAHC	27	22702542	Antibacterial, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2727		P82847, Q8QFQ4		  RANATUERIN 2P 	Rana pipiens 	Animalia (Amphibia)	LMDTVKNVAKNLAGHMLDKLKCKITGC	27	10651828	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2759				  Human KS-27 	Homo sapiens	Animalia (Mammals)	KSKEKIGKEFKRIVQRIKDFLRNLVPR	27	17012259	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ2831				  Ranatuerin-2PLc	Rana palustris	Animalia (Amphibia)	GLLDTKNTAKNLAVGLLDKIKCKMTGC	27	11087945	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ2832				  Ranatuerin-2PLf  	Rana palustris	Animalia (Amphibia)	GIMDTVKNAAKDLAGQLDKLKCRITGC	27	11087945	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ3455				  Maximin 15 	Bombina maxima	Animalia (Amphibia)	GIGTKILGGVKAALKGALKELASTYVN	27	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3456	169730572	C3RTJ9		  Maximin 28 	Bombina maxima	Animalia (Amphibia)	GIGTKFLGGVKTALKGALKELASTYVN	27	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3458				  Maximin 32 	Bombina maxima	Animalia (Amphibia)	GIGGKILGGLKTALKGAAKELASTYLH	27	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3459				  Maximin 39 	Bombina maxima	Animalia (Amphibia)	GIGTKFLGGVKTALKGALKELAFTYVN	27	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3461				  Maximin 45 	Bombina maxima	Animalia (Amphibia)	GIGGKILGGLRTALKGAAKELAATYLH	27	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3463				  Maximin 49 	Bombina maxima	Animalia (Amphibia)	GIGGVLLSAGKAALKGLTKVLAEKYAN	27	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3464				  Maximin 63 	Bombina maxima	Animalia (Amphibia)	GIGGVLLGAGKATLKGLAKVLAEKYAN	27	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3466				  Maximin 42 	Bombina maxima	Animalia (Amphibia)	SIGAKILGGVKTFFKGALKELAFTYLQ	27	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3468				  Maximin 78 	Bombina maxima	Animalia (Amphibia)	GIGGALLSVGKLALKGLANVLADKFAN	27	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3607				  CPF-P2 	Xenopus petersii	Animalia (Amphibia)	GLASFLGKALKAGLKIGSHLLGGAPQQ	27	22123629	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3608				  CPF-P3 	Xenopus petersii	Animalia (Amphibia)	GFGSFLGKALKAALKIGANVLGGAPQQ	27	22123629	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3609				  CPF-P4 	Xenopus petersii	Animalia (Amphibia)	GFGSFLGKALKAALKIGANVLGGAPEQ	27	22123629	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3610				  CPF-P5 	Xenopus petersii	Animalia (Amphibia)	GFGSFLGKALKAALKIGADVLGGAPQQ	27	22123629	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3659				  Lasiocepsin 	Lasioglossum laticeps	Animalia (Insects)	GLPRKILCAIAKKKGKCKGPLKLVCKC	27	22038181	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3670				  Geobacillin II 	Geobacillus thermodenitrificans NG80-2	Monera	STIVCVSLRICNWSLRFCPSFKVRCPM	27	22431611	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3681				  Enterocin NKR-5-3D 	Enterococcus faecium	Monera	TPGGIDFISGGPHVAQDVLNAIKNFFK	27	22738965	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3682				  CPF-SE1 	Silurana epitropicalis	Animalia (Amphibia)	GFLGPLLKLGLKGVAKVIPHLIPSRQQ	27	22800690	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

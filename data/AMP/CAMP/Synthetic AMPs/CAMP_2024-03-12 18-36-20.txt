@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21636		Q86FU0,		Penetratin (1-9)[K4R,I5R,F7W,N9W]	Synthetic construct		RQIRRWWQW	9	19959366, 23581817	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21643		Q86FU0		Penetratin (1-9)[K4W,I5R,F7W,N9W]	Synthetic construct		RQIWRWWQW	9	23581817	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21838				P9	Synthetic construct		PPPPPPPPP	9	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21889				Undefined	Synthetic construct		RPRRPRLPW	9	33266278	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21953		P01680		KP [A1del], K9S	Synthetic construct		KVTMTCSAS	9	33578728	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22089		Q6JWQ9		Epinecidin-1 (22-30)	Synthetic construct		GFIFHIIKG	9	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22098		Q6JWQ9		Epinecidin-1 (31-39)	Synthetic construct		LFHAGKMIH	9	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22099		Q6JWQ9		Epinecidin-1 (37-45)	Synthetic construct		MIHGLVTRR	9	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22101		Q6JWQ9		Epinecidin-1 (34-42)	Synthetic construct		AGKMIHGLV	9	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22108		P81861		Pardaxin P-4 (25-33)	Synthetic construct		ALSSSGGQE	9	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22112		P81861		Pardaxin P-4 (1-9)	Synthetic construct		GFFALIPKI	9	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22113		P81861		Pardaxin P-4 (16-24)	Synthetic construct		KTLLSAVGS	9	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22194		P61280		Alpha-MSH (6-13)[F7D-Nal,G11ins,P12F]	Synthetic construct		HxRWGGKFV	9	23626703	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22215				Undefined	Synthetic construct		LMRIRQMMT	9	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22295		A9XFZ7		Coprisin (22-30)	Synthetic construct		LHCIALRKK	9	20721297	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22296		A9XFZ7		Coprisin (22-30)[C24L]	Synthetic construct		LHLIALRKK	9	20721297	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22297		A9XFZ7		Coprisin (22-30)[C24R]	Synthetic construct		LHRIALRKK	9	20721297	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22298		A9XFZ7		Coprisin (22-30)[H23R]	Synthetic construct		LRCIALRKK	9	20721297	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22299		A9XFZ7		Coprisin (22-30)[H23L] [I4K,K9I]	Synthetic construct		LLCKALRKI	9	24321546	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22300		A9XFZ7		Coprisin (22-30)[H23L] [C3Meth-Cys]	Synthetic construct		LLXIALRKK	9	24321546	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22301		A9XFZ7		Coprisin (22-30)[H23L] [C3R]	Synthetic construct		LLRIALRKK	9	24321546	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22302		A9XFZ7		Coprisin (22-30)[H23L] [C3L]	Synthetic construct		LLLIALRKK	9	24321546	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22303		A9XFZ7		Coprisin (22-30)[H23L] [C3L,A5V]	Synthetic construct		LLLIVLRKK	9	24321546	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22312				R4W5	Synthetic construct		RRRRWWWWW	9	30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22387		P02662		Alpha-S1-casein (92-100)	Synthetic construct		LGYLEQLLR	9	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated

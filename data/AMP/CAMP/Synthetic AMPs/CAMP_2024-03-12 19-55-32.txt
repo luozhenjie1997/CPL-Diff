@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11261				L-16m	Synthetic construct		RXRPRPYSPRPTSHPRPIRVJ	21	30807888	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11262				D-16	Synthetic construct		rXrprpysprptshprpirvB	21	30807888	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11270				L-21	Synthetic construct		RXRRXRIKILFQNRRMKWKKB	21	30807888	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11271				L-21m	Synthetic construct		RXRRXRIKILFQNRRMKWKKJ	21	30807888	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11291				(lin-SB056-1)2-K	Synthetic construct		KWKIRVRLSAKWKIRVRLSAK	21	30800115	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11353				WMR2PA	Synthetic construct		WGIRRILKYGKRSAAAAAAKX	21	30735368	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ11375				LP-92	Synthetic construct		IEELLKKAEEQQKKNEEELKK	21	30716118	Antiviral		Predicted
+CAMPSQ11724				MBjAMP-re	Synthetic construct		NLCASLRARHTIPQCRKFGRR	21	30475621	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11725				MBjAMP-ox	Synthetic construct		NLCASLRARHTIPQCRKFGRR	21	30475621	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11726				MBjAMP-ser	Synthetic construct		NLSASLRARHTIPQSRKFGRR	21	30475621	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11909				Lfcin6	Synthetic construct		FKCWRWQWRWQWRWKKLGAPS	21	28287172	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12156				Truncated Malabar grouper piscidin 1 (EmPis-1S)	Synthetic construct		FIFHIIKGLFHAGKMIHGLVT	21	30032476	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12331				AAG-P18	Synthetic construct		AAGkwklfkklpkflhlakkf	21	29799150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12409				MccJ25-GA	Synthetic construct		VGIGTPISPTGGGAGHVPGTP	21	29107655	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12455				Gallidermin	Synthetic construct		IAaIFLaXPGaAKBGAFNaYa	21	28912758	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12856				Pep	Synthetic construct		GKLRLIKKLWVKKWKKKGWKA	21	33677023	Antibacterial, Anticancer	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13362				3	Synthetic construct		FYTHVFRLKKWIQKVIDQFGE	21	33808488	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ13594				MccJ25 (G12Y)	Synthetic construct		GGAGHVPEYFVYIGTPISFYG	21	34102464	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13612				Antibacterial Photodynamic Peptide (APP)	Synthetic construct		XGKRWWKWWRRPLGPLGVRGC	21	33949360	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13899				F21	Synthetic construct		KKAFAAAAAFAAWAAFAKKKK	21	12384369	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14010				KIAGKIA	Synthetic construct		KIAGKIAKWAGKIAKIAGKIA	21	11352918	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14011				W-KIAGKIA	Synthetic construct		KIAGKIAKIAGKIAKIAGKIA	21	11352918	Antibacterial		Predicted
+CAMPSQ14012				KLAGLAK	Synthetic construct		KLAGLAKKLAGLAKKLAGLAK	21	11352918	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14013				W-KLAGLAK	Synthetic construct		KLAGLAKKWAGLAKKLAGLAK	21	11352918	Antibacterial		Predicted
+CAMPSQ14014				K16A	Synthetic construct		GIWDTIKSMGKVFAGAILQNL	21	19793185	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated

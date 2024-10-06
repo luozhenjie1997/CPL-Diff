@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3441				  Bb-AMP4 	Bellamya bengalensis	Animalia (Molluscs (Gastropoda))	PSCVCSGFETSGIHFC	16	21262297	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3444				  Astacidin 1 	Pacifastacus leniusculus	Animalia (Crustaceans (Malacostraca))	FKVQNQHGQVVKIFHH	16	12493771	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3593				  Odorranain-A-OA1 	Odorrana andersonii	Animalia (Amphibia)	VVKCSYRLGSPDSQCN	16	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3597				  Hejiangin-A1 	Odorrana hejiangensis	Animalia (Amphibia)	RFIYMKGFGKPRFGKR	16	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3632				  Temporin-ALd 	Amolops loloensis	Animalia (Amphibia)	FLPIAGKLLSGLSGLL	16	19843479	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3633				  Temporin-ALe 	Amolops loloensis	Animalia (Amphibia)	FFPIVGKLLFGLSGLL	16	19843479	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3634				  Temporin-ALf 	Amolops loloensis	Animalia (Amphibia)	FFPIVGKLLSGLSGLL	16	19843479	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3635				  Temporin-ALg 	Amolops loloensis	Animalia (Amphibia)	FFPIVGKLLFGLFGLL	16	19843479	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3636				  Temporin-ALh 	Amolops loloensis	Animalia (Amphibia)	FLPIVGKLLSGLSGLS	16	19843479	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3642				  Nigroain-D3 	Rana nigrovittata	Animalia (Amphibia)	CVHWQTNTARTSCIGP	16	19778602	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ3643				  Nigroain-E1 	Rana nigrovittata	Animalia (Amphibia)	DCTRWIIGINGRICRD	16	19778602	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ3674				  Bmkn2 	Mesobuthus martensii	Animalia (Arachnida)	FIGAIARLLSKIFGKR	16	15062994	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3691				  Alyteserin-2Ma 	Alytes maurus	Animalia (Amphibia)	FIGKLISAASGLLSHL	16	22800568	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3696				  Alyteserin-2Mb 	Alytes maurus	Animalia (Amphibia)	ILGAIIPLVSGLLSHL	16	22800568	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ3818		L0P323		Lantibiotic streptin, Senegalin 	Kassina senegalensis	Animalia (Amphibia)	FLPFLIPALTSLISSL	16	23430307	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ3843		C0HJB7		  Buforin-EC 	Euphlyctis cyanophlyctis	Animalia (Amphibia)	RAGLKFPVGRVHRLLR	16		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3866		P86127		Riparin-2.1	Crinia riparia 	Animalia (Amphibia)	IIEKLVNTALGLLSGL	16	16470724	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3955		P83140		Antifungal protein 1 small subunit 	Malva parviflora 	Plantae	PAGPFRIPPRXRXEFQ	16	11118343	Antifungal		Experimentally validated
+CAMPSQ3958		P83142		Antifungal protein 2 small subunit 	Malva parviflora 	Plantae	SDYSRKRDPPQKYEEE	16	11118343	Antifungal		Experimentally validated
+CAMPSQ4608	85700158	P02788		Lactotransferrin-H, HLP1	Homo sapiens	Animalia (Mammals)	FQWQRNMRKVRGPPVS	16	14573629, 9596699	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8753				Penetratin	Drosophila melanogaster	Animalia (Insects)	RQIKIWFQNRRMKWKK	16	23029273, 26860980, 23085001, 28556271	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8969				At02	Arabidopsis thaliana	Plantae (Angiosperms)	KVLSKVHTLLKAVLAL	16	29038271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8976				Gr01	Gossypium raimondii	Plantae (Angiosperms)	GFKLGRKLVKVFKWII	16	29038271	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9507				Alyteserin-2a	Alytes obstetricans	Animalia	ILGKLLSTAAGLLSNL	16	31102497	Antibacterial		Experimentally validated
+CAMPSQ9998				SPX(1-16)(Syphaxin )	Leptodactylus syphax 	Animalia	GVLDILKGAAKDLAGH	16	17628627	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated

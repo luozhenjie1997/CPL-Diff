@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8196				HBc157-175	Synthetic construct		RRRTPSPRRRRSQSPRRRR	19	23785287	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8676				CHRG06 (hBD3 derivative)	Synthetic construct		KYYSRVRGGRSAVLSSLDK	19	12936977	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8707				MC-03	Synthetic construct		AASKAAKTLAKLLSSLLKL	19	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8725				MB-36	Synthetic construct		FASLLGKALKALLAKLAKQ	19	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8732				MB-46	Synthetic construct		ESSLKKKALSKLSKLLKKG	19	9879502	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8819				RFFR-15	Synthetic construct		RRWWRFPRFFRRFFR-NH2	19	26688811	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8831				Peptide 6	Synthetic construct		CATCEQIADSQHRSHRQMV	19	26492266, 9056014	Antiviral		Experimentally validated
+CAMPSQ8835				DK5-PEG-DAL	Synthetic construct		IKKILSkIKKLLXYaGFLR	19	26473368	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8836				DAL-PEG-DK5	Synthetic construct		YaGFLRXIKKILSkIKKLL	19	26473368	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8863				RP435	Synthetic construct		MGFKLRAKIKVRLRAKIKL	19	29242901	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9053				AMP-004	Synthetic construct		XXXGLFDVIKKVASVIGGL	19	31336137	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9096				Pep19-4	Synthetic construct		GKKYRRFRWKFKGKWFWFG	19	30843356	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9099				Pep19-4LF2	Synthetic construct		GKKYRRFRWKFKGLFLFLG	19	30843356	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9100				Pep19-4LF3	Synthetic construct		GRRYKKFRWKFKGLFLFLG	19	30843356	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9104				Pep19-8	Synthetic construct		GRRYKKFRWKFKGRWFWFG	19	30843356	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9106				PMB	Synthetic construct		SRRYKKFRWKFKGRWFWFG	19	30843356	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9633				LR8	Synthetic construct		RIKRFWPVVIRTVVAGYNL	19	PMCID: PMC4131589	Antibacterial, Antifungal 	Gram -ve	Experimentally validated
+CAMPSQ9651				RL7	Synthetic construct		VVIRTVVAGYNLYRAIKKK	19	PMCID: PMC4131589	Antifungal		Experimentally validated
+CAMPSQ9684				Cyclic cationic V1 peptide	Synthetic construct		CVKVKVKVGSGVKVKVKVC	19	15328096	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9685				Cyclic cationic V2 peptide	Synthetic construct		CVKVSVKVGSGVKVSVKVC	19	15328096	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9686				Cyclic cationic V3 peptide	Synthetic construct		CVKVRVKVGSGVKVRVKVC	19	15328096	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9687				Cyclic cationic V4 peptide	Synthetic construct		CVKVQVKVGSGVKVQVKVC	19	15328096	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9688				Cyclic cationic V5 peptide	Synthetic construct		CAKAKAKAGSGAKAKAKAC	19	15328096	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9689				Cyclic cationic V6 peptide	Synthetic construct		CFKFKFKFGSGFKFKFKFC	19	15328096	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9690				Cyclic cationic V7 peptide	Synthetic construct		CWKWKWKWGSGWKWKWKWC	19	15328096	Antibacterial	Gram -ve	Experimentally validated

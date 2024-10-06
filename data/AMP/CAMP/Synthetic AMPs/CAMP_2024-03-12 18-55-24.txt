@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9404				Opt5 	Synthetic construct		KRWRIRVRVIRK	12	17052614	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9481				LfcinB 20-31	Synthetic construct		RRWQWRMKKLGA	12	28613262	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9484				LfcinB 17-28	Synthetic construct		FKCRRWQWRMKK	12	28613262	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9581				C(10-21)W	Synthetic construct		RRWRPKVTITIQ	12	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9585				C(10-21)Y	Synthetic construct		RRYRPKVTITIQ	12	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9618				Eval162	Synthetic construct		IAKTALKVLPQL	12	29290802	Antiviral		Experimentally validated
+CAMPSQ9638				LR15	Synthetic construct		RIKRFWPVVIRT	12	PMCID: PMC4131589	Antifungal 		Experimentally validated
+CAMPSQ9677				Bac2I-NH2 	Synthetic construct		RICRIVVIRCIR	12	10223951	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9678				BacP2R-NH2 	Synthetic construct		RLCPRVRIRVCR	12	10223951	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9682				Lin Bac2S-NH2 	Synthetic construct		RLSRIVVIRVSR	12	10223951	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9683				Lin BacS-NH2 	Synthetic construct		RLSRIVVIRVCR	12	10223951	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9741				19L-30R-NH2 	Synthetic construct		LCAAHCLAIGRR	12	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9742				19L-30R-NH2 fragment 1	Synthetic construct		LCAAHCLAIRRR	12	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9743				19L-30R-NH2 fragment 2	Synthetic construct		LCAAHCLAILRR	12	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9744				19L-30R-NH2 fragment 3	Synthetic construct		LCAARCLAIGRR	12	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9745				19L-30R-NH2 fragment 4	Synthetic construct		LCAALCLAIGRR	12	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9746				19L-30R-NH2 fragment 5	Synthetic construct		LRAAHRLAIGRR	12	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9747				19L-30R-NH2 fragment 6	Synthetic construct		LLAAHLLAIGRR	12	9931294	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9783				TSG-5 (Ixosin-B peptide derivative)	Synthetic construct		GKSDVRRWRSRY	12	23570790	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9784				TSG-6 (Ixosin-B peptide derivative)	Synthetic construct		WKSDVRRWRSRY	12	23570790	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9785				TSG-7 (Ixosin-B peptide derivative)	Synthetic construct		WKSYVRRWRSRY	12	23570790	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9836				IDR-1018	Synthetic construct		VRLIVAVRIWRR	12	26525663	Antibacterial, Antibiofilm	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9856				3001	Synthetic construct		VIKWLLKILRAI	12	29382854	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ9857				3002	Synthetic construct		ILVRWIRWRIQW	12	29382854	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ9858				3003	Synthetic construct		WKKVQWLKRLLL	12	29382854	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated

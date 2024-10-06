@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22423		Q6GXJ1		AvBD4 (16-38)[C18,28,34,35Del]	Synthetic construct		GKPYGNAYLGLRPKYSRWL	19	23746111	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22424		Q6GXJ1		AvBD4 (16-38)[Y20I, C18,28,34,35Del]	Synthetic construct		GKPIGNAILGLRPKISRWL	19	23746111	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22425		Q6GXJ1		AvBD4 (16-38)[Y20R, C18,28,34,35Del]	Synthetic construct		GKPRGNARLGLRPKRSRWL	19	23746111	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22437				VpAmp1.0	Synthetic construct		LPFFLLSLIPSAISAIKKI	19	26352292	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22642		E7EKD9		Odorranain-B1 (1-18)+F	Synthetic construct		AALKGCWTKSIPPKPCFGF	19	17384140	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22771		P84931		Phylloseptin Du [K7H], PS-Du [K7H]	Synthetic construct		FFSMIPHIATGIASLVKNL	19	27589802	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22772				Phylloseptin Co [K7H], PS-Co [K7H]	Synthetic construct		FLSMIPHIAGGIASLVKNL	19	27589802	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22852		P84938		Phylloseptin-PT [N10K]	Synthetic construct		FLSLIPHAIKAVGVHAKHF	19	27918477	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22853		P84938		Phylloseptin-PT [H7k,H15,18K; N10K]	Synthetic construct		FLSLIPKAIKAVGVKAKKF	19	27918477	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22902		Q19AZ8		Prothrombin (605-623)	Synthetic construct		THVFRLKKWMQKVIDRFGG	19	27439393	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23163				Undefined	Synthetic construct		RSITRPVLVRRRWRVRPVF	19	29214045	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23287				Chex1-Val19	Synthetic construct		XRPDKPrPYLPRPRPPRPV	19	28154813	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23355		A0A0B4KJR4		HAP-1 (1-19)	Synthetic construct		QKDDEEESRFFFNFIFSAE	19	30558111	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23460				FK19	Synthetic construct		FIKIFHHIFKGNPKFSIIK	19	30121851	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23461				KT19	Synthetic construct		KIRFTRTVSRLLKAALAST	19	30121851	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23490		P17654,		AmyIase (1-18)[R8A]	Synthetic construct		HLNKRVQAELIGWLDWLK	19	26850838, 27478151	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ23510		P01514		GRGDf-Mitoparan, GRGDf-Mastoparan [A5,8K; A10Aib]	Synthetic construct		GRGDfINLKKLAKLXKKIL	19	29337270	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23511		P01514		GRGEf-Mitoparan, GRGEf-Mastoparan [A5,8K; A10Aib]	Synthetic construct		GRGEfINLKKLAKLXKKIL	19	29337270	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23671		A0A650FAG9		Dermaseptin-PC (1-19), DM-PC (1-19)	Synthetic construct		ALWKSILKNVGKAAGKAVL	19	31653005	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23673				Undefined	Synthetic construct		GXXNNXXXXXXNXXNXXGY	19	16678118	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23674				Undefined	Synthetic construct		GLLKKIAKKAKKALKKLGY	19	16678118	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23675				Undefined	Synthetic construct		GLLKKIGKKAKKAGKKLGY	19	16678118	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23676				Undefined	Synthetic construct		GLLKKIAKKAKKAGKKLGY	19	16678118	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23841		Q19QX0		SARS-CoV (770-788)[Y771W]	Synthetic construct		MWKTPTLKYFGGFNFSQIL	19	16616792	Antiviral		Experimentally Validated
+CAMPSQ23843		P11224		MHV (11441162)	Synthetic construct		GYFVQDDGEWKFTGSSYYY	19	16616792	Antiviral		Experimentally Validated

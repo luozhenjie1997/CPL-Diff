@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ125	134859	P08375		Sarcotoxin-1A 	Sarcophaga peregrina	Animalia (Insects)	GWLKKIGKKIERVGQHTRDATIQGLGIAQQAANVAATAR	39	3888997	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ126	134861	P08376		Sarcotoxin-1B	Sarcophaga peregrina	Animalia (Insects)	GWLKKIGKKIERVGQHTRDATIQVIGVAQQAANVAATAR	39	3888997	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ127	134862	P08377		Sarcotoxin-1C	Sarcophaga peregrina	Animalia (Insects)	GWLRKIGKKIERVGQHTRDATIQVLGIAQQAANVAATAR	39	3888997	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ146	146737990			Moricin-like peptide A	Galleria mellonella	Animalia (Insects)	KVNVNAIKKGGKAIGKGFKVISAASTAHDVYEHIKNRRH	39	18207081	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ161	156630481	P85210		Cecropin-D-like peptide	Galleria mellonella	Animalia (Insects)	ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD	39	17194500	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ200	1709757	P80054		Antibacterial protein PR-39 	Sus scrofa	Animalia (Mammals)	RRRPRPPYLPRPRPPPFFPPRLPPRIPPGFPPRFPPRFP	39	1765098	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ277	2495138	P55897		Buforin-1 	Bufo gargarizans	Animalia (Amphibia)	AGRGKQGGKVRAKAKTRSSRAGLQFPVGRVHRLLRKGNY	39	8573171	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ381	3912960	P81463		Abaecin	Bombus pascuorum 	Animalia (Insects)	FVPYNPPRPGQSKPFPSFPGHGPFNPKIQWPYPLPNPGH	39	9219367	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ513	543976	Q06589		Cecropin-1	Ceratitis capitata	Animalia (Insects)	GWLKKIGKKIERVGQHTRDATIQTIAVAQQAANVAATAR	39	7916722	Antibacterial		Experimentally validated
+CAMPSQ555	6016131, 546442	P46156		Gallinacin-1	Gallus gallus	Animalia (Aves)	GRKSDCFRKSGFCAFLKCPSLTLISGKCSRFYLCCKRIW	39	8150085	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ618	73915343, 546441	P46157		Gallinacin-1 alpha	Gallus gallus 	Animalia (Aves)	GRKSDCFRKNGFCAFLKCPYLTLISGKCSRFHLCCKRIW	39	8150085	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ664	1093740	P80389		Heterophil peptide CHP1	Gallus gallus	Animalia (Aves)	GRKSDCFRKSGFCAFLKCPSLTLISGKCSRFYLCCKRIR	39	7964174	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ677	98960796	Q1JV79		Lactococcin Q alpha	 Lactococcus lactis QU 4	Monera	SIWGDIGQGVGKAAYWVGKAMGNMSDVNQASRINRKKKH	39	16672481	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ694	110560620	A6MBN8		Odorranain-k1 antimicrobial peptide 	Odorrana grahami	Animalia (Amphibia)	GLFTLIKGAAKLIGKTVPKKQARLGMNLWLVKLPTNVKT	39	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ728	3818537	O15263	1E4Q,1FD3,1FD4,1FQQ	Human beta defensin 2	Homo sapiens	Animalia (Mammals)	DPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKPP	39	10603376	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ845	115654	P02663	6FS5	Casocidin-1	Bos taurus 	Animalia (Mammals)	KTKLTEEEKNRLNFLKKISQRYQKFALPQYLKTVYQHQK	39	7556666	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ22376		B7PQR2,		Defensin MT6	Ixodes ricinus,Ixodes scapularis	Animalia	GFGCPLNQGACHNHCRSIKRRGGYCSGIIKQTCTCYRK	38	26255244, 27822206	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22773		C3H399		Thusin A1, ThsA1	Bacillus thuringiensis BGSC 4BT1	Bacteria	INXWNXXAXXXXIIIXEXFGNKGKVXXYXVEXVNNXRG	38	27486447	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22838		Q86QI5		Dm Defensin	Dermacentor marginatus	Animalia	GFGCPLNQGACHNHCRSIRRRGGYCSGIIKQTCTCYRN	38	24747431	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22844		B7Q4Z2		Scapularisin-3	Ixodes scapularis	Animalia	AFGCPFDQGTCHSHCRSIRRRGERCSGFAKRTCTCYQK	38	25443032	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22845		Q5ISE3		Scapularisin-6	Ixodes scapularis	Animalia	GFGCPFDQGACHRHCQSIGRRGGYCAGFIKQTCTCYHN	38	25443032	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23034				ApCec, Ap Cecropin	Antheraea pernyi	Animalia	KWKFFKKIERVGQNIRDGIIKAGPAVAVVGQATNIAKG	38	28008655	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23360		P48144		Pituitary adenylate cyclase-activating polypeptide, PACAP-38	Clarias gariepinus	Animalia	HSDGIFTDSYSRYRKQMAVKKYLAAVLGRRYRQRFRNK	38	30481557	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23581		E4VP04,A0A0S2CX25		Potassium channel toxin MeuTXKalpha3	Mesobuthus eupeus		VDFPNKGGKCDRKECRKTCKKLNYRGKCFPNYCRCFPG	38	29867003, 26358403	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24365		A0A1J9QEC5		Blapersin, Bp Defensin	Blastomyces percursus	Fungi	GWGCNIFGGNDYRCHRHCKSIRGYKGGYCKLGGICKCY	38	32871207	Antibacterial	Gram+,Gram-	Experimentally Validated

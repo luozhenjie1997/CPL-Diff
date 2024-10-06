@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22926				DS4	Synthetic construct		CKYRWR	6	28120548	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22970				P3	Synthetic construct		RRGHYY	6	28299853	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23048				Fusaricidin A/LI-F04a 5	Synthetic construct		TvVtna	6	22392790	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23049				Fusaricidin A	Synthetic construct		TvVxna	6	22392790, 8621351	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23050				Fusaricidin A/LI-F04a 7	Synthetic construct		TvVana	6	22392790	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23051				Fusaricidin A/LI-F04a 8	Synthetic construct		TvAxna	6	22392790	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23052				Fusaricidin A/LI-F04a 9	Synthetic construct		TaVxna	6	22392790	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23053				Fusaricidin A/LI-F04a 10	Synthetic construct		TvVxnG	6	22392790	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23054				Fusaricidin A/LI-F04a 11	Synthetic construct		TvFxna	6	22392790	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23055				Fusaricidin A/LI-F04a 12	Synthetic construct		TvYxna	6	22392790	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23057				Fusaricidin A/LI-F04a 14	Synthetic construct		XvVxna	6	22392790	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23058				Fusaricidin A/LI-F04a 15	Synthetic construct		XvAxna	6	22392790	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23059				Fusaricidin A/LI-F04a 16	Synthetic construct		XvFxna	6	22392790	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23060				Fusaricidin A/LI-F04a 17	Synthetic construct		XvYxna	6	22392790	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23147				Undefined	Synthetic construct		KVISMI	6	29210028	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23292				Undefined	Synthetic construct		cWkKkC	6	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23362				K4C12	Synthetic construct		XKKKKX	6	30354128	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23406				Undefined	Synthetic construct		CASYFC	6	33042031	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23407				Undefined	Synthetic construct		RWWWLL	6	33042031	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23408				Undefined	Synthetic construct		RWWWAA	6	33042031	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23412				Undefined	Synthetic construct		TTMPLW	6	24176365	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23557				D2D [k1,2del]	Synthetic construct		xfkxkx	6	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23560				D2D [k7del, D-Nle8del]	Synthetic construct		kkxfkx	6	31847173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23718				Undefined	Synthetic construct		RIKWWK	6	24946217	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23719				Undefined	Synthetic construct		KRIWWR	6	24946217	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

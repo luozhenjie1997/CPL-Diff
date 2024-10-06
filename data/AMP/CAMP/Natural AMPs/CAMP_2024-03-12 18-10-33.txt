@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11794				Caerin	Litoria raniformis	Animalia (Amphibia)	GLLSVLGSVAKHVLPHVVPVIAEHL	25	28478484	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11808				Ps-K14-K18 	Pseudis paradoxa	Animalia (Amphibia)	GLNALKKVFQGIHKAIKKINNHVQ	25	28469145	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12209				Delta Hg-CATH	Heterocephalus glaber	Animalia (Mammals )	SKFFRKARKKLGKGLQKIKNVLRKY	25	29981419	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12264				FYL25	Homo sapiens 	Animalia (Mammals )	FYLKTYRSQAPVLDAIRRLRLRGGS	25	29925677	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12265				FFL25	Homo sapiens 	Animalia (Mammals )	FFLKDFSTKRQIIDAINKVVYKGGR	25	29925677	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12321				SBac5(1-25)	Ovis aries	Animalia (Mammals)	RFRPPIRRPPIRPPFRPPFRPPVRP	25	29844040	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12322				GBac5(1-25)	Ovis aries	Animalia (Mammals)	RFRPPIRRPPIRPPFNPPFRPPVRP	25	29844040	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12464				BHL Bombinin	Bombina variegata	Animalia (Amphibia)	GIGGALLSFGKSALKGLAKGLAEHF	25	28894024	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12563				Myticalin B1	Mytilus galloprovincialis	Animalia (Mollusca)	LRWTPTPSYPRYPTRSRGSRWSRGR	25	28829401	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12569				Myticalin C6	Mytilus galloprovincialis	Animalia (Mollusca)	RRRRRFRRVIRRIRLPKYLTINTER	25	28829401	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12607	47605566	Q8MJ80		Hepcidin pHepc	Sus scrofa	Animalia (Mammals)	DTHFPICIFCCGCCRKAICGMCCKT	25	28760901	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13640				TCP-25	Homo sapiens 	Animalia (Mammals)	GKYGFYTHVFRLKKWIQKVIDQFGE	25	33951491, 33808488	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13707				Caerin 1.9	Litoria splendida	Animalia (Amphibia)	GLFGVLGSIAKHVLPHVVPVIAEKL	25	34259550	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13753				Ltc5_N-trim	Lachesana tarabaevi	Animalia (Arachnida)	GKMKEYFKKFGASFKRRFANLKKRL	25	19563807	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14677				Checacin1	Chelifer cancroides	Animalia (Arachnida)	FFGAIAKLAMKFLPAIYKQIQKKRK	25	35051034	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14987				Peptide 16	Saccharomyces cerevisiae	Fungi	PGGAAGGAAGGAPGGFPGGAPPAPE	25	35215278	Antibacterial		Predicted
+CAMPSQ15035				Pom-1E	Pomacea poeyana	Animalia	KCAGSIAWAIGSGLFGGAKLIKIKK	25	35214049	Antifungal		Experimentally validated
+CAMPSQ15063				LFcinB	Bos taurus 	Animalia (Mammals)	FKCRRWQWRMKKLGAPSITCVRRAF	25	35213576	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ15135				C_AMP575	Eubacterium rectale	Monera (Bacteria)	KKRKGHKMATHKRKKRLRKNRHKKK	25	35241840	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15160				FPA-Bombinin-BO	Bombina orientalis	Animalia (Amphibia)	GIGGALLSAKAALGLAKGLAEHFAN	25	25056849	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15163				Apo5 APOC164-88	Alligator mississippiensis	Animalia (Reptiles)	FSTKTRNWFSEHFKKVKEKLKDTFA	25	27542832	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15301	1679376118	P0DSM4		M-PONTX-Na1b	Neoponera apicalis	Animalia (Insects)	FLGALLKIGAKLLPSVVGLFKKKQQ	25	34302796	Antibacterial	Gram+ve, Gram -ve	Experimentally validated
+CAMPSQ15302	2203519097	P0DV16.1		M-PONTX-Nc2a	Neoponera commutata	Animalia (Insects)	FVKELWDKVKKMGSAAWSAAKGAFA	25	34302796	Antibacterial	Gram+ve, Gram -ve	Experimentally validated
+CAMPSQ19188		,P82357	1ZRW	Spinigerin	Pseudacanthotermes spiniger	Animalia	HVDKKVADKVLLLKQLRIMRLLTRL	25	20692130, 12963031	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20389				XPF-St4	Silurana tropicalis	Animalia	GWASSIGSILGKFAKGGAQAFLQPK	25	23935531	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated

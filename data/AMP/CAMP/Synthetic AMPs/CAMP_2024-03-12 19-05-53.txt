@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9839				Tet-20	Synthetic construct		KRWRIRVRVIRKC	13	26525663	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ9853				CXCL9(74-86)	Synthetic construct		KKKQKNGKKHQKK	13	26551597	Antiviral		Experimentally validated
+CAMPSQ9885				YK9	Synthetic construct		NKVKEWWKWLKSL	13	29316742	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9886				YK10	Synthetic construct		NKVKEWIKYLKKL	13	29316742	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9887				YK11	Synthetic construct		NKVKEWWKWLKKL	13	29316742	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9933				IsCT1	Synthetic construct		ILGKIWEGIKSLF	13	28657596	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9934				IsCT2	Synthetic construct		IFGAIWNGIKSLF	13	28657596	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9935				IsCT1A1	Synthetic construct		ILGKAWEGAKSLF	13	28657596	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9936				IsCT1V1	Synthetic construct		ILGKVWEGVKSLF	13	28657596	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9937				IsCT1L1	Synthetic construct		ILGKLWEGLKSLF	13	28657596	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9938				IsCT1K7	Synthetic construct		ILGKIWKGIKSLF	13	28657596	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9939				IsCT1E7	Synthetic construct		ILGKIWEGIESLF	13	28657596	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9940				IsCT2A1	Synthetic construct		ILGAAWNGAKSLF	13	28657596	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9941				IsCT2V1	Synthetic construct		ILGAVWNGVKSLF	13	28657596	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9952				3063	Synthetic construct		WKKLVPYKIHAGI	13	31302447	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9957				19347_1 	Synthetic construct		LIVLTCRKKKKPF	13	31302447	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9958				19347_2 	Synthetic construct		RPILIRVRRIRVI	13	31302447	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10010				KL4A6 	Synthetic construct		LLKAAAKAAAKLL	13	30897850	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10011				WV	Synthetic construct		WVKAAAKAAAKVW	13	30897850	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10012				WI	Synthetic construct		WIKAAAKAAAKIW	13	30897850	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10013				WF	Synthetic construct		WFKAAAKAAAKFW	13	30897850	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10014				WW	Synthetic construct		WWKAAAKAAAKWW	13	30897850	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10147				[Lys]1-VmCT1-NH2	Synthetic construct		KLGALWNVAKSVF	13	31181304	Antifungal	Gram +ve, Gram -ve 	Experimentally validated
+CAMPSQ10149				[Lys]1[Lys]12-VmCT1-NH2	Synthetic construct		KLGALWNVAKSKF	13	31181304	Antifungal	Gram +ve, Gram -ve 	Experimentally validated
+CAMPSQ10150				[Lys]3[Lys]7-VmCT1-NH2	Synthetic construct		FLKALWKVAKSVF	13	31181304	Antifungal	Gram +ve, Gram -ve 	Experimentally validated

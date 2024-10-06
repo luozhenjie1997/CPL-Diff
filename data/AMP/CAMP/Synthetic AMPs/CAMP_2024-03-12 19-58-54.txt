@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23087		P49931		PMAP-36 (1-24)[R2,13V;K9V]	Synthetic construct		GVFRRLRKVTRKVLKKIGKVLKWI	24	24466055	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23088		P49931		PMAP-36 (1-24)[R2,5,13V;K9,12,16V]	Synthetic construct		GVFRVLRKVTRVVLKVIGKVLKWI	24	24466055	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23089		P49931		PMAP-36 (1-24)[W23A]	Synthetic construct		GRFRRLRKKTRKRLKKIGKVLKAI	24	24466055	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23090		P49931		PMAP-36 (1-24)[W23K]	Synthetic construct		GRFRRLRKKTRKRLKKIGKVLKKI	24	24466055	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23091		P49931		PMAP-36 (1-24)[W23L]	Synthetic construct		GRFRRLRKKTRKRLKKIGKVLKLI	24	24466055	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23284				TC24, CsTFPI-1 (254-277)	Synthetic construct		RRHCIKKCMKSRKHNERMIRIRRK	24	27717901, 27840169	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23328		W0FJD1		Cathelicidin (135-146)-CAP7 (1-12), Tylotoin-sC18*	Synthetic construct		KCVRQNNKRVCKGLRKRLRKFRNK	24	30389988	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23382		A0A2P1AGE8		Pb-CATH4 (110-133)	Synthetic construct		TRSRWRRFIRGAGRFARRYGWRIA	24	28630199	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23431		P54228		3G-Cathelicidin-6 (8-27)[F7C, L14C]	Synthetic construct		GGGGKKCKKLFKKCSPVIPLLHLG	24	29984452	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23516		P04233		HLA class II histocompatibility antigen gamma chain (97-120)	Synthetic construct		LPKPPKPVSKMRMATPLLMQALPM	24	30811391	Antibacterial, Antiparasitic	Gram-	Experimentally Validated
+CAMPSQ23591				FcALF-LBD8-linear	Synthetic construct		YCSYSTRPYFIRWQLKFKTKIWCP	24	31110504	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23592				FcALF-LBD8 [I11Q]	Synthetic construct		YCSYSTRPYFQRWQLKFKTKIWCP	24	31110504	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23593				FcALF-LBD8 [T19G]	Synthetic construct		YCSYSTRPYFIRWQLKFKGKIWCP	24	31110504	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23653				RP504	Synthetic construct		FXIXAXLGGCLGXFCGGIXAXLXF	24	31451496	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23799		P20104		CCF10-C6	Synthetic construct		LVTLVFVGGGWKWKWKNGKWKWKW	24	31969663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23800		P20104		C6-cCF10	Synthetic construct		WKWKWKNGKWKWKWGGGLVTLVFV	24	31969663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23802		P20104		CCF10-C4	Synthetic construct		LVTLVFVGGGWKWKWENGKWKWKW	24	31969663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23804		P20104		CCF10-C3	Synthetic construct		LVTLVFVGGGWKWKWENGKWKWQW	24	31969663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23805				Undefined	Synthetic construct		YSTCFIMGGGWKWKWENGKWKWKW	24	31969663	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23947		P02649		C-apoE (133155), hEP-11	Synthetic construct		CLRVRLASHLRKLRKRLLRDADDL	24	22334503	Antiviral		Experimentally Validated
+CAMPSQ24003		Q5DP94		SC24EK	Synthetic construct		WEEWDKKIEEYTKKIEELIKKSEE	24	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24040		P0DOH7		JEV Ep (428452)	Synthetic construct		SIGGVFNSIGRAVHQVFGGAFRTL	24	28232248	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24092		P03377		LP-61	Synthetic construct		IEELIKKSEEQQKKNEEELKKLEX	24	30089693	Antiviral		Experimentally Validated
+CAMPSQ24096		P03377		LP-65	Synthetic construct		IEELLKKAEEQQKKNEEELKKLEX	24	30089693	Antiviral		Experimentally Validated
+CAMPSQ24106		P03377		LP-11	Synthetic construct		EMTWEEWEKKIEEYTKKIEEILXX	24	30089693	Antiviral		Experimentally Validated

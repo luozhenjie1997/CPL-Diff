@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22494				Battacin 28	Synthetic construct		AXXLfXXL	8	25495219	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22577				N5	Synthetic construct		ILILIKRK	8	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22584				C5	Synthetic construct		KRKILILI	8	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22591				H4	Synthetic construct		KRKLIKRK	8	25192319	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22610				VR1	Synthetic construct		CVRpGRVC	8	22391533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22657		B5A9T1		Chensinin-1 (5-12) [ G7,11W, L12H ]	Synthetic construct		RHWRRFWH	8	27060618	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22660		B5A9T1		Chensinin-1 (8-15) [G11W, L12H, K14A ]	Synthetic construct		RRFWHRAH	8	27060618	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22709		P61281		Melanotropin alpha (6-13)	Synthetic construct		HFRWGKPV	8	33195893	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22796				Undefined	Synthetic construct		LRXLRXXX	8	26318064	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22806				Undefined	Synthetic construct		LRXXRXXX	8	26318064	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22847				Undefined	Synthetic construct		rrrfwwfr	8	15616276	Antifungal	Gram-	Experimentally Validated
+CAMPSQ22854				TetraF2W	Synthetic construct		WWWLSRIW	8	27915018	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22855				TetraF2W-KR	Synthetic construct		WWWLKRIW	8	27915018	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22856				TetraF2W-KK	Synthetic construct		WWWLKKIW	8	27915018	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22922				DS6	Synthetic construct		CKYLLKWR	8	28120548	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22927				DS5	Synthetic construct		CKYLLRWR	8	28120548	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23066				WW306, Horine- L	Synthetic construct		RRRWWWWL	8	32723829, 32220553	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23067				WW292	Synthetic construct		WWLRKIWW	8	32723829	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23068				WW293	Synthetic construct		WLRKIWWW	8	32723829	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23069				WW294	Synthetic construct		LRKIWWWW	8	32723829	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23070				WW296	Synthetic construct		KIWWWWLR	8	32723829	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23071				WW297	Synthetic construct		IWWWWLRK	8	32723829	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23072				WW298	Synthetic construct		WWWWLRKI	8	32723829	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23073				WW308	Synthetic construct		RRRWWWWA	8	32723829	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23074				WW309	Synthetic construct		RRRRWWWL	8	32723829	Antibacterial	Gram+,Gram-	Experimentally Validated

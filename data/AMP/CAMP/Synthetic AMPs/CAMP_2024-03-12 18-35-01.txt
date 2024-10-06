@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ937				Modified defensin	Synthetic construct		ALRLAIRKR	9	10561605	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ938				Modified defensin	Synthetic construct		ALLLAIRKR	9	10561605	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ939				Modified defensin	Synthetic construct		AWLLAIRKR	9	10561605	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ940				Modified defensin	Synthetic construct		ALYLAIRKR	9	10561605	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ941				Modified defensin	Synthetic construct		ALWLAIRKR	9	10561605	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8165				Peptide Ctry2459 (H3)	Synthetic construct		FLHFLHHLF	9	23415044	Antiviral		Experimentally validated
+CAMPSQ8166				Peptide Ctry2459 (H2)	Synthetic construct		FLGFLHHLF	9	23415044	Antiviral		Experimentally validated
+CAMPSQ8412				AQ-2998	Synthetic construct		LAFYTMWH	9	31374937	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8495				W4 	Synthetic construct		RWRWWWRWR	9	31687796	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8497				W4pf.	Synthetic construct		WWRRWRRWW	9	31687796	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8539				DFT526 	Synthetic construct		GLSSLGKLL	9	31209048	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8675				CHRG04 (hBD3 derivative)	Synthetic construct		RGRKSSRRK	9	12936977	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8939				P9	Synthetic construct		CLKLGEKWC	9	31243959	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ23769		P61281		Melanotropin alpha (6-13) [H1R, F1W, G5W, P7F]	Synthetic construct		RWRWWKFV	8	32118141	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24048		P83412		Alloferon (6-13)	Synthetic construct		HGQHGVHG	8	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24055		P83412		Alloferon (1-8)	Synthetic construct		HGVSGHGQ	8	22883213	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24271		Q8IAS6		Rifin (319-326)[K323A], Peptide 35409-16	Synthetic construct		KMKKALQY	8	32521823	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24383				AKK-7	Synthetic construct		RWRFKWKK	8	32972753	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24492				Undefined	Synthetic construct		DILIIVGG	8	32924418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24493				Undefined	Synthetic construct		KERKKRRR	8	32924418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24726				Undefined	Synthetic construct		XLAAIRHX	8	32840352	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24750				Undefined	Synthetic construct		XGPGXGGX	8	32067003	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24766		P05814		Beta-casein (217-224)	Synthetic construct		LAPVHNPI	8	33673498	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24771		P10451		Osteopontin (283-290)	Synthetic construct		DMLVVDPK	8	33673498	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24781				Undefined	Synthetic construct		KLFKKLFK	8	30526450	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

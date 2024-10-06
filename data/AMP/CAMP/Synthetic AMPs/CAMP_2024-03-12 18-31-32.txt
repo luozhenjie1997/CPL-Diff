@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14588				Darobactin D	Synthetic construct		WNWSRSF	7	34937193	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14589				Darobactin E	Synthetic construct		WSWSKSF	7	34937193	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14590				Darobactin F	Synthetic construct		WKWSKNL	7	34937193	Antibacterial		Predicted
+CAMPSQ16253				P31	Synthetic construct		LXWLXXL	7	35571791	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16254				P32	Synthetic construct		LYWLYYL	7	35571791	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16255				P33	Synthetic construct		LXWLXXL	7	35571791	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16256				P34	Synthetic construct		LXWLXXL	7	35571791	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16257				P35	Synthetic construct		XYWXYYX	7	35571791	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16258				P36	Synthetic construct		XYWXYYX	7	35571791	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16259				P37	Synthetic construct		XYWXKKX	7	35571791	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16442				Lfcin (28-34)	Synthetic construct		RKVRGPP	7	27242337	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16498				Humimycin A	Synthetic construct		YSyFtVV	7	27748750	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16499				Humimycin B	Synthetic construct		YSyYtIV	7	27748750	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16618				Peptide-2	Synthetic construct		RRWIRWL	7	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16622				Peptide-6	Synthetic construct		KWRRWIR	7	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16658				Peptide-42	Synthetic construct		WWLWWLWRL	7	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16660				Peptide-44	Synthetic construct		WLWWLRWL	7	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16661				Peptide-45	Synthetic construct		LWWLRWL	7	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16663				Peptide-47	Synthetic construct		WWLWWLR	7	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ17549		P80280		 Dermaseptin C12-S4(9–15)	Synthetic construct		KVLKAAA	7	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17551		P80280		 Dermaseptin C14-S4(9–15)	Synthetic construct		KVLKAAA	7	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17548		P80280		 Dermaseptin S4(9–15)	Synthetic construct		KVLKAAA	7	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18063				Bp1	Synthetic construct		LLCKKCL	7	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18300				Bacaucin-8	Synthetic construct		ELLSRVD	7	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18301				Bacaucin-2	Synthetic construct		LLSRVDE	7	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

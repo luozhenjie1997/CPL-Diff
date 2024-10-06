@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3669				  Geobacillin I 	Geobacillus thermodenitrificans NG80-2	Monera	VTSKSLCTPGCITGVLMCLTQNSCVSCNSCIRC	33	22431611	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ4144	410591620	B3A0M3		Brevinin-2JD	Odorrana jingdongensis 	Animalia (Amphibia)	GLLDTFKNLALNAAKSAGVSVLNSLSCKLSKTC	33	22917879	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4390		P86280		Dermaseptin DS VIII-like peptide	Phyllomedusa burmeisteri	Animalia (Amphibia)	ALWKTMLKKLGTVALHAGKAALGAAADTISQGA	33		Antibacterial, Antifungal, Antiprotozoal		Predicted
+CAMPSQ4412		P81710		Lysozyme C, spleen isozyme	Equus caballus	Animalia (Mammals)	KVFERXELARTLKRLGLDGFRGVSLPNXVXLAR	33	8080284	Antibacterial		Predicted
+CAMPSQ4605	253723091			Chain A, E6-Binding Zinc Finger (E6apc2)	Homo sapiens	Animalia (Mammals)	XKFACPECPKRFMRSDHLSKHITLHELLGEERR	33	15182185	Antiviral		Experimentally validated
+CAMPSQ5779	544602101	E7EKE0, E7EKE1		Brevinin-2HS2A, Brevinin-2HS2B	Odorrana hainanensis 	Animalia (Amphibia)	SLLGTVKDLLIGAGKSAAQSVLKGLSCKLSKDC	33	22450466	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8143		U4N938		Antimicrobial peptide X precursor (Sm-AMP-X)	Stellaria media 	Plantae	VDPDVRAYCKHQCMSTRGDQARKICESVCMRQD	33	24081691	Antifungal		Experimentally validated
+CAMPSQ8431				ModoCath6	Monodelphis domestica	Animalia (Mammals)	VSESISHGIPKAISAVNKLIKKKKKGATTPRVK	33	28949902	Antibacterial 		Predicted
+CAMPSQ9281				Brevinin-2HS2	Odorrana hainanensis 	Animalia (Amphibia)	SLLGTVKDLLIGAGKSAAQSVLKGCSCKLSKDC	33	22450466	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9407				Saha-CATH3	Sarcophilus harrisii	Animalia	KRMGIFHLFWAGLRKLGNLIKNKIQQGIENFLG	33	27725697	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9466				Tricyclon A	Viola odorata L. and Viola tricolor L	Plantae	GGTIFDCGESCFLGTCYTKGCSCGEWKLCYGTN	33	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9667				Brevinin-2SN1 	Hylarana Spinulosa	Animalia	GLRDKIKNVAIDVAKGAGTGVLKALLCQLDKSC	33	24055160	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9668				Brevinin-2SN2 	Hylarana Spinulosa	Animalia	GVLDTLKNVAIGVAKGAGTGVLKALLCQLDKSC	33	24055160	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10183				LFh (18-31)	Homo sapiens	Animalia	TKCFQWQRNMRKVRCFQWQRNMRKVRGPPVSCI	33	10518718	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10184				LFb (17-30)	Bos taurus	Animalia (Mammals)	FKCRRWQWRMKKLGCRRWQWRMKKLGAPSITCV	33	10518718	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10447				Limnonectes fujianensis Brevinvin	Limnonectes fujianensis 	Animalia	GLFSVVKGVLKGVGKNVSGSLLDQLKCKISGGC	33	31234333	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10544				Cm-CATH2	Chelonia mydas	Animalia	RRSRFGRFFKKVRKQLGRVLRHSRITVGGRMRF	33	31121185	Antibacterial, Antibiofilm, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10545				Cm-CATH3	Chelonia mydas	Animalia	TRGRWKRFWRGAGRFFRRHKEKIIRAAVDIVLS	33	31121185	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10679				Rugosin-LK1	Limnonectes kuhlii	Animalia	SIRDKIKTMAIDLAKSAGTGVLKTLICKLDKSC	33	23054029	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10680				Rugosin-LK2	Limnonectes kuhlii	Animalia	SIRDKGKTIAIDLAKSAGTGVLKTLMCKLDKSC	33	23054029	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10957				Brevinin-2Ei 	Rana esculenta 	Animalia	GILSTIKDFAIKAGKGAAKGLLEMASCKLSGQC	33	14499272	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10979				MBD-12	Mus musculus	Animalia	CRLGRGKCRRTCIESEKIAGWCKLNFFCCRERI	33	12193721	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11093				Brevinin-2Ta	Pelophylax kl. esculentus	Animalia	GILDTLKNLAKTAGKGILKSLVNTASCKLSGQC	33	29340060	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11103				HP-5	Lithobates catesbeianus	Animalia (Amphibia)	NPSNLRALEELVKEECSEIPVERCKKLIYGYRK	33	30728430	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11224				Nicomicin-1	Nicomache minor	Animalia (Annelida)	GFWSSVWDGAKNVGTAIIKNAKVCVYAVCVSHK	33	30360541	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

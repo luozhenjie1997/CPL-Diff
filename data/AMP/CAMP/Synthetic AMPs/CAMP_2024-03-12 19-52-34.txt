@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18258		A0A2R7WNA0		Oncocin [D2r,P12W,R15r,R19r]	Synthetic construct		VRKPPYLPRPRWPRRIYNR	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18259		A0A2R7WNA0		Oncocin [D2P,I16K]	Synthetic construct		VPKPPYLPRPRPPRRKYNR	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18260		A0A2R7WNA0		Oncocin [D2R,P12W,K16F]	Synthetic construct		VRKPPYLPRPRWPRRFYNR	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18261		A0A2R7WNA0		Oncocin [D2P,I16F,R19H]	Synthetic construct		VPKPPYLPRPRPPRRFYNH	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18262		A0A2R7WNA0		Oncocin [D2P,I16K,R19H]	Synthetic construct		VPKPPYLPRPRPPRRKYNH	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18263		A0A2R7WNA0		Oncocin [R11T]	Synthetic construct		VDKPPYLPRPTPPRRIYNR	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18264		A0A2R7WNA0		Oncocin [R15H]	Synthetic construct		VDKPPYLPRPRPPRHIYNR	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18289		A0A2R7WNA0		23	Synthetic construct		VDKPPYLPRPRWPRXIYNX	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18290		A0A2R7WNA0		23a	Synthetic construct		VRKPPYLPRPRWPRXIYNX	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18291		A0A2R7WNA0		23b	Synthetic construct		VXKPPYLPRPRWPRXIYNX	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18292		A0A2R7WNA0		23c	Synthetic construct		VrKPPYLPRPRWPRXIYNX	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18293		A0A2R7WNA0		24	Synthetic construct		VDKPPYLPRPRPxRxjYNX	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18294				24a	Synthetic construct		VRKPPYLPRPRWxRxjYNX	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18295				24b	Synthetic construct		VXKPPYLPRPRWxRxjYNX	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18296				24c	Synthetic construct		VrKPPYLPRPRWxRxjYNX	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18297				25a	Synthetic construct		VRKPPYLPRPRWPRrIYNr	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18298				25b	Synthetic construct		VXKPPYLPRPRWPRrIYNr	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18299				25c	Synthetic construct		VrKPPYLPRPRWPRrIYNr	19	26334348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ19405				Oncocin [P13Hyp,R15Hyp,I16Tle,R19Orn], Onc110	Synthetic construct		VDKPPYLPRPRPXRXXYNX	19	27285299, 21387510	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19299				Undefined	Synthetic construct		XKLALKLALKALKAALKLA	19	19104020	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19300				Undefined	Synthetic construct		KLALKLALKALKAALKLAX	19	19104020	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19237		P24302,		Dermaseptin-S1 (1-19)	Synthetic construct		ALWKTMLKKLGTMALHAGK	19	18676150, 20718719	Antibacterial, Antiviral, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ19196		P55788		Thanatin 3, Thanatin [T15,G16del]	Synthetic construct		GSKKPVPIIYCNRRKCQRM	19	12297012	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19161				FLAKO6 AMD	Synthetic construct		FALALKALKKLKKALKKAL	19	29679519	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19159				FLAK25 AMD	Synthetic construct		FAKKLAKLAKKLAKLALAL	19	29679519	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19643		P02788,		Lactoferricin-H (19-30), LFcin (19-30)	Synthetic construct		CFQWQRNMRKVR	12	19917761, 21075607	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19644		P02788		Lfcin (1930)[C19A]	Synthetic construct		AFQWQRNMRKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19645		P02788		Lfcin (1930)[F20A]	Synthetic construct		CAQWQRNMRKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19646		P02788		Lfcin (1930)[Q21A]	Synthetic construct		CFAWQRNMRKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19647		P02788		Lfcin (1930)[W22A]	Synthetic construct		CFQAQRNMRKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19648		P02788		Lfcin (1930)[Q23A]	Synthetic construct		CFQWARNMRKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19649		P02788		Lfcin (1930)[R24A]	Synthetic construct		CFQWQANMRKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19650		P02788		Lfcin (1930)[N25A]	Synthetic construct		CFQWQRAMRKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19651		P02788		Lfcin (1930)[M26A]	Synthetic construct		CFQWQRNARKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19652		P02788		Lfcin (1930)[R27A]	Synthetic construct		CFQWQRNMAKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19653		P02788		Lfcin (1930)[K28A]	Synthetic construct		CFQWQRNMRAVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19654		P02788		Lfcin (1930)[V29A]	Synthetic construct		CFQWQRNMRKAR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19655		P02788		Lfcin (1930)[R30A]	Synthetic construct		CFQWQRNMRKVA	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19656		P02788		Lfcin (1930)[Q23NLE]	Synthetic construct		CFQWXRNMRKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19657		P02788		Lfcin (1930)[Q23K]	Synthetic construct		CFQWKRNMRKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19658		P02788		Lfcin (1930)[N25NLE]	Synthetic construct		CFQWQRXMRKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19659		P02788		Lfcin (1930)[Q21,23A]	Synthetic construct		CFAWKRNMRKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19660		P02788		Lfcin (1930)[Q21A,N25A]	Synthetic construct		CFAWQRAMRKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19661		P02788		Lfcin (1930)[Q21A;W22L;Q23K;R24,27K;N25A]	Synthetic construct		CFALKKAMKKVR	12	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19769				GS12	Synthetic construct		yPVKLKyPKVKL	12	8810288	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19770				GS12LV	Synthetic construct		yPLKVKyPKLKV	12	8810288	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19771				GS12F	Synthetic construct		fPVKLKfPKVKL	12	8810288	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19772				GS12FO	Synthetic construct		fPVXLXfPXVXL	12	8810288	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19773				GS12FO/LL	Synthetic construct		fPLXLXfPXLXL	12	8810288	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19811				Gramicidin S 12, GS12	Synthetic construct		VKLKyPKVKLyP	12	19278255, 12712499	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

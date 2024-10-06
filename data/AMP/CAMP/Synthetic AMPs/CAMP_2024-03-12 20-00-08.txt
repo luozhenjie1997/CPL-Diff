@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10402				D40	Synthetic construct		alasllktlskaakkalktllkalsa	26	28636788	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10637				M5G-pleurain-A1	Synthetic construct		SIITGTKEAKLPQLWKQIACRLYNTC	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10638				P12G-pleurain-A1	Synthetic construct		SIITMTKEAKLGQLWKQIACRLYNTC	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10639				W15G-pleurain-A1	Synthetic construct		SIITMTKEAKLPQLGKQIACRLYNTC	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10640				Y23G-pleurain-A1	Synthetic construct		SIITMTKEAKLPQLWKQIACRLGNTC	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10641				M5G/P12G/W15G/Y23G-pleurain-A1	Synthetic construct		SIITGTKEAKLGQLGKQIACRLGNTC	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10648				W4G-pleurain-E1	Synthetic construct		AKAGGIPPHVIPQIVPVRIRPLCGNV	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10649				P7G/P8G/P12G/P16G/P24G-pleurain-E1	Synthetic construct		AKAWGIGGHVIGQIVGVRIRGLCGNV	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10650				C23G-pleurain-E1	Synthetic construct		AKAWGIPPHVIPQIVPVRIRPLgGNV	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10651				W4G/P7G/P8G/P12G/P16G/P24G/C23G-pleurain-E1	Synthetic construct		AKAGGIGGHVIGQIVGVRIRGLGGNV	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10657				P3G/P14G/P24G/P25G-pleurain-J1	Synthetic construct		FIGGLRRLFATVVGTVVCAINKLGGG	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10658				C18G-pleurain-J1	Synthetic construct		FIPGLRRLFATVVPTVVGAINKLPPG	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10659				P3G/P14G/P24G/P25G/C18G-pleurain-J1	Synthetic construct		FIGGLRRLFATVVGTVVGAINKLGGG	26	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12312				P1	Synthetic construct		CWGPCPTAFRQIGNCGRFRVRCCRIR	26	29907765	Antiviral 		Experimentally validated
+CAMPSQ12332				Pro-P18	Synthetic construct		EEEEAAAGkwklfkklpkflhlakkf	26	29799150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ13351				DS4 (1-26)a	Synthetic construct		ALWMTLLKKVLKAAAKAALNAVLVGA	26	33774792	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13354				DS4 (3-28)a	Synthetic construct		WMTLLKKVLKAAAKAALNAVLVGANA	26	33774792	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13663				LAH4	Synthetic construct		KKALLALALHHLAHLALHLALALKKA	26	34065185	Antibacterial		Experimentally validated
+CAMPSQ13664				LAH4-L3	Synthetic construct		KKALLALALHHLALLAHHLALALKKA	26	34065185	Antibacterial		Experimentally validated
+CAMPSQ13665				LAH4-L4	Synthetic construct		KKALLHLALLHAALLAHHLALALKKA	26	34065185	Antibacterial		Experimentally validated
+CAMPSQ13666				LAH4-L5	Synthetic construct		KKALLHLALLHAALLAHLAALHLKKA	26	34065185	Antibacterial		Experimentally validated
+CAMPSQ13667				LAH4-L6	Synthetic construct		KKALLHLALLLAALHAHLAALHLKKA	26	34065185	Antibacterial		Experimentally validated
+CAMPSQ13668				LAH4-A1	Synthetic construct		KKALLAHALHLLAALALHLAHLLKKA	26	34065185	Antibacterial		Experimentally validated
+CAMPSQ13669				LAH4-A2	Synthetic construct		KKALLLAALHHLAALALHLAHLLKKA	26	34065185	Antibacterial		Experimentally validated
+CAMPSQ13670				LAH4-A3	Synthetic construct		KKALLLAALHHLLALAHHLAALLKKA	26	34065185	Antibacterial		Experimentally validated

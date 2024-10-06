@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1184	125974	P19578		Lantibiotic Pep5	Staphylococcus epidermidis 	Monera	TAGPAIRASVKQCQKTLKATRLFTVSCKGKNGCK	34		Antibacterial		Predicted
+CAMPSQ1245	25089574	O16825		Andropin	Drosophila mauritiana	Animalia (Insects)	VFIDILDKMENAIHKAAQAGIGIAKPIEKMILPK	34		Antibacterial	Gram+ve	Predicted
+CAMPSQ1297	160285478	Q17027	2E3E,2E3F,2E3G,2NY8,2NY9,2NZ3	Def-Bat	Anopheles gambiae	Animalia (Insects)	SQWVTPNDSLCAAHCIARRYRGGYCNGKRVCVCR	34		Antibacterial	Gram+ve	Predicted
+CAMPSQ1502	39930170	Q76HP8		Nisin Q	Lactococcus lactis	Monera	ITSISLCTPGCKTGVLMGCNLKTATCNCSVHVSK	34		Antibacterial	Gram+ve	Predicted
+CAMPSQ1554	25089614	Q8WSV2		Andropin	Drosophila sechellia 	Animalia (Insects)	VFIDILDKMENAIHKAAQAGIGLAKPIENMILPK	34		Antibacterial	Gram+ve	Predicted
+CAMPSQ1557	209572587	Q8WPA1		Andropin	Drosophila yakuba 	Animalia (Insects)	IFVDVLDNVETALHNAAKAGFKLIKPIEKLIMPK	34		Antibacterial	Gram+ve	Predicted
+CAMPSQ1764	221271914	P86151		Brevinin-2Ec	Rana ridibunda	Animalia (Amphibia)	GILLDKLKNFAKTAGKGVLQSLLNTASCKLSGQC	34		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2134	46395902	Q8MUF4		Cecropin-B	Anopheles gambiae	Animalia (Insects)	APRWKFGKRLEKLGRNVFRAAKKALPVIAGYKAL	34		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2135	46395787	Q86PR6		Cecropin-A	Culex pipiens pipiens	Animalia (Insects)	GGLKKFGKKLEGVGKRVFKASEKALPVVTGFKAL	34		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ2988				  Latarcin 7 	Lachesana tarabaevi	Animalia (Arachnida)	GETFDKLKEKLKTFYQKLVEKAEDLKGDLKAKLS	34	16735513	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3147				  P9 	Cervus elaphus	Animalia (Mammals)	RFIPPILRPPVRPPFRPPFRPPFRPPPIIRFFGG	34	16011891	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3161				  Defr1 	Mus musculus	Animalia (Mammals)	DPVTYIRNGGICQYRCIGLRHKIGTCGSPFKCCK	34	12226710	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3351				  Psacotheasin 	Psacothea hilaris	Animalia (Insects)	CIAKGNGCQPSGVQGNCCSGHCHKEPGWVAGYCK	34	20467242	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3512				  PAM1 	Ornithorhynchus anatinus	Animalia (Mammals)	RTKRRIKLIKNGVKKVKDILKNNNIIILPGSNEK	34	21912615	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3845				  sarcotoxin Pd 	Paederus dermatitis	Animalia (Insects)	GWLKKIGKKIERVGQHTRGLGIAQIAANVAATAR	34	Reference: Memarpoor-Yazdi M, Zare-Zardini H, Asoodeh A (2013) A Novel Antimicrobial Peptide Derived from the Insect Paederus dermatitis. Int J Pept Res Ther DOI 10.1007/s10989-012-9320-1	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ3865		P86416		Papillosin	Halocynthia papillosa 	Animalia	GFWKKVGSAAWGGVKAAAKGAAVGGLNALAKHIQ	34	19085906	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3910		Q7YT39		M-theraphotoxin-Gr1a 	Grammostola rosea 	Animalia (Arachnida)	GCLEFWWKCNPNDDKCCRPKLKCSKLFKLCNFSF	34	16376854	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4340				Chicken AvBD2	Gallus gallus	Animalia (Aves)	LFCKGGSCHFGGCPSHLIKVGSCFRSCCKWPWNA	34	19738012	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ6926	528320155	U5KJC9		Cathelicidin-like peptide	Bothrops atrox	Animalia (Reptiles)	KRFKKFFKKLKNSVKKRVKKFFRKPRVIGVTFPF	34	25100358	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ6927	528320163	U5KJJ1		Cathelicidin-related antimicrobial peptide isoform	Pseudonaja textilis 	Animalia (Reptiles)	KRFKKFFMKLKKSVKKRVMKFFKKPMVIGVTFPF	34	25100358	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ6928	528320151	U5KJM4		Cathelicidin-like peptide	Crotalus durissus terrificus 	Animalia (Reptiles)	KRFKKFFKKVKKSVKKRLKKIFKKPMVIGVTIPF	34	25100358	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ6929	528320161	U5KJM6		Cathelicidin-related antimicrobial peptide	Pseudonaja textilis 	Animalia (Reptiles)	KRFKKFFRKLKKSVKKRVKKFFKKPRVIGVTIPF	34	25100358	Antibacterial, Antifungal		Predicted (Based on signature)
+CAMPSQ7512	810515334	A6YB85	2MXQ 	Paneth cell-specific alpha-defensin 1	Equus caballus	Animalia (Mammals)	SCTCRRAWICRWGERHSGKCIDQKGSTYRLCCRR	34	17620056	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8425				MaeuCath8	Macropus eugenii	Animalia (Mammals)	PGRKKGSKRHKPGSYSVIALGKPGVKKSPYMEAL	34	28949902	Antibacterial 		Predicted
+CAMPSQ8428				ModoCath3	Monodelphis domestica	Animalia (Mammals)	APVTPAPPGFTTSSKKKGKKKLPYTVIFGRTDFP	34	28949902	Antibacterial 		Predicted

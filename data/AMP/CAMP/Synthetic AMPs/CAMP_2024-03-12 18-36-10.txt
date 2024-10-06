@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20410				Undefined	Synthetic construct		RLKRWWKFL	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20411				Undefined	Synthetic construct		RWWRWRKWW	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20412				Undefined	Synthetic construct		KRWWWWRFR	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20413				Undefined	Synthetic construct		KRWWRKWWR	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20414				Undefined	Synthetic construct		WFKMRWWGR	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20415				Undefined	Synthetic construct		KFKWWRMLI	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20416				Undefined	Synthetic construct		RIKRWWWWR	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20417				Undefined	Synthetic construct		RWRWWWRVY	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20419				Undefined	Synthetic construct		LKRRWKWWI	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20420				Undefined	Synthetic construct		RRRIKIRWY	9	23478953, 28473710	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20421				Undefined	Synthetic construct		RLWWKIWLK	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20422				Undefined	Synthetic construct		KRRWRIWLV	9	23478953, 28473710	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20423				Undefined	Synthetic construct		FFIYVWRRR	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20424				Undefined	Synthetic construct		IRMRIRVLL	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20425				Undefined	Synthetic construct		RWWRKIWKW	9	23478953	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20426				Undefined	Synthetic construct		LRFILWWKR	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20427				Undefined	Synthetic construct		RWWIRIRWH	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20428				Undefined	Synthetic construct		RRRWWKLMM	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20429				Undefined	Synthetic construct		LRRWIRIRW	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20430				Undefined	Synthetic construct		RKFRWWVIR	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20431				Undefined	Synthetic construct		RQRRVVIWW	9	23478953, 31154008	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20434				Undefined	Synthetic construct		RRYHWRIYI	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20435				Undefined	Synthetic construct		RKWKIKWYW	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20436				Undefined	Synthetic construct		YRLRVKWKW	9	23478953, 28473710	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20437				Undefined	Synthetic construct		WKWRVRVTI	9	23478953	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

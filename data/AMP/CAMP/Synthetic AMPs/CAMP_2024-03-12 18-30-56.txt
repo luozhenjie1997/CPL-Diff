@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9820				RIP-L	Synthetic construct		YKPLTNF	7	26571297	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ9821				RIP-V (7P)	Synthetic construct		YKPVTNF	7	26571297	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ9822				7P-AC	Synthetic construct		YKPVTNF	7	26571297	Antibacterial, Antibiofilm	Gram +ve	Experimentally validated
+CAMPSQ10449				AurH1	Synthetic construct		WFKIIKK	7	31264322	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10565				NLS	Synthetic construct		PKKKRKV	7	29329747	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10843				FV7	Synthetic construct		FRIRVRV	7	28178190	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11327				77-3	Synthetic construct		FRLKFHF	7	30776385	Antifungal		Experimentally validated
+CAMPSQ11981				HBP7 	Synthetic construct		NNHYLPR	7	27910930	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12051				NOSO-95C (1-7)	Synthetic construct		KXXGOPH	7	30086230	Antibacterial 	Gram -ve	Experimentally validated
+CAMPSQ12080				P2	Synthetic construct		LRLLRRL	7	30070835	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12081				P3	Synthetic construct		LHLLHHL	7	30070835	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12082				P4	Synthetic construct		LKWLKKL	7	30070835	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12083				P5	Synthetic construct		LRWLRRL	7	30070835	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12084				P6	Synthetic construct		LHWLHHL	7	30070835	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12365				Short peptide 1	Synthetic construct		FLRRIRV	7	30046138	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12366				Short peptide 2	Synthetic construct		FWRRIRV	7	30046138	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12861				(WRL)2	Synthetic construct		WRLWRL	7	33829758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12865				(WRF)2	Synthetic construct		WRFWRF	7	33829758	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12945				GRW 	Synthetic construct		GRWWWRG	7	33610592	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12946				IRW	Synthetic construct		IRWWWRI	7	33610592	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12947				LRW	Synthetic construct		LRWWWRL	7	33610592	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12948				FRW	Synthetic construct		FRWWWRF	7	33610592	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12949				VRW	Synthetic construct		VRWWWRV	7	33610592	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12950				ARW	Synthetic construct		ARWWWRA	7	33610592	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13019				Peptide 7	Synthetic construct		RRRRRRR	7	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated

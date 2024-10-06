@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ234	20138937	P82066		Maculatin-1.1 	Litoria genimaculata 	Animalia (Amphibia)	GLFGVLAKVAAHVVPAIAEHF	21	9620615	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ240	21542075	P82951	1S6W	Hepcidin	Morone chrysops x Morone saxatilis	Animalia (Pisces)	GCRFCCNCCPNMSGCGVCCRF	21	11985602	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ271	2493582	P55788	8TFV	Thanatin	Podisus maculiventris	Animalia (Insects)	GSKKPVPIIYCNRRTGKCQRM	21	8577744	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ278	2495138	P55897		Buforin-2 	Bufo gargarizans	Animalia (Amphibia)	TRSSRAGLQFPVGRVHRLLRK	21	8573171	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ290	25090821	P83434	1SIY	Nonspecific lipid-transfer protein 1 	Vigna radiata var. radiata	Plantae	MTCGQVQGNLAQCIGFLQKGG	21	15350690	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ294	25453059	P83306		Japonicin-2	Rana japonica	Animalia (Amphibia)	FGLPMLSILPKALCILLKRKC	21	11835990	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ357	32396188	Q7SZG9		Pleurocidin-like peptide GcSc4B7	Glyptocephalus cynoglossus	Animalia (Pisces)	FWGKLLKLGMHGIGLLHQHLG	21	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ375	38257917	P83674		Ruminococcin-A 	Ruminococcus gnavus 	Monera	GNGVLKTISHECNMNTWQFLF	21	11526013	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ393	3914038	P81474		Misgurin	Misgurnus anguillicaudatus	Animalia (Pisces)	RQRVEELSKFSKKGAAARRRK	21	9271200	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ482	47117131	P83867		Ocellatin-3	Leptodactylus ocellatus	Animalia (Amphibia)	GVLDILKNAAKNILAHAAEQI	21	15648972	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ573	67460722	P0C010		Kassinatuerin-1	Kassina senegalensis	Animalia (Amphibia)	GFMKYIGPLIPHAVKAISDLI	21	15885852	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ575	67460989	P0C009		Nigrocin-2	Rana nigromaculata (dark-spotted frog )	Animalia (Amphibia)	GLLSKVLGVGKKVLCGVSGLC	21	11682065	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ609	730432	Q99134		PYLa/PGLa precursor 	Xenopus laevis	Animalia (Amphibia)	GMASKAGAIAGKIAKVALKAL	21	1717472	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ648	8928532	P82282		Bombinin-H1/H3	Bombina variegata	Animalia (Amphibia)	IIGPVLGMVGSALGGLLKKIG	21	8223491	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ649	8928533	P82284		Bombinin-H4	Bombina variegata	Animalia (Amphibia)	LIGPVLGLVGSALGGLLKKIG	21	8223491	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ672	33358303	Q7T053		Pleurocidin-like peptide WFX 	Pseudopleuronectes americanus	Animalia (Pisces)	RSTEDIIKSISGGGFLNAMNA	21	12950255 , 12878506	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ20677		P0C011		Kassinatuerin-2	Kassina senegalensis	Animalia	FIQYLAPLIPHAVKAISDLI	20	10679222	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21220		P0C827		Phenol-soluble modulin alpha 4 peptide, PSMalpha4	Staphylococcus aureus (USA300 / TCH1516)	Bacteria	MAIVGTIIKIIKAIIDIFAK	20	22371493	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21254		Q8N2E6		Salusin-beta	Homo sapiens	Animalia	AIFIFIRWLLKLGHHGRAPP	20	24881665	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21585				Antimicrobial peptides He-1	Hyla eximia	Animalia	DDDKTEEEDDKENETTKVVE	20	19508207	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22334		T2D330,		Dermal antimicrobial peptide Hs-1	Hypsiboas semilineatus		FLPLILPSIVTALSSFLKQG	20	25772860, 29153860	Antibacterial, Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22467		A0A0M3STY0		Cathelicidin Cl, dCATH	Columba livia	Animalia	KRFWQLVPLAIKIYRAWKRR	20	26608073	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23173		A0A286T3S3		Ulmin-1ULa	Rana ulma	Animalia	LALRTAGWLRLLGFRDKKKN	20	29219046	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24289		X5JB74		Kassiniatuerin-3	Kassina senegalensis	Animalia	FIQHLIPLIPHAIQGIKDIF	20	32630734	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24378		K7Z906		Ranacyclin-AJ	Amolops jingdongensis	Animalia	AAFRGCWTKSYSPKPCLGKR	20	32972753	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

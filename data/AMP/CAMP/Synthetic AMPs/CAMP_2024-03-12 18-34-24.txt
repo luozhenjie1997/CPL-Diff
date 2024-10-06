@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22193		P61280		Alpha-MSH (6-13)[F7D-Nal,G10F,P12F]	Synthetic construct		HxRWFKFV	8	23626703	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22216				Undefined	Synthetic construct		HRILMRIR	8	22743126	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22309				[A4R4]	Synthetic construct		AAAARRRR	8	30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22310				[R4W(Me)4]	Synthetic construct		RRRRXXXX	8	30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22313				[F4R4]	Synthetic construct		FFFFRRRR	8	30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22314				[L4R4]	Synthetic construct		LLLLRRRR	8	30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22315				[I4R4]	Synthetic construct		IIIIRRRR	8	30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22316				[Y4R4]	Synthetic construct		YYYYRRRR	8	30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22317				[K4W4]	Synthetic construct		KKKKWWWW	8	30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22386		P02662		Alpha-S1-casein (93-100)	Synthetic construct		GYLEQLLR	8	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22388		P02662		Alpha-S1-casein (94-101)	Synthetic construct		YLEQLLRL	8	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22392		P02662		Alpha-S1-casein (95-102)	Synthetic construct		LEQLLRLK	8	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22396		P02662		Alpha-S1-casein (17-24)	Synthetic construct		NENLLRFF	8	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22397		P02662		Alpha-S1-casein (16-23)	Synthetic construct		LNENLLRF	8	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22402		P02662		Alpha-S1-casein (146-153)	Synthetic construct		YPELFRQF	8	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22477		Q831K8		Pheromone cOB1 (14-21)	Synthetic construct		VAVLVLGA	8	26039987	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22479		Q831F4		EF_2556 (13-20)	Synthetic construct		LLLGAATG	8	26039987	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22486				Battacin 20	Synthetic construct		kKKLfKKL	8	25495219	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22487				Battacin 21	Synthetic construct		xXXLfXXA	8	25495219	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22488				Battacin 22	Synthetic construct		xXXLfXAL	8	25495219	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22489				Battacin 23	Synthetic construct		xXXLfAXL	8	25495219	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22490				Battacin 24	Synthetic construct		xXXLAXXL	8	25495219	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22491				Battacin 25	Synthetic construct		xXXAfXXL	8	25495219	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22492				Battacin 26	Synthetic construct		xXALfXXL	8	25495219	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22493				Battacin 27	Synthetic construct		xAXLfXXL	8	25495219	Antibacterial	Gram+,Gram-	Experimentally Validated

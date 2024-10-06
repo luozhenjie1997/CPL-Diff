@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3591				  Nigrocin-1-OW4 	Odorrana wuchuanensis	Animalia (Amphibia)	GILSGVLGMGKKIVCGLRGLC	21	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3592				  Nigrocin-1-OW5 	Odorrana wuchuanensis	Animalia (Amphibia)	GILGNIVGMGKQVVCGLSGLC	21	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3654				  Hainanenin 1 	Amolops hainanensis	Animalia (Amphibia)	FALGAVTKLLPSLLCMITRKC	21	22306820	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3655				  Hainanenin 5 	Amolops hainanensis	Animalia (Amphibia)	FALGAVTKRLPSLFCLITRKC	21	22306820	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3673				  Bmkb1 	Mesobuthus martensii	Animalia (Arachnida)	FLFSLIPSAISGLISAFKGRR	21	15062994	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3809				  NAI-802 	Actinoplanes sp.	Monera	ASSGWVCTLTIECGTVICACR	21	23168402	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3844		C0HJB8		  Cyanophlyctin 	Euphlyctis cyanophlyctis	Animalia (Amphibia)	FLNALKNFAKTAGKRLKSLLN	21		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4150	410591646	B3A0M6		Nigrocin-2JDa	Odorrana jingdongensis 	Animalia (Amphibia)	GIFGKILGAGKKVLCGLSGLC	21	22917879	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4152	410591647	B3A0M7		Nigrocin-2JDb	Odorrana jingdongensis 	Animalia (Amphibia)	GIFGKILGVGKKVLCGLSGMC	21	22917879	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4331				  Siamycin II	Streptomyces strain AA6532	Monera	CLGIGSCNDFAGCGYAIVCFW	21	8557614	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ8306				Esculentin-1a(Esc(1-21))	Pelophylax lessonae	Animalia (Amphibia)	GIFSKLAGKKIKNLLISGLKG	21	31144441, 26162435, 23503622	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8423				MaeuCath3	Macropus eugenii	Animalia (Mammals)	GEKVKTRFIAAIEKLIDTFLP	21	28949902	Antibacterial 		Predicted
+CAMPSQ8959				Tc03	Theobroma cacao	Plantae (Angiosperms)	IKLRNVLKYLFRIDVIKEDIL	21	29038449	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9280				PGLa-AN2	Xenopus andrei	Animalia (Amphibia)	GMASKAGSVLGKLAKVAIGAL	21	21498136	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9282				Andersonin-G1 	Odorrana andersonii 	Animalia (Amphibia)	KEKLKLKCKAPKCYNDKLACT	21	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9285				Andersonin-R1	Odorrana andersonii 	Animalia (Amphibia)	ENAEEDIVLMENLFCSYIVGS	21	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9335				CZS-1 	 Cruziohyla calcarifer	Animalia	GFLDIVKGVGKVALGAVSKLF	21	27321580	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9489				N1	Arenicola marina	Animalia	GFCWNVCVYRNGVRVCHRRCN	21	28611436	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9504				PGLa-LM1	X. laevis × X. muelleri	Animalia	GMASKAGSVAGKIAKFALGAL	21	31102497	Antibacterial		Experimentally validated
+CAMPSQ9570				C(1-21)	Gallus gallus	Animalia	RFGRFLRKIRRFRPKVTITIQ	21	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9922				AR 	Arenicola marina	Animalia	RWCVYAYVRVRGVLVRYRRCW	21	31234579	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10002				Ocellatin2	Leptodactylus syphax 	Animalia	GVLDIFKDAAKQILAHAAEQI	21	17628627	Antibacterial		Predicted
+CAMPSQ10239				Hfp1	Likely of sticklefish origin	Animalia	SFKKFWGGVKAIFKGARKGWK	21	22188679	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10240				Hfp2	Likely of sticklefish origin	Animalia	FFKKFWGGVKAIFKGARKGWK	21	22188679	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10241				Hfp3	Likely of sticklefish origin	Animalia	SVKKFWGGVKAIFKGARKGLK	21	22188679	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

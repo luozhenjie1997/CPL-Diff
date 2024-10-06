@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3457				  Maximin 31 	Bombina maxima	Animalia (Amphibia)	GIGGALLSAGKSALKGLAKGLAEHF	25	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3460				  Maximin 41 	Bombina maxima	Animalia (Amphibia)	GIGGALLSVGKSALKGLTKGLAEHF	25	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3467				  Maximin 77 	Bombina maxima	Animalia (Amphibia)	GIGGALLSAGKSALKGLAKGLAEHL	25	21338048	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3685				  XPF-SE3 	Silurana epitropicalis	Animalia (Amphibia)	GFWTTAAEGLKKFAKAGLASILNPK	25	22800690	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3686				  XPF-SE4 	Silurana epitropicalis	Animalia (Amphibia)	GVWTTILGGLKKFAKGGLEALTNPK	25	22800690	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3687				Caerin 2.6 	Hybrid between female Litoria splendida and male Litoria caerulea	Animalia (Amphibia)	GLVSSIGKVLGGLLADVVKSKGQPA	25	16824041	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3688				Caerin 2.7 	Hybrid between female Litoria splendida and male Litoria caerulea	Animalia (Amphibia)	GLVSSIGKALGGLLVDVVKSKGQPA	25	16824041	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3689				Caerin 1.20 	Hybrid between female Litoria splendida and male Litoria caerulea	Animalia (Amphibia)	GLFGILGSVAKHVLPHVIPVVAEHL	25	16824041	Antibacterial		Experimentally validated
+CAMPSQ3786				  TP4 	Oreochromis niloticus	Animalia (Pisces)	FIHHIIGGLFSAGKAIHRLIRRRRR	25	23226256	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3816		P0DL41		 Css54 	Centruroides suffusus suffusus	Animalia (Arachnida)	FFGSLLSLGSKLLPSVFKLFQRKKE	25	23093034	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3827				  Alarin 	Homo sapiens	Animalia (Mammals)	APAHRSSTFPKWVTKTERGRQPLRS	25	23537644	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3903		P37715		Lysozyme 	Asterias rubens 	Animalia (Asteroidea)	SGPVPSGCLRCICVVESGXRMPNPV	25	1149747	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3919		P86527		Non-specific lipid-transfer protein 1 	Nigella sativa 	Plantae	ISCQDVKQSLAPCLPYVTGRAPKPA	25	19621049	Antifungal		Experimentally validated
+CAMPSQ3946		P84925		Dermaseptin-5 	Phyllomedusa tarsius 	Animalia (Amphibia)	GLWSKIKEAAKTAGKAAMGFVNEMV	25		Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3956		P84884		Antifungal protein 1 	Passiflora edulis 	Plantae	QSERFEQQMQGQDFSHDERFLSQAA	25	16766236	Antifungal		Experimentally validated
+CAMPSQ3984		P86520		Soybean toxin 27 kDa chain 	Glycine max 	Plantae	ADPTFGFTPLGLSEKANLQIMKAYD	25	18328522	Antifungal		Experimentally validated
+CAMPSQ3985		P86548		Soybean toxin 17 kDa chain 	Glycine max 	Plantae	PNPKVFFDMTIGGQSAGRIVMEEYA	25	18328522	Antifungal		Experimentally validated
+CAMPSQ4489		P86502		Caerin-1.10	Litoria rothii	Animalia (Amphibia)	GLLSVLGSVAKHVLPHVVPVIAEKL	25	16124032, 19539637	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4491		P86503		Caerin-1.16	Litoria rothii	Animalia (Amphibia)	GLFSVLGAVAKHVLPHVVPVIAEKL	25	16124032, 19539637	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ6446	298351621	P86501		Caerin-1.1	Litoria rothii 	Animalia (Amphibia)	GLLSVLGSVAKHVLPHVVPVIAEHL	25		Antibacterial		Predicted (Based on signature)
+CAMPSQ8138		O15240		Antimicrobial peptide VGF [554-578]	Homo sapiens 	Animalia (Mammals)	TLQPPSALRRRHYHHALPPSRHYPG	25	23250050	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8266				Caerin 1.1	Uperoleia mjobergii 	Animalia (Amphibia)	GLLSVLGSVAKHVLPHVVPVIAEHL	25	10461748	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8737				Gm0025x00667(75-100)	Glycine max	Plantae (Angiosperms)	RWRFLRKISSVHMFSVKALDDFRQL	25	23029273	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8747				Syphaxin	Leptodactylus syphax	Animalia (Amphibia)	GVLDILKGAAKDLAGHVATKVINKI	25	23029273	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8748				HSP-4	Hypsiboas punctatus	Animalia (Amphibia)	GIGDILKNLAKAAGKAALHAVGESL	25	23029273	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

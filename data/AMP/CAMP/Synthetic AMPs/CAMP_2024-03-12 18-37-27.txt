@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13688				A-15	Synthetic construct		KWFKRIKTFW	10	34180670	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13689				A-16	Synthetic construct		GLWKRWKKFW	10	34180670	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13690				A-17	Synthetic construct		KWWKRWKKWW	10	34180670	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13691				A-18	Synthetic construct		GFFRRIKTFF	10	34180670	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13692				A-19	Synthetic construct		GFFKRIRTFF	10	34180670	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13693				A-20	Synthetic construct		GFFRRIRTFF	10	34180670	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13694				A-21	Synthetic construct		KWWKKWKKWW	10	34180670	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13695				A-22	Synthetic construct		RWWRRWRRWW	10	34180670	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13813				(RH)5	Synthetic construct		RHRHRHRHRH	10	14693544	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13815				(HR)5	Synthetic construct		HRHRHRHRHR	10	14693544	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13816				(KH)5	Synthetic construct		KHKHKHKHKH	10	14693544	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13817				(RG)5	Synthetic construct		RGRGRGRGRG	10	14693544	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13818				(GH)5	Synthetic construct		GHGHGHGHGH	10	14693544	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13819				(RC)5	Synthetic construct		RCRCRCRCRC	10	14693544	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13960				Defb14-1CV(1-10)	Synthetic construct		FLPKTLRKFF	10	 20176896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13963				Defb14-1CV(14-23)	Synthetic construct		RGGRAAVLNA	10	 20176896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13971				RNal / c-RNa	Synthetic construct		RRNalNalRF	10	17985396	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ13979				Peptide8	Synthetic construct		WVLVLRdLGY	10	19445503	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ14116				10AA-HBD3	Synthetic construct		RGRKVVRRKK	10	34112244	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14138				KLK1	Synthetic construct		KLKLLLLLKL	10	34361810	Antibacterial		Experimentally validated
+CAMPSQ14253				MCA4-5	Synthetic construct		CRFKFRIVIC	10	34577539	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14254				RiLK1	Synthetic construct		RLKWVRIWRR	10	34576174, 32971824	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14332				BD3	Synthetic construct		RGRKCCRRKK	10	34526600	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14445				Magainin 2(1-10)	Synthetic construct		GIGKFLHSAK	10	34819923	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14464				S1	Synthetic construct		KKWRKWLAKK	10	34733262	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

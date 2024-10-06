@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21535		P04578		Enfuvirtide [S138E], T-20 [S138E]	Synthetic construct		YTSLIHSLIEEEQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21536		P04578		Enfuvirtide [S138H], T-20 [S138H]	Synthetic construct		YTSLIHSLIEEHQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21537		P04578		Enfuvirtide [S138R], T-20 [S138R]	Synthetic construct		YTSLIHSLIEERQNQQEKNEQELLELDKWASLWNWF	36	19073606	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21552		P12487,		C16- N36	Synthetic construct		SGIVQQQNNLLRAIEAQQHLLQLTVWGIKQLQARIL	36	31932193, 11572974, 19593361	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21560		P04578		T20 [H6R; S7E; L8,26I; I9L; E10V; Q13,21R; N14I; L24R; E25D]	Synthetic construct		YTSLIREILVESRIQQEKNERELRDIDKWASLWNWF	36	31228294	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21561		P04578		T20 [L8I; Q13,15R; E22A]	Synthetic construct		YTSLIHSIIEESRNRQEKNEQALLELDKWASLWNWF	36	31228294	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21562		P04578		T20 [I5L, H6R, L8I; S12G; Q13R; E22A]	Synthetic construct		YTSLLRSIIEEGRNQQEKNEQALLELDKWASLWNWF	36	31228294	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21563		P04578		T20 [H6R, L8I, Q13R, E22K, L26V]	Synthetic construct		YTSLIRSIIEESRNQQEKNEQKLLEVDKWASLWNWF	36	31228294	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21564		P04578		T20 [I5L, H6R, Q13R, Q15L, E22A, L26V]	Synthetic construct		YTSLLRSLIEESRNLQEKNEQALLEVDKWASLWNWF	36	31228294	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21565		P04578		T20 [I5L, H6W, L8I, S12G, Q13R, Q15L, E22K]	Synthetic construct		YTSLLWSIIEEGRNLQEKNEQKLLELDKWASLWNWF	36	31228294	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21566		P04578		T20 [H6W; S7K; L8,24V; I9L; E10N; E11D; S12A; Q13R; N14E; K18N; E20Q; Q21E; L26I]	Synthetic construct		YTSLIWKVLNDAREQQENNQETLVEIDKWASLWNWF	36	31228294	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21567		P04578		T20 [H6R; S7E; L8,26I; I9M; E10N; E11K; Q13W; N14G; E17R; K18R; Q21G; E22T; L24A]	Synthetic construct		YTSLIREIMNKSWGQQRRNEGTLAEIDKWASLWNWF	36	31228294	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21568		P04578		T20 [H6R; S7E; E10,22S; E11,25N; S12A; Q13R; N14T; E17T; K18D; Q21E; L24R; L26V]	Synthetic construct		YTSLIRELISNARTQQTDNEESLRNVDKWASLWNWF	36	31228294	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21569		P04578		T20 [H6W; L8I; E10I; E11,25D; S12G; Q13R; N14E; E17R; K18D; Q21G; E22V; L24A]	Synthetic construct		YTSLIWSIIIDGREQQRDNEGVLADLDKWASLWNWF	36	31228294	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21750		P01966		Hemoglobin subunit alpha (106-141)	Synthetic construct		LVTLASHLPSDFTPAVHASLDKFLANVSTVLTSKYR	36	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21759		H8PHI0		Cathelicidin (145-180), asCATH1	Synthetic construct		RRSQARKCSRGNGGKIGSIRCRGGGTRLGGGSLIGR	36	21858109	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21760		Q49TU5		Cathelicidin (150-185), asCATH2	Synthetic construct		RRGKPSGGSRGSKMGSKDSKGGWRGRPGSGSRPGFG	36	21858109	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21778				Undefined	Synthetic construct		WMEWDREIEEYTKKIEEYTKKIEEYTKKIEEYTKKI	36	18662985	Antiviral	Gram-	Experimentally Validated
+CAMPSQ21779				Undefined	Synthetic construct		EEYTKKIEEYTKKIEEYTKKIEEYTKKIWASLWNWF	36	18662985	Antiviral	Gram-	Experimentally Validated
+CAMPSQ22086				D- G10KHc	Synthetic construct		KKHRKHRKHRKHGGSGGSKNLRRIIRKGIHIIKKYG	36	17927719	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22400		P02662		Alpha-S1-casein (1-36)	Synthetic construct		RPKHPIKHQGLPQEVLNENLLRFFVAPFPEVFGKEK	36	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22630				Aedesin scrambled	Synthetic construct		VAKGLIKGVKAKGELPAKGVFKGLKESIGKRAVLKG	36	25162372	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22723		P0C6J8		Capsid protein (207-242), Duck HBcARD	Synthetic construct		RKPRGLEPRRRKVKTTVVYGRRRSKSRERRAPTPQR	36	27241023	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22724		P0C6K0		Capsid protein (207-242), Heron HBcARD	Synthetic construct		RKPRGLEPRRRKVKTTVVYGRRRSKSRGRRSSPSQR	36	27241023	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22974		A0A212F136		Cecropin-D (3-38)[A22K, E26D, S32T, S33A, L35I]	Synthetic construct		WNPFKELEKAGQRVRDAIISAKPAVDVVGQATAIIK	36	32322274	Antibacterial	Gram+,Gram-	Experimentally Validated

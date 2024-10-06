@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21376				Delta-lysin (9-26)[D11K][V13P][D18K]	Synthetic construct		IGKLPKWIIKTVNKFTKK	18	15629533	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21386		P32412		Brevinin-1E (7-24) Red	Synthetic construct		GLAANFLPKIFCKITRKC	18	9748603	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21408		Q2IAL7		Fowlicidin-2(1-18)	Synthetic construct		LVQRGRFGRFLRKIRRFR	18	20375584	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21582		P49913		LL-37 (14-32)[K1G]	Synthetic construct		GEFKRIVQRIKDFLRNLV	18	22083479	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21583		P49913		LL-37 (14-32)[K1G][R5,9,15K]	Synthetic construct		GEFKKIVQKIKDFLKNLV	18	22083479	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21584		P49913		LL-37 (14-32)[K1G][K4,11R]	Synthetic construct		GEFRRIVQRIRDFLRNLV	18	22083479	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21611		P35581		Apidaecin-1B [G1R,N2P,N3V]	Synthetic construct		RPVRPVYIPQPRPPHPRL	18	19114518	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21612		P35581		Apidaecin-1B [G1R,N2G,N3V]	Synthetic construct		RGVRPVYIPQPRPPHPRL	18	19114518	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21613		P35581		Apidaecin-1B [G1R,N3P]	Synthetic construct		RNPRPVYIPQPRPPHPRL	18	19114518	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21614		P35581		Apidaecin-1B [G1R,N2L]	Synthetic construct		RLNRPVYIPQPRPPHPRL	18	19114518	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21615		P35581		Apidaecin-1B [G1R,N2L,N3P]	Synthetic construct		RLPRPVYIPQPRPPHPRL	18	19114518	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21616		P35581		Apidaecin-1B [G1V,N2V,N3R]	Synthetic construct		VVRRPVYIPQPRPPHPRL	18	19114518	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21658				Undefined	Synthetic construct		KLALKLALKAWKLALKAA	18	21286704	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21781		P02649,		Human ApoE apolipoprotein derived peptide ApoEdpL-W	Synthetic construct		WRKWRKRWWWRKWRKRWW	18	21807970	Antibacterial, Antiviral, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21800		P49928		Novispirin G10, Ovispirin [I10G]	Synthetic construct		KNLRRIIRKGIHIIKKYG	18	21377841	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21814		P12724		Eosinophil cationic protein (8-15)Ahx(23-31) [C23]	Synthetic construct		AQWFAIQHXSTIAMRAIN	18	21696142	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21847		Q96901		P11, GBV-C E2 (31-48)	Synthetic construct		TGEKVWDRGNVTLLCDCP	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21848		Q96901		P19, GBV-C E2 (55-72)	Synthetic construct		LPAFCQAIGWGDPITHWS	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21849		Q96901		P20, GBV-C E2 (58-75)	Synthetic construct		FCQAIGWGDPITHWSHGQ	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21850		Q96901		P21, GBV-C E2 (61-78)	Synthetic construct		AIGWGDPITHWSHGQNRW	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21851		Q96901		P23, GBV-C E2 (67-84)	Synthetic construct		PITHWSHGQNRWPLSCPQ	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21852		Q96901		P25, GBV-C E2 (73-90)	Synthetic construct		HGQNRWPLSCPQYVYGSV	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21853		Q96901		P45, GBV-C E2 (133-150)	Synthetic construct		SDRDTVVELSEWGVPCAT	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21854		Q96901		P46, GBV-C E2 (136-153)	Synthetic construct		DTVVELSEWGVPCATCIL	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21855		Q96901		P47, GBV-C E2 (139-156)	Synthetic construct		VELSEWGVPCATCILDRR	18	20718496	Antiviral	Gram+,Gram-	Experimentally Validated

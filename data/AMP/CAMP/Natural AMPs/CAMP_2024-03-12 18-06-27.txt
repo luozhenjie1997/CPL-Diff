@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10281				AdD67-84	Adenovirus 2	Virus	AKRRDRRRRSVCHARTWF	18	31417238	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10383				Tachyplesin 1	Tachypleus tridentatus	Animalia	RFCWFRVCYRGICYRRCR	18	31396193	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10385				Hs01	Homo sapiens	Animalia (Mammals)	LKMLGMLFHNIRNILKTV	18	31386688	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ10573				VK12 	Varanus komodoensis	Animalia	AKKPVAKKAAGGVKKPKK	18	28164707	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10620				CPF-SP3	Silurana paratropicalis 	Animalia	GFLGSLLKTGLKVGSNLL	18	21498136	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10631		P0DI86		Balt-LAAO-I 	Bothrops alternatus 	Animalia	ADVRNPLEEFRETDYEVL	18	15142548	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10927				PG-1	Sus scrofa	Animalia	RGGRLCYCRRRFCVCVGR	18	31214759	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10940				CAP-18-18 	Oryctolagus cuniculus	Animalia	KRLRKFRNKIKEKLKKIG	18	11557478	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10946				Ovispirin-1 	Ovis aries	Animalia	KNLRRIIRKIIHIIKKYG	18	11557478	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10948				AamAPI-1	Androctonus amoreuxi	Animalia (Arachnida)	FLFSLIPHAIGGLISAFK	18	22484288	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10949				AamAPI-2	Androctonus amoreuxi	Animalia	FPFSLIPHAIGGLISAIK	18	22484288	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11106				KAMP-18c	Homo sapiens	Animalia	RAIGGGLSSVGGGSSTIK	18	27891122	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11143		Q1ELU5		Rpe1a	L. tarabaevi	Animalia	GGIDRKLMEVVNNLRKVQ	18	27287558	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11144		Q1ELU5		Rpe1b	L. tarabaevi	Animalia	GGINRKLMEMVNNLRKVQ	18	27287558	Antibacterial, Insecticidal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11145		Q1ELU4		Rpe1c	L. tarabaevi	Animalia	GGINRKLMEMVNKLRKVQ	18	27287558	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11220				Phylloseptin-4TR	Phyllomedusa trinitatis	Animalia (Amphibia)	LLGMIPVAITAISALSKL	18	29980138	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11376				4TP-1	Tachypleus tridentatus	Animalia	AKWCFRVCYRGICYRRCR	18	30711625	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11411				PLP5	Odontomachus monticola	Animalia (Insects)	IWGALLGTLIPAITSAIQ	18	30658410	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11474				NP-7	Zanthoxylum bungeanum	Plantae (Angiosperms)	GKVKIGINGFGRIGRLVA	18	30623204	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11484				Fumarylacetoacetate hydrolase domain-containing protein 1	Physcomitrella patens	Plantae (Angiosperms)	LVQIGTKIVGVGRNYAAH	18	30616513	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11695				LP18	Homo sapiens	Animalia (Mammals)	LEFKLQQTSCRKRDWKKP	18	30504221	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11719				PM III	Limulus polyphemus	Animalia	RRGCFRVCYRGFCFQRCR	18	30486233	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11733				Peptide 4	Rana temporaria	Animalia (Amphibia)	LVPFIGRTLGGLLARFGK	18	30458708	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11802		A0A1M4BLT1		Medusin-PT	Phyllomedusa tarsius	Animalia (Amphibia)	LLGMIPVAITAISALSKL	18	28469603	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11803				Medusin-PT1 	Phyllomedusa tarsius	Animalia (Amphibia)	LLGMIPVAIKAISALSKL	18	28469603	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated

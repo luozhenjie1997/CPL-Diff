@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11548				Beta-peptide 1	Synthetic construct		VK	2	30581136	Antifungal		Experimentally validated
+CAMPSQ11549				Beta-peptide 2	Synthetic construct		VR	2	30581136	Antifungal		Experimentally validated
+CAMPSQ11550				Beta-peptide 3	Synthetic construct		AK	2	30581136	Antifungal		Experimentally validated
+CAMPSQ11551				1-NBD	Synthetic construct		VK	2	30581136	Antifungal		Experimentally validated
+CAMPSQ11552				2-NBD	Synthetic construct		VR	2	30581136	Antifungal		Experimentally validated
+CAMPSQ11553				3-NBD	Synthetic construct		AK	2	30581136	Antifungal		Experimentally validated
+CAMPSQ11554				1-Cy5	Synthetic construct		VK	2	30581136	Antifungal		Experimentally validated
+CAMPSQ13013				Peptide 1	Synthetic construct		R	1	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13014				Peptide 2	Synthetic construct		RR	2	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13077				Peptide 65	Synthetic construct		RW	2	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13140				Peptide 128	Synthetic construct		W	1	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13141				Peptide 129	Synthetic construct		WR	2	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13204				Peptide 192	Synthetic construct		WW	2	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13757				Peptide 4	Synthetic construct		F	1	7972024	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13758				Peptide 5	Synthetic construct		FF	2	7972024	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13809				(RH)1	Synthetic construct		RH	2	14693544	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ18796				Undefined	Synthetic construct		KK	2	27226784, 17060532, 19115137, 24779193, 28203232, 26257894, 18783248	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19480				Undefined	Synthetic construct		KG	2	28203232	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19481				Undefined	Synthetic construct		K	1	28203232, 29292739, 27731959	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22218				Neocryptolepine 9(Gly)	Synthetic construct		G	1	24686017, 22574992	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22219				Neocryptolepine 9(His)	Synthetic construct		H	1	24686017, 22574992	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23728				Undefined	Synthetic construct		L	1	25966444, 33276980	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24625				Undefined	Synthetic construct		X	1	33276980	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24626				Undefined	Synthetic construct		V	1	33276980	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24627				Undefined	Synthetic construct		I	1	33276980	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19628		O24006		MCC22	Synthetic construct		XWGRRXWGWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19629		O24006		MCC23	Synthetic construct		XWGRRXXWWGPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19630		O24006		MCC24	Synthetic construct		XWGRRXXGWWPGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19631		O24006		MCC25	Synthetic construct		XWGRRXXGWGWGRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19632		O24006		MCD17	Synthetic construct		XWGRRXXGWGPWRRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19633		O24006		MCD18	Synthetic construct		XWGRRXXGWGPGWRYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19634		O24006		MCD19	Synthetic construct		XWGRRXXGWGPGRWYXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19635		O24006		MCD21	Synthetic construct		XWGRRXXGWGPGRRWXRRWX	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19636		O24006		MCD22	Synthetic construct		XWGRRXXGWGPGRRYWRRWR	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19637		O24006		MCD23	Synthetic construct		XWGRRXXGWGPGRRYWWRWR	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19638		O24006		MCD24	Synthetic construct		XWGRRXXGWGPGRRYWRWWR	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19639		O24006		MCD25	Synthetic construct		XWGRRXXGWGPGRRYWRRWW	20	15949628	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19679		P11006		Cecropin A (1-8)[K7H] + Magainin 2 (1-12)[7H5]	Synthetic construct		KWKLKKHIGIGKHFLSAKKF	20	26552969	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19886		P82066		Maculatin-1.1 (2-21)	Synthetic construct		LFGVLAKVAAHVVPAIAEHF	20	15298176	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19887		P82066		Maculatin-1.1 (2-21)[L2A]	Synthetic construct		AFGVLAKVAAHVVPAIAEHF	20	15298176	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19888		P82066		Maculatin-1.1 (2-21)[L2G]	Synthetic construct		GFGVLAKVAAHVVPAIAEHF	20	15298176	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19889		P82066		Maculatin-1.1 (1-20)	Synthetic construct		GLFGVLAKVAAHVVPAIAEH	20	15298176	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19936				C20	Synthetic construct		KKIMRTFLRRISKDILTGKK	20	17389605	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19937				C20-DK	Synthetic construct		KKIMRTFLRRISKKILTGKK	20	17389605	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20009		P82358		Gommut 2, Gomesin [PYA1KWI][C8,13W][K10R][[Q11G][V14I][G19W]	Synthetic construct		KWICRRLWYRGRWITYCRWR	20	27859052	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20010		P14213		Tachymut 1, Tachyplesin-1 [W3Ins]-WK	Synthetic construct		KWWCFRVCYRGICYRRCRWK	20	27859052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20011		P14213		Tachymut 2, Tachyplesin-1 [W3Ins][C4,8,13,17V]-WK	Synthetic construct		KWWVFRVVYRGIVYRRVRWK	20	27859052	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20012		P14213		Tachymut 3, Tachyplesin-1 [W3Ins][C4,8,13,17V][R19p]-WK	Synthetic construct		KWWVFRVVYpRIVYRRVRWK	20	27859052	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20043		P80400		Gaegurin 6 (1, 6-24), GGN6 (1, 6-24)	Synthetic construct		FAGLAANFLPTIICKISYKC	20	14499271	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20209		P80571		Defensin MGD1 (1-20) peptide S	Synthetic construct		GFGSPNNYQSHRHSKSIPGR	20	12823551	Antibacterial	Gram+	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13265				Peptide 253	Synthetic construct		WWWWWWR	7	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13266				Peptide 254	Synthetic construct		WWWWWWW	7	34021253	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13270				7-tB2U-K 1	Synthetic construct		GVIIKTL	7	34438945	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13762				Peptide 10	Synthetic construct		FFFFFFF	7	7972024	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13861				2C-1	Synthetic construct		RRRFWWR	7	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13862				2C-2	Synthetic construct		RRWWRRF	7	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13863				2C-3	Synthetic construct		RRRWWWF	7	17296741	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13864				2C-4	Synthetic construct		RWRWRWF	7	17296741	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13865				3C-1	Synthetic construct		RRRRWWK	7	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13866				3C-2	Synthetic construct		RRWWRRK	7	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13867				3C-3	Synthetic construct		RRRWWWK	7	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13868				3C-4	Synthetic construct		RWRWRWK	7	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13869				4C-1	Synthetic construct		RRRKWWK	7	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13870				4C-2	Synthetic construct		RRWKRRK	7	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13871				4C-4	Synthetic construct		RWRKRWK	7	17296741	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14155				(naphthalene-2-ly)-acetyl-diphenylalanine-dilysine-OH	Synthetic construct		XFFJKJK	7	33925337	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14157				A6K	Synthetic construct		AAAAAAK	7	33621783	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14204				Chem-1	Synthetic construct		KVLGRLV	7	34662112	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14249				MCA4-1	Synthetic construct		KKKGSPH	7	34577539	Antibacterial		Experimentally validated
+CAMPSQ14250				MCA4-2	Synthetic construct		RRRGSPH	7	34577539	Antibacterial		Experimentally validated
+CAMPSQ14325				MK58911(1-7)-OH	Synthetic construct		INWLKIA	7	34516241	Antifungal		Experimentally validated
+CAMPSQ14326				MK58911(8-14)-NH2	Synthetic construct		KKVKGML	7	34516241	Antifungal		Experimentally validated
+CAMPSQ14585				Darobactin A	Synthetic construct		WNWSKSF	7	34937193	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14586				Darobactin B	Synthetic construct		WNWTKRF	7	34937193	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14587				Darobactin C	Synthetic construct		WSWSRSF	7	34937193	Antibacterial		Predicted

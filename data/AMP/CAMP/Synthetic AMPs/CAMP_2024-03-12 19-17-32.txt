@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ24338		A0A0L8FJ88		Transgelin (297-310)	Synthetic construct		QAGSNKGASQKGMS	14	32717885	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24339		A0A0L8FJ88		Transgelin (210-223)	Synthetic construct		EGQGVISLQAGTNK	14	32717885	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24341		F6TWZ0		Ciona intestinalis Uncharacterized protein (1-14)	Synthetic construct		WWLSRRRSSLFYWR	14	32724213	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24349				Undefined	Synthetic construct		RRKLDLKLDLKLDL	14	25934283	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24358		A7WNV3		K-Brevinin-1PLb (12-24)	Synthetic construct		KFLPKIFCAITKKC	14	32781587	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24373				Pept_970	Synthetic construct		FVKILAKLVNYAKN	14	32992666	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24430				Undefined	Synthetic construct		IICRKPIICRKPII	14	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24438				CAR2	Synthetic construct		LKKLCARLKKLCAR	14	31887002	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24441				ACR2	Synthetic construct		LKKLACRLKKLACR	14	31887002	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24488				Undefined	Synthetic construct		RXRRXRRXRRXRXX	14	19015356	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24489				Undefined	Synthetic construct		RFRRFRRFRRFRXX	14	19015356	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24498				Undefined	Synthetic construct		DILIIVGGRRRRRR	14	32924418	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24566				PA-14	Synthetic construct		KIAKRIWKILRRRL	14	32499514	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24570		I0YQ90		Peroxin-13 (170-183)[G10K,K12G]	Synthetic construct		LARFVLRILKYGFK	14	33063186	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24599				LK	Synthetic construct		LKKLLKLLKKLLKL	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24600				LK [K6P]	Synthetic construct		LKKLLPLLKKLLKL	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24601				LK [K9P]	Synthetic construct		LKKLLKLLPKLLKL	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24602				LK [K10P]	Synthetic construct		LKKLLKLLKPLLKL	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24603				LK [L4P]	Synthetic construct		LKKPLKLGKKLLKL	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24604				LK [L5P]	Synthetic construct		LKKLPKLSKKLLKL	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24605				LK [L7P]	Synthetic construct		LKKLLKPLKKLLKL	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24606				LK [L12P]	Synthetic construct		LKKLLKLLKKLPKL	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24607				LK [L8P]	Synthetic construct		LKKLLKLPKKLLKL	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24608				LK [L11P]	Synthetic construct		LKKLLKLLKKPLKL	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24609				KL [L2P]	Synthetic construct		KPLKLLKKLLKLLK	14	33205989	Antibacterial	Gram+,Gram-	Experimentally Validated

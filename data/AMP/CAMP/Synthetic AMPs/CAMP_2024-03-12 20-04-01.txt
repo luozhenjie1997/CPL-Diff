@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18141		G1T9L4		CAP18 [I24E]	Synthetic construct		GLRKRLRKFRNKIKEKLKKIGQKEQGLLPKLAPRTDY	37	29852015	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18142		G1T9L4		CAP18 [I24H]	Synthetic construct		GLRKRLRKFRNKIKEKLKKIGQKHQGLLPKLAPRTDY	37	29852015	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18143		G1T9L4		CAP18 [I24S]	Synthetic construct		GLRKRLRKFRNKIKEKLKKIGQKSQGLLPKLAPRTDY	37	29852015	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18144		G1T9L4		CAP18 [L31C]	Synthetic construct		GLRKRLRKFRNKIKEKLKKIGQKIQGLLPKCAPRTDY	37	29852015	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18145		G1T9L4		CAP18 [T35H]	Synthetic construct		GLRKRLRKFRNKIKEKLKKIGQKIQGLLPKLAPRHDY	37	29852015	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18146		G1T9L4		CAP18 [Y37D]	Synthetic construct		GLRKRLRKFRNKIKEKLKKIGQKIQGLLPKLAPRTDD	37	29852015	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18147		G1T9L4		CAP18 [L6P]	Synthetic construct		GLRKRPRKFRNKIKEKLKKIGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18148		G1T9L4		CAP18 [I13D]	Synthetic construct		GLRKRLRKFRNKDKEKLKKIGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18149		G1T9L4		CAP18 [I13P]	Synthetic construct		GLRKRLRKFRNKPKEKLKKIGQKIQGLLPKLAPRTDY	37	30245684	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18150		G1T9L4		CAP18 [I13R]	Synthetic construct		GLRKRLRKFRNKRKEKLKKIGQKIQGLLPKLAPRTDY	37	30245684	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18151		G1T9L4		CAP18 [I13F]	Synthetic construct		GLRKRLRKFRNKFKEKLKKIGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18152		G1T9L4		CAP18 [I13H]	Synthetic construct		GLRKRLRKFRNKHKEKLKKIGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18153		G1T9L4		CAP18 [I13M]	Synthetic construct		GLRKRLRKFRNKMKEKLKKIGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18154		G1T9L4		CAP18 [K16C]	Synthetic construct		GLRKRLRKFRNKIKECLKKIGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18155		G1T9L4		CAP18 [K16D]	Synthetic construct		GLRKRLRKFRNKIKEDLKKIGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18156		G1T9L4		CAP18 [L17D]	Synthetic construct		GLRKRLRKFRNKIKEKDKKIGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18157		G1T9L4		CAP18 [L17K]	Synthetic construct		GLRKRLRKFRNKIKEKKKKIGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18158		G1T9L4		CAP18 [L17P]	Synthetic construct		GLRKRLRKFRNKIKEKPKKIGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18159		G1T9L4		CAP18 [K18P]	Synthetic construct		GLRKRLRKFRNKIKEKLPKIGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18160		G1T9L4		CAP18 [I20E]	Synthetic construct		GLRKRLRKFRNKIKEKLKKEGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18161		G1T9L4		CAP18 [I20N]	Synthetic construct		GLRKRLRKFRNKIKEKLKKNGQKIQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18162		G1T9L4		CAP18 [I24D]	Synthetic construct		GLRKRLRKFRNKIKEKLKKIGQKDQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18163		G1T9L4		CAP18 [I24G]	Synthetic construct		GLRKRLRKFRNKIKEKLKKIGQKGQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18164		G1T9L4		CAP18 [I24N]	Synthetic construct		GLRKRLRKFRNKIKEKLKKIGQKNQGLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18165		G1T9L4		CAP18 [G26T]	Synthetic construct		GLRKRLRKFRNKIKEKLKKIGQKIQTLLPKLAPRTDY	37	30245684,29852015	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

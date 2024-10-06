@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ52	116080	P14662		Bactericidin B-2 	Manduca sexta	Animalia (Insects)	WNPFKELERAGQRVRDAVISAAPAVATVGQAAAIARG	37	3143727	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ53	116081	P14663		Bactericidin B-3 	Manduca sexta	Animalia (Insects)	WNPFKELERAGQRVRDAIISAGPAVATVGQAAAIARG	37	3143727	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ54	116083	P14664		Bactericidin B-4 	Manduca sexta	Animalia (Insects)	WNPFKELERAGQRVRDAIISAAPAVATVGQAAAIARG	37	3143727	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ55	116084	P14665		Bactericidin B-5P precursor 	Manduca sexta	Animalia (Insects)	WNPFKELERAGQRVRDAVISAAAVATVGQAAAIARGG	37	3143727	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ56	116087, 223330	P01507	1D9J,1D9L,1D9M,1D9O,1D9P,1F0D,1F0E,1F0F,1F0G,1F0H	Cecropin-A 	Hyalophora cecropia	Animalia (Insects)	KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK	37	7140755, 27367675	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ98	122063471	P85055		Esculentin-2SE	Rana sevosa	Animalia (Amphibia)	GFFSLIKGVAKIATKGLAKNLGKMGLDLVGCKISKEC	37	16386333	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ165	156633553	P85214		Proline-rich antimicrobial peptide 1	Galleria mellonella	Animalia (Insects)	DIQIPGIKKPTHRDIIIPNWNPNVRTQPWQRFGGNKS	37	11995991	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ169	157841288	A6YPB1		Putative antimicrobial peptide A Northern Europe Heligoland variant 	Ciona intestinalis 	Animalia	AALRGALRAVARVGKAILPHVAIANPYVRTPYVHNNP	37	17658598	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ185	160380519	P0C5X5		Brevinin-2DYe / Dybowskin-5	Rana dybowskii	Animalia (Amphibia)	GLFSVVTGVLKAVGKNVAKNVGGSLLEQLKCKISGGC	37	17688900 , 17698251	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ187	1703271	P25403		Antimicrobial peptide 1 	Mirabilis jalapa	Plantae	QCIGNGGRCNENVGPPYCCSGFCLRQPGQGYGYCKNR	37	1733929 , 7647302	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ199	1709082	P49932		Antibacterial peptide PMAP-37 	 Sus scrofa	Animalia (Mammals)	GLLSRLRDFLSDRGRRLGEKIERIGQKIKDLSEFFQS	37	7737198	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ247	22095935	P83248		Oxyopinin-2a 	Oxyopes kitabensis 	Animalia (Arachnida)	GKFSVFGKILRSIAKVFKGVGKVRKQFKTASDLDKNQ	37	11976325	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ248	22095936	P83249		Oxyopinin-2b 	Oxyopes kitabensis 	Animalia (Arachnida)	GKFSGFAKILKSIAKFFKGVGKVRKQFKEASDLDKNQ	37	11976325	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ249	22095937	P83250		Oxyopinin-2c 	Oxyopes kitabensis 	Animalia (Arachnida)	GKLSGISKVLRAIAKFFKGVGKARKQFKEASDLDKNQ	37	11976325	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ250	22095938	P83251		Oxyopinin-2d 	Oxyopes kitabensis 	Animalia (Arachnida)	GKFSVFSKILRSIAKVFKGVGKVRKQFKTASDLDKNQ	37	11976325	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ266	2493349	P80956		Rugosin-C	Rana rugosa 	Animalia (Amphibia)	GILDSFKQFAKGVGKDLIKGAAQGVLSTMSCKLAKTC	37	7612013	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ282	2506236	P80398	2G9L	Gaegurin-4	Rana rugosa 	Animalia (Amphibia)	GILDTLKQFAKGVGKDLVKGAAQGVLSTVSCKLAKTC	37	7999137	Antibacterial, Antifungal, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ415	41016980	P82827		Esculentin-2L	Rana luteiventris	Animalia (Amphibia)	GILSLFTGGIKALGKTLFKMAGKAGAEHLACKATNQC	37	10651828	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ416	41016981	P82839		Esculentin-2B	Rana berlandieri	Animalia (Amphibia)	GLFSILRGAAKFASKGLGKDLTKLGVDLVACKISKQC	37	10651828	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ417	41016982	P82846		Esculentin-2P	Rana pipiens	Animalia (Amphibia)	GFSSIFRGVAKFASKGLGKDLARLGVNLVACKISKQC	37	10651828	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ470	462482	P34034 , Q53446	1CW6,2LEU,2LJQ,2LJT,3LEU	Bacteriocin leucocin-A precursor 	Leuconostoc gelidum 	Monera	KYYGNGVHCTKSGCSVNWGEAFSAGVHRLANGGNGFW	37	1840587	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ554	6014948	P56686		4 kDa defensin	Androctonus australis	Animalia (Arachnida)	GFGCPFNQGACHRHCRSIRRRGGYCAGLFKQTCTCYR	37	8939880	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ560	6225249	P81610		Defensin-A	Mytilus edulis 	Animalia (Molluscs (Bivalvia))	GFGCPNDYPCHRHCKSIPGRXGGYCGGXHRLRCTCYR	37	8702979	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ23738		W0FCA0		Lantibiotic Paenicidin B	Paenibacillus terrae NRRL B-30644	Bacteria	VLxIVAXxSGXGSGKxAAxXVAxXGNKXFxNVGSLX	36	24382692	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23742		C0HLN5,		Turgencin A	Synoicum turgens		GPKTKAACKXACKLATCGKKPGGWKCKLCELGCDAV	36	31940927, 32751755	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

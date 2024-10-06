@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11804				Medusin-PT1a 	Phyllomedusa tarsius	Animalia (Amphibia)	LlGMIPVAIKAISALSKL	18	28469603	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11863			3ZTJ_H	P18	Bacillus subtilis	Monera (Bacteria)	TVAAPSVFIFPPSDEQLK	18	28416546	Antiviral		Experimentally validated
+CAMPSQ11869				Protegrin 	Sus scrofa	Animalia (Mammals)	RGGRLCYCRRRFCVCVGR	18	28382709, 9257752, 31214759	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11986				Actinokineosin 	Actinokineospora spheciospongiae	Monera (Actinobacteria)	GYPFWDNRDIFGGYTFIG	18	27813109	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12306				Megicin-18	Mesobuthus gibbosus	Animalia (Scorpion)	FFGALFKLATKIIPSLFR	18	29896190	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12308				Marcin-18	Mesobuthus martensii	Animalia (Scorpion)	FFGHLFKLATKIIPSLFR	18	29896190	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12316				Apolipoprotein-E derived 133-150	Homo sapiens 	Animalia	LVQYRGEVQAMLGQSTEE	18	29900637	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12398				Apidaecin 1C-20	Apis mellifera	Animalia (Insects)	RVRRPVYIPQPRPPHPRL	18	29109421	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12465				Bombinin HL	Bombina variegata	Animalia (Amphibia)	LLGPVLGLVSNVLGGLLG	18	28894024	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12480				L18R	Homo sapiens	Animalia	LLVLRSLGPWHPGHCLLR	18	28883642	Antifungal		Experimentally validated
+CAMPSQ12671				Hc2	Hydrophis cyanocinctus	Animalia (Reptiles)	KFFKRLLKSVRRAVKKFR	18	28572668	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12677				Hc8	Hydrophis cyanocinctus	Animalia (Reptiles)	FFKRLLKSVRRAVKKFRK	18	28572668	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12741				1899.12 Legumin 	Cicer arietinum L.	Plantae (Angiosperms)	GRNEDEEKGAIVKVKGGL	18	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12744				2041.32 Legumin	Cicer arietinum L.	Plantae (Angiosperms)	KLQGRNEDEEKGAIVKVK	18	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12747				1802.05 Legumin Alike	Cicer arietinum L.	Plantae (Angiosperms)	KTNDRAAIGKLVGATSSL	18	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12755				2118.59 Legumin-like (Leg1)	Cicer arietinum L.	Plantae (Angiosperms)	RIKTVTSFDLPALRFLKL	18	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12756				2157.62 Legumin Alike (Leg2)	Cicer arietinum L.	Plantae (Angiosperms)	RIKTVTSFDLPALRWLKL	18	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12877				LFMP-002	Limacus favus	Animalia (Mollusca)	NFAAGCLGVTTADDNALE	18	34086076	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13527				RP40-20/2	Rhinocricus sp	Animalia	IQALAALATHVTATGPFK	18	33894375	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13651				XT-7	Xenopus tropicalis	Animalia (Amphibia)	GLLGPLLKIAAKVGSNLL	18	33932712, 23094651, 11738090	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13661				IP18	Homo sapiens 	Animalia (Mammals)	IGRFGYGYGPYQPVPEQP	18	33740624	Antifungal		Experimentally validated
+CAMPSQ13721				PinA	Triticum aestivum	Plantae	TMKDFPVTWRWWKWWKGG	18	34276635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13725				L-Phenylseptin	Hyspiboas punctatus	Animalia (Amphibia)	FFFDTLKNLAGKVIGALT	18	34310911	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13726				D-Phenylseptin	Hyspiboas punctatus	Animalia (Amphibia)	FfFDTLKNLAGKVIGALT	18	34310911	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14216				48-65SlSN2 	Solanum lycopersicum	Plantae	GACAARCRLSSRPRLCHR	18	34698084	Antibacterial, Antifungal	Gram +ve	Experimentally validated

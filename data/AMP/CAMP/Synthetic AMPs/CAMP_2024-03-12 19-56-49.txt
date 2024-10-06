@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ16506		A0A238GSL3		Distinctin-Like-Peptide-PH (15-36), DLP-PHt	Synthetic construct		NVLKKLNRLKEKNKAKNSKENN	22	29628917	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16510		Q571V3		Frenatin 4.2 [E4L,T8L,D12L]	Synthetic construct		GFLLKLKLGAKLFASAFVNSIK	22	27792198	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16549		Q08GI9		CSPC11 - hLF1-11	Synthetic construct		TFFRLFNRSFTGRRRRSVQWCA	22	29434779	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16725				Flexampin	Synthetic construct		GIKKWVKGVAKGVAKDLAKKIL	22	30292398	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16819		P81941		Pleurocidin (4-25)	Synthetic construct		SFFKKAAHVGKHVGKAALTHYL	22	20798581,23075787	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ16821		P81941		Pleurocidin (1-22)	Synthetic construct		GWGSFFKKAAHVGKHVGKAALT	22	20798581,23075787	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ17147		P80054		PR-39 (1-22)	Synthetic construct		RRRPRPPYLPRPRPPPFFPPRL	22	24755622	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17157		Q962A7		Penaeidin 4-1/Penaeidin-4d (1-22)	Synthetic construct		HSSGYTRPLRKPSRPIFIRPIG	22	16999777	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ17291				Distinctin Peptide A	Synthetic construct		ENREVPPGFTALIKTLRKCKII	22	18597491	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17733				PR-39(1-22)	Synthetic construct		RRRPRPPYLPRPRPPPFFPPRL	22	24755622	Antibacterial	Gram -ve, Gram +ve	Experimentally validated
+CAMPSQ17727		A0A3F2YLM5		O-Arenicin-3 [C3,20A;Y5N;Y17H], O-N6	Synthetic construct		XGFAWNVCVYRNGVRVCHRRAN	22	33348848	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18060				Buf IIIb-L	Synthetic construct		RVVRQWPIGRVVRRVVRRVVRL	22	23516591	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ18061				Buf IIIb-F	Synthetic construct		RVVRQWPIGRVVRRVVRRVVRF	22	23516591	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ18062				Buf IIIb-Y	Synthetic construct		RVVRQWPIGRVVRRVVRRVVRY	22	23516591	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ19197		P55788		Thanatin 4, Thanatin [A15insert]	Synthetic construct		GSKKPVPIIYCNRRATGKCQRM	22	12297012	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19190		P11006		CA-MA [L5I, F6G]	Synthetic construct		MKWKIGKKIGIGKFLHSAKKFN	22	20692130	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19024				KISA22	Synthetic construct		KIAGKIASIAGKIAKIAGKIAK	22	28282123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19017				KIA7(22)	Synthetic construct		KIAGKIAAIAGKIAKIAGKIAK	22	28282123	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19010				KIA22	Synthetic construct		KIAGKIAKIAGKIAKIAGKIAK	22	25807192, 32126225	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18479		Q6QLQ5		Cathelicidin-1 (5-26), CATH-1 (5-26), Fowlicidin-1 (5-26)	Synthetic construct		VWPLVIRTVIAGYNLYRAIKKK	22	16817888	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19725		P19660		Bactenecin-5 (1-22)	Synthetic construct		RFRPPIRRPPIRPPFYPPFRPP	22	8605180	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19891				KABT-AMP	Synthetic construct		GIWKKWIKKWLKKLLKKLWKKG	22	25965506, 23649308	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19900				Magainin analog-1	Synthetic construct		AIHNLAHKLLKKLTRAVKKLAN	22	11384964	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19901				Magainin analog-2	Synthetic construct		AIHKLAHKLLKKLLKAVKKLAK	22	11384964	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19902				Magainin analog-3	Synthetic construct		AIHKLAHKLLKKLLRAVKKLAN	22	11384964	Antibacterial	Gram+,Gram-	Experimentally Validated

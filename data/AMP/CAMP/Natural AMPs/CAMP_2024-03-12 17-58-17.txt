@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ15028				Peptide 57	Saccharomyces cerevisiae	Fungi	PPPVFNKPPTGPPP	14	35215278	Antibacterial		Predicted
+CAMPSQ15126				MP-PW1	Polistes wattii	Animalia (Insects)	INLKALAALAMKIL	14	35255107	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15127				MP-PW2	Polistes wattii	Animalia (Insects)	INRKALAALMMKLL	14	35255107	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16272				MPX	Wasp	Animalia (Insects)	INWKGIAAMAKKLL	14	35425831	Antibacterial		Experimentally validated
+CAMPSQ16804		D1MEI7		EpVP2a, VP2a protein	Eumenes pomiformis	Animalia	FDLLGLVKKVASAL	14	21184791	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ16805		D1MEI8		EpVP2b, VP2b protein	Eumenes pomiformis	Animalia	FDLLGLVKSVVSAL	14	21184791	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ16810		D1MEJ2		EpVP5, VP5 protein	Eumenes pomiformis	Animalia	VHVPPICSHRECRK	14	21184791	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ19708		A0SPI0,S4S2C7		Mastoparan-AF, Mastoparan M	Vespa affinis,Vespa magnifica	Animalia	INLKAIAALAKKLF	14	21884742, 22561066	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19709		P0C1Q6		Mastoparan-A	Vespa analis	Animalia	IKWKAILDAVKKVI	14	21884742	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20068				Mastoparan-VT3	Vespa tropica	Animalia	INLKAITALAKKLL	14	24012601	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20069				Mastoparan-VT4	Vespa tropica	Animalia	INLKAIAPLAKKLL	14	24012601	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20070				Mastoparan-VT6	Vespa tropica	Animalia	INLKAIAALVKKLL	14	24012601	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21264		P0DTV5		Frenatin 2D	Discoglossus sardus	Animalia	DLLGTLGNLPLPFI	14	23262358	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21338		P84388		Polybine-1	Polybia paulista	Animalia	SADLVKKIWDNPAL	14	15572194	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21339		P84389		Polybine-2	Polybia paulista	Animalia	SVDMVMKGLKIWPL	14	15572194	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21352				Pxt-2	Xenopus tropicalis		FIGALLRPALKLLA	14	26802742, 25312021	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21353				Pxt-5	Xenopus tropicalis		FIGALLGPLLNLLK	14	26802742, 25312021	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21360				Pxt-7	Xenopus tropicalis	Animalia	XGLIGTLTAKQIKK	14	25312021	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21361				Pxt-11	Xenopus tropicalis	Animalia	XGLMGTLISKQMKK	14	25312021	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21782				Hylain 1	Hyla simplex	Animalia	GILDAIKAFANALG	14	21740067	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21783				Hylain 2	Hyla simplex	Animalia	GILDPIKAFAKAAG	14	21740067	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21819				Verrucamide B	Myrothecium verrucaria	Fungi	XSVXGVXVXVXGIX	14	21539317	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21820				Verrucamide D	Myrothecium verrucaria	Fungi	XSVXGVXVXVXGVX	14	21539317	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22469		A0A0A7NNZ8		Cathelicidin 4, buCATHL4A	Bubalus bubalis	Animalia	GLPWILLRWLFFRG	14	26675301	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22470		A0A0A7NM42,		Cathelicidin 4, buCATHL4B	Bubalus bubalis	Animalia	AIPWIWIWRLLRKG	14	26675301	Antibacterial	Gram+,Gram-	Experimentally Validated

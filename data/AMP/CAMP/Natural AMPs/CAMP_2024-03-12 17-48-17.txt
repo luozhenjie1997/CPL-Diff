@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ120	13431930	P82651		Tigerinin-1	Hoplobatrachus tigerinus 	Animalia (Amphibia)	FCTMIPIPRCY	11	11031261	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ123	13431933	P82654		Tigerinin-4	Hoplobatrachus tigerinus 	Animalia (Amphibia)	RVCYAIPLPIC	11	11031261	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ320	28201906	Q8MTX2		Cytotoxic linear peptide IsCT2 	Opisthacanthus madagascariensis 	Animalia (Arachnida)	IFGAIWNGIKS	11	12054688	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ736	193805999	P85870		Decoralin	Oreumenes decoratus	Animalia (Insects)	SLLSLIRKLIT	11	17981364, 28105725, 28795464	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ965	159163667	P02788	1B0L,1BKA,1CB6,1DSN,1EH3,1FCK,1H43,1H44,1H45,1HSE,1L5T,1LCF,1LCT,1LFG,1LFH,1LFI,,1N76,1SQY,1U62,1VFD,1VFE,1XV4,1XV7,1Z6V,1Z6W,2BJJ,2GMC,2GMD,2PMS	Human lactoferricin, HLP2	Homo sapiens	Animalia (Mammals)	FQWQRNMRKVR	11	9596699, 15155221	Antibacterial		Experimentally validated
+CAMPSQ2472	306755922	C5J887		Non-disulfide-bridged peptide 58	Opisthacanthus cayaporum  	Animalia (Arachnida)	ILGKIWEGVKS	11	19379768	Antibacterial		Predicted
+CAMPSQ2574	363805424	C6FX52	2ZJP	Nosiheptide precursor	Streptomyces actuosus  	Monera	CTTCECCCSCS	11	19678698	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3262				  Substance P 	Homo sapiens	Animalia (Mammals)	RPKPQQFFGLM	11	12074933	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ3514				  Tn-AFP 1 	Trapa natans	Plantae	LMCTHPLDCSN	11	21736910	Antifungal		Experimentally validated
+CAMPSQ3869		P83328		40S ribosomal protein S30 	Oncorhynchus mykiss 	Animalia (Pisces)	KVHGSLARAGK	11	12147245	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3927		P86316		Big defensin 	Venerupis philippinarum 	Animalia (Molluscs (Bivalvia))	AVPDVAFNAYG	11	14673509	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4141	476007164	B3EWC5		Antimicrobial protein BL-A60	Brevibacillus laterosporus 	Monera	LYKLVKVVLNM	11	22244810	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4322				HLP6	Homo sapiens	Animalia (Mammals)	FQWQRNPRKVR	11	9596699	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8157		P0DMF1		Peptide Ctry2146	Chaerilus tryznai 	Animalia (Arachnida)	GIADILKGLLG	11	23415044	Antiviral		Experimentally validated
+CAMPSQ8158		P0DMG0		Peptide Ctri9819	Chaerilus tricostatus 	Animalia (Arachnida)	NRILPTLIGPL	11	23415044	Antiviral		Experimentally validated
+CAMPSQ9289				Tiananin A1	Odorrana andersonii 	Animalia (Amphibia)	LLPPWLRPRNG	11	22029824	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9577				C(11-21)	Gallus gallus	Animalia	RFRPKVTITIQ	11	26848845	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9612				B3	Cnidopus japonicus	Animalia	RQIKKAFRKMA	11	29361893	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10133				P-117	Homo sapiens	Animalia	KRHHGYKRKFH	11	11302797	Antifungal		Experimentally validated
+CAMPSQ10134				P-118	Homo sapiens	Animalia	AKRHHGYKRKF	11	11302797	Antifungal		Experimentally validated
+CAMPSQ10222		P42723		Trifolitoxin	Rhizobium leguminosarum bv. Trifolii	Monera	DIGGSRQGCVA	11		Antibacterial		Predicted
+CAMPSQ10482				Hym-357	Hydra	Animalia	KPAFLFKGYKP	11	28951596	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10764				Pinipesin	Scolopendra subspinipes subspinipes	Animalia	VAEARQGSFSY	11	31541146	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11019				P-1	Bacillus pumilus HN-10	Monera	PLSSPATLNSR	11	29302801	Antifungal		Experimentally validated
+CAMPSQ24631				Griselimycin CGM	Streptomyces griseus		XXXLXLXXxG	10	26045430	Antibacterial	Gram+,Gram-	Experimentally Validated

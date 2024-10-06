@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19005		P32194		(PR)2-Protegrin 1 (8-13)-(RP)2	Synthetic construct		PRPRCRRRFCRPRP	14	24952979	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19001		P32194		(FR)2-Protegrin 1 (8-13)-(RF)2	Synthetic construct		FRFRCRRRFCRFRF	14	24952979	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18999		P32194,		(IR)2-Protegrin 1 (8-13)-(RI)2	Synthetic construct		IRIRCRRRFCRIRI	14	24952979	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18912				JH8195	Synthetic construct		KRLFRRLLFSMKKY	14	15196144	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18911				JH8194	Synthetic construct		KRLFRRWQWRMKKY	14	15196144	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18900				Undefined	Synthetic construct		GXXXXXXXXXXXGY	14	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18802		Q9PWF3,		Crotamine (19,3842)	Synthetic construct		YKQCHKKGGKKGSG	14	28314993, 18983137	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ18739		P26664		HCV (1975-1988)	Synthetic construct		SWLRDIWDWICEVL	14	18287023	Antiviral		Experimentally Validated
+CAMPSQ18714		P55897		Buforin-2 (5-18)	Synthetic construct		RAGLQFPVGRVHRL	14	10890923	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18707		P55897		Buforin-2 (8-21)	Synthetic construct		LQFPVGRVHRLLRK	14	10890923	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18491				NLK14	Synthetic construct		KLLLPKLKGLLFKL	14	16434018	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18486		P15516,		Histatin 5 (11-24), Dh5 (11-24)	Synthetic construct		KRKFHEKHHSHRGY	14	17620386	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ18482				Undefined	Synthetic construct		SSSKEENRIIPGGI	14	10049295	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19580		P81835		Citropin 1.1 (1-14)	Synthetic construct		GLFDVIKKVASVIG	14	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19588		P81835		Citropin 1.1 (1-7)(10-16)	Synthetic construct		GLFDVIKASVIGGL	14	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19591		P81835		Citropin 1.1 (1-14)[D4A]	Synthetic construct		GLFAVIKKVASVIG	14	19616100	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19641		P02788		Lfcin (1730)	Synthetic construct		TKCFQWQRNMRKVR	14	19917761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19710		P0C1M4		Mastoparan-X [I1A]	Synthetic construct		ANWKGIAAMAKKLL	14	24621994	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19711		P0C1M4		Mastoparan-X [L14A]	Synthetic construct		INWKGIAAMAKKLA	14	24621994	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19712		P0C1M4		Mastoparan-X [A8L]	Synthetic construct		INWKGIALMAKKLL	14	24621994	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19713		P0C1M4		Mastoparan-X [I1Adc]	Synthetic construct		XNWKGIAAMAKKLL	14	24621994	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19714		P0C1M4		Mastoparan-X [A8Adc]	Synthetic construct		INWKGIAXMAKKLL	14	24621994	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19715		P0C1M4		Mastoparan-X [L14Adc]	Synthetic construct		INWKGIAAMAKKLX	14	24621994	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19716		P0C1Q4		Mastoparan-1 [K6,A10 METH-PENT-GLY]	Synthetic construct		IDWKKXLDAXKQIL	14	29075946	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19717		P0C1Q4		Mastoparan-1 [K6,A10 METH-PENT-GLY][D8N]	Synthetic construct		IDWKKXLNAXKQIL	14	29075946	Antibacterial	Gram+,Gram-	Experimentally Validated

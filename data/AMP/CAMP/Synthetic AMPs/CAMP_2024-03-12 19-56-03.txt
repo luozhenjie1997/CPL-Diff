@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19971		Q5SC60		Arenicin-1 [V15R]	Synthetic construct		RWCVYAYVRVRGVLRRYRRCW	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19972		Q5SC60		Arenicin-1 [W21G]	Synthetic construct		RWCVYAYVRVRGVLVRYRRCG	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19973		Q5SC60		Arenicin-1 [W21S]	Synthetic construct		RWCVYAYVRVRGVLVRYRRCS	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19974		Q5SC60		Arenicin-1 [W21R]	Synthetic construct		RWCVYAYVRVRGVLVRYRRCR	21	25557880	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20042		P80400		Gaegurin 6 (4-24), GGN6 (4-24)	Synthetic construct		LLAGLAANFLPTIICKISYKC	21	14499271	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20223				P4, Longicin (53-73)	Synthetic construct		SIGRRGGYCAGIIKQTCTCYR	21	19940394, 23553969	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20227		Q70626		TL1, Lentivirus lytic peptide LLP1 (1-21)[E4R]	Synthetic construct		RVIRVVQGACRAIRHIPRRIR	21	10459808	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20228		Q70626		LP21, Lentivirus lytic peptide LLP1 (1-21)	Synthetic construct		RVIEVVQGACRAIRHIPRRIR	21	10459808	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21066				M21	Synthetic construct		KWKKLLKKLLKLLKKLLKKLK	21	16889633	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21067				M21[K11P]	Synthetic construct		KWKKLLKKLLPLLKKLLKKLK	21	16889633	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21138		P82656		H/V-peptide (9-29)	Synthetic construct		IASKVANTVQKLKRKAKNAVA	21	23403131	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21165		P19661		Bac7 (3-23)[F18Y]	Synthetic construct		IRPRPPRLPRPRPRPLPYPRP	21	25525837	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21199				Undefined	Synthetic construct		KNWKGIAGMAKKLLGKNWKLM	21	10879468	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21237				Cathelicidin AM (1-21), AM-CATH21	Synthetic construct		GLFKKLRRKIKKGFKKIFKRL	21	28089718	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21269		P55788		Thanatin [N12Q]	Synthetic construct		GSKKPVPIIYCQRRTGKCQRM	21	23643614	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21270		P55788		Thanatin [G16A]	Synthetic construct		GSKKPVPIIYCNRRTAKCQRM	21	23643614	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21271		P55788		Thanatin [N12Q][T15S]	Synthetic construct		GSKKPVPIIYCQRRSGKCQRM	21	23643614	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21272		P55788		Thanatin [N12Q][G16A]	Synthetic construct		GSKKPVPIIYCQRRTAKCQRM	21	23643614	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21273		P55788		Thanatin [T15S][G16A]	Synthetic construct		GSKKPVPIIYCNRRSAKCQRM	21	23643614	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21279				Transportan 10-2, TP10-2	Synthetic construct		AGYLLGKINLKPLAALAKKIL	21	25891396	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21280				Transportan 10-3, TP10-3	Synthetic construct		AAYLLAKINLKALAALAKKIL	21	25891396	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21281				Transportan 10-5, TP10-5	Synthetic construct		AGYLLGKINLKKLAKLXKKIL	21	25891396	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21282				Transportan 10-7, TP10-7	Synthetic construct		AGYLLGKINLKPLAKLXKKIL	21	25891396	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21283				Transportan 10-8, TP10-8	Synthetic construct		AGYLLPKINLKPLAKLPKKIL	21	25891396	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21319		P11006		Magainin-2 (3-23) [G1K][F10W][G11L][G16K][E17L][I18F][M19K][S20W]	Synthetic construct		KKFLHSAKKWLKAFVKLFKNW	21	1605597	Antibacterial	Gram+,Gram-	Experimentally Validated

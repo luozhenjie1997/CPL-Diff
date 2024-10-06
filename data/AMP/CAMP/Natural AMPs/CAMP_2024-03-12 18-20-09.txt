@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2142	123659994	Q4L5M2		Antibacterial protein 2 homolog	Staphylococcus haemolyticus (strain JCSC1435)	Monera	MEKIANAVKSAIEAGQNQDWTKLGTSILDIVSNGVTELSKIFGF	44		Antibacterial	Gram-ve	Predicted
+CAMPSQ2143	123659993	Q4L5M1		Antibacterial protein 3 homolog	Staphylococcus haemolyticus (strain JCSC1435)	Monera	MSKLVQAISDAVQAGQNQDWAKLGTSIVGIVENGVGILGKLFGF	44		Antibacterial	Gram-ve	Predicted
+CAMPSQ2147	121140	P11699		Antibacterial protein 3	Staphylococcus haemolyticus	Monera	MSKLVQAISDAVQAQQNQDWAKLGTSIVGIVENGVGILGKLFGF	44		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2148	121139	P11698		Antibacterial protein 2	Staphylococcus haemolyticus	Monera	MEKIANAVKSAIEAGQNQDWTKLGTSILDIVSNGVTELSKIFGF	44		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2149	121138	P11697		Antibacterial protein1	Staphylococcus haemolyticus	Monera	MQKLAEAIAAAVSAGQDKDWGKMGTSIVGIVENGITVLGKIFGF	44		Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2741				  hBD-27 	Homo sapiens	Animalia (Mammals)	QLKKCWNNYVQGHCRKICRVNEVPEALCENGRYCCLNIKELEAC	44	19373462	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ2758	223331	P80930		  eNAP-1 	Equus caballus 	Animalia (Mammals)	DVQCGEGHFCHDQTCCRASQGGACCPYSQGVCCADQRHCCPVGF	44	1639474	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2912				  Coagulin 	Bacillus coagulans I-4	Monera	KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGTHKC	44	9721655	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3095				  Mutacin IV 	Streptococcus mutans UA140	Monera	KVSGGEAVAAIGICATASAAIGGLAGATLVTPYCVGTWGLIRSH	44	11133423	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3127				  Cy-AMP1 	Cycas revoluta	Plantae	KGAPCAKKPCCGPLGHYKVDCSTIPDYPCCSKYGFCGSGPQYCG	44	18778743	Antibacterial		Experimentally validated
+CAMPSQ3199				  Piscidin 4 	Morone chrysops x Morone saxatilis	Animalia (Pisces)	FFRHLFRGAKAIFRGARQGWRAHKVVSRYRNRDVPETDNNQEEP	44	19266617	Antibacterial		Experimentally validated
+CAMPSQ3273				  Caenacin-1 	Caenorhabditis elegans	Animalia (Chromadorea)	QWGYNSYGYGNYGGYGGYPMYGGYGMNGGYGGGGLLGMFLGKKK	44	15048112	Antifungal		Predicted
+CAMPSQ3353				  Pp-AMP1 	Phyllostachys edulis	Plantae	KSCCRSTQARNIYNAPRFAGGSRPLCALGSGCKIVDDKKTPPND	44	15784998	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3871		P86354		Viresin 	Heliothis virescens 	Animalia (Insects)	YDNVNLDEILANDRLLVPYIKCLLDEGKKAPDAKELKEHIRXAL	44	10651803	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3969		P69240		Cysteine-rich antifungal protein 1 (Bn-AFP1)	Brassica napus 	Plantae	QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHK	44	8422949	Antifungal		Experimentally validated
+CAMPSQ4130	408387562	B3EWQ2		Antimicrobial peptide 2	Taraxacum officinale 	Plantae	GGKCTVDWGGQGGGRRLPSPLFCCYKPTRICYLNQETCETETCP	44	22640720	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4135	487523440	F6KSI8		Panusin	Panulirus argus 	Animalia (Crustaceans (Malacostraca))	EPEPSYVGDCGSNGGSCVSSYCPYGNRLNYFCPLGRTCCRHAYV	44	22885029	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4326				Pediocin PA-1	Pediococcus acidilactici PAC1.0	Monera	KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC	44	8633866	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ4364		B2D2C0		Defensin	Ornithodoros coriaceus	Animalia (Arachnida)	MVRARRGCGCPLNQGACHRHCKSIGRRGGYCAGFLKQTCTCYRN	44	18725333	Antibacterial	Gram+ve	Predicted
+CAMPSQ8150		C0HJQ3		Histone H2A [Cleaved into: Acipensin 4 (Ac4)] 	Acipenser gueldenstaedtii 	Animalia (Pisces)	SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVG	44	25558400	Antibacterial, Antifungal		Predicted
+CAMPSQ8345				Defensin1	Tribolium castaneum	Animalia (Insect)	VTCDLLSAEAKGVKVNHAACAAHCLLKRKRGGYCNKRRICVCRN	44	31657264	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ9412				Drosomycin-2	Caenorhabditis remanei	Animalia	DCLSGRYRGSCAVWHRKKCVDICQREGRTSGHCSRSLKCWCFGC	44	24434635	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10353				Virgicin	Virgibacillus sp. strain AK90 	Monera (Bacteria)	MESLESVISNVSDEELAEVSGGVGCGWICTHTLDCPGTRWFNCC	44	31432254	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11139				RNase 6 (1-45)	Homo sapiens	Animalia	WPKRLTKAHWFEIQHIQPSPLQCNRAMSGINNYTQHCKHQNTFL	44	27089320	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11246				1	P. acidilactici UL5	Monera	KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC	44	29899567	Antibacterial	Gram +ve	Experimentally validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18977		P02775		Thrombocidin-1 (4-18)	Synthetic construct		RCMCIKTTSGIHPKN	15	22025617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18978		P02775		Thrombocidin-1 (5-19)	Synthetic construct		CMCIKTTSGIHPKNI	15	22025617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18953		P11006		Magainin-1 (1-15)[H8K,A10K]	Synthetic construct		GIGKFLKSKGKFGKA	15	22569076	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ18899				Undefined	Synthetic construct		GXXXXXXXXXXXXGY	15	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18863		P56917,P01507		Cecropin A (1-7) + Temporin-A (2-9)	Synthetic construct		KWKLFKKLPLIGRVL	15	12604562, 11995990	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18794		P01501		Cecropin(1-7)+Melittin(2-9) K1,3,6,7,13(Me 3 )	Synthetic construct		XWXLFXXIGAVLXVL	15	20617807	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ18792		P01501		Cecropin(1-7)+Melittin(2-9) K6,7(Me 3 )	Synthetic construct		KWKLFXXIGAVLKVL	15	20617807	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ18793		P01501		Cecropin(1-7)+Melittin(2-9) K1,13(Me 3 )	Synthetic construct		XWKLFKKIGAVLXVL	15	20617807	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ18791		P01501		Cecropin(1-7)+Melittin(2-9) K3,6(Me 3 )	Synthetic construct		KWXLFXKIGAVLKVL	15	20617807	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ18790		P01501		Cecropin(1-7)+Melittin(2-9) K1,3(Me 3 )	Synthetic construct		XWXLFKKIGAVLKVL	15	20617807	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ18788		P01501		Cecropin(1-7)+Melittin(2-9) K6(Me 3 )	Synthetic construct		KWKLFXKIGAVLKVL	15	20617807	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ18789		P01501		Cecropin(1-7)+Melittin(2-9) K13(Me 3 )	Synthetic construct		KWKLFKKIGAVLXVL	15	20617807	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ18787		P01507		Cecropin(1-7)+Melittin(2-9) K3(Me 3 )	Synthetic construct		KWXLFKKIGAVLKVL	15	20617807	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ18786		P01501,P01507		Cecropin(1-7)+Melittin(2-9) K1(Me 3 )	Synthetic construct		XWKLFKKIGAVLKVL	15	11502512, 20617807	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ18785		P01501		Cecropin(1-7)+Melittin(2-9) K7(Me 3 )	Synthetic construct		KWKLFKXIGAVLKVL	15	11502512, 20617807	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ18713		P55897		Buforin-2 (5-19)	Synthetic construct		RAGLQFPVGRVHRLL	15	10890923	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18706		P55897		Buforin-2 (7-21)	Synthetic construct		GLQFPVGRVHRLLRK	15	10890923	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18625				Amphipathic-3d	Synthetic construct		LLkLLkKllKKLlKL	15	15019200, 12110678	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18624				Amphipathic-2d	Synthetic construct		LLkKLlKllLKLlKK	15	15019200, 12110678, 14729742	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18623				Segregated-5d	Synthetic construct		KKKLLLLLLLLLKKK	15	15019200, 12110678	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18622				Scrambled-4d	Synthetic construct		KLKLLKLLKLLKLLK	15	15019200, 12110678	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18547		P54228		Cathelicidin-6 (1-15)	Synthetic construct		GRFKRFRKKFKKLFK	15	18591279	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ18477		Q6QLQ5		Cathelicidin-1 (1-15), CATH-1 (1-15), Fowlicidin-1 (1-15)	Synthetic construct		RVKRVWPLVIRTVIA	15	16817888	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19492		P01507		Cecropin A (1-7) + Melittine (2-9) [L4K]	Synthetic construct		KWKKFKKIGAVLKVL	15	18852279	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19493		P01507		Cecropin A (1-7) + Melittine (2-9) [A10K]	Synthetic construct		KWKLFKKIGKVLKVL	15	18852279	Antibacterial	Gram+,Gram-	Experimentally Validated

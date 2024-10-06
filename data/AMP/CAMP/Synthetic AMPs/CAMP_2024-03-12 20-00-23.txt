@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18669				Undefined	Synthetic construct		FIKHFIHRFSGGLQLLKQLLKLLKQF	26	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18668				Undefined	Synthetic construct		FIKHFIHRFSATLQLLKQLLKLLKQF	26	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18667				Undefined	Synthetic construct		RWRRLLKKLHHLLHSGGFIKHFIHRF	26	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18666				Undefined	Synthetic construct		RWRRLLKKLHHLLHSATFIKHFIHRF	26	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18665				Undefined	Synthetic construct		FIKHFIHRFSGGRWRRLLKKLHHLLH	26	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18664				Undefined	Synthetic construct		FIKHFIHRFSATRWRRLLKKLHHLLH	26	20211885	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18644				V16L	Synthetic construct		KWKSFLKTFKSAKKTLLHTALKAISS	26	25061725	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18643				V16A	Synthetic construct		KWKSFLKTFKSAKKTALHTALKAISS	26	25061725	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18642				V16E	Synthetic construct		KWKSFLKTFKSAKKTELHTALKAISS	26	25061725	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18641				V16S	Synthetic construct		KWKSFLKTFKSAKKTSLHTALKAISS	26	25061725	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18640				V16G	Synthetic construct		KWKSFLKTFKSAKKTGLHTALKAISS	26	25061725	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18639				V16K	Synthetic construct		KWKSFLKTFKSAKKTKLHTALKAISS	26	25061725	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18638				V681 [V13K,T15K,T19K,S26K]	Synthetic construct		KWKSFLKTFKSAKKKVLHKALKAISK	26	18098173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18637				V681 [V13K,T15K,T19K]	Synthetic construct		KWKSFLKTFKSAKKKVLHKALKAISS	26	18098173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18636				V681 [V13K,T15K]	Synthetic construct		KWKSFLKTFKSAKKKVLHTALKAISS	26	18098173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18635				V681 [V13K,S4E,S11E,T15E]	Synthetic construct		KWKEFLKTFKEAKKEVLHTALKAISS	26	18098173	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18632				V681 [V13K,K1E,K3E,K7E,K10E,K14E,K22E]	Synthetic construct		EWESFLETFESAKETVLHTALEAISS	26	18098173	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18633				V681 [V13K,S4E,T8E,S11E,T15E,T19E,S26E]	Synthetic construct		KWKEFLKEFKEAKKEVLHEALKAISE	26	18098173	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18634				V681 [V13K,K1S,K10S,K14S]	Synthetic construct		SWKSFLKTFSSAKSTVLHTALKAISS	26	18098173	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18628				V681 [V13E]	Synthetic construct		KWKSFLKTFKSAEKTVLHTALKAISS	26	27363513	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18627				Peptide P [L6,17A]	Synthetic construct		KWKSFAKTFKSAKKTVAHTALKAISS	26	21252288, 27363513	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18606				V31pp	Synthetic construct		KWKSFLKTFKSPARTVLHTALKPISS	26	10387056	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18605				V68pp	Synthetic construct		KWKSFLKTFKSPARTVLYTALKPISS	26	10387056	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18604				V14pp	Synthetic construct		KWKSFLKTFKSPVKTVFYTALKPISS	26	10387056	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18603				V1pp	Synthetic construct		KWKSFLKTLKSPVKTVFYTALKPISS	26	10387056	Antibacterial	Gram+,Gram-	Experimentally Validated

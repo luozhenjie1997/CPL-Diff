@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ12849				Peptide 11	Synthetic construct		PWKLKLKL	8	33878564	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12850				Peptide 12	Synthetic construct		PWRLSLHL	8	33878564	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12851				Peptide 13	Synthetic construct		PWRLRLHL	8	33878564	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12852				Peptide 14	Synthetic construct		PWRLSLRL	8	33878564	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12853				Peptide 15	Synthetic construct		PWRLRLRL	8	33878564	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12942				Mo-CBP3-PepI	Synthetic construct		CPAIQRCC	8	34399551	Antifungal		Experimentally validated
+CAMPSQ13580				CMT2	Synthetic construct		KWKLFKKI	8	33676184	Antifungal		Experimentally validated
+CAMPSQ13714				WW295	Synthetic construct		RKIWWWWL	8	33804947	Antibacterial		Predicted
+CAMPSQ13715				WW307	Synthetic construct		RRRWWWWV	8	33804947	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13763				Peptide 11	Synthetic construct		FFFFFFFF	8	7972024	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13812				(RH)4	Synthetic construct		RHRHRHRH	8	14693544	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14079				Feleucin-K63	Synthetic construct		LKLLKKLL	8	34069651	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14080				Feleucin-K64	Synthetic construct		LKXLKKLL	8	34069651	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14082				Feleucin-K66	Synthetic construct		XLKAKKLL	8	34069651	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14142				Pug-4	Synthetic construct		FPSFLVGR	8	34361810	Antibacterial		Experimentally validated
+CAMPSQ14327				MK5891194-11)-OH	Synthetic construct		LKIAKKVK	8	34516241	Antifungal		Experimentally validated
+CAMPSQ14365				Peptide 2	Synthetic construct		GGVLVQPG	8	34502335	Antiviral		Experimentally validated
+CAMPSQ14366				Peptide 3	Synthetic construct		GGVLVQPG	8	34502335	Antiviral		Experimentally validated
+CAMPSQ14367				Peptide 4	Synthetic construct		GGVLVQPG	8	34502335	Antiviral		Experimentally validated
+CAMPSQ14392				Pep-control	Synthetic construct		DYKDDDDK	8	34834377	Antiviral		Experimentally validated
+CAMPSQ14943				Peptide P2	Synthetic construct		RSMRLSFR	8	35216181	Antifungal		Experimentally validated
+CAMPSQ14944				Peptide P3	Synthetic construct		RSMRLSFR	8	35216181	Antifungal		Experimentally validated
+CAMPSQ14945				Peptide P4	Synthetic construct		RSMRLSFR	8	35216181	Antifungal		Experimentally validated
+CAMPSQ14957				Peptide P14	Synthetic construct		SSMKLSFR	8	35216181	Antifungal		Experimentally validated
+CAMPSQ14958				Peptide P15	Synthetic construct		SSMKLSFR	8	35216181	Antifungal		Experimentally validated

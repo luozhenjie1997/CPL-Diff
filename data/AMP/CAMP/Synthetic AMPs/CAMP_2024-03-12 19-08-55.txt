@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14205				Chem-KVL	Synthetic construct		KVLGRLVKVLGRLV	14	34662112	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14206				Chem-1dK	Synthetic construct		kVLGRLVKVLGRLV	14	34662112	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14207				Chem-8dK	Synthetic construct		KVLGRLVkVLGRLV	14	34662112	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14208				Chem1,8dK	Synthetic construct		kVLGRLVkVLGRLV	14	34662112	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14266				BTT3	Synthetic construct		LKLKLKpGKLKLKL	14	34506975	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14268				BTT5	Synthetic construct		LKLKLKNGKLKLKL	14	34506975	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14269				BTT6	Synthetic construct		LKLKLKpNKLKLKL	14	34506975	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14323				MK58911-NH2	Synthetic construct		INWLKIAKKVKGML	14	34516241	Antifungal		Experimentally validated
+CAMPSQ14324				MH58911-NH2	Synthetic construct		INWLHIAHHVHGML	14	34516241	Antifungal		Experimentally validated
+CAMPSQ14436				RR2	Synthetic construct		WIRRIKKWIRRVHK	14	28761101	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14437				RR3	Synthetic construct		WLRRIKAWLRRKRK	14	28761101	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14438				RR4	Synthetic construct		WLRRIKAWLRRIKA	14	28761101	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14439				D-RR4	Synthetic construct		wlrrikawlrrika	14	28761101	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14440				RR2-NH2	Synthetic construct		WIRRIKKWIRRVHK	14	34819923	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14441				RR3-NH2	Synthetic construct		WLRRIKAWLRRKRK	14	34819923	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14442				RR4-NH2	Synthetic construct		WLRRIKAWLRRIKA	14	34819923	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14447				BP526	Synthetic construct		JILPfKfPffPfRR	14	34819923	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14448				BP527	Synthetic construct		OILPfKfPffPfRR	14	34819923	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14449				BP528	Synthetic construct		UILPfKfPffPfRR	14	34819923	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14450				BP529	Synthetic construct		XILPfKfPffPfRR	14	34819923	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14654				PHNX-1	Synthetic construct		FLLKIVALLKKKLL	14	34867843	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14694				PepD2	Synthetic construct		WKKLKKLLKKLKKL	14	34220763	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14696				PepV2	Synthetic construct		WKKVKKVVKKVKKV	14	34220763	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14697				PepI2	Synthetic construct		WKKIKKIIKKIKKI	14	34220763	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14698				PepR2	Synthetic construct		WRRLRRLLRRLRRL	14	34220763	Antibacterial	Gram -ve	Experimentally validated

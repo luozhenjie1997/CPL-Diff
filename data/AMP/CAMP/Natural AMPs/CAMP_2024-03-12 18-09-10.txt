@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3100				  Acidocin J1132 	Lactobacillus acidophilus JCM 1132	Monera	NPKVAHCASQIGRSTAWGAVSGA	23	8975617	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3139				  RV-23 	Rana draytonii	Animalia (Amphibia)	RIGVLLARLPKLFSLFKLMGKKV	23	16307827	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3156				  Odorranain-W1 	Odorrana grahami	Animalia (Amphibia)	GLFGKSSVWGRKYYVDLAGCAKA	23	17272268	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3249				  Alyteserin-1a 	Alytes obstetricans	Animalia (Amphibia)	GLKDIFKAGLGSLVKGIAAHVAN	23	19463738	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3250				  Alyteserin-1b 	Alytes obstetricans	Animalia (Amphibia)	GLKEIFKAGLGSLVKGIAAHVAN	23	19463738	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3251		H0USY4	2L5R	  Alyteserin-1c 	Alytes obstetricans	Animalia (Amphibia)	GLKEIFKAGLGSLVKGIAAHVAS	23	19463738	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3252				  Alyteserin-1d 	Alytes obstetricans	Animalia (Amphibia)	GLKDIFKAGLGSLVKNIAAHVAN	23	19463738	Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ3288		P08136		  Brevinin-1CPa 	Rana capito	Animalia (Amphibia)	FLPLVRVAAKLIPSVVCAISKRC	23	19635516	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ3421				  Cc-LTP1 	Coffea canephora	Plantae	ITCQQVTSELGPCVPYLTGQGIP	23	21167915	Antifungal		Experimentally validated
+CAMPSQ3541				  Brevinin-1-OR11 	Odorrana rotodora	Animalia (Amphibia)	LAFVAGVAAEMMQHVYCAASKKC	23	22029824	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3714		E8RMD3	2LTI	  Astexin-1 	Asticcacaulis excentricus CB 48	Monera	GLSQGVEPDIGQTYFEESRINQD	23	22949633 	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3785				  TP3 	Oreochromis niloticus	Animalia (Pisces)	FIHHIIGGLFSVGKHIHSLIHGH	23	23226256	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3789				  Oreoch-1 	Oreochromis niloticus	Animalia (Pisces)	FIHHIIGGLFSVGKHIHGLIHGH	23	Reference: Acostaa J, Monterob V, Carpioa Y, Velázqueza J, Garayc HE, Reyesc O, Cabralesc A, Masforrolc Y, Moralesa A, Estrada MP (2013) Cloning and functional characterization of three novel antimicrobial peptides from tilapia (Oreochromis niloticus). A	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ3951		P84924		Dermaseptin-4 	Phyllomedusa tarsius 	Animalia (Amphibia)	ALWKDILKNAGKAALNEINQIVQ	23		Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4332		P0CJ25		Ascaphin-1	Ascaphus truei	Animalia (Amphibia)	GFRDVLKGAAKAFVKTVAGHIAN	23	15207717	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4383		P86281		Dermaseptin III-like peptide	Phyllomedusa burmeisteri	Animalia (Amphibia)	ALWKNMLKGIGKLAGKAALGAVK	23		Antibacterial, Antifungal, Antiprotozoal		Predicted
+CAMPSQ8749				Pseudin B	Pseudis bolbodactyla	Animalia (Amphibia)	GLNTLKKVIQGLHEVIKLVNNHA	23	23029273	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8751				Magainin-2 amide	Xenopus laevis	Animalia (Amphibia)	GIGKFLHSAKKFGKAFVGEIMNS	23	23029273	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9333				CZS-3 	 Cruziohyla calcarifer	Animalia	GFLDVVKHIGKAALGAVTHLINQ	23	27321580	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9334				CZS-2 	 Cruziohyla calcarifer	Animalia	GFLDVIKHVGKAALGVVTHLINQ	23	27321580	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9500				Magainin-AM1	Xenopus amieti	Animalia	GIKEFAHSLGKFGKAFVGGILNQ	23	31102497	Antibacterial		Experimentally validated
+CAMPSQ9503				Alyteserin-1c	Alytes obstetricans	Animalia	GLKEIFKAGLGSLVKGIAAHVAS	23	31102497	Antibacterial		Experimentally validated
+CAMPSQ10243				XTG1 	Xenopus tropicalis 	Animalia	GWGDTFGKVLKNFAKVAGVKAAK	23	22188679	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10244				XTG2 	Xenopus tropicalis 	Animalia	GWGDTFLKTMAKIAKVGPKLLHS	23	22188679	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10392				Clavanin A	Styela clava	Animalia (Tunicate)	VFQFLGKIIHHVGNFVHGFSHVF	23	28712894	Antibacterial, Antifungal	Gram +ve	Experimentally validated

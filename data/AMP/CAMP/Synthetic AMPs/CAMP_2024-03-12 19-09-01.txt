@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14699				PepO2	Synthetic construct		WOOLOOLLOOLOOL	14	34220763	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14700				PepdD2	Synthetic construct		Wkklkkllkklkkl	14	34220763	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14701				PepD2M	Synthetic construct		WKKLKKLLKKLKKL	14	34220763	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14702				PepD2P	Synthetic construct		WKKLKKLLKKLKKL	14	34220763	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14703				PepD2S	Synthetic construct		WKKLKKLLKKLKKL	14	34220763	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14939				WMR	Synthetic construct		WGIRRILKYGKRSK	14	35216270	Antifungal		Experimentally validated
+CAMPSQ14963				[Pro3,DLeu9,Nle10]TL-C-CHOL	Synthetic construct		FVPWFSKFlXRILC	14	35216177	Antifungal		Experimentally validated
+CAMPSQ14965				CHOL-C-[Pro3,DLeu9,Nle10]TL	Synthetic construct		CFVPWFSKFlXRIL	14	35216177	Antifungal		Experimentally validated
+CAMPSQ15094				P-10	Synthetic construct		VSKIKKYLKYKDRI	14	35260685	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ15105				U2	Synthetic construct		FINGRWDSQCHRFS	14	35259078	Antiviral		Experimentally validated
+CAMPSQ16441				Syn	Synthetic construct		GLRRLLRKIRGRWK	14	27242337	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16471				Polybia-MPI [D8P]	Synthetic construct		IDWKKLLPAAKQIL	14	23159560	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16472				Polybia-MPI [L7P]	Synthetic construct		IDWKKLPDAAKQIL	14	23159560	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16473				Polybia-MPI [A9P]	Synthetic construct		IDWKKLLDPAKQIL	14	23159560	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16547		Q08GI9		CSPC14, Competence stimulating peptide (29-42)	Synthetic construct		LSTFFRLFNRSFTQ	14	29434779	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16613		A1DBL3		NFAP2 (24-37)	Synthetic construct		KYHSGPSDKSKVIS	14	29563903	Antifungal		Experimentally validated
+CAMPSQ16797		P32194		PC94, V-Protegrin 1 (6-18)	Synthetic construct		VCYCRRRFCVCVGR	14	16753133	Antibacterial	Gram-	Experimentally validated
+CAMPSQ16798		P32194		PC98, E-Protegrin 1 (6-18)	Synthetic construct		ECYCRRRFCVCVGR	14	16753133	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17137		A6XMY0		Arasin 1 (1-14)	Synthetic construct		SRWPSPGRPRPFPG	14	23326415	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ17182		P80280		C12- Dermaseptin S4 (2-15)AMD[M4K]	Synthetic construct		LWKTLLKKVLKAAA	14	17043126	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17715				D-DBS5	Synthetic construct		RRGWARALAFAFGR	14	32241895	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17700		P18428		Lipopolysaccharide-binding protein (86–99), LBP14	Synthetic construct		RVQGRWKVRASFFK	14	31974490	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17605				Dhvar4 [F9K,S10Y,Y14Thi-Ala]	Synthetic construct		KRLFKKLLKYLRKX	14	33281761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ17606				Dhvar4 [K1Homo-Arg,F9K,S10Y,Y14Thi-Ala]	Synthetic construct		XRLFKKLLKYLRKX	14	33281761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ17604				Dhvar4 [F4Thi-Ala,F9K,S10Y,Y14Thi-Ala]	Synthetic construct		KRLXKKLLKYLRKX	14	33281761	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated

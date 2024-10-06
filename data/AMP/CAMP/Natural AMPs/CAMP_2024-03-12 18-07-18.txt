@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11731				PaDBS1R1	Pyrobaculum aerophilum	Archaea	PKILNKILGKILRLAAAFK	19	30463701	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12085				Gomesin AgGom	Acanthoscurria gomesiana	Animalia (Arachnida)	ZQCRRLCYKQRCVTYCRGR	19	30068931	Antibacterial, Antitumor	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12086				HiGom	Hadronyche infensa	Animalia (Arachnida)	ZQCRRLCYRNRCVTYCRGR	19	30068931	Antibacterial, Antitumor	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12512				Phylloseptin-PTa	Phyllomedusa tarsius	Animalia (Amphibia)	FLSLIPKIAGGIAALAKHL	19	28850103	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ12513				Phylloseptin-PHa	Phyllomedusa hypochondrialis	Animalia (Amphibia)	FLSLIPAAISAVSALANHF	19	28850103	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted
+CAMPSQ12670				Hc1	Hydrophis cyanocinctus	Animalia (Reptiles)	KFFKRLLKSVRRAVKKFRK	19	28572668	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12752				2027.25 Legumin	Cicer arietinum L.	Plantae (Angiosperms)	QGRNEDEEKGAIVKVKGGL	19	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13586				NCR335N1-19	Medicago truncatula 	Plantae	RLNTTFRPLNFKMLRFWGQ	19	33915930	Antifungal		Experimentally validated
+CAMPSQ13660				GQ19	Homo sapiens 	Animalia (Mammals)	GPYQPVPEQPLYPQPYQPQ	19	33740624	Antifungal		Experimentally validated
+CAMPSQ15007				Peptide 36	Saccharomyces cerevisiae	Fungi	PGGAAGGAAGGAPGGFPGG	19	35215278	Antibacterial		Predicted
+CAMPSQ15009				Peptide 38	Saccharomyces cerevisiae	Fungi	PGGPGGAGGAGGFPGGAGG	19	35215278	Antibacterial		Predicted
+CAMPSQ15034				Pom-1D	Pomacea poeyana	Animalia	IGSGLFGGAKLIKIKKYIA	19	35214049	Antifungal		Experimentally validated
+CAMPSQ15036				Pom-1F	Pomacea poeyana	Animalia	AIGSGLFGGAKLIKIKKYI	19	35214049	Antifungal		Experimentally validated
+CAMPSQ15154				AaeAP1	Androctonus aeneas	Animalia (Arachnida)	FLFSLIPSVIAGLVSAIRN	19	25626077	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15155				AaeAP2	Androctonus aeneas	Animalia (Arachnida)	FLFSLIPSAIAGLVSAIRN	19	25626077	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15156				AaeAP1a	Androctonus aeneas	Animalia (Arachnida)	FLFKLIPKAIKGLVKAIRK	19	25626077	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15157				AaeAP2a	Androctonus aeneas	Animalia (Arachnida)	FLFKLIPKVIKGLVKAIRK	19	25626077	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16571				Cancrin	Rana cancrivora	Animalia	GSAQPYKQLHKVVNWDPYG	19	17707909	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ18937		P36193,Q6XMH8		Drosocin	Drosophila melanogaster,Drosophila simulans		GKPRPYSPRPXSHPRPIRV	19	24164265, 25617693	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19741		A0A0A0RAN5		Temporin-MS4	Sylvirana maosonensis (Hylarana maosonensis)	Animalia	FFPLVLGALGSILPKVFGK	19	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19747		A0A0A0R4V4		Nigroain-C-MS1	Sylvirana maosonensis (Hylarana maosonensis)	Animalia	FKTWKNRPILSSCSGIIKG	19	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20671		F7UI85		Phylloseptin-S2, PLS-S2	Phyllomedusa sauvagii	Animalia	FLSLIPHIVSGVASLAKHF	19	23967105	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20672		F7UI86		Phylloseptin-S3, PLS-S3	Phyllomedusa sauvagii	Animalia	FLSLIPHIVSGVASLAIHF	19	23967105	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20673		F7UI87		Phylloseptin-S4, PLS-S4	Phyllomedusa sauvagii	Animalia	FLSMIPHIVSGVAALAKHL	19	23967105	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21241				P2-Hp-1935	Hypsiboas pulchellus	Animalia	KLSPSLGPVSKGKLLAGQR	19	24717080	Antibacterial	Gram+,Gram-	Experimentally Validated

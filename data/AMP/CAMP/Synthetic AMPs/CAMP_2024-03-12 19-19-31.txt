@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21688				Gramicidin A [l10,12k]	Synthetic construct		VGAlAvVvWkWkWlW	15	22113881	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21689				Gramicidin A [l10,12,14k]	Synthetic construct		VGAlAvVvWkWkWkW	15	22113881	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21690				Gramicidin A [l10,12,14r]	Synthetic construct		VGAlAvVvWrWrWrW	15	22113881	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21883				Undefined	Synthetic construct		FKXRRWQWRMKKLGA	15	11481289	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21918				AAG-D-WR12	Synthetic construct		AAGrwwrwwrrwwrr	15	26902766	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21923		P80398		Gaegurin-4 (5-19)[D16W], Esculentin-2EM (5-19)[D16W]	Synthetic construct		TLKQFAKGVGKWLVK	15	24211019	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21940		E3SYG2		Brevinin CTcu5 (1-15)	Synthetic construct		LIAGLAANFLPQILC	15	25997127	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21946				C-D-PAP	Synthetic construct		Cklaklakklaklak	15	33335804	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21947				D-PAP-C	Synthetic construct		klaklakklaklakC	15	33335804	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21965				DDA-DL6K6	Synthetic construct		DDALKKLLKKLLKKL	15	16008362	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21966				DDA-DL6H6	Synthetic construct		DDALHHLLHHLLHHL	15	16008362	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21967				DDA-DL6R6	Synthetic construct		DDALRRLLRRLLRRL	15	16008362	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21968				DDA-DL6K3H3	Synthetic construct		DDALKHLLKHLLKHL	15	16008362	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21969				DDA-DL6R3H3	Synthetic construct		DDALRHLLRHLLRHL	15	16008362	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22007				GNU1	Synthetic construct		RGVRPVVQGVKEKVR	15	23946320	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22008				GNU2	Synthetic construct		RVVRPVVQGVKEKVR	15	23946320	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22009				GNU3	Synthetic construct		RVVRPVVQGVKQKVR	15	23946320	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22010				GNU4	Synthetic construct		RVVRPVVQVVKEKVR	15	23946320	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22011				GNU5	Synthetic construct		RVVRPVVQVVKQKVR	15	23946320	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22012				GNU6	Synthetic construct		RIIRPIIQIIKQKIR	15	23946320	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22088		Q6JWQ9		Epinecidin-1 (22-36)	Synthetic construct		GFIFHIIKGLFHAGK	15	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22096		Q6JWQ9		Epinecidin-1 (28-42)	Synthetic construct		IKGLFHAGKMIHGLV	15	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22107		P81861		Pardaxin P-4 (19-33)	Synthetic construct		LSAVGSALSSSGGQE	15	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22111		P81861		Pardaxin P-4 (1-15)	Synthetic construct		GFFALIPKIISSPLF	15	23598079	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22140		P80511		Calcitermin [H9A]	Synthetic construct		VAIALKAAAYHTHKE	15	31475275	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

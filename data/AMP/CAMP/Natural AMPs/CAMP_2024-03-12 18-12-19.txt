@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10850				G-ple 22-51 	Epinephelus coioides	Animalia	GFIFHIIKGLFHAGKMIHGLVTRRRHGVEE	30	17570764	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10925				BNK2A-C10C20 	Bos taurus	Animalia	TVIEVASKMCSKMRLLKGLCKSITKRFLRR	30	31216348	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ10932				KS-30	Homo sapiens 	Animalia (Mammals)	KSKEKIGKEFKRIVQRIKDFLRNLVPRTES	30	14978112	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10953				Leucocin A (Delta C7)	Leuconostoc pseudomesenteroides QU 15	Monera	KYYGNGVHCTKSGCSVNWGEAFSAGVHRLA	30	20070442	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10956				Brevinin-2Ej	Rana esculenta 	Animalia	GIFLDKLKNFAKGVAQSLLNKASCKLSGQC	30	14499272	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11001				Plantaricin KL-1Y 	Lactobacillus plantarum KL-1	Monera	GRADYNFGYGLGRGTRKFFNGIGRWVRKTF	30	25862353	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11126				CT1	Clitoria ternatea 	Plantae	GIPCGESCVFIPCITGAIGCSCKSKVCYRN	30	21596752	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11127				CT2	Clitoria ternatea 	Plantae	GEFLKCGESCVQGECYTPGCSCDWPICKKN	30	21596752	Antibacterial		Experimentally validated
+CAMPSQ11137				EeCentrocin 1	Echinus esculentus	Animalia	GWWRRTVDKVRNAGRKVAGFASKACGALGH	30	27007817	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11595				SR30	Homo sapiens	Animalia (Mammals)	SPHRPRHSRLQREPQVQWLEQQVAKRRTKR	30	30555984	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11747				BF-30	Bungarus fasciatus	Animalia (Reptiles)	KFFRKLKKSVKKRAKEFFKKPRVIGVSIPF	30	30447229	Antiviral		Experimentally validated
+CAMPSQ11768				RMchi-F	Mytilus coruscus	Animalia (Molluscs (Bivalvia))	HNFDGLDLDLEYPRIAADLDFINLMAYDLR	30	30395994	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11771				N-LalT2	Liocheles australasiae	Animalia (Arachnida)	AKKPFVQRVKNAASKAYNKLKGLAMQSQYG	30	30393903	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11855				HNP3 	Homo sapiens	Animalia (Mammals)	DCYCRIPACIAGERRYGTCIYQGRLWAFCC	30	28423004	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12009				Saha-CATH1 	Sarcophilus harrisii	Animalia (Mammals)	GIKHILFMAKTKLPRATCTAEIKENCDRKK	30	27725697	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ12266				VTT30	Homo sapiens 	Animalia (Mammals )	VTTEIRFADSKRKSVLLDKIKNLQVALTSK	30	29925677	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12753				3365.74 Legumin Alike	Cicer arietinum L.	Plantae (Angiosperms)	RDEDEEKGAIVKVKGGLSFISPSEKQPRHQ	30	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14007				Bisphosphorylatcd 209-237	Bovine	Animalia	FAEPLPSEECGESYSKEVPEMEKRYGGFM	30	8654396	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ14160				Pep 2	Triticum aestivum	Plantae	DLRKILQTGMFICKYLGRLSGSKVAVAYKM	30	34710691	Antifungal		Experimentally validated
+CAMPSQ14241				GV30	Hylarana guentheri	Animalia (Amphibia)	GVIFNALKGVAKTVAAQLLKKARCKLDKSC	30	34584638	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14718				Hill-Knot 3	Hermetia illucens 	Animalia (Insects)	RKCTASQCTRVCKKLGYKRGYCQSSTKCVC	30	34985302	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15233				OH-CATH30	Ophiophagus hannah	Animalia (Reptiles)	KFFKKLKNSVKKRAKKFFKKPRVIGVSIPF	30	22491685	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15234				D-OH-CATH30	Ophiophagus hannah	Animalia (Reptiles)	KFFKKLKNSVKKRAKKFFKKPRVIGVSIPF	30	22491685	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15304	2203519011	P0DV17.1		M-PONTX-Nc3a	Neoponera commutata	Animalia (Insects)	GWKDWLNKAKDFIKEKGPEILRAAANAAIN	30	34302796	Antibacterial	Gram+ve, Gram -ve	Experimentally validated
+CAMPSQ17322		H3JSS9		Lantibiotic Enterocin W-alpha	Enterococcus faecalis NKR-4-1	Bacteria	KCPWWNLxCHLGNDGKIXxYxHEXTAGXNA	30	22138996	Antibacterial	Gram+	Experimentally validated

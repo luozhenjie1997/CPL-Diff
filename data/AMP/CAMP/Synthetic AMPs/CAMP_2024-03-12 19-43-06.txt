@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18757		P26664		HCV (1975-1992)[I6,10V;E12T]	Synthetic construct		SWLRDVWDWVCTVLSDFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18758		P26664		HCV (1975-1992)[C11S]	Synthetic construct		SWLRDIWDWISEVLSDFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18759		P26664		HCV (1975-1992)[C11R]	Synthetic construct		SWLRDIWDWIREVLSDFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18760		P26664		HCV (1975-1992)[C11E]	Synthetic construct		SWLRDIWDWIEEVLSDFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18761		P26664		HCV (1975-1992)[R4D,K18E]	Synthetic construct		SWLDDIWDWICEVLSDFE	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18762		P26664		HCV (1975-1992)[E12K]	Synthetic construct		SWLRDIWDWICKVLSDFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18763		P26664		HCV (1975-1992)[R4D;D5,8,16R;E12K;K18E]	Synthetic construct		SWLDRIWRWICKVLSRFE	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18749				D-Retro-HCV (1975-1992)	Synthetic construct		KFDSLVECIWDWIDRLWS	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18746		P26664		HCV (1975-1994)[L3R,R4L,D5I,I6D]	Synthetic construct		SWRLIDWDWICEVLSDFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18747		P26664		HCV (1975-1994)[L3R,R4L,V13S,L14V,S15L]	Synthetic construct		SWRLDIWDWICESVLDFK	18	18287023	Antiviral		Experimentally Validated
+CAMPSQ18737		P11006		Papiliocin (1-8) - NLYS - Magainin 2 (4-12)	Synthetic construct		RWKIFKKIXKFLHSAKKF	18	26053120	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18700				[RLLR]3-C	Synthetic construct		RLLRRLLRRLLRLQKKGI	18	14718539	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18682				Undefined	Synthetic construct		KKIGAIKKWGAIKKIGAI	18	16304158	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18683				Undefined	Synthetic construct		KIKGAIKWKGAIKIKGAI	18	16304158	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18684				Undefined	Synthetic construct		KIGKAIKWGKAIKIGKAI	18	16304158	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18685				Undefined	Synthetic construct		KIGAIKKWGAIKKIGAIK	18	16304158	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18646		P0C2F0,P62860		Ubiquicidin, UBI 18-35	Synthetic construct		KVAKQEKKKKKTGRAKRR	18	18566844, 16814900	Antibacterial, Antifungal	Gram+	Experimentally Validated
+CAMPSQ18620		P11006		P18 [P9Nala]	Synthetic construct		KWKLFKKIXKFLHLAKKF	18	18855761	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18619		P11006		P18 [W2A][A15W]	Synthetic construct		KAKLFKKIPKFLHLWKKF	18	18855761	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18618		P11006		P18 [W2I][I8W]	Synthetic construct		KIKLFKKWPKFLHLAKKF	18	18855761	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18617		P11006		P18 [W2K][K6W]	Synthetic construct		KKKLFWKIPKFLHLAKKF	18	18855761	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18598		A0A067DL46		Citrus-amp1	Synthetic construct		IETFLKQLRSAANKIVGL	18	30192822	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18544		P54228		Cathelicidin-6 (1-18)[K9P,L17I]	Synthetic construct		GRFKRFRKPFKKLFKKIS	18	18591279	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ18545		P54228		Cathelicidin-6 (1-18)[F6,10Phg;L17I]	Synthetic construct		GRFKRXRKKXKKLFKKIS	18	18591279	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ18546		P54228		Cathelicidin-6 (1-18)[F6I,F10L, L17I]	Synthetic construct		GRFKRIRKKLKKLFKKIS	18	18591279	Antiviral	Gram+,Gram-	Experimentally Validated

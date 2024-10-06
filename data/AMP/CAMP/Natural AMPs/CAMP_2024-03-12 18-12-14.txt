@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ3497	340002882, 347602404	G1CWH3, P86902		Cliotide T4, Cyclotide cter-P	Clitoria ternatea	Plantae	GIPCGESCVFIPCITAAIGCSCKSKVCYRN	30	21596752	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3621	365824243	G9I0X2		Hedyotide B1 	Hedyotis biflora	Plantae	GTRCGETCFVLPCWSAKFGCYCQKGFCYRN	30	21979955	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3712				  EcLTP 	Echinochloa crusgalli L	Plantae	AISCGQVSSAIGPCLSYARGQGSAPSAGCC	30	22940285	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ3856		P86395		Bacteriocin SRCAM 37	Paenibacillus polymyxa 	Monera	FVYGNGVTSILVQAQFLVNGQRRFFYTPDK	30	15690798	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ3887		O87236		Lantibiotic lacticin 3147 A1	Lactococcus lactis subsp. lactis 	Monera	CSTNTFSLSDYWGNNGAWCTLTHECMAWCK	30		Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3945		P84923		Dermaseptin-3 	Phyllomedusa tarsius 	Animalia (Amphibia)	GLFKTLIKGAGKMLGHVAKQFLGSQGQPES	30		Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3960		P84061		Antifungal protein 	Diospyros texana 	Plantae	ATFDIQNKXTYTVWAAAWAPSYPGGXKQLD	30	8048935	Antifungal		Experimentally validated
+CAMPSQ4330				  Cycloviolacin Y5	Viola philippica	Plantae	GIPCAESCVWIPCTVTAIVGCSCSDKVCYN	30	18081258	Antiviral		Experimentally validated
+CAMPSQ7495	827029579			Hc-CATH	Hydrophis cyanocinctus 	Animalia (Reptiles)	KFFKRLLKSVRRAVKKFRKKPRLIGLSTLL	30	26013823	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ7523		B3EWN4		2S seed storage-like protein (2S albumin storage-like protein) (Rc-2S-Alb) (Fragment)	Ricinus communis 	Plantae	QDYCAQEGQQEVQRKDLSDLERYLRQSRQR	30		Antifungal		Experimentally validated
+CAMPSQ8137		O15240		Antimicrobial peptide VGF [554-583]	Homo sapiens 	Animalia (Mammals)	TLQPPSALRRRHYHHALPPSRHYPGREAQA	30	23250050	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8741				O43312(33-62)	Homo sapiens 	Animalia (Mammals)	FINKAGKLQSQLRTTVVAAAAFLDAFQKVA	30	23029273	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8745				Nattererin-1	 Eupemphix nattereri	Animalia (Amphibia)	GLKDMIKNLAKEAAVKLAGAVINKFSPQPQ	30	23029273	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8850				Nattererin-1	Physalaemus nattereri	Animalia (Amphibia)	GLKDMIKNLAKEAAVKIAGAVINKFSPQPQ	30	26443407	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8851				Nattererin-2	Physalaemus nattereri	Animalia (Amphibia)	GLKDMIKNLAKEAAVKIAGAVINRFSPQPQ	30	26443407	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9459				Cycloviolacin O2 (cyO2)	Viola odorata L. and Viola tricolor L	Plantae	GIPCGESCVWIPCISSAIGCSCKSKVCYRN	30	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9460				Cycloviolacin O3 (cyO3)	Viola odorata L. and Viola tricolor L	Plantae	GIPCGESCVWIPCLTSAIGCSCKSKVCYRN	30	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9464				Cter G	Clitoria ternatea	Plantae	GLPCGESCVFIPCITTVVGCSCKNKVCYNN	30	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9470				Kalata B13 (kB13)	Oldenlandia affinis	Plantae	GLPVCGETCFGGTCNTPGCACDPWPVCTRD	30	28669767	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9669				Brevinin-2SN3	Hylarana Spinulosa	Animalia	GAFGNLLKGVAKKAGLKILSIAQCKLSGTC	30	24055160	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9670				Brevinin-2SN4 	Hylarana Spinulosa	Animalia	GAFGDLLKGVAKEAGLKLLNMAQCKLSGNC	30	24055160	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10016				Histone H5(61-90)	Gallus gallus domesticus	Animalia (Aves)	VGHNADLQIKLSIRRLLAAGVLKQTKGVGA	30	29402952	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10017				Histone H5(71-90)	Gallus gallus domesticus	Animalia (Aves)	LSIRRLLAAGVLKQTKGVGASGSFRLAKSD	30	29402952	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10662				Pleurain N1	Rana pleuraden	Animalia	GFFDRIKALTKNVTLELLNTITCKLPVTPP	30	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10684				Brevinin-2GU	Hylarana guentheri	Animalia	GVIIDTLKGAAKTVAAELLRKAHCKLTNSC	30	22374306	Antibacterial 	Gram +ve	Experimentally validated

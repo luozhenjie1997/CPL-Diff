@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21414		Q4U5R2		Litsty ALF-D1 beta-hairpin	Synthetic construct		GCTYNVKPDIQGFELYFIGSVTCG	24	23861837	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21415		M4QV27		Litsty ALF-B1 beta-hairpin	Synthetic construct		GCRFTVKPYIKRIQLHYKGKMWCG	24	23861837	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21556		Q5DP94		MTSC22EK	Synthetic construct		MTWEEWDKKIEEYTKKIEELIKKS	24	31805154, 31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21747		P01966		Hemoglobin subunit alpha (86-109)	Synthetic construct		LHAHKLRVDPVNFKLLSHSLLVTL	24	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21870		P51681		CCR5 ECL2 (168-191)	Synthetic construct		RSQKEGLHYTCSSHFPYSQYQFWK	24	22403408	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22083		F1MQ17		Bactericidal permeability-increasing protein (90-99)(148-161)	Synthetic construct		KWKARKNFIKGSSLGWLIQLFRKR	24	17975968	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22196		B6S2X2		OH-CATH (1-24), Cathelicidin-OH (1-24)	Synthetic construct		KRFKKFFKKLKNSVKKRAKKFFKK	24	20576537	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22197		B6S2X2		OH-CATH (1-24)M, Cathelicidin-OH (1-24)[N12K,S13F,R17G,A18F,F22A,K24V]	Synthetic construct		KRFKKFFKKLKKFVKKGFKKFAKV	24	20576537	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22347		M4HYN1		Antilipopolysaccharide factor isoform 1 (54-77), LBD1	Synthetic construct		QCTYSVTPTVKSFELYFKGRMSCP	24	25923317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22348		M4HYA8		Antilipopolysaccharide factor isoform 3 (53-76)[C4Y], LBD3	Synthetic construct		YCVYSVKPTFQRWQLYFIGSMWCP	24	25923317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22349		M4HXT1		Antilipopolysaccharide factor isoform 4 (51-74), LBD4	Synthetic construct		SCRYSQRPSFYRWELYFNGRMWCP	24	25923317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22350		M4HXU5		Antilipopolysaccharide factor isoform 5 (55-78), LBD5	Synthetic construct		YCLLSRSPYLKKLEVHYRAELKCP	24	25923317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22351		M4HYN4		Antilipopolysaccharide factor isoform 6 (56-79), LBD6	Synthetic construct		SCSYSVKPDIQGFELYFIGSVTCP	24	25923317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22352		Q2TJP7		Antilipopolysaccharide factor isoform 7 (54-77), LBD7	Synthetic construct		ECKFTVKPYIKRFQLYYKGRMWCP	24	25923317	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22353		M4HXU9		LBD2 [S3K,N5K,T7K,Q14K,Y16K,R18], LBDv	Synthetic construct		YCKFKVKPKFKRWKLKFKGRMWCP	24	27213409	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22361		P60022		HBD-1 (16-33) [C27Del] - Theta-defensin (1-9)[C2Del], hBTD-1	Synthetic construct		ACPIFTKIQGTYRGKAKRIGRRIC	24	25348533	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22394		P02662		Alpha-S1-casein (80-103)	Synthetic construct		HIQKEDVPSERYLGYLEQLLRLKK	24	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22398		P02662		Alpha-S1-casein (1-24)	Synthetic construct		RPKHPIKHQGLPQEVLNENLLRFF	24	26202586	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22468		M5AE98		Piscidin Of (1-24), Of-Pis1 (1-24)	Synthetic construct		FLGMLLHGVGHAIHGLIHGKQNVE	24	26549174	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22541		P04002		Pa-MAP 1.9, Antifreeze peptide analogue 1.9	Synthetic construct		LAAKLTKAATKLTAALTKLAAALT	24	26916401	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22614				VR5	Synthetic construct		CVRVRVRVRVRpGRVRVRVRVRVC	24	22391533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22675		P11006	2L36	MSI-594 [F5A], Magainin (1-6)[F5A]-KKAKK-Melittin (1-13)	Synthetic construct		GIGKALKKAKKGIGAVLKVLTTGL	24	21128620	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22836		B9VR33		Hemocyanin (655-678), FCHc-C2	Synthetic construct		FEVLPNFKHIQVKVFNHGEHIHHH	24	23887674	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22895				W4	Synthetic construct		WRPGRWWRPGRWWRPGRWWRPGRW	24	26546414	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23084		P49931		PMAP-36 (1-24)	Synthetic construct		GRFRRLRKKTRKRLKKIGKVLKWI	24	24466055	Antibacterial	Gram+,Gram-	Experimentally Validated

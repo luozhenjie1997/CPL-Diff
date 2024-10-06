@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1047				ETD156	Synthetic construct		DKLIGSCVWLAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET	44	14978308	Antifungal		Experimentally validated
+CAMPSQ1048				ETD179	Synthetic construct		DKLIGSCVWGAVNYTSNCRAECKRRGYKGGHCGSFLNVNCWCET	44	14978308	Antifungal		Experimentally validated
+CAMPSQ8335				Magainin 2-BF2 (M-B)	Synthetic construct		GIGKWLHSAKKFGKAFVGEIMNSTRSSRAGLQWPVGRVHRLLRK	44	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8342				DesHDAP1-A-magainin 2 (D-A-M)	Synthetic construct		ARDNKKTRIWPRHLQLAVRNAGIGKWLHSAKKFGKAFVGEIMNS	44	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8344				Magainin 2-A-DesHDAP1 (M-A-D)	Synthetic construct		GIGKWLHSAKKFGKAFVGEIMNSAARDNKKTRIWPRHLQLAVRN	44	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12124				BM173	Synthetic construct		MSQNTHKGMTGHRRPVNQKNGAEKRAKTQAVLDFLRSRDTKESK	44	30057579	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12302				PA-1/PA-3a/PA3-3b/PA-3c	Synthetic construct		KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC	44	29899567	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12303				PA-2c	Synthetic construct		KYYGNGVTCGKHSCSVDWGKATTCIINNGAXAWATGGHQGNHKC	44	29899567	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12304				PA-4/PA-5	Synthetic construct		KYYGNGVTCGKHSCSVDWGKATTCIINNGALAWATGGHQGNHKC	44	29899567	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12305				PA-6	Synthetic construct		KYYGNGVTAGKHSASVDWGKATTAIINNGAMAWATGGHQGNHKA	44	29899567	Antibacterial		Experimentally validated
+CAMPSQ13952				Defb14-1CV?(1)	Synthetic construct		LPKTLRKFFARIRGGRAAVLNALGKEEQIGRASNSGRKCARKKK	44	 20176896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14319				DefA	Synthetic construct		DKLIGSCVWGAVNYTSDCNAECKRRGYKGGHCGSFANVNCWCET	44	34512599	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14354				Fp8	Synthetic construct		VDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE	44	34591335	Antiviral		Predicted
+CAMPSQ19233		P35618		Bacteriocin Sakacin [44S]	Synthetic construct		KYYGNGVHCGKHSCTVDWGTAIGNIGNNAAANWATGGNAGWNKS	44	10762272	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19231		P35618		Bacteriocin Sakacin [G23T][N24S][44S]	Synthetic construct		KYYGNGVHCGKHSCTVDWGTAITSIGNNAAANWATGGNAGWNKS	44	10762272	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19230		P35618		Bacteriocin Sakacin [G23T][N24C][44C]	Synthetic construct		KYYGNGVHCGKHSCTVDWGTAITCIGNNAAANWATGGNAGWNKC	44	10762272	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19229		P35618	1OHM	Bacteriocin Sakacin [N24C][44C]	Synthetic construct		KYYGNGVHCGKHSCTVDWGTAIGCIGNNAAANWATGGNAGWNKC	44	10762272	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19228		P29430		Bacteriocin Pediocin [C24S][C44S]	Synthetic construct		KYYGNGVTCGKHSCSVDWGKATTSIINNGAMAWATGGHQGNHKS	44	10762272	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19227		P29430		Bacteriocin Pediocin[M31D]	Synthetic construct		KYYGNGVTCGKHSCSVDWGKATTCIINNGADAWATGGHQGNHKC	44	11055926	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19226		P29430		Bacteriocin Pediocin [M31I]	Synthetic construct		KYYGNGVTCGKHSCSVDWGKATTCIINNGAIAWATGGHQGNHKC	44	11055926	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19225		P29430		Bacteriocin Pediocin [M31A]	Synthetic construct		KYYGNGVTCGKHSCSVDWGKATTCIINNGAAAWATGGHQGNHKC	44	11055926	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20738		Q6T418		Recombinant Vr defensin 1, rVrD1	Synthetic construct		YVRTCMIKKEGWGKCLIDTTCAHSCKNRGYIGGDCKTCYCLVNC	44	15080630	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21041		Q6QLR2		AvBD7 (4-47)	Synthetic construct		IPRPIDTCRLRNGICFPGICRRPYYWIGTCNNGIGSCCARGWRS	44	27561012	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21497		Q1PAH7		Lingual antimicrobial peptide (21-64)	Synthetic construct		FTQGVGNPVSCARNKGICVPSRCPGNNRQIGTCLGPPVKCCRRK	44	18558415	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22004		P12724		Eosinophil cationic protein (1-44)[C23,37S]	Synthetic construct		RPPQFTRAQWFAIQHISLNPPRSTIAMRAINNYRWRSKNQNTFL	44	23962023	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ7554				H2A 2–39	Synthetic construct		SGRGKGGKVKGKSKSRSSRAGLQFPVGRIHRLLRKGNY	38	15606770	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ8671				HBD3r8	Synthetic construct		KYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	38	12936977	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12128				BM1556	Synthetic construct		MKRILLKSDRTLDDSELAKVIGGGFFEGIGRWIDQRWH	38	30057579	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ23686		D8L127		Papiliocin [W2A]	Synthetic construct		RAKIFKKIEKVGRNVRDGIIKAGPAVAVVGQAATVVK	37	26156126	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23687		D8L127		Papiliocin [F5A]	Synthetic construct		RWKIAKKIEKVGRNVRDGIIKAGPAVAVVGQAATVVK	37	26156126	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23688		D8L127		Papiliocin [W2A,F5A]	Synthetic construct		RAKIAKKIEKVGRNVRDGIIKAGPAVAVVGQAATVVK	37	26156126	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23823				Undefined	Synthetic construct		AEEASKKAEEASKKAEEASKKAEEASKKAEEASKKXK	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ23824				Undefined	Synthetic construct		VEEVSKKVEEVSKKVEEVSKKVEEVSKKVEEVSKKXK	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ23825				Undefined	Synthetic construct		FEEFSKKFEEFSKKFEEFSKKFEEFSKKFEEFSKKXK	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ23826				Undefined	Synthetic construct		YEEYSKKYEEYSKKYEEYSKKYEEYSKKYEEYSKKXK	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ23827				Undefined	Synthetic construct		LEELSKKLEELSKKLEELSKKLEELSKKLEELSKKXK	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ23828				Undefined	Synthetic construct		IEEISKKIEEISKKIEEISKKIEEISKKIEEISKKXK	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ23829				Undefined	Synthetic construct		IEEIYKKIEEIYKKIEEIYKKIEEIYKKIEEIYKKXK	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ23830				Undefined	Synthetic construct		IEEIWKKIEEIWKKIEEIWKKIEEIWKKIEEIWKKXK	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ23831				Undefined	Synthetic construct		IEEIHKKIEEIHKKIEEIHKKIEEIHKKIEEIHKKXK	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ23832				Undefined	Synthetic construct		IEEIQKKIEEIQKKIEEIQKKIEEIQKKIEEIQKKXK	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ23833				Undefined	Synthetic construct		IEEIKKKIEEIKKKIEEIKKKIEEIKKKIEEIKKKXK	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ23834				Undefined	Synthetic construct		IEEIEKKIEEIEKKIEEIEKKIEEIEKKIEEIEKKXK	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ23836				Undefined	Synthetic construct		IEEIQKKIEEIQKKIEEIQKKIEEIQKKIEEIQKKXX	37	30192544	Antiviral		Experimentally Validated
+CAMPSQ24240		P04578		MT-Sifuvirtide	Synthetic construct		MTWETWEREIENYTRQIYRILEESQEQQDRNERDLLE	37	29929981	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24286		P04582		T649v	Synthetic construct		XTWXEWDREINNYTSLIHSLIEESQNQQEKNEQELLE	37	20660316	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24287		P04582		SAH-gp41 A	Synthetic construct		XTWXEWDXEINNYTSLIHSLIEESQNQQEKNEQELLE	37	20660316	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24288		P04582		SAH-gp41 B	Synthetic construct		XTWMEWDREINNYTSLIHSLIEESQNQXEKNXQELLE	37	20660316	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24313				Spgly-AMP	Synthetic construct		AIPAVDPFGRVKRSPWHGGTWGCKPIWACQNSPPYLG	37	32771609	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24504		A0A0G2JNX7		Sperm antigen HE2 (47-83), HE2beta2	Synthetic construct		GDVPPGIRNTICRMQQGICRLFFCHSGTGQQHRQRCG	37	20552564	Antibacterial	Gram-	Experimentally Validated

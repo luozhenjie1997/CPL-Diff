@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21186		P19661		Cathelicidin-3 (11-24), Bactenecin-7 (11-24)	Synthetic construct		PRPRPRPLPFPRPG	14	12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21200				Undefined	Synthetic construct		CKLLLKWLLKLLKC	14	10821683	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21201				Undefined	Synthetic construct		XKLLLKWLLKLLKX	14	10821683	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21247				Undefined	Synthetic construct		KFKLKSLKIIEYKQ	14	24254748	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21258		Q8N2E6		Salusin-beta (7-20)	Synthetic construct		RWLLKLGHHGRAPP	14	24881665	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21354				Reverse Pxt-2	Synthetic construct		ALLKLAPRLLAGIF	14	26802742	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21355				Reverse Pxt-5	Synthetic construct		KLLNLLPGLLAGIF	14	26802742	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21395		P0C8U2		Temporin-PTa [G3R,S4K,P10R,L13W]-R, HX-12C	Synthetic construct		FFRKVLKLIRKIWR	14	29663932	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21406		Q2IAL7		Fowlicidin-2 (1-14)	Synthetic construct		LVQRGRFGRFLRKI	14	20375584	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21485				Undefined	Synthetic construct		AEAMSQVTNTATIM	14	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21486				Undefined	Synthetic construct		AEAASQVTNTATIM	14	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21488				Undefined	Synthetic construct		AEAMSQVANTATIM	14	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21587		P14954		Cecropin-A1/A2 (27-40)	Synthetic construct		IAQQAANVAATARG	14	19483780	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21667				VSL3	Synthetic construct		KAXKAXWKFVKFVK	14	21321136	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21831				K14	Synthetic construct		KKKKKKKKKKKKKK	14	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21835				R14	Synthetic construct		RRRRRRRRRRRRRR	14	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21843				P14	Synthetic construct		PPPPPPPPPPPPPP	14	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21872		P51681		CCR5 ECL2 (178-191)	Synthetic construct		CSSHFPYSQYQFWK	14	22403408	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21943				Pro-apoptotic peptide AMD, PAP AMD	Synthetic construct		KLAKLAKKLAKLAK	14	23345420, 26734838, 24098573, 33335804, 8759631	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22172				Undefined	Synthetic construct		KLAKKLAKLAKKLA	14	8759631	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22177				Undefined	Synthetic construct		KLGKKLGKLGKKLG	14	8759631	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22179				Undefined	Synthetic construct		KAAKKAAKAAKKAA	14	8759631	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22311				[R7W7]	Synthetic construct		RRRRRRRWWWWWWW	14	30360400	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22360		C6F1K2		Heat shock protein 70 (306-319)	Synthetic construct		RARFEELNMDLFRR	14	23973864	Antibacterial, Antifungal	Gram-	Experimentally Validated
+CAMPSQ22373		A0A089VRA3		Defensin MT3 gamma-core	Synthetic construct		CGNFLKRTCICVKK	14	26255244	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

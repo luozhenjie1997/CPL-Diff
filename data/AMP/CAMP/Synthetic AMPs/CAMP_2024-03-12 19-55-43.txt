@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ17725		A0A3F2YLM5		Arenicin-3 [C3,20A;Y5N;Y17H;R19P], N6 [R19P]	Synthetic construct		GFAWNVCVYRNGVRVCHRPAN	21	33348848	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17704				N6 (6-10)(1-5)(16-21)(11-15), N6CK	Synthetic construct		VCVYRGFAWNCHRRANNGVRV	21	31974490	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17677		A0A3F2YLM5		Arenicin-3 [Y5R,V6A], NZ17230	Synthetic construct		GFCWRACVYRNGVRVCYRRCN	21	32576824	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17676		A0A3F2YLM5		Arenicin-3 [Y5R;V6,15A], NZ17228	Synthetic construct		GFCWRACVYRNGVRACYRRCN	21	32576824	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17675		A0A3F2YLM5		Arenicin-3 [Y5H,V8A,Y9], NZ17224	Synthetic construct		GFCWHVCARRNGVRVCYRRCN	21	32576824	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17674		A0A3F2YLM5		Arenicin-3 [Y5N,V15I,Y17H], NZ17211	Synthetic construct		GFCWNVCVYRNGVRICHRRCN	21	32576824	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17673				Arenicin-3 [Y9K,V15S], NZ17160	Synthetic construct		GFCWYVCVKRNGVRSCYRRCN	21	32576824	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17672		A0A3F2YLM5		Arenicin-3 [Y5N,Y9R,Y17H], NZ17143	Synthetic construct		GFCWNVCVRRNGVRVCHRRCN	21	32576824	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17671		A0A3F2YLM5		Arenicin-3 [V6,8A;Y9K;V13L], NZ17126	Synthetic construct		GFCWYACAKRNGLRVCYRRCN	21	32576824	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17670		A0A3F2YLM5		Arenicin-3 [Y5R,V8A,Y9S,V13L], NZ17125	Synthetic construct		GFCWRVCASRNGLRVCYRRCN	21	32576824	Antibacterial	Gram-	Experimentally validated
+CAMPSQ17669		A0A3F2YLM5,	5V11	Arenicin-3 [V8,13A;Y9R], AA139	Synthetic construct		GFCWYVCARRNGARVCYRRCN	21	32576824,35523364	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17668			5V0Y	Arenicin-3	Synthetic construct		GFCWYVCVYRNGVRVCYRRCN	21	27331141, 32576824, 35523364	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18417				D4B	Synthetic construct		FKVKAKVKAKVKAKVKAKKKK	21	12208971	Antiviral		Experimentally Validated
+CAMPSQ19407		P49929		GGHG-Ovispirin-3-GGC	Synthetic construct		GGHGIRRIIRKIIHIIKKGGC	21	29172482	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19207		P55897		Buforin-2 [F10W] [P11A]	Synthetic construct		TRSSRAGLQWAVGRVHRLLRK	21	10913273	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19206		P55897		Buforin-2 [F10W]	Synthetic construct		TRSSRAGLQWPVGRVHRLLRK	21	10913273	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19199		P55788		Thanatin 6, Thanatin [C11,18A]	Synthetic construct		GSKKPVPIIYANRRTGKAQRM	21	12297012	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19200		P55788,		Thanatin [T15S]	Synthetic construct		GSKKPVPIIYCNRRSGKCQRM	21	18810542, 21453736, 23643614	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19138		Q5SC60		C/S-Ar-1, Arenicin-1 [C3,20S]	Synthetic construct		RWSVYAYVRVRGVLVRYRRSW	21	21474443	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19120		P49913		LL-37 (7-27)	Synthetic construct		RKSKEKIGKEFKRIVQRIKDF	21	20338846	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19045		P49928		Cathelin-related peptide SC5/SMAP-29/Myeloid antibacterial peptide MAP-29 (9-29)	Synthetic construct		KIAHGVKKYGPTVLRIIRIAG	21	11600395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19035				IAK21	Synthetic construct		IAGKIAKIAGKIAKIAGKIAK	21	32126225	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18880		P56917		Temporin-A FG21	Synthetic construct		FLPLIGRVLSGILGWKRKRFG	21	24419338	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18879		P79874		Temporin-B LG21[W15A][F20A]	Synthetic construct		LLPIVGNLLKSLLGAKRKRAG	21	24419338	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18878		P79874		Temporin-B LG21[R19A]	Synthetic construct		LLPIVGNLLKSLLGWKRKAFG	21	24419338	Antibacterial	Gram+,Gram-	Experimentally Validated

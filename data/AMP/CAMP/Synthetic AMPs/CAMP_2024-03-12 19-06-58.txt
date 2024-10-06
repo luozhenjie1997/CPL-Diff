@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18971		P80399		Gaegurin-5 (1-13)[L2,5A,V8A,A9L,V12L], PTP7a2a5	Synthetic construct		FAGAAFKALSKLL	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18967		P80399		Gaegurin-5 (1-13)[L5V,F6V,V8A,A9L,V12L], PTP7v5v6	Synthetic construct		FLGAVVKALSKLL	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18968		P80399		Gaegurin-5 (1-13)[A9L,V12L], PTP7v8v9	Synthetic construct		FLGALFKVVSKLL	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18965		P80399		Gaegurin-5 (1-13)[V8A,A9L,V12L,L13V], PTP7v13	Synthetic construct		FLGALFKALSKLV	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18966		P80399		Gaegurin-5 (1-13)[F6V,V8A,A9L,V12L], PTP7v6	Synthetic construct		FLGALVKALSKLL	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18962		P80399		Gaegurin-5 (1-13)[L5V,V8A,A9L,V12L], PTP7v5	Synthetic construct		FLGAVFKALSKLL	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18963		P80399		Gaegurin-5 (1-13)[V8A,A9V,V12L], PTP7v9	Synthetic construct		FLGALFKAVSKLL	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18964		P80399		Gaegurin-5 (1-13)[V8A,A9L], PTP7v12	Synthetic construct		FLGALFKALSKVL	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18961		P80399		Gaegurin-5 (1-13)[L2V,V8A,A9L,V12L], PTP7v2	Synthetic construct		FVGALFKALSKLL	13	15894405	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18960		P80399,		Gaegurin-5 (1-13)[V8A,A9L,V12L], PTP7	Synthetic construct		FLGALFKALSKLL	13	15894405, 14499271, 19464332, 21887652, 22526264	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18913				JH8944	Synthetic construct		FKCKKVVISLRRY	13	15196144	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18901				Undefined	Synthetic construct		GXXXXXXXXXXGY	13	11683882	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18887				*ARVA*	Synthetic construct		RRGWLALRLVLAY	13	25268681	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18885		P24627		Lactoferricin B (3-14)-C, Lfcin B (19-30)-C	Synthetic construct		CRRWQWRMKKLGC	13	20844765	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18876		P56917		Temporin-A [L13A]	Synthetic construct		FLPLIGRVLSGIA	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18875		P56917		Temporin-A [I12A]	Synthetic construct		FLPLIGRVLSGAL	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18874		P56917		Temporin-A [G11A]	Synthetic construct		FLPLIGRVLSAIL	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18873		P56917		Temporin-A [S10A]	Synthetic construct		FLPLIGRVLAGIL	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18872		P56917		Temporin-A [L9A]	Synthetic construct		FLPLIGRVASGIL	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18871		P56917		Temporin-A [V8A]	Synthetic construct		FLPLIGRALSGIL	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18870		P56917		Temporin-A [R7A]	Synthetic construct		FLPLIGAVLSGIL	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18869		P56917		Temporin-A [G6A]	Synthetic construct		FLPLIARVLSGIL	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18868		P56917		Temporin-A [I5A]	Synthetic construct		FLPLAGRVLSGIL	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18867		P56917		Temporin-A [L4A]	Synthetic construct		FLPAIGRVLSGIL	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18866		P56917		Temporin-A [P3A]	Synthetic construct		FLALIGRVLSGIL	13	21337476	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ964	157881005		1XKM	Distinctin	Synthetic construct		NLVSGLIEARKYLEQLHRKLKNCKV	25	11297740	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1030	109157593	P49913	2FBS,2FBU,2FCG,2K6O,2LMF	C-terminal fragment, LL-37	Synthetic construct		IGKEFKRIVQRIKDFLRNLVPRTES	25	16637646	Antibacterial, Anticancer	Gram -ve	Experimentally validated
+CAMPSQ8391				Pleu(i+4)1, 15(A9K)	Synthetic construct		GXGSFXKKKAHVGKHXGKAXLTHYL	25	31427820	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8681				CP?1	Synthetic construct		KWKSFIKKLTSAAKKVTTAAKPLTK	25	10085049	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8754				D-LAK120	Synthetic construct		KKLALLALKKWLLALKKLALLALKK	25	22869378	Antibacterial, Antiparasitic	Gram -ve	Experimentally validated
+CAMPSQ8755				D-LAK120-P13	Synthetic construct		KKLALLALKKWLPALKKLALLALKK	25	22869378	Antibacterial, Antiparasitic	Gram -ve	Experimentally validated
+CAMPSQ8756				D-LAK120-A	Synthetic construct		KKLALALAKKWLALAKKLALALAKK	25	22869378	Antibacterial, Antiparasitic	Gram -ve	Experimentally validated
+CAMPSQ8757				D-LAK120-AP13	Synthetic construct		KKLALALAKKWLPLAKKLALALAKK	25	22869378	Antibacterial, Antiparasitic	Gram -ve	Experimentally validated
+CAMPSQ8758				D-LAK120-H	Synthetic construct		KKLALHALKKWLHALKKLAHLALKK	25	22869378	Antibacterial, Antiparasitic	Gram -ve	Experimentally validated
+CAMPSQ8952				CHITI25 Cit	Synthetic construct		SSYSSMAGNPSFRKYFIDSSIKIAR	25	30823998	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ9059				AMP-010	Synthetic construct		XXXGLFDVIKXXXKXXXVASVIGGL	25	31336137	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9627				LR2 	Synthetic construct		RIKRFWPVVIRTVVAGYNLYRAIKK	25	PMCID: PMC4131589	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9645				RL1 (homologue of Pc-CATH1)	Synthetic construct		IKRFWPVVIRTVVAGYNLYRAIKKK	25	PMCID: PMC4131589	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ24107		P03377		LP-19	Synthetic construct		EMTWEEWEKKVEELEKKIEELLXX	24	30089693	Antiviral		Experimentally Validated
+CAMPSQ24203		O95832		Claudin-1 (1-24)	Synthetic construct		MANAGLQLLGFILAFLGWIGAIVS	24	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24219		P60603		ROS modulator 1 (56-79)	Synthetic construct		IGKTMMQSGGTFGTFMAIGMGIRC	24	32291307	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24277				Undefined	Synthetic construct		MDRWLKWKKKRKIRRRRRRRRRRR	24	32347931	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24355		A7WNV3		Brevinin-1PLb [N11K], Brevinin-1PLc [V4L]	Synthetic construct		FLPLIAGLAAKFLPKIFCAITKKC	24	32781587	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24424				Undefined	Synthetic construct		VCRKPVVCRKPVVCRKPVVCRKPV	24	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24428				Undefined	Synthetic construct		ICRKPIICRKPIICRKPIICRKPI	24	32706256	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24448		P49930		PMAP-23 [L5R,T19I]-K-C10	Synthetic construct		RIIDRLWRVRRPQKPKFVIVWVRX	24	33141035	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24514				Undefined	Synthetic construct		KRFLPSCVRSIQNLDDALPTPEEF	24	32954133	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24635		D4P8J1		Nahymenoptaecin-2 (1-24), Pronavicin	Synthetic construct		NIRPRPTARPPYINRPPNPFKPRW	24	20302637	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24681		Q5D862		FLG-2 (2232-2255)	Synthetic construct		HAHYGYGQSTQRGSRTTGRRGSGH	24	30833614	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ24682		Q5D862		FLG-2 (2082-2105)	Synthetic construct		HAHSGHGQSTQRGSRTAGRRGSGH	24	30833614	Antibacterial	Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23978		O41892		GBV-A10 [L9I]	Synthetic construct		CWVRLGRYILRRLKTPFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23979		O41892		GBV-A10 [L9I,L13I]	Synthetic construct		CWVRLGRYILRRIKTPFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23980				GBV-A10 [L5,9,13I]	Synthetic construct		CWVRIGRYILRRIKTPFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23981				GBV-A10 [C1K,Y8K,T15K,T18K]	Synthetic construct		KWVRLGRKLLRRLKKPFK	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23982				GBV-A10 [Y8K]	Synthetic construct		CWVRLGRKLLRRLKTPFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23983				GBV-A10 [C1E,Y8E,T15E,T18E]	Synthetic construct		EWVRLGRELLRRLKEPFE	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ23984				GBV-A10 [Y8E]	Synthetic construct		CWVRLGRELLRRLKTPFT	18	23175359	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24008		Q5DP94		SC18EK	Synthetic construct		WEEWDKKIEEYTKKIEEL	18	31277353	Antiviral	Gram+	Experimentally Validated
+CAMPSQ24090		P03377		LP-59	Synthetic construct		WEQKIEELLKKAEEQQKX	18	30089693	Antiviral		Experimentally Validated
+CAMPSQ24190		O95832		D-Claudin-1 (1-18)	Synthetic construct		MANAGLQLLGFILAFLGW	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24191		O95832		Claudin-1 (5-22)	Synthetic construct		GLQLLGFILAFLGWIGAI	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24192		O95832		Claudin-1 (8-25)	Synthetic construct		LLGFILAFLGWIGAIVST	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24193		O95832		Claudin-1 (11-28)	Synthetic construct		FILAFLGWIGAIVSTALP	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24194		O95832		Claudin-1 (14-31)	Synthetic construct		AFLGWIGAIVSTALPQWR	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24195		O95832		Claudin-1 (17-34)	Synthetic construct		GWIGAIVSTALPQWRIYS	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24196		O95832		Claudin-1 (2037)	Synthetic construct		GAIVSTALPQWRIYSYAG	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24197		O95832		Claudin-1 (23-40)	Synthetic construct		VSTALPQWRIYSYAGDNI	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24198		O95832		Claudin-1 (26-43)	Synthetic construct		ALPQWRIYSYAGDNIVTA	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24204				Scrambled Claudin-1 (1-18)	Synthetic construct		AGALMFAWLLLGLQGIFN	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24206		P56747		Claudin-6 (1-18)	Synthetic construct		MASAGMQILGVVLTLLGW	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24207		O95471		Claudin-7 (1-18)	Synthetic construct		MANSGLQLLGFSMALLGW	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24208		O95484		Claudin-9 (1-18)	Synthetic construct		MASTGLELLGMTLAVLGW	18	22378192	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24210		C3YAU6		BjRPS23 (67-84)	Synthetic construct		RKCVRVQLIKNGKKITAF	18	32423862	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24211		A0A087S8K7		Verrucomicrobia RPS12 (68-85)	Synthetic construct		RKCVRVQLIKNGKTVTAF	18	32423862	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24212		T0LXJ6		Thermotoga RPS12 (65-82)	Synthetic construct		RKCVKVQLIKNGRQVTAF	18	32423862	Antibacterial	Gram+,Gram-	Experimentally Validated

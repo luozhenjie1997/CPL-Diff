@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10778				PSM alpha2	Synthetic construct		fMGIIAGIIKFIKGLIEKFTGK	22	31359624	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10803				Tag	Synthetic construct		MRGSHHHHHHGSSGENLYFQSL	22	30857142	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11244				R2PLx-22	Synthetic construct		GIMDTVKNAAKNLAGQLLDKLK	22	30279210	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11259				L-15	Synthetic construct		RXRPRPYSPRPTSHPRPIRVZB	22	30807888	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11269				L-20	Synthetic construct		RXRRXRIKILFQNRRMKWKKZB	22	30807888	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11324				Cnd-m3a	Synthetic construct		WFGKLYRGKTKVVKKVKGLLKG	22	30790604	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11431				PBP	Synthetic construct		KKLIKVWAKGFKKAKKLFKGIG	22	30637367	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11432				PBP-W11	Synthetic construct		KKLIKVFAKGWKKAKKLFKGIG	22	30637367	Antibacterial, Anticancer	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11433				PBP-W18	Synthetic construct		KKLIKVFAKGFKKAKKLWKGIG	22	30637367	Antibacterial, Anticancer	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11434				PBP-X	Synthetic construct		XXLIXVWAXGFXXAXXLFXGIG	22	30637367	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11435				PBP-A	Synthetic construct		KKAAKAWAKGAKKAKKLAKGAG	22	30637367	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11608				Peptide 1	Synthetic construct		KRKKHRCRVYNNGMPTGMYRWC	22	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11610				Peptide 3	Synthetic construct		KRKKHRCRVYNNGLPTGLYRWC	22	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11612				Peptide 5	Synthetic construct		KRKKHRCRVYNNGLPTGLYRWC	22	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11613				Peptide 6	Synthetic construct		KRKKHRCRVYNNGLPTGLYRWC	22	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11614				Peptide 7	Synthetic construct		KRKKHRCRVYNNGLPTGLYRWC	22	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11620				Peptide 13	Synthetic construct		KRKKHRCRVFNNGLPTGLYRWC	22	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11621				Peptide 14	Synthetic construct		KRKKHRCRVSNNGLPTGLYRWC	22	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11622				Peptide 15	Synthetic construct		KRKKHRCRVWNNGLPTGLYRWC	22	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11623				Peptide 16	Synthetic construct		KRKKHRCRVYNNGLPTGLFRWC	22	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11624				Peptide 17	Synthetic construct		KRKKHRCRVYNNGLPTGLSRWC	22	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11625				Peptide 18	Synthetic construct		KRKKHRCRVYNNGLPTGLWRWC	22	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ12024				C-L	Synthetic construct		KWKLFKKIFKRIVQRIKDFLRN	22	27367675	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12262				Recombinant C-L	Synthetic construct		KWKLFKKIFKRIVQRIKDFLRN	22	29925795	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12379				Pexiganan	Synthetic construct		GIGKFLKKAKKFGKAFVKILKK	22	30043322	Antibacterial	Gram -ve	Experimentally validated

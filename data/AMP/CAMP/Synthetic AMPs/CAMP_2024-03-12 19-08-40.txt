@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9950				Mastoparan-R4	Synthetic construct		INLKKLAARIKKKI	14	31411881	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9959				536_1 	Synthetic construct		RWRLVCFLCRRKKV	14	31302447	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9962				8361_2 	Synthetic construct		ISRACLIMKVRRKK	14	31302447	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10109				?-sheet peptide WK2	Synthetic construct		WKWKCTKSGCKWKW	14	31554137, 34946112	Antibacterial, Antibiofilm	Gram -ve	Experimentally validated
+CAMPSQ10299				I14M 	Synthetic construct		IIYCNRRTGKCQRM	14	8577744	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10493				DASamP2 a	Synthetic construct		IKWKKLLRAAKRIL	14	28672834	Antibacterial, Antibiofilm	Gram -ve	Experimentally validated
+CAMPSQ10512				DRGN-1	Synthetic construct		PSKKTKPVKPKKVA	14	28649410	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10584				MK58911	Synthetic construct		INWLKIAKKVKGML	14	31512522	Antifungal	Gram +ve	Experimentally validated
+CAMPSQ10585				MK4589	Synthetic construct		INWKKIAKKVAGML	14	31512522	Antifungal	Gram +ve	Experimentally validated
+CAMPSQ10586				MK5789	Synthetic construct		INWLKIKKKVAGML	14	31512522	Antifungal	Gram +ve	Experimentally validated
+CAMPSQ10685				[T5k]temporin-Dra	Synthetic construct		HFLGkLVNLAKKIL	14	22374306	Antibacterial 	Gram +ve	Experimentally validated
+CAMPSQ10860				AMP	Synthetic construct		LKLLKKLLKLLKKL	14	28936427	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10866				PIN2[14]	Synthetic construct		FWGLKGLKKFSKKL	14	26901176	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11094				PV3	Synthetic construct		KKWRKLLKKLKKLL	14	29327480	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11350				Synoeca?MP	Synthetic construct		INWLKLGKKIIASL	14	30740688	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11441				KR-14-1	Synthetic construct		KIIVGRIKGFLRLL	14	30635992	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11442				KR-14-2	Synthetic construct		KIIVLRIKGFLRLL	14	30635992	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11447				K4-MS	Synthetic construct		KKKKPLFGLFFGLF	14	30630076	Antibacterial		Experimentally validated
+CAMPSQ11540				AureinN1	Synthetic construct		GLFNIIKKTIGKLR	14	30593676	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11541				AureinN2	Synthetic construct		GLFWIIKKTIGKLR	14	30593676	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11583				73c	Synthetic construct		RLWDIVRRWVGWLC	14	30565467	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11627				PP	Synthetic construct		IHKFWRPGRWFKHI	14	30538681	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11628				GG	Synthetic construct		IHKFWRGGRWFKHI	14	30538681	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11709				KK14	Synthetic construct		KKFFRAWWAPRFLK	14	30488526	Antifungal		Experimentally validated
+CAMPSQ11711				Kk14	Synthetic construct		kkffrawwaprflk	14	30488526	Antifungal		Experimentally validated

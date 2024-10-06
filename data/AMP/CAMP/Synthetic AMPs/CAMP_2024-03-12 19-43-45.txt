@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21031				Undefined	Synthetic construct		KWKKLLKKLLPLLKKLLK	18	14733952	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21032				KLW peptide [L9Nala]	Synthetic construct		KWKKLLKKXLKLLKKLLK	18	16142907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21033				KLW peptide [L10Nala]	Synthetic construct		KWKKLLKKLXKLLKKLLK	18	16142907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21034				KLW peptide [K11Nala]	Synthetic construct		KWKKLLKKLLXLLKKLLK	18	16142907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21035				KLW peptide [L9,13Nala]	Synthetic construct		KWKKLLKKXLKLXKKLLK	18	16142907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21036				KLW peptide [K7,11Nala]	Synthetic construct		KWKKLLXKLLXLLKKLLK	18	16142907	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21140		P82656		H/V-peptide (12-29)	Synthetic construct		KVANTVQKLKRKAKNAVA	18	23403131	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21141		P82656		H/V-peptide (1-11)(19-25)[K4N]	Synthetic construct		GILNTIKSIASKLKRKAK	18	23403131	Antibacterial, Antiparasitic	Gram-	Experimentally Validated
+CAMPSQ21144				Undefined	Synthetic construct		YGAAKKAAKAAKKAAKAA	18	15149180, 20185142	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21145				Undefined	Synthetic construct		YGAKAKAAKAAKAKAAKA	18	15149180	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21155		P19661		Bactenecin-7 (1-18)	Synthetic construct		RRIRPRPPRLPRPRPRPL	18	15572192	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21184		P19661		Cathelicidin-3 (7-24), Bactenecin-7 (7-24)	Synthetic construct		PPRLPRPRPRPLPFPRPG	18	12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21274				Undefined	Synthetic construct		KKLKKLKKKWKKLKKKLK	18	8855958	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21275				Undefined	Synthetic construct		KKLKKLLKKWKKLLKKLK	18	8855958	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21276				Undefined	Synthetic construct		KLLKKLLKLWKKLLKKLK	18	8855958	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21277				Undefined	Synthetic construct		KLLKLLLKLWKKLLKLLK	18	8855958	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21278				Undefined	Synthetic construct		KLLKLLLKLWLKLLKLLL	18	8855958	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21323		P0A6X7		Integration host factor subunit alpha (21-38), P1ihf	Synthetic construct		RDAKELVELFFEEIRRAL	18	15822124	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21324		Q9X0I0		Adenylosuccinate lyase (157-174), P1c3c	Synthetic construct		WYSEMKRNVQRLERAIEE	18	15822124	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21325		Q9WY63		Flagellar motor switch protein FliG (300-317), P1qc7	Synthetic construct		LKDVEEAQQKIINIIRRL	18	15822124	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21326		Q05599		Bifunctional adenosylcobalamin biosynthesis protein CobU (145-162), P1c9k	Synthetic construct		NRLARHFRDIAGRVNQRL	18	15822124	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21327		P05112		Interleukin-4 (77-94), P1ill	Synthetic construct		KQLIRFLKRLDRNLWGLA	18	15822124	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21328		P01588		Erythropoietin (138-155), P1buy	Synthetic construct		FRKLFRVYSNFLRGKLKL	18	15822124	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21356				Reverse Pxt-12	Synthetic construct		LLNSGVKLGTKLLSGLLN	18	26802742	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21375				Delta-lysin (9-26)[D11K][D18K]	Synthetic construct		IGKLVKWIIKTVNKFTKK	18	15629533	Antibacterial	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8336				Magainin 2-A-BF2 (M-A-B)	Synthetic construct		GIGKWLHSAKKFGKAFVGEIMNSATRSSRAGLQWPVGRVHRLLRK	45	31067436	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ8499				RN2	Synthetic construct		KPPQFTWAQWFETQHINMTSQQSTNAMQVINNYQRRSKNQNTFLL	45	31540052	Antifungal		Experimentally validated
+CAMPSQ8500				RN3	Synthetic construct		RPPQFTRAQWFAIQHISLNPPKSTIAMKAINNYKWKSKNQNTFLK	45	31540052	Antifungal		Experimentally validated
+CAMPSQ8503				RN6	Synthetic construct		WPKRLTKAHWFEIQHIQPSPLQSNRAMSGINNYTQHSKHQNTFLH	45	31540052	Antifungal		Experimentally validated
+CAMPSQ8504				RN7	Synthetic construct		KPKGMTSSQWFKIQHMQPSPQASNSAMKNINKHTKRSKDLNTFLH	45	31540052	Antifungal		Experimentally validated
+CAMPSQ8679				HBD3	Synthetic construct		GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	45	12936977	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ8680				ABU-hBD3	Synthetic construct		GIINTLQKYYXRVRGGRXAVLSXLPKEEQIGKXSTRGRKXXRRKK	45	12936977	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10060				HBD-3-1CV	Synthetic construct		GIINTLQKYYARVRGGRAAVLSALPKEEQIGKASTRGRKCARRKK	45	29022391	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10900				Def-BBB 	Synthetic construct		ATCDLASFSSQWVTPNDSLCAAHCLVKGYRGGYCKNKICHCRDKF	45	18214975	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11340				P5 14(coil)	Synthetic construct		GGGYSKGGKGGGKGGKGGGKGGKGGGKGGKGGGKGGKGGGKGGKG	45	30760613	Antiviral		Experimentally validated
+CAMPSQ12070				AvBD9W/G	Synthetic construct		QEDADTLACRQSHGSCSFVACRAPSVDIGTCRGGKLKCCKGAPSS	45	30078596	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13951				Defb14-1CV	Synthetic construct		FLPKTLRKFFARIRGGRAAVLNALGKEEQIGRASNSGRKCARKKK	45	 20176896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16565		P37840		Alpha-synuclein (96-140), Alpha-Syn (96-140)	Synthetic construct		KKDQLGKNEEGAPQEGILEDMPVDPDNEAYEMPSEEGYQDYEPEA	45	27520375	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ17292				Distinctin Peptide A-A homodimer	Synthetic construct		ENREVPPGFTALIKTLRKCKII	45	18597491	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17705		P18428		LBP14-(E A3 K)2 -N6CK, A6CK	Synthetic construct		RVQGRWKVRASFFKEAAAKEAAAKVCVYRGFAWNCHRRANNGVRV	45	31974490	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17701		A0A3F2YLM5	6K4W	LBP14-(E A3 K) 2-N6, A6	Synthetic construct		RVQGRWKVRASFFKEAAAKEAAAKGFAWNVCVYRNGVRVCHRRAN	45	31974490	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ20217		P12724,		Eosinophil cationic protein (1-45) [C23,37S], RNase 3 (1-45) [C23,37S]	Synthetic construct		RPPQFTRAQWFAIQHISLNPPRSTIAMRAINNYRWRSKNQNTFLR	45	23716047, 21696142	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21010		P81534		HBD3 [C11,18,23,33,40,41W]	Synthetic construct		GIINTLQKYYWRVRGGRWAVLSWLPKEEQIGKWSTRGRKWWRRKK	45	18350527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21011		P81534		HBD3 [C11,18,23,33,40,41F]	Synthetic construct		GIINTLQKYYFRVRGGRFAVLSFLPKEEQIGKFSTRGRKFFRRKK	45	18350527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21012		P81534		HBD3 [C11,18,23,33,40,41Y]	Synthetic construct		GIINTLQKYYYRVRGGRYAVLSYLPKEEQIGKYSTRGRKYYRRKK	45	18350527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21013		P81534		HBD3 [C11,18,23,33,40,41A]	Synthetic construct		GIINTLQKYYARVRGGRAAVLSALPKEEQIGKASTRGRKAARRKK	45	18350527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21014		P81534,		HBD3 [C11,18,23,33,40,41S]	Synthetic construct		GIINTLQKYYSRVRGGRSAVLSSLPKEEQIGKSSTRGRKSSRRKK	45	18350527	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21589		P81534		HBD3 [C11A,C18Y,C23V,C33V,C40K,C41V], Def-A	Synthetic construct		GIINTLQKYYARVRGGRYAVLSVLPKEEQIGKVSTRGRKKVRRKK	45	19480463	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21590		Q7TNV9		Beta-defensin 14 [C11,18,23,33,40,41A], Defb14 [C11,18,23,33,40,41A]	Synthetic construct		FLPKTLRKFFARIRGGRAAVLNALGKEEQIGRASNSGRKAARKKK	45	18180295	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21720				Undefined	Synthetic construct		RMKQIEDKIEEIESKQKKIENEIARIKKLLQLTVWGIKQLQARIL	45	11572974	Antiviral	Gram+,Gram-	Experimentally Validated

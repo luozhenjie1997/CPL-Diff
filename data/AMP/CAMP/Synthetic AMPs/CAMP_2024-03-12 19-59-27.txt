@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ17624				Syn-larvacin-31	Synthetic construct		AGTEKIFQRLKKKIQEGKKIAKRAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17625				Syn-larvacin-39	Synthetic construct		AWTEKIFQRLKKTIQEGKKIAKRAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17622				Syn-larvacin-1	Synthetic construct		AGKETIRQFLKKKIQEKGKRATIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17623				Syn-larvacin-27	Synthetic construct		AGKETIFQRLKKKIQEKGKRAWIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17621				Syn-sordellicin-96	Synthetic construct		AKTNRIAKELRRYIRKVGRIARKAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17620				Syn-sordellicin-88	Synthetic construct		AGTNRIAKELRRYIRKVGRIARKKW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17619				Syn-sordellicin-80	Synthetic construct		AGTNRIAKELRRYIRKVGRIKRKAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17618				Syn-sordellicin-72	Synthetic construct		AGTNRIAKELRRYIRKVKRIARKAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17616				Syn-sordellicin-50	Synthetic construct		AGRQTIAKYLRREIRKRGRKWVIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17617				Syn-sordellicin-64	Synthetic construct		AGTNRIAKELRRYIRKVGRIARKWW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17615				Syn-sordellicin-45	Synthetic construct		AGRQWIKAYLRREIRKVGRKARIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17614				Syn-sordellicin-43	Synthetic construct		AGWQRIKAYLRREIRKRGRKAVIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17613				Syn-sordellicin-42	Synthetic construct		AGRQWIAKYLRREIRKRGRKAVIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17612				Syn-sordellicin-41	Synthetic construct		AGRQWIKAYLRREIRKRGRKAVIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17610				Syn-sordellicin-18	Synthetic construct		AWRQTIAKYLRREIRKRGRKAVIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17611				Syn-sordellicin-19	Synthetic construct		AWTQRIKAYLRREIRKRGRKAVIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17609				Syn-sordellicin-16	Synthetic construct		WGTNRIAKELRRYIRKVGRIARKAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17608				Syn-sordellicin-11	Synthetic construct		WGTQRIKAYLRREIRKRGRKAVIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17607				Syn-sordellicin-1	Synthetic construct		AGRQTIKAYLRREIRKRGRKAVIAW	25	33281785	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18408				D4C3	Synthetic construct		FRFKIKFRLKFRFKARFKFRAKFRA	25	12208971	Antiviral		Experimentally Validated
+CAMPSQ19283		P82741		Ranatuerin-1[Lys-18]	Synthetic construct		SMLSVLKNLGKVGLGFVKCKINKQC	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19284		P82741		Ranatuerin-1[Lys-22]	Synthetic construct		SMLSVLKNLGKVGLGFVACKIKKQC	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19285		P82741		Ranatuerin-1[Lys-24]	Synthetic construct		SMLSVLKNLGKVGLGFVACKINKKC	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19282		P82741		Ranatuerin-1[Lys-8]	Synthetic construct		SMLSVLKKLGKVGLGFVACKINKQC	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19278		P82741		Ranatuerin-1[Glu-10, Glu-13, Glu-15]	Synthetic construct		SMLSVLKNLEKVELEFVACKINKQC	25	15003353	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ29	11131738	P82104		Caerin-1.10	Litoria splendida 	Animalia (Amphibia)	GLLSVLGSVAKHVLPHVVPVIAEKL	25	10601876	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ36	114149278	P84596		Dermaseptin-1, DShypo 01	Phyllomedusa hypochondrialis	Animalia (Amphibia)	GLWSTIKNVGKEAAIAAGKAALGAL	25	16963159	Antibacterial, Antiparasitic	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ40	115058	P29004		Bombinin-like peptides 3 	Bombina orientalis	Animalia (Amphibia)	GIGAAILSAGKSALKGLAKGLAEHF	25	1744108	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ42	115311720	Q1ELT9	2PCO	Latarcin-1 	Lachesana tarabaevi	Animalia (Arachnida)	SMWSGMWRRKLKKLRNALKKKLKGE	25	16735513	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ61	1168440	P80393		Antimicrobial peptide THP3 	Meleagris gallopavo	Animalia (Aves)	LSCKRGTCHFGRCPSHLIKGSCSGG	25	7964174	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ92	122063381	P0C2A6		Caerin-1.17	Litoria gracilenta	Animalia (Amphibia)	GLFSVLGSVAKHLLPHVAPIIAEKL	25	16554081	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ93	122063382	P0C2A7		Caerin-1.18	Litoria gracilenta	Animalia (Amphibia)	GLFSVLGSVAKHLLPHVVPVIAEKL	25	16554081	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ94	122063383	P0C2A8		Caerin-1.19	Litoria gracilenta	Animalia (Amphibia)	GLFKVLGSVAKHLLPHVAPIIAEKL	25	16554081	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ153	148228030	P07198		Xenopsin precursor fragment 	Xenopus laevis	Animalia (Amphibia)	GWASKIGQTLGKIAKVGLKELIQPK	25	1717472	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ178	159162186	P56684	1CZ6	Androctonin	Androctonus australis	Animalia (Arachnida)	RSVCRQIKICRRRGGCYYKCTNRPY	25	8939880	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ219	18202406	P82423		Ponericin-W1	Pachycondyla goeldii 	Animalia (Insects)	WLGSALKIGAKLLPSVVGLFKKKKQ	25	11279030	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ220	18202407	P82424		Ponericin-W2	Pachycondyla goeldii 	Animalia (Insects)	WLGSALKIGAKLLPSVVGLFQKKKK	25	11279030	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ305	26393021	P81570		Antimicrobial peptide D3 	Spinacia oleracea	Plantae	GIFSSRKCKTVSKTFRGICTRNANC	25	9762899	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ355	32396184	Q7SZH1		Pleurocidin-like peptide YT2 	Limanda ferruginea	Animalia (Pisces)	RWGKWFKKATHVGKHVGKAALTAYL	25	12878506	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ366	34101171	Q6JWQ9		Epinecidin-1 	Epinephelus coioides	Animalia (Pisces)	FIFHIIKGLFHAGKMIHGLVTRRRH	25	Aquaculture, Volume 253, Issues 1-4, 31 March 2006, Pages 204-211	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ20185				Brevinin-1TRa	Rana tarahumarae	Animalia	FLPVIAGIAANVLPKLFCKLTKRC	24	12237127	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20772				Hymenochirin-5Ph	Pseudhymenochirus merlini	Animalia	ITIPPIVKNTLKKFIKGAVSALMS	24	24212286	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22428				Brevinin-1AA2	Amolops afghanus	Animalia	FLPAVLRVAAKVGPAVFCAITQKC	24	26452973	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22430				Brevinin-1RL1	Rana limnocharis	Animalia	FFPLIAGLAARFLPKIFCSITKRC	24	26452973	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22432				Brevinin-1RE1	Rana exilispinosa	Animalia	FLPGLECVSGKIVPTVFCAITRIC	24	26452973	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22433				Brevinin-1RE2	Rana exilispinosa	Animalia	VIPFVASVAAEMMQHVYCAASKRC	24	26452973	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22436				Brevinin-1AA1	Amolops afghanus	Animalia	FFPSIAGLAAKFLPKIFCSITKRC	24	26452973	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23777				Thaulin-Sl	Pleurodema thaul	Animalia	DLLNGLLNPVLGIANGLTGGLVKK	24	32134261	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24071				Brevinin-1GHd, Brevinin-1HL	Sylvirana guentheri (Hylarana guentheri),Hylarana latouchii	Animalia	FLGALFKVASKLVPAAICSISKKC	24	32347293	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24449				Brevinin-1OS	Odorrana schmackeri	Animalia	FLPGILKVAANVVPGVICAITKKC	24	32751489	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

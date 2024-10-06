@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20333				Undefined	Synthetic construct		XRRX	4	26489599	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20791				Undefined	Synthetic construct		KWKW	4	22914980, 30644534, 24946217	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20998				Trichogin-4	Synthetic construct		XGIL	4	19399781	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21079				MP-7	Synthetic construct		XXFF	4	17553680	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21308				Undefined	Synthetic construct		RLYR	4	11846794	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21482				Undefined	Synthetic construct		AEAM	4	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21621				Undefined	Synthetic construct		AAAA	4	19959366	Antifungal	Gram+	Experimentally Validated
+CAMPSQ21622				Undefined	Synthetic construct		AAAK	4	19959366	Antifungal	Gram+	Experimentally Validated
+CAMPSQ21623				Undefined	Synthetic construct		RAAA	4	19959366	Antifungal	Gram+	Experimentally Validated
+CAMPSQ21624				Undefined	Synthetic construct		RAAK	4	19959366	Antifungal	Gram+	Experimentally Validated
+CAMPSQ21625				Undefined	Synthetic construct		RAIK	4	19959366	Antifungal	Gram+	Experimentally Validated
+CAMPSQ21626				Undefined	Synthetic construct		RQIK	4	19959366	Antifungal	Gram+	Experimentally Validated
+CAMPSQ21627				Undefined	Synthetic construct		KIQR	4	19959366	Antifungal	Gram+	Experimentally Validated
+CAMPSQ21628				Undefined	Synthetic construct		RQKK	4	19959366	Antifungal	Gram+	Experimentally Validated
+CAMPSQ21629				Undefined	Synthetic construct		RIIK	4	19959366	Antifungal	Gram+	Experimentally Validated
+CAMPSQ21659				Undefined	Synthetic construct		WWXX	4	29969522	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21703				Undefined	Synthetic construct		LLEY	4	9918775	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21704				Undefined	Synthetic construct		LEYS	4	9918775	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ22078				2 x Paralysin beta-AY amide	Synthetic construct		XYXY	4	24168419	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22224				BDZ-P2	Synthetic construct		KXCK	4	25807936	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22226				BDZ-P4	Synthetic construct		KXVH	4	25807936	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22227				BDZ-P6	Synthetic construct		KXKC	4	25807936	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22228				BDZ-P8	Synthetic construct		KXFK	4	25807936	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22229				BDZ-P9	Synthetic construct		KXLK	4	25807936	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22277				Undefined	Synthetic construct		KKKR	4	28767074, 33003569	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

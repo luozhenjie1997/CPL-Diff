@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ19996				Undefined	Synthetic construct		rRlWlW	6	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20091		P0C2F0		Ubiquicidin, UBI 36-41	Synthetic construct		MQYNRR	6	16814900	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20114				BPC6D	Synthetic construct		KFKLKQ	6	16730857	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20295		P02070		Bovine hemoglobin beta chain (140-145)	Synthetic construct		LAHRYH	6	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20793				(WK)3	Synthetic construct		WKWKWK	6	21462284	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21481				Undefined	Synthetic construct		AEAMSQ	6	15113844	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21605		O75475		LEDGF (365-369)	Synthetic construct		WIDNLD	6	20171172	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21652				Undefined	Synthetic construct		RRRWFW	6	21286704, 29969522	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21653				Undefined	Synthetic construct		RRRFFF	6	21286704	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21662				Undefined	Synthetic construct		RXWWXF	6	29969522	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21663				C-(MeW)F(MeW)	Synthetic construct		RRRXFX	6	29969522, 21098244	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21699				Undefined	Synthetic construct		LLEYSI	6	9918775	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21700				Undefined	Synthetic construct		LLEYSL	6	9918775	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21738		P01966		Hemoglobin subunit alpha (100-105)	Synthetic construct		LLSHSL	6	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21762				Undefined	Synthetic construct		PFVFLM	6	22406118	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21765				Undefined	Synthetic construct		PFVYLI	6	22406118	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21766				Undefined	Synthetic construct		PFVFLE	6	22406118	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21767				Undefined	Synthetic construct		EFVFLM	6	22406118	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21768				Undefined	Synthetic construct		PEVFLM	6	22406118	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21769				Undefined	Synthetic construct		PFVFLR	6	22406118	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21887				Undefined	Synthetic construct		WRRQRW	6	33266278	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21888				Undefined	Synthetic construct		RPWPPR	6	33266278	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21960				Undefined	Synthetic construct		WHWTWL	6	16169733	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22034				Wollamide B [V4A]	Synthetic construct		WLlANx	6	29431987, 28423019	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22035				Wollamide B [V4I]	Synthetic construct		WLlINx	6	29431987, 28423019	Antibacterial	Gram+,Gram-	Experimentally Validated

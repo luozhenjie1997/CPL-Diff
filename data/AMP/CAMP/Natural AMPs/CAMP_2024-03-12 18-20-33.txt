@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ631	7674025	P56928		Antimicrobial peptide eNAP-2	Equus caballus	Animalia (Mammals)	EVERKHPLGGSRPGRCPTVPPGTFGHCACLCTGDASEPKGQKCCSN	46	1452336	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ688	729445	P40844		Esculentin-1B precursor	Rana esculenta	Animalia (Amphibia)	GIFSKLAGKKLKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC	46	8163497	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ793				Salvic	Homo sapiens 	Animalia (Mammals)	MHDFWVLWVLLEYIYNSACSVLSATSSVSSRVLNRSLQVKVVKITN	46	Reference: Kim Y.S., Lee S.K., Park S.C., Chi J.G., Chung S.I. (2005) Cloning and identification of a new antimicrobial peptide, salvic, from human salivary gland. International symposium of Maxillofacial and Oral Regenerative Biology	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ889	3913441	O16136		Defensin-1	Stomoxys calcitrans	Animalia (Insects)	AAKPMGITCDLLSLWKVGHAACAAHCLVLGDVGGYCTKEGLCVCKE	46	9326639	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ913	6225076	P81493		Antifungal protein AX1	Beta vulgaris	Plantae	AICKKPSKFFKGACGRDADCEKACDQENWPGGVCVPFLRCECQRSC	46	7655063	Antifungal		Experimentally validated
+CAMPSQ919	7993732	P82010		Antifungal protein AX2	Beta vulgaris	Plantae	ATCRKPSMYFSGACFSDTNCQKACNREDWPNGKCLVGFKCECQRPC	46	7655063	Antifungal		Experimentally validated
+CAMPSQ945	114152286	P84920		Cp-thionin-2	Vigna unguiculata	Plantae	KTCMTKKEGWGRCLIDTTCAHSCRKYGYMGGKCQGITRRCYCLLNC	46	16824043	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ946	2507457	P09618		Leaf-specific thionin BTH6	Hordeum vulgare	Plantae	KSCCKDTLARNCYNTCRFAGGSRPVCAGACRCKIISGPKCPSDYPK	46	16453847	Antifungal		Experimentally validated
+CAMPSQ991				Esculentin-IGra	Rana grahami	Animalia (Amphibia)	GLFSKFAGKGIKNLIFKGVKHIGKEVGMDVIRTGIDVAGCKIKGEC	46	16621155	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1077	224495923	P0C8T8		Esculentin-1HSa	Rana hosii	Animalia (Amphibia)	GIFSKFGGKAIKNLFIKGAKNIGKEVGMDVIRTGIDVAGCKIKGEC	46	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1590	544188	Q01784		Disease resistance response protein 39	Pisum sativum	Plantae	NTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHDWKCFCTQNC	46		Antifungal		Predicted
+CAMPSQ1616	52782745	Q91V70	1E4T	Beta-defensin 7	Mus musculus	Animalia (Mammals)	NSKRACYREGGECLQRCIGLFHKIGTCNFRFKCCKFQIPEKKTKIL	46		Antibacterial		Predicted
+CAMPSQ1791	221271990	P86155		Esculentin-1a/b	Rana ridibunda	Animalia (Amphibia)	GIFSKLAGKKLKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC	46		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1830	221271991	P86018		Esculentin-1R	Rana ridibunda	Animalia (Amphibia)	GIFSKLAGKKLKNLLISGLKSVGKEVGMDVVRTGIDIAGCKIKGEC	46		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1842	82126753	Q6QLQ7		Gallinacin-12	Gallus gallus	Animalia (Aves)	HGPDSCNHDRGLCRVGNCNPGEYLAKYCFEPVILCCKPLSPTPTKT	46		Antibacterial		Predicted
+CAMPSQ2037	209572883	Q32ZH5		Beta-defensin 17	Rattus norvegicus	Animalia (Mammals)	KRSYPEYGSLDLRKECRMSKGHCKLQCSENEIRIAFCIRPGTHCCI	46		Antibacterial		Predicted
+CAMPSQ2068	123780119	Q32ZI0		Beta-defensin11	Rattus norvegicus	Animalia (Mammals)	FLRRSVSGFQECHSKGGYCYRYYCPRPHRRLGSCYPYAANCCRRRR	46		Antibacterial		Predicted
+CAMPSQ2073	123779970	Q30KP6		Beta-defensin17	 Mus musculus	Animalia (Mammals)	KKSYPEYGSLDLRKECKMRRGHCKLQCSEKELRISFCIRPGTHCCM	46		Antibacterial		Predicted
+CAMPSQ2602	317374836	B2MW54		Longicornsin	Haemaphysalis longicornis 	Animalia (Arachnida)	FGCGQGMIFMCQRRCMRLYPGSTGFCRGFRCMCDTHIPLRPPFMVG	46	20027626	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2801				Tu-AMP 1 	Tulipa gesneriana L	Plantae	KSCCRNTVARNCYNVCRIPGTPRPVCAATCDCKLITGTKCPPGYEK	46	15056889	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ2826				  Esculentin-1PLa   	Rana palustris	Animalia (Amphibia)	GLFPKINKKKAKTGVFNIIKTVGKEAGMDLIRTGIDTIGCKIKGEC	46	11087945	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3143				  Esculentin-1ARa 	Rana areolata	Animalia (Amphibia)	GIFSKINKKKAKTGLFNIIKTVGKEAGMDVIRAGIDTISCKIKGEC	46	12429503	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3144				  Esculentin-1ARb 	Rana areolata	Animalia (Amphibia)	GLFPKFNKKKVKTGIFDIIKTVGKEAGMDVLRTGIDVIGCKIKGEC	46	12429503	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3200				  DEFA1 	Equus caballus	Animalia (Mammals)	AREASKSLIGTASCTCRRAWICRWGERHSGKCIDQKGSTYRLCCRR	46	17620056	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3293				  Esculentin-1CPa 	Rana capito	Animalia (Amphibia)	GLFSKLNKKKIKSGLIKIIKTAGKEAGLEALRTGIDVIGCKIKGEC	46	19635516	Antibacterial, Antifungal	Gram+ve, Gram-ve	Predicted

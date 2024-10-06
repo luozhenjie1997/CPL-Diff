@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13904				KAFW	Synthetic construct		KKKKKKAAAAFWAAAAF	17	12384369	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13905				3F17-6K	Synthetic construct		KKKKKKAAFAAFAAFAA	17	12384369	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13906				W17-6K	Synthetic construct		KKKKKKAAWAAWAAWAA	17	12384369	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14133				D4E1	Synthetic construct		FKLRAKIKVRLRAKIKL	17	33918933	Antibacterial		Experimentally validated
+CAMPSQ14209				Pa-IF1 Peptide	Synthetic construct		AHISGKMRKNYIRILTG	17	34709785	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ14336				CaD1	Synthetic construct		KRIVQRIKDFLRRGKAK	17	34526600	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14338				CaD3	Synthetic construct		RIKDFLRNGRKCCRRKK	17	34526600	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14488				Bac5-v291	Synthetic construct		RWRRPIRRRPIRPPFWR	17	34966279	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14495				GI-17	Synthetic construct		GFKRIVQRIKDFLRNLV	17	34959645	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14496				17BIPHE2	Synthetic construct		GXKRlVQRlKDXlRNLV	17	34959645	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14594				STIP3-2	Synthetic construct		TVGGLVKWILATVKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14595				STIP3-3	Synthetic construct		TVGGLVKWILKTVKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14596				STIP3-4	Synthetic construct		TVGGLVKWILNTVKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14597				STIP3-5	Synthetic construct		TVGGLVKWILDTVKKFI	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14598				STIP3-6	Synthetic construct		TVGGLVKWILDTVKKFW	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14599				STIP3-7	Synthetic construct		TVGGLVKWILDTVKKFK	17	34937169	Antibacterial		Experimentally validated
+CAMPSQ14600				STIP3-8	Synthetic construct		TVGVLVKWILDTVKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14601				STIP3-9	Synthetic construct		TVGGLVKWILDVVKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14602				STIP3-10	Synthetic construct		TVGGLVKWILDWVKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14603				STIP3-11	Synthetic construct		TVGGLVKWILDTFKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14604				STIP3-12	Synthetic construct		TVGGLVKWILAAVKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14605				STIP3-13	Synthetic construct		TVGGLVKWILKAVKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14606				STIP3-14	Synthetic construct		TVKGLVKWILNVVKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14607				STIP3-15	Synthetic construct		TVAGLVKWILATVKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14608				STIP3-16	Synthetic construct		TVKGLVKWILATVKKFA	17	34937169	Antibacterial	Gram +ve	Experimentally validated

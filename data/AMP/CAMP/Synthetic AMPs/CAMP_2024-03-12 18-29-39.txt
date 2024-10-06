@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ15081				LfcinB6	Synthetic construct		RRWQWR	6	35288606	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16235				Cyclic hexapeptide	Synthetic construct		WRWRWR	6	35331693	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ16619				Peptide-3	Synthetic construct		RWIRWL	6	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16623				Peptide-7	Synthetic construct		KWRRWI	6	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ17665		Q9BYF1		ACE2 (37-42)	Synthetic construct		EDLFYQ	6	33356169	Antiviral	Gram+,Gram-	Experimentally validated
+CAMPSQ18311				Bacaucin-13, Bacaucin (1-6)	Synthetic construct		ELLSRV	6	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18312				Bacaucin-14, Bacaucin (2-7)	Synthetic construct		LLSRVD	6	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ19430				Tryptophan-rich hexapeptide PAF26.r1a	Synthetic construct		akkwfw	6	17222805	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19431				Tryptophan-rich hexapeptide PAF26.k2a	Synthetic construct		rakwfw	6	17222805	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19432				Tryptophan-rich hexapeptide PAF26.k3a	Synthetic construct		rkawfw	6	17222805	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19433				Tryptophan-rich hexapeptide PAF26.w4a	Synthetic construct		rkkafw	6	17222805	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19434				Tryptophan-rich hexapeptide PAF26.f5a	Synthetic construct		rkkwaw	6	17222805	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19435				Tryptophan-rich hexapeptide PAF26.w6a	Synthetic construct		rkkwfa	6	17222805	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19384		P02788		LF11 [Q2,4Del,N6W,I7Del,R8W,K9Del,V10Del]	Synthetic construct		FWRWRR	6	20956602	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19065		P33432		Puroindoline-A (39-44)	Synthetic construct		RWWKWW	6	33207639	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18798				Undefined	Synthetic construct		ICHHCI	6	27226784	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18780				KR5	Synthetic construct		KRRRRR	6	25157458	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18528				Undefined	Synthetic construct		ILwHxK	6	16048940	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19506				TAP	Synthetic construct		VDDDDK	6	9210699	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19517		P69437		Protonectin (1-6)	Synthetic construct		ILGTIL	6	20600225	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19600				Undefined	Synthetic construct		RRWWCR	6	10223949	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19824				GS6	Synthetic construct		KyPKyP	6	12712499	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19993				Undefined	Synthetic construct		kKlWlW	6	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19994				Undefined	Synthetic construct		kHlWlW	6	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19995				Undefined	Synthetic construct		kSlWlW	6	11473322	Antibacterial	Gram+,Gram-	Experimentally Validated

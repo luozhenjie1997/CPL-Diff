@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ377	38502876	P60031, Q7M3C3		Neutrophil defensin 3 	Macaca mulatta	Animalia (Mammals)	ACYCRIPACLAGERRYGTCFYRRRVWAFCC	30	10531277	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ378	38502877	P60032		Neutrophil defensin 8  	 Macaca mulatta	Animalia (Mammals)	ACYCRIPACLAGERRYGTCFYLRRVWAFCC	30	10531277	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ421	41016987	P83641		Dermadistinctin-Q1 	Phyllomedusa distincta	Animalia (Amphibia)	ALWKNMLKGIGKLAGQAALGAVKTLVGAES	30	10477123	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ466	461937, 740959	P80279		Dermaseptin-3 	Phyllomedusa sauvagii	Animalia (Amphibia)	ALWKNMLKGIGKLAGKAALGAVKKLVGAES	30	9395500	Antifungal, Antiviral		Experimentally validated
+CAMPSQ632	7993923	P82317		Neutrophil defensin 2 	Macaca mulatta	Animalia (Mammals)	ACYCRIPACLAGERRYGTCFYMGRVWAFCC	30	10531277	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ692	4758146	P59665	2KHT,2PM1,3GNY,3H6C,3HJ2,3HJD,3LO1,3LO2,3LO4,3LO6,3LO9,3LOE,3LVX,4DU0	Human defensin 1	Homo sapiens	Animalia (Mammals)	ACYCRIPACIAGERRYGTCIYQGRLWAFCC	30	17635867	Antibacterial		Experimentally validated
+CAMPSQ743	75284710	Q5I2B2		Antimicrobial peptide Ar-AMP	Amaranthus retroflexus	Plantae	AGECVQGRCPSGMCCSQFGYCGRGPKYCGR	30	16126239	Antifungal		Experimentally validated
+CAMPSQ760	76365061	P84639		Cycloviolin-C	Leonia cymosa	Plantae	GIPCGESCVFIPCLTTVAGCSCKNKVCYRN	30	10813905	Antiviral		Experimentally validated
+CAMPSQ761	76365062	P84640		Cycloviolin-D	Leonia cymosa	Plantae	GFPCGESCVFIPCISAAIGCSCKNKVCYRN	30	10813905	Antiviral		Experimentally validated
+CAMPSQ764	76364211	P84641		Circulin-C	Chassalia parviflora 	Plantae	CGESCVFIPCITSVAGCSCKSKVCYRNGIP	30	10691702	Antiviral		Experimentally validated
+CAMPSQ765	76364212	P84642		Circulin-D	Chassalia parviflora 	Plantae	KIPCGESCVWIPCVTSIFNCKCENKVCYHD	30	10691702	Antiviral		Experimentally validated
+CAMPSQ766	76364213	P84643		Circulin-E	Chassalia parviflora 	Plantae	KIPCGESCVWIPCLTSVFNCKCENKVCYHD	30	10691702	Antiviral		Experimentally validated
+CAMPSQ769				Cycloviolacin Y4	Viola yedoensis	Plantae	GVPCGESCVFIPCITGVIGCSCSSNVCYLN	30	18081258	Antiviral		Experimentally validated
+CAMPSQ770				Cycloviolacin Y5	Viola yedoensis	Plantae	GIPCAESCVWIPCTVTALVGCSCSDKVCYN	30	18081258	Antiviral		Experimentally validated
+CAMPSQ815	110808192	P84886		Curvaticin 	Lactobacillus curvatus	Monera	AYPGNGVHCGKYSCTVDKQTAIGNIGNNAA	30	15752569	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ844	13959290	P82964		Antibacterial 6.5 kDa protein	Carcinus maenas	Animalia (Crustaceans (Malacostraca))	XXVPYPRPFPRPPIGPRPLPFPGGGRPFQS	30	8856051	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ850	29337224	P81488		Dermaseptin-3	Phyllomedusa bicolor	Animalia (Amphibia)	ALWKTIIKGAGKMIGSLAKNLLGSQAQPES	30	9540838	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ875	134493	P02885		Sillucin	Rhizomucor pusillus	Fungi	ACLPNSCVSKGCCCGBSGYWCRQCGIKYTC	30	761621	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ928	67460130	P0C007		Dicynthaurin	Halocynthia aurantium 	Animalia	ILQKAVLDCLKAAGSSLSKAAITAIYNKIT	30	11479030	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1026	39654340	Q47765	1O82 , 1O83 ,1O84	Bacteriocin As-48	Enterococcus faecalis	Monera	AKEFGIPAAVAGTVLNVVEAGGWVTTIVSI	30	14623193	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1084	224487676	P0C8T3		Brevinin-2PTa	Rana picturata	Animalia (Amphibia)	GAIKDALKGAAKTVAVELLKKAQCKLEKTC	30	18621071	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1089	92090603	P84408		SAMPH1	Salmo salar	Animalia (Pisces)	AEVAPAPAAAAPAKAPKKKAAAKPKKAGPS	30	15917539	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ1118	68064400	P83959		Thaumatin-like protein	Phaseolus vulgaris	Plantae	ANFEIVNNCPYTVWAAASPGGGRRLDRGQT	30	10486265	Antifungal		Experimentally validated
+CAMPSQ1519	13959336	O93451		Dermaseptin PD-1-5	Pachymedusa dacnicolor	Animalia (Amphibia)	SLGSFMKGVGKGLATVGKIVADQFGKLLEA	30		Antibacterial	Gram+ve, Gram-ve	Predicted
+CAMPSQ1822	13959330	O93221		DermaseptinAA-1-1	Agalychnis annae	Animalia (Amphibia)	SLGSFMKGVGKGLATVGKIVADQFGKLLEA	30		Antibacterial	Gram+ve, Gram-ve	Predicted

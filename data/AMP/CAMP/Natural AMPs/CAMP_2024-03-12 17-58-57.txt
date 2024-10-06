@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13879				6289	HIV gp120	Virus	YTTKNIIGTIRAQAH	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13880				6290	HIV gp120	Virus	NIIGTIRQAHCNISR	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13881				6291	HIV gp120	Virus	TIRQAHCNISRAKWN	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13882				6292	HIV gp120	Virus	AHCNISRAKWNDTLR	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13883				6294	HIV gp120	Virus	KWNDTLRQIVSKLKE	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13884				6295	HIV gp120	Virus	TLRQIVSKLKEQFKN	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13885				6297	HIV gp120	Virus	LKEQFKNKTIVFNQS	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13886				6350	HIV gp141	Virus	HMLQLTVWGIKQLQA	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13887				6351	HIV gp141	Virus	LTVWGIKQLQARVLA	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13888				6352	HIV gp141	Virus	GIKQLQARVLAVERY	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13889				6359	HIV gp141	Virus	GKLICTTTVPWNASW	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13890				6383	HIV gp141	Virus	RIVFAVLSIVNRVRQ	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13891				6399	HIV gp141	Virus	LRSLFLFSYHHRDLL	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13892				6416	HIV gp141	Virus	VIEVLQRAGRAILHI	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13893				6417	HIV gp141	Virus	LQRAGRAILHIPTRI	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13894				6418	HIV gp141	Virus	GRAILHIPTRIRQGL	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13895				6419	HIV gp141	Virus	LHIPTRIRQGLERAL	15	12560103	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13946				15Hc	Halocynthia aurantium.	Animalia	WLNALLHHGLNCAKG	15	12878508	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14158				L-SP40	Enterovirus 71 (Capsid Protein VP1)	Virus	QMRRKVELFTYMRFD	15	34715144, 22563456	Antiviral		Experimentally validated
+CAMPSQ14402				S63	Bos taurus 	Animalia (Mammals)	GGLRSLGRKILRAWK	15	34780520	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14427				ToAP2A	Tityus obscurus	Animalia (Arachnida)	GSKLIPGVMKLFSKK	15	34746111	Antifungal		Experimentally validated
+CAMPSQ14429				ToAP2C	Tityus obscurus	Animalia (Arachnida)	GAKLIPGVMKLFRKK	15	34746111	Antifungal		Experimentally validated
+CAMPSQ14430				ToAP2D	Tityus obscurus	Animalia (Arachnida)	GDKLIPGVMKLFRKK	15	34746111	Antifungal		Experimentally validated
+CAMPSQ14941				BCtl	Bos taurus 	Animalia (Mammals)	RSMRLSFRARGYGFR	15	35216181	Antifungal		Experimentally validated
+CAMPSQ14954				HCtl	Homo sapiens 	Animalia (Mammals)	SSMKLSFRARAYGFR	15	35216181	Antifungal		Experimentally validated

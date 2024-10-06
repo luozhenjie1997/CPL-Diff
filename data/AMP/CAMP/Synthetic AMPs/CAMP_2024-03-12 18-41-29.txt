@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ16684		P0ABH3		Ac-FtsA11	Synthetic construct		WIKRLNSWLRK	11	30279152	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ17185		P80280		C12- Dermaseptin S4 (5-15)AMD	Synthetic construct		TLLKKVLKAAA	11	17043126	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17541		P80280		 Dermaseptin C12-S4(5–15)	Synthetic construct		TLLKKVLKAAA	11	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17540		P80280		 Dermaseptin S4(5–15)	Synthetic construct		TLLKKVLKAAA	11	17254954	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18066				Bp4	Synthetic construct		LLCKLKCKLKL	11	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18359				BP100 [K1Ala-d3]	Synthetic construct		XKLFKKILKYL	11	26975251	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18360				BP100 [K2Ala-d3]	Synthetic construct		KXLFKKILKYL	11	26975251	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18361				BP100 [L3Ala-d3]	Synthetic construct		KKXFKKILKYL	11	26975251	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18362				BP208	Synthetic construct		KKLXKKILKYL	11	26975251, 26574005	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18363				BP100 [K5Ala-d3]	Synthetic construct		KKLFXKILKYL	11	26975251	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18364				BP100 [K6Ala-d3]	Synthetic construct		KKLFKXILKYL	11	26975251	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18365				BP100 [I7Ala-d3]	Synthetic construct		KKLFKKXLKYL	11	26975251	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18366				BP100 [L8Ala-d3]	Synthetic construct		KKLFKKIXKYL	11	26975251	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18367				BP100 [K9Ala-d3]	Synthetic construct		KKLFKKILXYL	11	26975251	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18368				BP100 [Y10Ala-d3]	Synthetic construct		KKLFKKILKXL	11	26975251	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18369				BP100 [L11Ala-d3]	Synthetic construct		KKLFKKILKYX	11	26975251	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18398				L6	Synthetic construct		RRLRLLLRLRR	11	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18399				L6pf	Synthetic construct		RLLRRLRRLLR	11	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18400				F6	Synthetic construct		RRFRFFFRFRR	11	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18401				F6pf	Synthetic construct		RFFRRFRRFFR	11	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18402				I6	Synthetic construct		RRIRIIIRIRR	11	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18403				I6pf	Synthetic construct		RIIRRIRRIIR	11	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18404				W6	Synthetic construct		RRWRWWWRWRR	11	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18405				W6pf	Synthetic construct		RWWRRWRRWWR	11	29648811	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18428				Cm-p5 [L5del]	Synthetic construct		SRSEIVHQRLF	11	31763531	Antibacterial, Antifungal	Gram +ve,Gram -ve	Experimentally Validated

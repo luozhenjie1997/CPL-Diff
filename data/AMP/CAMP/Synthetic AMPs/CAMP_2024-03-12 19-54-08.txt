@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18283		A0A2R7WNA0		Oncocin [N18C]-G	Synthetic construct		VDKPPYLPRPRPPRRIYCRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18284		A0A2R7WNA0		Oncocin [N18K]-G	Synthetic construct		VDKPPYLPRPRPPRRIYKRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18285				Oncocin [N18W]-G	Synthetic construct		VDKPPYLPRPRPPRRIYWRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18286		A0A2R7WNA0		Oncocin [N18Y]-G	Synthetic construct		VDKPPYLPRPRPPRRIYYRG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18287		A0A2R7WNA0		Oncocin [R19H]-G	Synthetic construct		VDKPPYLPRPRPPRRIYNHG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ18288		A0A2R7WNA0		Oncocin [R19K]-G	Synthetic construct		VDKPPYLPRPRPPRRIYNKG	20	26334348	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ19425		P80279		Dermaseptin-3 (1-20), Dermaseptin-S3 (1-20)	Synthetic construct		ALWKNMLKGIGKLAGKAALG	20	7989335	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19409		P49929		GGH-Ovispirin-3-GGC	Synthetic construct		GGHIRRIIRKIIHIIKKGGC	20	29172482	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19204				APP, ppTG20 [F3A,L7T,S12Q,W14T,L16Q,L18T]	Synthetic construct		GLARALTRLLRQLTRQLTRA	20	26743655, 22923068	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19194		P55788		Thanatin 1, Thanatin [T15del]	Synthetic construct		GSKKPVPIIYCNRRGKCQRM	20	12297012	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19195		P55788		Thanatin 2, Thanatin [G16del]	Synthetic construct		GSKKPVPIIYCNRRTKCQRM	20	12297012	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19187		P36190		Ceratotoxin-A (17-36)	Synthetic construct		GKIALPIAKAALPVAAGLVG	20	15581850	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19162		P01507		CA(1-7)-Hecate11/23	Synthetic construct		KWKLFKKALKKLKKALKKAL	20	29679519	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19116		Q9MC90		Phage D3 ORF31 (5675)a, X3a	Synthetic construct		KVYLPRYKVYSTAAGRYQLL	20	16165250	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ19044		P49928		Cathelin-related peptide SC5/SMAP-29/ Myeloid antibacterial peptide MAP-29 (6-25)	Synthetic construct		LGRKIAHGVKKYGPTVLRII	20	11600395	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19030				CKIA20	Synthetic construct		IAGKIAKIAGKIAKIAGKIA	20	32126225	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18905		P24627		LFampin 265-284 [K5,9,13,18R]	Synthetic construct		DLIWRLLSRAQERFGKNRSR	20	27832504	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18904		P24627		LFampin 265-284 [R20K]	Synthetic construct		DLIWKLLSKAQEKFGKNKSK	20	27832504	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18881				KG20	Synthetic construct		KLLLKLKLKLLKGWKRKRFG	20	24419338	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18803		P01858,		Tuftsin derived peptide, OT20, (TKPKG)4	Synthetic construct		TKPKGTKPKGTKPKGTKPKG	20	28314993, 15048768	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ18770				Undefined	Synthetic construct		GKKYRRFRWKFRKGRFWFWG	20	20606063	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18745		P26664		HCV (1975-1994)	Synthetic construct		SWLRDIWDWICEVLSDFKTW	20	18287023	Antiviral		Experimentally Validated
+CAMPSQ18742		P26664		HCV (1973-1992)	Synthetic construct		SGSWLRDIWDWICEVLSDFK	20	18287023	Antiviral		Experimentally Validated
+CAMPSQ18698				[RLLR]5	Synthetic construct		RLLRRLLRRLLRRLLRRLLR	20	14718539, 10890923	Antibacterial, Antiviral, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ18540		P49913		LL-37 (13-32)[I13G,G14I,F17Phg]	Synthetic construct		GIKEXKRIVQRIKDFLRNLV	20	18591279	Antiviral	Gram+,Gram-	Experimentally Validated

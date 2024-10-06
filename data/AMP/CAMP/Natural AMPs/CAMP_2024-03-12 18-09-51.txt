@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ8139		O15240		Antimicrobial peptide VGF [554-577]	Homo sapiens 	Animalia (Mammals)	TLQPPSALRRRHYHHALPPSRHYP	24	23250050	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ8148		C0HJQ3		Histone H2A [Cleaved into: Acipensin 6 (Ac6)]	Acipenser gueldenstaedtii 	Animalia (Pisces)	ILELAGNAARDNKKTRIIPRHLQL	24	25558400	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9325				Smp24 	Scorpio maurus palmatus	Animalia	IWSFLIKAATKLLPSLFGGGKKDS	24	27019370	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9497				Pseudin-2	Pseudis paradoxa	Animalia	GLNALKKVFQGIHEAIKLINNHVQ	24	31102497	Antibacterial		Experimentally validated
+CAMPSQ9665				Brevinin-1SN1	Hylarana Spinulosa	Animalia	FLPAVLKVAAHILPTAICAISRRC	24	24055160	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9666				Brevinin-1SN2 	Hylarana Spinulosa	Animalia	FMGTALKIAANVLPAAFCKIFKKC	24	24055160	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ9981				NPY(13-36)	Sus scrofa	Animalia	PAEDLARYYSALRHYINLITRQRY	24	9756788	Antifungal		Experimentally validated
+CAMPSQ10001				Ocellatin1	Leptodactylus syphax 	Animalia	GVVDILKGAGKDLLAHLVGISEKV	24	17628627	Antibacterial		Predicted
+CAMPSQ10108				Lebocin?1 (SlLeb?1) subsequence 4, 135-158	Spodoptera litura	Animalia (Insect)	PTLPPFNPRPRYPWDDNPRYPIYV	24	31562754	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10279				Tat67-90	HIV-2	Virus	FLNKGLGIWYERKGRRRRTPKKTK	24	31417238	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ10418				Brevinin-1VLb	Lithobates vaillanti 	Animalia	FLGAIAGVAAKVLPKVFCFITKKC	24	19379837	Antibacterial, Antifungal 		Predicted
+CAMPSQ10436				Citropin-3.1.2	Litoria citropa	Animalia	DLFQVIKEKLKELTGGVIEGIQGV	24	10504394	Antibacterial		Predicted
+CAMPSQ10677				Gaegurin-LK1	Limnonectes kuhlii	Animalia	FIGPVLKMATSILPTAICKGFKKC	24	23054029	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10678				Gaegurin-LK2	Limnonectes kuhlii	Animalia	FLGPIIKMATGILPTAICKGLKKC	24	23054029	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10690				Brevinin-1VLa	Lithobates vaillanti 	Animalia	FLGAIAGVAAKFLPKVFCFITKKC	24	19379837	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10691				Brevinin-1VLc 	Lithobates vaillanti 	Animalia	FLPVIASVAAKVLPKVFCFITKKC	24	19379837	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10692				Brevinin-1VLd 	Lithobates vaillanti 	Animalia	FLPLIAGVAANFLPKIFCLISKKC	24	19379837	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10693				Brevinin-1VLe	Lithobates vaillanti 	Animalia	FLPLIAGVAASILPKIFCFITKKC	24	19379837	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10696				Brevinin-1Ma	R. sierrae	Animalia (Amphibia)	FLPILAGLAANLVPKLICSITKKC	24	31093727	Antifungal		Experimentally validated
+CAMPSQ10720				LSer-PRP4	Lucilia sericata	Animalia	SWIKKDKFPSSTGPYNPNPPPPRF	24	25666157	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10766				ALFPm11	Penaeus monodon	Animalia (Malacostraca)	YCSYSTRPYFLRWQLKFKTKIWCP	24	31465873	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10767				ALFPm3 	Penaeus monodon	Animalia (Malacostraca)	ECKFTVKPYLKRFQVYYKGRMWCP	24	31465873	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10879				SA-hepcidin2	Scatophagus argus	Animalia	NPAGCRFCCGCCPNMIGCGVCCRF	24	26845697	Antibacterial, Antiviral	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11003				Brevinin-1RTc 	Amolops ricketti 	Animalia	FLGSLLGLVGKIVPTLICKISKKC	24	22100518	Antibacterial		Predicted
+CAMPSQ11155				Homotarsinin (Htr-M)	Phyllomedusa tarsius	Animalia	NLVSDIIGSKKHMEKLISIIKKCR	24	28102305	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

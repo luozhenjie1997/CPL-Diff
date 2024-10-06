@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ9986				Palustrin-2ISb + 3aa	Synthetic construct		GLWNSIKIAGKKLFVNVLDKIRCKVAGGCKTSPDVEYHK	39	21911019	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10903				Def-DAA 	Synthetic construct		ATCDLASKWNWNHTLCAAHCIARRYRGGYCNSKAVCVCR	39	18214975	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11391				Hybrid peptide	Synthetic construct		GLPLLISWIKRKRQQAGPGSKKPVPIIYCNRRTGKCQRM	39	30701481	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12456				MERS-HR2P	Synthetic construct		GGGSLTQINTTLLDLTYEMLSLQQVVKALNESYIDLKEL	39	28906430	Antiviral		Experimentally validated
+CAMPSQ14318				CecB	Synthetic construct		KWKIFKKIEKVGRNIRDGIIKAGPAVQVVGQAATIYKGK	39	34512599	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14356				Fp10	Synthetic construct		DLSLDFEKLNVTLLDLTYEMNRIQDAIKKLNESYINLKE	39	34591335	Antiviral		Predicted
+CAMPSQ15086				Gp41CHR	Synthetic construct		WNNMTWMEWDREINNYTSLIHSLIEESQNQQEKNEQELL	39	35269936	Antiviral		Experimentally validated
+CAMPSQ17153				PR-39	Synthetic construct		RRRPRPPYLPRPRPPPFFPPRLPPRIPPGFPPRFPPRFP	39	24755622	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ19222		P81534		HBD3 (7-45)	Synthetic construct		QKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK	39	25706284	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19512		P85210		Cecropin-D-like peptide [I7K;A10K;A21,22,24R]	Synthetic construct		ENFFKEKERKGQRIRDAIISRRPRVETLAQAQKIIKGGD	39	25016054	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19513		P85210		Cecropin-D-like peptide [E6,8R;Q12K]	Synthetic construct		ENFFKRIRRAGKRIRDAIISAAPAVETLAQAQKIIKGGD	39	27999446	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19514		P85210,		Cecropin-D-like peptide [E1,6,8R;Q12K;D16K]	Synthetic construct		RNFFKRIRRAGKRIRKAIISAAPAVETLAQAQKIIKGGD	39	27999446, 33142969	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21043		P49913		FALL-39 [L30F,N32K]	Synthetic construct		FALLGDFFRKSKEKIGKEFKRIVQRIKDFFRKLVPRTES	39	14769216	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21044		P49913		FALL-39 [L30F,Q24K]	Synthetic construct		FALLGDFFRKSKEKIGKEFKRIVKRIKDFFRNLVPRTES	39	14769216	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21498		Q7SIP9		Undefined	Synthetic construct		WQEWEQKITALLEQAQIQQEKNEYELQKLDKWASLWEWF	39	17640899	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ23141		Q8WTQ1		HBD-4-1d	Synthetic construct		EFELDRIXXGYGTARCRKKRSQEYRIGRXPNTYAXCLRK	39	25785690	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23142		Q8WTQ1		HBD-4-2d	Synthetic construct		EFELDRICXGYGTARCRKKRSQEYRIGRXPNTYACCLRK	39	25785690	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23143		Q8WTQ1		HBD-4-3d	Synthetic construct		EFELDRICCGYGTARCRKKRSQEYRIGRCPNTYACCLRK	39	25785690	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23145		Q8WTQ1		HBD-4-1d [S]	Synthetic construct		EFELDRISSGYGTARCRKKRSQEYRIGRSPNTYASCLRK	39	25785690	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23168				Oxysterlin 1	Synthetic construct		GSKRWRKFEKRVKKIFEETKEALPVVQGVVAVATAVGRR	39	29186139	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23170				Oxysterlin 3	Synthetic construct		GSKRWRKFEKRVKKVFEHTKEALPVIQGVATVVGAVGRR	39	29186139	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23583		E4VP04		Potassium channel toxin MeuTXKalpha3 [F29K, P30F, Del31G, N32G, Y33I]	Synthetic construct		VDFPNKGGKCDRKECRKTCKKLNYRGKCKFGGICRCFPG	39	29867003	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23806				EK1C3	Synthetic construct		SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGSG	39	32231345	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ24078				EtCec2-NH2	Synthetic construct		GWLRDFGKRIERTGQNIRDATIQTIGIAQEAANVAATLK	39	32344933	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ24279		A0A5Q3LXF6		PcnAMP (1-39)	Synthetic construct		RPQFFEAVGDFVENVGEGVGDFFEGVGDFFSNVFSGSSR	39	31852752	Antibacterial	Gram+,Gram-	Experimentally Validated

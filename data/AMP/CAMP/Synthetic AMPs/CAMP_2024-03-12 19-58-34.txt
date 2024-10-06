@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ16551		Q08GI9		CSPC13 - hLF1-11	Synthetic construct		STFFRLFNRSFTQGRRRRSVQWCA	24	29434779	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16665		E7CQS2		TO24,  Tissue factor pathway inhibitor (197-220)	Synthetic construct		CVKGGKKYKRQGKGHRMRRYRNNH	24	30149134	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16677		P04610		TAT(48-57)-G-Dermaseptin DRS-DU-1 (1-13), DP-2	Synthetic construct		GRKKRRQRRRGALWKSLLKNVGKA	24	30258724	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16731				Brevinin-1GHc	Synthetic construct		FLGAVLKVCKISKKCAGKLVPAAI	24	30322120	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16732		P83189		Pseudin-2 [G11K]	Synthetic construct		GLNALKKVFQKIHEAIKLINNHVQ	24	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16733		P83189		Pseudin-2 [G11K,L18K]	Synthetic construct		GLNALKKVFQKIHEAIKKINNHVQ	24	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16734		P83189		Pse-Anal 1	Synthetic construct		WLNALKKVFQGIHEAIKLINNHVQ	24	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16735		P83189		Pse-Anal 2	Synthetic construct		WLNALKKVFQGIHEAIKLIWNHVQ	24	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16736		P83189		Pse-Anal 3	Synthetic construct		WLNALKKVFQGIHEAIKLIWNWVQ	24	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16737		P83189		Pse-Anal 4	Synthetic construct		WLNALKKVWQGIHEAIKLIWNWVQ	24	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16738		P83189		Pse-Anal 5	Synthetic construct		GLNALKKVSQGIHEAIKLINNHVQ	24	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16739		P83189		Pse-Anal 6	Synthetic construct		GLNALKKVSQGIHESIKLINNHVQ	24	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16740		P83189		Pse-Anal 7	Synthetic construct		ALNALKKVSQGIHEAIKLIANHVQ	24	30323036	Antibacterial, Antifungal	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ16814		P83240		Pandinin-2 [P14V], Pin2 [P14V]	Synthetic construct		FWGALAKGALKLIVSLFSSFSKKD	24	20033827	Antibacterial, Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ17150		P80054		PR-39 (16-39)	Synthetic construct		PFFPPRLPPRIPPGFPPRFPPRFP	24	24755622	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17156		Q962B2		Penaeidin 3-4/Penaeidin-3k (1-24)	Synthetic construct		ZGYKGPYTRPILRPYVRPVVSYNA	24	16999777	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ17736				PR-39(16-39)	Synthetic construct		PFFPPRLPPRIPPGFPPRFEPPREP	24	24755622	Antibacterial	Gram -ve, Gram +ve	Experimentally validated
+CAMPSQ19410		P32412		Brevinin-1E Acm	Synthetic construct		FLPLLAGLAANFLPKIFXKITRKX	24	11892852, 9748603	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19411		P32412		Brevinin-1E [(18-24)AA(9-15)]	Synthetic construct		FLPLLAGLCKITRKCAANFLPKIF	24	11892852	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19412		P32412		Brevinin-1E [(18-24)AA(9-15)] linear	Synthetic construct		FLPLLAGLXKITRKXAANFLPKIF	24	11892852	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19415				P10	Synthetic construct		LAREYKKIVEKLKRWLRQVLRTLR	24	33346078, 24841266	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ19302				Ac-PEG-MK5E	Synthetic construct		XGIGKFIHAVKKWGKTFIGEIAKS	24	19104020	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19303				Ac-MK5E-PEG	Synthetic construct		GIGKFIHAVKKWGKTFIGEIAKSX	24	19104020	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19092		P59665		Neutrophil defensin 1 / HNP-1 AMD(C2,4,9,19,29,30Del)	Synthetic construct		AYRIPAIAGERRYGTIYQGRLWAF	24	16251296	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19086		P15516		P-113Du	Synthetic construct		AKRHHGYKRKFHAKRHHGYKRKFH	24	27458227	Antifungal	Gram+,Gram-	Experimentally Validated

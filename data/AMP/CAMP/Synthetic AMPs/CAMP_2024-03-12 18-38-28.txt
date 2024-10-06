@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ21007				Gramicidin S-9	Synthetic construct		fPXVXfPXVX	10	20848624	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21142		P82656		H/V-peptide (19-28)	Synthetic construct		KLKRKAKNAV	10	23403131	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21188		P19661		Cathelicidin-3 (15-24), Bactenecin-7 (15-24)	Synthetic construct		PRPLPFPRPG	10	12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21259		Q8N2E6		Salusin-beta (11-20)	Synthetic construct		KLGHHGRAPP	10	24881665	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21330				Undefined	Synthetic construct		GXRKXKAXWH	10	20176897	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21444				Laterocidin [D10N]	Synthetic construct		LVXLyPFfNN	10	19932962	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21445				Laterocidin [y5f,D10N]	Synthetic construct		LVXLfPFfNN	10	19932962	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21446				Laterocidin [y5F,F7Y,f8F,D10N]	Synthetic construct		LVXLfPYfNN	10	19932962	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21447				Gramicidin S analog 1, GS analog 1	Synthetic construct		XXXfPXXXfP	10	19713990	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21448				Gramicidin S analog 2, GS analog 2	Synthetic construct		KXKfPKXKfP	10	19713990	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21656				Undefined	Synthetic construct		RRRRRWFWFW	10	21286704	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21707				Undefined	Synthetic construct		WQCLTLTHRG	10	19850483	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21709				Undefined	Synthetic construct		WQSLTLTHRG	10	19850483	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21821		P04610		TAT(48-57)	Synthetic construct		GRKKRRQRRR	10	22319541	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21822		P04610		TAT(48-57)[G1R]	Synthetic construct		RRKKRRQRRR	10	22319541	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21823		P04610		TAT(48-57)[Q7R]	Synthetic construct		GRKKRRRRRR	10	22319541	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21824		P04610		TAT(48-57)[G1R,Q7R]	Synthetic construct		RRKKRRRRRR	10	22319541	Antiviral	Gram+	Experimentally Validated
+CAMPSQ21825				Undefined	Synthetic construct		RRRRRRRRRR	10	22319541, 24243601, 26922474	Antibacterial, Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21828				K10	Synthetic construct		KKKKKKKKKK	10	24243601, 26922474, 21291934	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21839				P10	Synthetic construct		PPPPPPPPPP	10	24243601, 26922474	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21844				Gramicidin S (His)	Synthetic construct		HLHfPHLHfP	10	21610712	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21845				Gramicidin S (Lys)	Synthetic construct		KLKfPKLKfP	10	21610712	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21846				Gramicidin S (Dap)	Synthetic construct		XLXfPXLXfP	10	21610712	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21941		E3SYG2		Brevinin CTcu5 (1-10)	Synthetic construct		LIAGLAANFL	10	25997127	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21948		P01680		KP [A1H], H10S	Synthetic construct		HKVTMTCSAS	10	33578728	Antifungal	Gram+,Gram-	Experimentally Validated

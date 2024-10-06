@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22410		P11006		Magainin-2 [F12A]	Synthetic construct		GIGKFLHSAKKAGKAFVGEIMNS	23	25898805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22411		P11006		Magainin-2 [G13A]	Synthetic construct		GIGKFLHSAKKFAKAFVGEIMNS	23	25898805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22412		P11006		Magainin-2 [F16A]	Synthetic construct		GIGKFLHSAKKFGKAAVGEIMNS	23	25898805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22413		P11006		Magainin-2 [V17A]	Synthetic construct		GIGKFLHSAKKFGKAFAGEIMNS	23	25898805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22414		P11006		Magainin-2 [G18A]	Synthetic construct		GIGKFLHSAKKFGKAFVAEIMNS	23	25898805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22415		P11006		Magainin-2 [I20A]	Synthetic construct		GIGKFLHSAKKFGKAFVGEAMNS	23	25898805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22416		P11006		Magainin-2 [L6CF3-Bpg]	Synthetic construct		GIGKFXHSAKKFGKAFVGEIMNS	23	25898805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22417		P11006		Magainin-2 [G13CF3-Bpg]	Synthetic construct		GIGKFLHSAKKFXKAFVGEIMNS	23	25898805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22418		P11006		Magainin-2 [A15CF3-Bpg]	Synthetic construct		GIGKFLHSAKKFGKXFVGEIMNS	23	25898805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22419		P11006		Magainin-2 [F16CF3-Bpg]	Synthetic construct		GIGKFLHSAKKFGKAXVGEIMNS	23	25898805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22420		P11006		Magainin-2 [V17CF3-Bpg]	Synthetic construct		GIGKFLHSAKKFGKAFXGEIMNS	23	25898805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22421		P11006		Magainin-2 [G18CF3-Bpg]	Synthetic construct		GIGKFLHSAKKFGKAFVXEIMNS	23	25898805	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22524		M5AE98		Rb Piscidin (20-42), RbPisc (20-42)	Synthetic construct		GEGFLGMLLHGVGHAIHGLIHGK	23	26876358	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22820				Reversed Warnericin RK	Synthetic construct		MNGFILGKFFDVAKKILDTIFQK	23	25869678	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ22904		Q19AZ8		Prothrombin (601-623)	Synthetic construct		YGFYTHVFRLKKWMQKVIDRFGG	23	27439393	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22912		P01507		Cecropin A (1-8) + Fowlicidin-2 (6-20)	Synthetic construct		KWKLFKKIRFGRFLRKIRRFRPK	23	32098142	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22936		P80195		Lactophoricin, LPcin	Synthetic construct		NTVKETIKYLKSLFSHAFEVVKT	23	28104898	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22938		P80195		LPcin [T2,6W], LPcin-YK2	Synthetic construct		NWVKEWIKYLKSLFSHAFEVVKT	23	28104898	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22957		P01514		NCR247 (13-24) + Transportan (17-27)	Synthetic construct		QQCRRPLYCRRRKALAALAKKIL	23	32153547	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22959		P01514		Transportan (17-27) + NCR247 (13-24)	Synthetic construct		KALAALAKKILQQCRRPLYCRRR	23	32153547	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22981		A0A0E3M331		Piscidin-3 (1-23), ecPis-3 (1-23)	Synthetic construct		IFGLLLHGAIHVGKLIHGLVRRH	23	28433718	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23607				D2A21	Synthetic construct		FAKKFAKKFKKFAKKFAKFAFAF	23	11751108, 32204024	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23695				Magainin-R1 [F5W]	Synthetic construct		GIGKWLHSAKKFGKAFVGEIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23696		C0HKN6		Magainin-R1 [G3,18K; F5W; A15K; E19K]	Synthetic construct		GIKKWLHSAKKFGKKFVKKIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23697		C0HKN6		Magainin-R1 [G3,18K; F5W; S8K; A9G; A15K; E19K]	Synthetic construct		GIKKWLHKGKKFGKKFVKKIMNS	23	32786298	Antibacterial	Gram+,Gram-	Experimentally Validated

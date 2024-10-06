@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ23186				Undefined	Synthetic construct		RTXCXfLRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23187				Undefined	Synthetic construct		XTRCXfLRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23188				Undefined	Synthetic construct		RTRCXfLRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23189				Undefined	Synthetic construct		RTRCXfLRRC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23190				Undefined	Synthetic construct		RTRCRfLRRC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23191				Undefined	Synthetic construct		XTXCXfXXXc	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23192				Undefined	Synthetic construct		KTXCXfLKXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23193				Undefined	Synthetic construct		RTKCXfLRKC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23194				Undefined	Synthetic construct		RTHCXfLRHC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23195				Undefined	Synthetic construct		RTXCXlTRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23196				Undefined	Synthetic construct		RTXCXlLRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23197				Undefined	Synthetic construct		RTXCXwLRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23198				Undefined	Synthetic construct		RTXCXfTRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23199				Undefined	Synthetic construct		RTXCXfGRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23200				Undefined	Synthetic construct		RTXCXGLRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23201				Undefined	Synthetic construct		RTXCXGGRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23202				Undefined	Synthetic construct		RTRCXfMRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23203				Undefined	Synthetic construct		RTXCXfMRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23204				Undefined	Synthetic construct		XTXCXfMXXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23205				Undefined	Synthetic construct		RTXSXfLRXS	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23206				Undefined	Synthetic construct		RTRCRfLRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23207				Undefined	Synthetic construct		RTXCRfLRXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23208				Undefined	Synthetic construct		RTRCXfLXXC	10	26024044	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23249		Q9PWF3		Crotamine (30-39)	Synthetic construct		CRWRWKCCKK	10	27836642	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ23250		Q9PWF3		Crotamine (30-39)[C1,7,8S]	Synthetic construct		SRWRWKSSKK	10	27836642	Antibacterial	Gram+	Experimentally Validated

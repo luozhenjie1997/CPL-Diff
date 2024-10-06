@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ12278				Mastoparan-C (MP-C)	Vespa crabro	Animalia (Insects)	LNLKALLAVAKKIL	14	29904274	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12486				D-LFcin17-30	Bos taurus	Animalia (Mammals)	FKCRRWQWRMKKLG	14	28875176	Antibacterial		Experimentally validated
+CAMPSQ12675				Hc6	Hydrophis cyanocinctus	Animalia (Reptiles)	KFFKRLLKSVRRAV	14	28572668	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13380				U-VVTX-Vm1a	V. ducalis	Animalia (Insecta)	INLKAIAASAKKLL	14	34237341	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13381				U-VVTX-Vm1b	V. ducalis	Animalia (Insecta)	INLRAIAALAKKLL	14	34237341	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13382				U-VVTX-Vm1c	V. ducalis	Animalia (Insecta)	INLKAVAALAKKLL	14	34237341	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13383				U-VVTX-Vm1d	V. mandarinia	Animalia (Insecta)	INLKAIAALGKKLL	14	34237341	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13384				U-VVTX-Vm1e	V. affinis	Animalia (Insecta)	INLRAIAAFAKKLL	14	34237341	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13568				Smp43(1-14)	Scorpio maurus palmatus	Animalia (Arachnida)	GVWDWIKKTAGKIW	14	34064808	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ13696				Brevibacillin 2V	Brevibacillus laterosporus DSM 25	Monera	XJLoVVVkVVKyLV	14	34220785	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13697				Brevibacillin V	Brevibacillus laterosporus DSM 26	Monera	XJLoIVVkVVKyLV	14	34220785	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13698				Brevibacillin	Brevibacillus laterosporus DSM 27	Monera	XJLoIIVkVVKyLV	14	34220785	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13699				Brevibacillin I	Brevibacillus laterosporus DSM 28	Monera	XJLoIIVkIVKyLV	14	34220785	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13945				14Hc	Halocynthia aurantium.	Animalia	WLNALLHHGLNCAK	14	12878508	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14230				EMP-AF-OR	Eumenine Anterhynchium flavomarginatum micado	Animalia	INLLKIAKGIIKSL	14	34680789	Antibacterial		Experimentally validated
+CAMPSQ14235				Peptide 4	Bos taurus	Animalia	KANEGLTWNSLKDK	14	28878220	Antiviral		Experimentally validated
+CAMPSQ14582				Defensin, isoform B and C	Zophobas morio	Animalia (Insects)	FTCDVLGFEIAGTK	14	34941846	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14679				Checacin1 (12-25)	Chelifer cancroides	Animalia (Arachnida)	FLPAIYKQIQKKRK	14	35051034	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14681				MpVT	Vespa tropica	Animalia (Insects)	INLKAIAAFAKKLI	14	35056876	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14682				MpVT1	Vespa tropica	Animalia (Insects)	INLKAIAAFAKKFI	14	35056876	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14683				MpVT3	Vespa tropica	Animalia (Insects)	INLKAIAAFAKALI	14	35056876	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14975				Peptide 4	Saccharomyces cerevisiae	Fungi	IPAPRGSGIVASPA	14	35215278	Antibacterial		Predicted
+CAMPSQ14982				Peptide 11	Saccharomyces cerevisiae	Fungi	NLLDKVDSIIIGGG	14	35215278	Antibacterial		Predicted
+CAMPSQ14993				Peptide 22	Saccharomyces cerevisiae	Fungi	IVDVPVGPGLLGRV	14	35215278	Antibacterial		Predicted
+CAMPSQ14998				Peptide 27	Saccharomyces cerevisiae	Fungi	LPANLVDLNVPAKL	14	35215278	Antibacterial		Predicted

@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13937				C12-KAak	Synthetic construct		XKAak	5	17038500	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13938				C16-KGGk	Synthetic construct		XKGGk	5	17038500	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13939				C16-KKkK	Synthetic construct		XKKkK	5	17038500	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13940				C16-KkEK	Synthetic construct		XKkEK	5	17038500	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13941				C16-GIGk	Synthetic construct		XGIGk	5	17038500	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14368				Peptide 5	Synthetic construct		GVLVQ	5	34502335	Antiviral		Experimentally validated
+CAMPSQ14377				LIP2	Synthetic construct		JGGOO	5	34817038	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14378				LIP3	Synthetic construct		JGKOO	5	34817038	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14381				LIP6	Synthetic construct		UGGOO	5	34817038	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14382				LIP11	Synthetic construct		UGKOO	5	34817038	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14390				Peptide PP4	Synthetic construct		KTTKS	5	34834377	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14553				Peptide 1a	Synthetic construct		RWWRF	5	34943728	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14554				Peptide 1b	Synthetic construct		RWWRF	5	34943728	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14555				Peptide 1c	Synthetic construct		RWWRF	5	34943728	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14556				Pepide 2a	Synthetic construct		RBBRF	5	34943728	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14557				Peptide 2b	Synthetic construct		RBBRF	5	34943728	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14558				Pepide 2c	Synthetic construct		RBBRF	5	34943728	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15118				UGR1-?N	Synthetic construct		SELFP	5	35257734	Antiviral		Experimentally validated
+CAMPSQ15133				Gramicidin S 	Synthetic construct		VXLfP	5	35236909	Antiviral		Experimentally validated
+CAMPSQ16620				Peptide-4	Synthetic construct		WIRWL	5	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ16624				Peptide-8	Synthetic construct		KWRRW	5	30103288	Antibacterial	Gram+ve	Experimentally validated
+CAMPSQ18313				Bacaucin-15, Bacaucin (3-7)	Synthetic construct		LSRVD	5	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18314				Bacaucin-16	Synthetic construct		LLSRV	5	28106348	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ19508				TAP analog 1	Synthetic construct		DDDDK	5	9210699	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19509				TAP analog 2	Synthetic construct		GDDDK	5	9210699	Antibacterial	Gram+	Experimentally Validated

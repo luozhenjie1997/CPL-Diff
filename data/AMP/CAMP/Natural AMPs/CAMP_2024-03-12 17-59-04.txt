@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ14983				Peptide 12	Saccharomyces cerevisiae	Fungi	NLLDKVDSIIIGGGM	15	35215278	Antibacterial		Predicted
+CAMPSQ15005				Peptide 34	Saccharomyces cerevisiae	Fungi	VPIGRGQRELIIGDR	15	35215278	Antibacterial		Predicted
+CAMPSQ15029				Peptide 58	Saccharomyces cerevisiae	Fungi	SPPPVFNKPPTGPPP	15	35215278	Antibacterial		Predicted
+CAMPSQ15042				Peptide 1	Escherichia coli	Monera	TINNVTRYNDRTMLG	15	35155572	Antibacterial		Predicted
+CAMPSQ15043				Peptide 2	Escherichia coli	Monera	PVLPGQAASSRPSPV	15	35155572	Antibacterial		Predicted
+CAMPSQ15044				Peptide 3	Escherichia coli	Monera	NNVTRYNDRTMLGTA	15	35155572	Antibacterial		Predicted
+CAMPSQ15045				Peptide 4	Escherichia coli	Monera	EPYKGLTINNVTRYN	15	35155572	Antibacterial		Predicted
+CAMPSQ15046				Peptide 5	Escherichia coli	Monera	RLIDISNILQSRTCA	15	35155572	Antibacterial		Predicted
+CAMPSQ15047				Peptide 6	Escherichia coli	Monera	TLPVLPGQAASSRPS	15	35155572	Antibacterial		Predicted
+CAMPSQ15048				Peptide 7	Escherichia coli	Monera	YKGLTINNVTRYNDR	15	35155572	Antibacterial		Predicted
+CAMPSQ15049				Peptide 8	Escherichia coli	Monera	RSSAAQGPLVPLTKM	15	35155572	Antibacterial		Predicted
+CAMPSQ15073				QUB-1641	Kassina senegalensis	Animalia (Amphibia)	FLALALIQEAIAKLK	15	35203845	Antibacterial	Gram+ve, Gram-ve	Experimentally validated
+CAMPSQ15145				HPA3NT3	Helicobacter pylori	Monera (Bacteria)	FKRLKKLFKKIWNWK	15	22982494	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15146				HPA3NT3-F1A	Helicobacter pylori	Monera (Bacteria)	AKRLKKLFKKIWNWK	15	22982494	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15147				HPA3NT3-F8A	Helicobacter pylori	Monera (Bacteria)	FKRLKKLAKKIWNWK	15	22982494	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15148				HPA3NT3-F1AF8A	Helicobacter pylori	Monera (Bacteria)	AKRLKKLAKKIWNWK	15	22982494	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15149				HPA3NT3-A1	Helicobacter pylori	Monera (Bacteria)	AKRLKKLAKKIWKWL	15	22982494	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15150				HPA3NT3-A2	Helicobacter pylori	Monera (Bacteria)	AKRLKKLAKKIWKWK	15	22982494	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15153				HPA3NT3-analog	Helicobacter pylori	Monera (Bacteria)	FKKLKKLFKKILKLK	15	19642077	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16803		D1MEI6		EpVP1, VP1 protein	Eumenes pomiformis	Animalia	INLKGLIKKVASLLT	15	21184791	Antibacterial, Antifungal,Mammalian Cell	Gram+,Gram-	Experimentally validated
+CAMPSQ19740		A0A0A0R4V9		Temporin-MS1	Sylvirana maosonensis (Hylarana maosonensis)	Animalia	FLTGLIGGLMKALGK	15	28402481	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22291				Emerimicin IV	Emericellopsis sp. BAUA8289,Emericellopsis minima	Fungi	FXXXVGLXXXQXXXX	15	10994817, 28669240	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23180		A0A0F7VRL1	2N5C	Chaxapeptin	Streptomyces leeuwenhoekii	Bacteria	GFGSKPLDSFGLNFF	15	26402731	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ24387		A0A6H1PRM4		PsPSAPL-1	Platichthys stellatus	Animalia	YLPKVLHQTPGHLKP	15	32619625	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ24388		A0A6H1PRM4		PsPSAPL-2	Platichthys stellatus	Animalia	FTKIYGSRLQKVLGN	15	32619625	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated

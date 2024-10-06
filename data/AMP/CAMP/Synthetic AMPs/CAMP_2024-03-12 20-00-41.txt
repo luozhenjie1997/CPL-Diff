@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22546		P01501		Melittin [I17K]	Synthetic construct		GIGAVLKVLTTGLPALKSWIKRKRQQ	26	27011349	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22547		P01501		Melittin [G1I]	Synthetic construct		IIGAVLKVLTTGLPALISWIKRKRQQ	26	27011349	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ22666				ISGCock_Contig04_0915	Synthetic construct		GTFIKQQRKQKQQRHHTSGTRKRMAK	26	27167617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22667				ISGCock_Contig16_2060	Synthetic construct		ASITHVKNRGKYIYMHLKFRKTNVLI	26	27167617	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22704		P39084		Recombinant Ranalexin	Synthetic construct		FLGGLIKIVPAMICAVTKKCHHHHHH	26	24166764	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22916		P04114		P-Apolipoprotein B (914-938)	Synthetic construct		PHVALKPGKLKFIIPSPKRPVKLLSG	26	28131846	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23124		P07357		C1, Complement component C8 alpha chain (247-272)	Synthetic construct		SFGVTIGIGPAGSPLLVGVGVSHSQD	26	24101243	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23176				Undefined	Synthetic construct		RRGYGLKLALAKDGWALMLRLGFGRR	26	17918962, 16020534	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23177				Undefined	Synthetic construct		RRGFSLKLALAKDGWALMLRLGYGRR	26	17918962, 16020534	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23178				Undefined	Synthetic construct		RRGAGLGLALAKDGWALMLKLGFGRR	26	17918962	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23179				Undefined	Synthetic construct		RRGGGLELALAKDGWALMLDLGAGRR	26	17918962, 16020534	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23501				Undefined	Synthetic construct		klrsllrtlsrakaaklrtllralsr	26	30848594	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23502				Undefined	Synthetic construct		klksllktlskakaaklktllkalsk	26	30848594	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23503				Undefined	Synthetic construct		klxsllxtlsxakaaklxtllxalsx	26	30848594	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23504				Undefined	Synthetic construct		klksllktlskakaaklktllkalss	26	30848594	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23505				Undefined	Synthetic construct		klXsllXtlsXakaaklXtllXalss	26	30848594	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23506				Undefined	Synthetic construct		klxsllxtlsxaaaaalxtllxalsx	26	30848594	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23639		P01501		Melittin [L9A]	Synthetic construct		GIGAVLKVATTGLPALISWIKRKRQQ	26	20695504	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23640		P01501		Melittin [L16A]	Synthetic construct		GIGAVLKVLTTGLPAAISWIKRKRQQ	26	20695504	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23641		P01501		Melittin [L9,16A]	Synthetic construct		GIGAVLKVATTGLPAAISWIKRKRQQ	26	20695504	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23642		P01501		Melittin [L9,13A]	Synthetic construct		GIGAVLKVATTGAPALISWIKRKRQQ	26	20695504	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23643		P01501		Melittin Scrambled	Synthetic construct		GGILVAKLVTTLGPALISWIKRKRQQ	26	20695504	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23651		P01501		Melittin [L14A]	Synthetic construct		GIGAVLKVLTTGAPALISWIKRKRQQ	26	15475354	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23652		P01501		Melittin [L6,14A]	Synthetic construct		GIGAVAKVLTTGAPALISWIKRKRQQ	26	15475354	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23677		Q95Z19		Melittin [L6,13NLYS; I20NLYS]	Synthetic construct		GIGAVXKVLTTGXPALISWXKRKRQQ	26	17462584	Antibacterial	Gram+,Gram-	Experimentally Validated

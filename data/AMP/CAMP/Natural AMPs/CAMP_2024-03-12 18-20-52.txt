@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1907	152112498	A4H235		Beta-defensin123	Gorilla gorilla gorilla	Animalia (Mammals)	GTQRCWNLYGKCRYRCSKKERVYVYCINNKMCCVKPKYQPKERWWPF	47		Antibacterial		Predicted
+CAMPSQ1924	84028884	Q30KK5		Beta-defensin123	Pan troglodytes	Animalia (Mammals)	GTQRCWNLYGKCRYRCSKKERVYVYCINNKMCCVKPKYQPKERWWPF	47		Antibacterial		Predicted
+CAMPSQ1930	61212938	Q5J5D0, I2CWS9		Beta-defensin123	Macaca mulatta	Animalia (Mammals)	GTQRCWNLYGKCRHRCSKKERVYVYCLNNKMCCVKPKYQPKEKWWPF	47		Antibacterial		Predicted
+CAMPSQ1933	26392719	Q8N688		Beta-defensin123	Homo sapiens 	Animalia (Mammals)	GTQRCWNLYGKCRYRCSKKERVYVYCINNKMCCVKPKYQPKERWWPF	47		Antibacterial		Predicted
+CAMPSQ2015	123779960	Q30KM9		Beta-defensin 43	 Mus musculus	Animalia (Mammals)	FLENQDCSKHRHCRMKCKANEYAVRYCEDWTICCRVKKKESKKKKMW	47		Antibacterial		Predicted
+CAMPSQ2107	74762871	Q4QY38		Beta-defensin134	Homo sapiens 	Animalia (Mammals)	GINSLSSEMHKKCYKNGICRLECYESEMLVAYCMFQLECCVKGNPAP	47		Antibacterial		Predicted
+CAMPSQ2911				  Enterocin A 	Enterococcus faecium	Monera	TTHSGKYYGNGVYCTKNKCTVDWAKATTCIAGMSIGGFLGGAIPGKC	47	8633865	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3163				  Chicken AvBD7 	Gallus gallus	Animalia (Aves)	QPFIPRPIDTCRLRNGICFPGICRRPYYWIGTCNNGIGSCCARGWRS	47	19738012	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3166				  Vv-AMP1 	Vitis vinifera	Plantae	RTCESQSHRFKGTCVRQSNCAAVCQTEGFHGGNCRGFRRRCFCTKHC	47	18611251	Antifungal		Experimentally validated
+CAMPSQ3281				  NLP-30 	Caenorhabditis elegans	Animalia (Chromadorea)	QWGYGGYGRGYGGYGGYGRGYGGYGRGYGGYGRGMWGRPYGGYGWGK	47	15048112	Antifungal		Predicted
+CAMPSQ3306				  Ap 	Argopecten purpuratus	Animalia (Molluscs (Bivalvia))	TYMPVEEGEYIVNISYADQPKKNSPFTAKKQPGPKVDLSGVKAYGPG	47	19481126	Antifungal		Experimentally validated
+CAMPSQ3332				  Longicornsin 	Haemaphysalis longicornis	Animalia (Arachnida)	DFGCGQGMIFMCQRRCMRLYPGSTGFCRGFRCMCDTHIPLRPPFMVG	47	20027626	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3932		P84813		Potamin-1	Solanum tuberosum 	Plantae	DICTNCCAGTKGCNTTSANGAFICEGQSDPKKPKACPLNCDPHIAYA	47	15809084	Antifungal		Experimentally validated
+CAMPSQ3971		B3F051		Defensin Lc-def	Lens culinaris subsp. culinaris 	Plantae	KTCENLSDSFKGPCIPDGNCNKHCKEKEHLLSGRCRDDFRCWCTRNC	47	18468512	Antifungal		Experimentally validated
+CAMPSQ3981		P86518		Defensin Ec-AMP-D1	Echinochloa crus-galli 	Plantae	RECQSQSHRYKGACVHDTNCASVCQTEGFSGGKCVGFRGRCFCTKAC	47	18625284	Antifungal		Experimentally validated
+CAMPSQ3982		P86519		Defensin Ec-AMP-D2	Echinochloa crus-galli 	Plantae	RECQSQSHRYKGACVHDTNCASVCQTEGFSGGKCVGFRGRCFCTKHC	47	18625284	Antifungal		Experimentally validated
+CAMPSQ4493		Q9ZUL7		Defensin-like protein 1	Arabidopsis thaliana	Plantae	RTCESKSHRFKGPCVSTHNCANVCHNEGFGGGKCRGFRRRCYCTRHC	47	9001391	Antifungal		Predicted
+CAMPSQ4494		Q39182		Defensin-like protein 2	Arabidopsis thaliana	Plantae	RTCESQSHRFKGTCVSASNCANVCHNEGFVGGNCRGFRRRCFCTRHC	47	15955924	Antifungal		Predicted
+CAMPSQ4495		Q41914		Defensin-like protein 4	Arabidopsis thaliana	Plantae	RTCASQSQRFKGKCVSDTNCENVCHNEGFPGGDCRGFRRRCFCTRNC	47	15955924	Antifungal		Predicted
+CAMPSQ4496		Q9C947		Defensin-like protein 5	Arabidopsis thaliana	Plantae	RTCETSSNLFNGPCLSSSNCANVCHNEGFSDGDCRGFRRRCLCTRPC	47	15955924	Antifungal		Predicted
+CAMPSQ4497		Q9FFP8		Defensin-like protein 6	Arabidopsis thaliana	Plantae	RTCQSKSHHFKYMCTSNHNCAIVCRNEGFSGGRCHGFHRRCYCTRLC	47	15955924	Antifungal		Predicted
+CAMPSQ7576		F1AWB0		Vejovine	Vaejovis mexicanus 	Animalia (Arachnida)	GIWSSIKNLASKAWNSDIGQSLRNKAAGAINKFVADKIGVTPSQAAS	47	20969885	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ7577		D9U2B5		Bradykinin-potentiating peptide NDBP6 (BPP-6)	Lychas mucronatus 	Animalia (Arachnida)	FRFGSFLKKVWKSKLAKKLRSKGKQLLKDYANRVLNGPEEEAAAPAE	47		Antibacterial, Antifungal		Predicted
+CAMPSQ8156		Q9Y0X4		Bradykinin-potentiating peptide BmKbpp	Mesobuthus martensii 	Animalia (Arachnida)	FRFGSFLKKVWKSKLAKKLRSKGKQLLKDYANKVLNGPEEEAAAPAE	47	22115565	Antibacterial, Antifungal		Experimentally validated
+CAMPSQ10079				PtDef	Populus trichocarpa	Plantae (Plant)	RVCQSQSHYFKGPCARDHNCAWVCRNEGFSGGRCKGFRRRCFCTKLC	47	31653915	Antifungal		Experimentally validated

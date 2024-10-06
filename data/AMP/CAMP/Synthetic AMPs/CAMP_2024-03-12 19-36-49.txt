@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ20714		P85170		RFR-ChBac3.4 (1-14)	Synthetic construct		RFRRFRLPFRRPPIRIH	17	33194795	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ20717		P05204		HMGN2 (1-17)	Synthetic construct		MPKRKAEGDAKGDKAKV	17	16204630	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20722		B6D434		Cathelicidin-BF-15 16[K]17[K]-AMD	Synthetic construct		VKRFKKFFRKLKKSVKK	17	22008732	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20725		B6D434		L[1] Cathelicidin-BF-15 17[K] -AMD	Synthetic construct		LVKRFKKFFRKLKKSVK	17	22008732	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20735		B6D434		Cathelicidin-BF-15 [W3,7Ins;F4W;K7,13W;F8R,R9W,L11W,S14K]	Synthetic construct		VKWRWKWKWRWKWKWKV	17	26881456	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20786		G7ZTY1		OHTI protein [Q14K,S17K], HJTI [Q14K,S17K]	Synthetic construct		GAPKGCWTKSYPPKPCK	17	22285790	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21008				Undefined	Synthetic construct		KKKAAFAAWAAFAAKKK	17	22253439	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21009				Undefined	Synthetic construct		KKKALFALWLAFLAKKK	17	22253439	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21015		P56029		HP(4-20) 50S ribosomal protein L1	Synthetic construct		KVFKRLEKLFSKIQNDK	17	17961502	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21018		P56029	1OT0	HP(2-18) 50S ribosomal protein L1	Synthetic construct		AKKVFKRLEKLFSKIQN	17	17961502	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21028		P01501,P56029		HPA3NT3 (1-7) - Melittin (17-26)	Synthetic construct		FKRLKKLISWIKRKRQQ	17	26028561, 32731574	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21068				M17	Synthetic construct		KWKKLLKKLLKLLKKLL	17	16889633	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21069				M17[L9P]	Synthetic construct		KWKKLLKKPLKLLKKLL	17	16889633	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21122		P11006		3K + Cecropin A (1-8) + Magainin 2 (1-6)	Synthetic construct		KKKKWKLFKKIGIGKFL	17	12573247	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21123		P11006		Cecropin A (1-8) + Magainin 2 (1-6) + 3K	Synthetic construct		KWKLFKKIGIGKFLKKK	17	12573247	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21139		P82656		H/V-peptide (12-28)	Synthetic construct		KVANTVQKLKRKAKNAV	17	23403131	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21160		P19661		Bac7 (1-16)-C-BY	Synthetic construct		RRIRPRPPRLPRPRPRC	17	25525837	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21181		P19661		Cathelicidin-3 (1-17), Bactenecin-7 (1-17)	Synthetic construct		RRIRPRPPRLPRPRPRP	17	12450378	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21221		P0C827		Phenol-soluble modulin alpha 4 peptide (4-20), PSMalpha4 (4-20)	Synthetic construct		VGTIIKIIKAIIDIFAK	17	22371493	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ21224				Magainin-2 (1-17)[G3K; H7K; A9,15AIB; G13V; V17K]	Synthetic construct		GIKKFLKSXKKFVKXFK	17	33466998	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21225		P11006		Magainin-2 (1-17)[G1penAla,G3K,F5penAla,H7K,G13V,V17K]	Synthetic construct		XIKKXLKSAKKFVKAFK	17	33466998	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21226		P11006		Magainin-2 (1-17)[G3K,F5penAla,H7K,A9penAla,G13V,V17K]	Synthetic construct		GIKKXLKSXKKFVKAFK	17	33466998	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21227		P11006		Magainin-2 (1-17)[G3K,H7K,S8penAla,F12penAla,G13V,V17K]	Synthetic construct		GIKKFLKXAKKXVKAFK	17	33466998	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21228		P11006		Magainin-2 (1-17)[G3K,H7K,A9penAla,G13penAla,V17K]	Synthetic construct		GIKKFLKSXKKFXKAFK	17	33466998	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21229		P11006		Magainin-2 (1-17)[G3K,H7K,F12penAla,G13V,F16penAla,V17K]	Synthetic construct		GIKKFLKSAKKXVKAXK	17	33466998	Antibacterial	Gram+,Gram-	Experimentally Validated

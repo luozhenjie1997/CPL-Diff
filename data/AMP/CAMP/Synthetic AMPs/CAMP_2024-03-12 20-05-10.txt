@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ1036				ETD151	Synthetic construct		DKLIGSCVWGAVNYTSNCRAECKRRGYKGGHCGSFANVNCWCET	44	14978308	Antifungal		Experimentally validated
+CAMPSQ1037				ETD131	Synthetic construct		DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCQT	44	14978308	Antifungal		Experimentally validated
+CAMPSQ1038				ETD130	Synthetic construct		DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCER	44	14978308	Antifungal		Experimentally validated
+CAMPSQ1039				ETD140	Synthetic construct		NKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET	44	14978308	Antifungal		Experimentally validated
+CAMPSQ1040				ETD150	Synthetic construct		DKLIGSCVWGAVNYTRNCNAECKRRGYKGGHCGSFANVNCWCET	44	14978308	Antifungal		Experimentally validated
+CAMPSQ1041				ETD152	Synthetic construct		DKLIGSCVWGAVNYTSRCNAECKRRGYKGGHCGSFANVNCWCET	44	14978308	Antifungal		Experimentally validated
+CAMPSQ1042				ETD135	Synthetic construct		DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFLNVNCWCET	44	14978308	Antifungal		Experimentally validated
+CAMPSQ1043				ETD132	Synthetic construct		DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFINVNCWCET	44	14978308	Antifungal		Experimentally validated
+CAMPSQ1044				ETD133	Synthetic construct		DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANINCWCET	44	14978308	Antifungal		Experimentally validated
+CAMPSQ1045				ETD134	Synthetic construct		DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFLNINCWCET	44	14978308	Antifungal		Experimentally validated
+CAMPSQ1046				ETD154	Synthetic construct		DKLIGSCVWLAVNYTSNCNAECKRRGYKGGHCGSFLNVNCWCET	44	14978308	Antifungal		Experimentally validated
+CAMPSQ12125				BM797	Synthetic construct		MRYKVTLDTKQQLFTVFDKKNTRVSACGKSIEEAMNKLLKMSA	43	30057579	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12427				MHL	Synthetic construct		GWLKKIGKKIERVGQHTRKRIVQRIKAKKVFKRLEKLFSKIQN	43	29099325	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13953				Defb14-1CV?(1-2)	Synthetic construct		PKTLRKFFARIRGGRAAVLNALGKEEQIGRASNSGRKCARKKK	43	 20176896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ18345				L3W	Synthetic construct		LRRLRRRLRRLRRRLRRLRRRWRRRLRRLRRRLRRLRRRLRRL	43	28230992	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ19234		P35618		Bacteriocin Sakacin [G23T]	Synthetic construct		KYYGNGVHCGKHSCTVDWGTAITNIGNNAAANWATGGNAGWNK	43	10762272	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ19232		P35618		Bacteriocin Sakacin [G23T][N24S]	Synthetic construct		KYYGNGVHCGKHSCTVDWGTAITSIGNNAAANWATGGNAGWNK	43	10762272	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ20256		A9XFZ7		Coprisin [C3,34A]	Synthetic construct		VTADVLSFEAKGIAVNHSACALHCIALRKKGGSAQNGVCVCRN	43	24393527	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20257		A9XFZ7		Coprisin [C20,39A]	Synthetic construct		VTCDVLSFEAKGIAVNHSAAALHCIALRKKGGSCQNGVAVCRN	43	24393527	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20258		A9XFZ7		Coprisin [C24,41A]	Synthetic construct		VTCDVLSFEAKGIAVNHSACALHAIALRKKGGSCQNGVCVARN	43	24393527	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21317		P11006		(K)20 Magainin-2	Synthetic construct		KKKKKKKKKKKKKKKKKKKKGIGKFLHSAKKFGKAFVGEIMNS	43	1605597	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22721		U3M5H3		External core antigen (175-217), Bat HBcARD	Synthetic construct		TIVRRRGGSRATRSPRRRTPSPRRRRSQSPRRRRSQSPASSNC	43	27241023	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22835		B9VR33		Hemocyanin (604-646), FCHc-C1	Synthetic construct		LVVAVTDGEADAAVEGLHDNTDFIHYGSHGKYPDNRPHGYPLD	43	23887674	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ23883		Q91AV1		PEDV-S HR2M, PCov-S HR2M	Synthetic construct		FNATYLKLTGEIADLEQRSESLRNTTEELQSLIYNINNTLVDL	43	29203391	Antiviral		Experimentally Validated
+CAMPSQ23992		P10033		FCoV Sgp (1338-1380)	Synthetic construct		FNATYLNLTGEIDDLEFRSEKLHNTTVELAILIDNINNTLVNL	43	24312629	Antiviral	Gram+	Experimentally Validated

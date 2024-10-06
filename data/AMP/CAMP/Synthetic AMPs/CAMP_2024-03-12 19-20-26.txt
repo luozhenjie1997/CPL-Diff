@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ15258				C4	Synthetic construct		RFRRLRCKTRCRLKKI	16	25735802	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15259				D4	Synthetic construct		RFRRLRDKTRDRLKKI	16	25735802	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15260				I4	Synthetic construct		RFRRLRIKTRIRLKKI	16	25735802	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15261				P4	Synthetic construct		RFRRLRPKTRPRLKKI	16	25735802	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15262				PRW4-d	Synthetic construct		RFRRLRWKTRWRLKKI	16	25735802	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ15263				PRW4-R	Synthetic construct		RFRRLRWRTRWRLRRI	16	25735802	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16268				C18	Synthetic construct		LWKIGKKIWRVLWNWR	16	35531288	Antifungal		Experimentally validated
+CAMPSQ16443				BPI (84-99)	Synthetic construct		NIKISGKWKAQKRFLK	16	27242337	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ16483				Tur1A (1-16)	Synthetic construct		RRIRFRPPYLPRPGRR	16	29526712	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16799		P32194		PC101, Protegrin 1 (1-15)-T	Synthetic construct		RGGRLCYCRRRFCVCT	16	16753133	Antibacterial	Gram-	Experimentally validated
+CAMPSQ16801		P32194		PC104, Protegrin 1 (1-15)-I	Synthetic construct		RGGRLCYCRRRFCVCI	16	16753133	Antibacterial,Mammalian Cell	Gram-	Experimentally validated
+CAMPSQ16802		P32194		PC107, Protegrin 1 (1-15)-E	Synthetic construct		RGGRLCYCRRRFCVCE	16	16753133	Antibacterial,Mammalian Cell	Gram-	Experimentally validated
+CAMPSQ17152		P80054		PR-39 (24-39)	Synthetic construct		PRIPPGFPPRFPPRFP	16	24755622	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17738				PR-39(24-39)	Synthetic construct		PRIPPGFPPRFPPRFEP	16	24755622	Antibacterial	Gram -ve, Gram +ve	Experimentally validated
+CAMPSQ17662		Q9BYF1		ACE2 (27-42)	Synthetic construct		TFLDKFNHEAEDLFYQ	16	33356169	Antiviral	Gram+,Gram-	Experimentally validated
+CAMPSQ17570				LK [L8K]	Synthetic construct		LKKLLKLKKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17571				LK [L8H]	Synthetic construct		LKKLLKLHKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17569				LK [L8E]	Synthetic construct		LKKLLKLEKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17568				LK [L8D]	Synthetic construct		LKKLLKLDKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17567				LK [L8Q]	Synthetic construct		LKKLLKLQKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17566				LK [L8N]	Synthetic construct		LKKLLKLNKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17565				LK [L8P]	Synthetic construct		LKKLLKLPKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17564				LK [L8S]	Synthetic construct		LKKLLKLSKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17563				LK [L8G]	Synthetic construct		LKKLLKLGKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17562				LK [L14A]	Synthetic construct		LKKLLKLLKKLLKAAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated

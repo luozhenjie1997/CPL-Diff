@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ2980				  Pth-St1 	Solanum tuberosum	Plantae	RNCESLSHRFKGPCTRDSN	19	8033886	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3118		P0CJ32		Ascaphin-8 	Ascaphus truei	Animalia (Amphibia)	GFKDLLKGAAKALVKTVLF	19	15207717, 33932712, 23094651	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3183				Phylloseptin 12, Phylloseptin-H10	Phyllomedusa hypochondrialis	Animalia (Amphibia)	FLSLLPSIVSGAVSLAKKL	19	17553595, 18644413	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3327				  B2RP-ERa 	Hylarana erythraea	Animalia (Amphibia)	GVIKSVLKGVAKTVALGML	19	20015460	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3350				  Phylloseptin-1 	Scylla Phyllomedusa sauvagei	Animalia (Amphibia)	FLSLIPHIVSGVASIAKHF	19	18425600	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3358	544193	P36504		  Duramycin 	Streptoverticillium griseoverticillatum PA-48009	Monera	CKQSCSFGPFTFVCDGNTK	19	2272918	Antibacterial		Experimentally validated
+CAMPSQ3359		P36502		Duramycin B 	Streptoverticillium strain R2075	Monera	CRQSCSFGPLTFVCDGNTK	19	2125590	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3360	544195	P36503		Duramycin C 	Streptomyces griseoluteus R2107	Monera	CANSCSYGPLTWSCDGNTK	19	2125590	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3364				  PP30 	Pteromalus puparum	Animalia (Insects)	YVPPVQKPHPNGPKFPTFP	19	20466006	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3367				Gradimycin 	Actinoplanes garbadinensis	Monera	SSGWVCTLTIECGTVICAC	19	8414	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3615				  Ranacyclin-B-RN1 	Rana nigrovittata	Animalia (Amphibia)	SALVGCWTKSYPPKPCFGR	19	21927839	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3616				  Ranacyclin-B-RN2 	Rana nigrovittata	Animalia (Amphibia)	SALVGCGTKSYPPKPCFGR	19	21927839	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3619				  Ranacyclin-B-LK2 	Limnonectes kuhlii	Animalia (Amphibia)	SALVGCWTKSWPPKPCFGR	19	21927839	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3640				  Nigroain-B1 	Rana nigrovittata	Animalia (Amphibia)	CVISAGWNHKIRCKLTGNC	19	19778602	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3641				  Nigroain-C2 	Rana nigrovittata	Animalia (Amphibia)	FKTWKRPPFQTSCWGIIKE	19	19778602	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3771				  Brevinin-1CHc 	Lithobates chiricahuensis	Animalia (Amphibia)	FFPTIAGLTKLFCAITKKC	19	21262304	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3861		P85882		Phylloseptin-7 	Phyllomedusa azurea 	Animalia (Amphibia)	FLSLIPHAINAVSAIAKHF	19	17553595	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ3878		P86136		Deserticolin-1	Crinia deserticola 	Animalia (Amphibia)	GLADFLNKAVGKVVDFVKS	19	18601958	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ3950		P29827		Lantibiotic cinnamycin 	Streptoverticillium griseoverticillatum	Fungi	CRQSCSFGPFTFVCDGNTK	19		Antiviral		Predicted
+CAMPSQ4127	410591583	B3A0L2		Antimicrobial peptide GP-19	Xenorhabdus budapestensis	Monera	GPVGLLSSPGSLPPVGGAP	19	22497806	Antibacterial, Antifungal	Gram +ve	Experimentally validated
+CAMPSQ4131	403377895	G1FE62		Antimicrobial peptide ctriporin	Chaerilus tricostatus 	Animalia (Arachnida)	FLWGLIPGAISAVTSLIKK	19	21876042	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ4351		P0CD67		Bombolitin-6	Bombus lapidarius	Animalia (Insects)	LNLTKWLGKLGVILSHLNK	19	16626777	Antibacterial, Antifungal		Predicted
+CAMPSQ4352		P0CD68		Bombolitin-7	Bombus lapidarius	Animalia (Insects)	LKLKDILGKIKVILSHLNK	19	16626777	Antibacterial, Antifungal		Predicted
+CAMPSQ4353		P0CD69		Bombolitin-8	Bombus lapidarius	Animalia (Insects)	LKLKSILGKLGVILSHLNK	19	16626777	Antibacterial, Antifungal		Predicted
+CAMPSQ4513		P86930		Kunitz-type serine protease inhibitor 1	Xanthosoma sagittifolium	Plantae	PVVDTTGNNPLQQQEEYYV	19	21520894	Antibacterial	Gram -ve	Experimentally validated

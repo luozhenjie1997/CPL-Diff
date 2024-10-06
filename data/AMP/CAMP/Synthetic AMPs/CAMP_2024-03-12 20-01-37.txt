@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ11368				LP-80	Synthetic construct		WEQKIEELLKKAEEQQKKNEEELKKLEK	29	30716118	Antiviral		Experimentally validated
+CAMPSQ11369				LP-81	Synthetic construct		WEQKIEELLKKAEEQQKKNEEELKKLEK	29	30716118	Antiviral		Predicted
+CAMPSQ11370				LP-82	Synthetic construct		WEQKIEELLKKAEEQQKKNEEELKKLEK	29	30716118	Antiviral		Predicted
+CAMPSQ12275				Hydrid peptide H4	Synthetic construct		KFKKLFKKLSPVIGKEFKRIVERIKRFLR	29	29910626	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12286				T-20-based lipopeptide fusion inhibitor (LP-40)	Synthetic construct		YTSLIHSLIEESQNQQEKNDQELLELDKX	29	29899103	Antiviral 		Experimentally validated
+CAMPSQ12287				T-20-based lipopeptide fusion inhibitor (LP-50)	Synthetic construct		YTSLIEELIKKSEEQQKKNEEELKKLEKX	29	29899103	Antiviral 		Experimentally validated
+CAMPSQ12288				T-20-based lipopeptide fusion inhibitor (LP-51)	Synthetic construct		LEANIEELLKKAEEQQKKNEEELKKLEKX	29	29899103	Antiviral 		Experimentally validated
+CAMPSQ14413				NKC-L	Synthetic construct		APKAMKLLKKLLKLQKKGIGGGGSGGGGS	29	34769345	Antibacterial		Experimentally validated
+CAMPSQ14456				BP178	Synthetic construct		KKLFKKILKYLAGPAGIGKFLHSAKKDEL	29	34733307	Antibacterial, antifungal	Gram -ve	Experimentally validated
+CAMPSQ14462				Peptide S-6	Synthetic construct		YSTCDFIMWKKWSKKWKHWIPQCKKFGKK	29	34733268	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14463				Peptide L-6	Synthetic construct		ASSLLLVGWKKWSKKWKHWIPQCKKFGKK	29	34733268	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14489				HyP7B5G	Synthetic construct		RWRRPIRRRPIRPPFWRGGGKRRVRWIIW	29	34966279	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14490				HyP7B5K	Synthetic construct		RWRRPIRRRPIRPPFWRKKKKRRVRWIIW	29	34966279	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14692				SMAP-29 (K8)	Synthetic construct		RGLRRLGKKIAHGVKKYGPTVLRIIRIAG	29	35075218	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ16543		P58447		VarvA	Synthetic construct		GLPVCGECFGGTCNTPGCSCDPWPMCSRN	29	29671790	Antibacterial	Gram-ve	Experimentally validated
+CAMPSQ16607		A1DBL3		NFAP2 (24-52)	Synthetic construct		KYHSGPSDKSKVISGKCEWQGGQLNCIAT	29	29563903	Antifungal		Experimentally validated
+CAMPSQ17146				Cecropin P1	Synthetic construct		SWLSKTAKKLENSAKKRISEGIAIAIQGGPR	29	23326415,  https://doi.org/10.1046/j.1365-2761.1999.00191.x	Antibacterial, Antifungal	Gram+,Gram-	Experimentally validated
+CAMPSQ18344				L2W	Synthetic construct		LRRLRRRLRRLRRRWRRRLRRLRRRLRRL	29	28230992	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ19255		P81474		Ceratotoxin (1-17)[L6F,L10A,P11H,A13G,K15H,I16V]-(25-28)-Misgurin (14-21)	Synthetic construct		SIGSAFKKAAHVGKHVGKAALGAAARRRK	29	10788362	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19253		P81474		Pleurocidin(2-22)-Misgurin (14-21)	Synthetic construct		GWGSFFKKAAHVGKHVGKAALGAAARRRK	29	10788362	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19249		P24302		Dermaseptin-S1 (1-29)[K4T,T12K]	Synthetic construct		ALWTTMLKKLGKMALHAGKAALGAAADTI	29	20718719	Antiviral, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ19236		P24302,		Dermaseptin-S1 (1-29)	Synthetic construct		ALWKTMLKKLGTMALHAGKAALGAAADTI	29	18676150, 20718719	Antibacterial, Antiviral, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ19047		P49929		Ovispirin	Synthetic construct		KNLRRIIRKIIHIIKKYGPTILRIIRIIG	29	11600395	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18939		J4H196		Canis familiaris Histone H4 fragment	Synthetic construct		RDNIQGITKPAIRRLARRGGVKRISGLIY	29	19400239	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19685		P50415		OaBac7.5mini	Synthetic construct		RRIPRPILLPWRPPRPIPRPQPQPIPRWL	29	14742236	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

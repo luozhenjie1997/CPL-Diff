@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ647	88909166	P84759		Jellein-3 	Apis mellifera	Animalia (Insects)	EPFKISIHL	9	15203237	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10688		D4YWD1		Temporin-SHf	Pelophylax saharicus	Animalia	FFFLSRIF	8	20308076	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10876				Fow-3(20-27)	Gallus gallus	Animalia	LYKAIRRK	8	26902768	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11562				TLP-PEP1	Castanea sativa	Plantae (Angiosperms)	GDCKATSC	8	30577001	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11664				Cn-AMP3	Cocos nucifera	Plantae (Angiosperms)	YCSYTMEA	8	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11668				L10	Bos taurus	Animalia (Mammals)	WFRKQLKW	8	30508634	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ11921				Royal Jelly I	Apis Melifera	Animalia (Insect)	PFKISIHL	8	28105725	Antifungal		Experimentally validated
+CAMPSQ11922				Temporin-SHf	Pelophylax saharica.	Animalia (Frog)	FFFLSRIF	8	28105725	Antifungal		Experimentally validated
+CAMPSQ12712				Hypeptin	Lysobacter sp. K5869	Monera	ALRXXZBI	8	33768646	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12739				944.14 Legumin-like	Cicer arietinum L.	Plantae (Angiosperms)	DLPALRFL	8	33465691	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ13575				Sarconesin IV	Sarconesiopsis magellanica	Animalia (Insects)	HITGGGLT	8	34287503	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ14114				CNC-4 (1-8)	Caenorhabditis elegans	Animalia (nematode)	QWGYGPYG	8	34184732	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14238				Peptide 13	Bos taurus	Animalia	SLDCVLRP	8	28878220	Antiviral		Experimentally validated
+CAMPSQ14240				Peptide 16	Bos taurus	Animalia	SKHSSLDC	8	28878220	Antiviral		Experimentally validated
+CAMPSQ14246				GV8	Hylarana guentheri	Animalia (Amphibia)	GVIFNALK	8	34584638	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14409				Pug-4	Punica granatum	Plantae	FPSFLVGR	8	34780520	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ15216				Pal-ano-8	Anoplius samariensis	Animalia (Insects)	GLLKRIKT	8	29614317	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ16226				APAP-2 OG	Achatina fulica	Animalia (Molluscs (Gastropoda))	LATVTVPR	8	35408688	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ16227				APAP-2 MOD	Achatina fulica	Animalia (Molluscs (Gastropoda))	LAIVGHKR	8	35408688	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ16247				MOp2	Moringa oleifera 	Plantae	HVLDTPLL	8	35576531	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ21372				Champacyclin	Streptomyces champavatii	Bacteria	aIlfIIKx	8	24317473	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21970				Phomafungin	Phoma sp.	Fungi	AXEGSnXX	8	19112025	Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22554				Bacteriocin Plantaricin JLA-9	Lactobacillus plantarum JLA-9	Bacteria	FWQKMSFA	8	26985692	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22952				Trichoderin A1	Trichoderma sp.	Fungi	PXXXIVXX	8	20483615	Antibacterial	Gram+	Experimentally Validated
+CAMPSQ24779				Pseudofactin II, PFII	Pseudomonas fluorescens BD5		GSTLLSLL	8	23483962, 22360895, 27416562	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated

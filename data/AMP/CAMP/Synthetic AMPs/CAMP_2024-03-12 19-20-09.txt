@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ10670				W4G/M5G/P16G-pleurain-R1	Synthetic construct		CVHGGTNTARTACIAG	16	19028675	Antibacterial, Antifungal 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10853				K4-S4(1-16) 	Synthetic construct		ALWKTLLKKVLKAAAK	16	11850249	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10880				PPF-BBI	Synthetic construct		ALRGCWTKSIPPKPCP	16	31337113	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10881				F8-PPF-BBI	Synthetic construct		ALRGCWTFSIPPKPCP	16	31337113	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ10882				K16-PPF-BBI	Synthetic construct		ALRGCWTKSIPPKPCK	16	31337113	Antibacterial, Antifungal	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11025				Citropin 1.1 M14 	Synthetic construct		GLFDVIAKVASVIKKL	16	20564028	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11026				Citropin 1.1 M15	Synthetic construct		GLFAVIKKVASVIKKL	16	20564028	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11027				Citropin 1.1 M20	Synthetic construct		GLFKVIKKVASVIGGL	16	20564028	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11228				VG16KRKP	Synthetic construct		VARGWKRKCPLFGKGG	16	31383740	Antibacterial, Antifungal	Gram -ve	Experimentally validated
+CAMPSQ11349				Cu-2	Synthetic construct		GGHGRRWKIVVIRWRR	16	30742402	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11619				Peptide 12	Synthetic construct		CRVYNNGLPTGLYRWC	16	30540905	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ11897				GH16	Synthetic construct		GLLWHLLHHLLHLLHH	16	28366785	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ11991				VG16KRKP	Synthetic construct		VARGWKRKCPLFGKGG	16	27760359	Antifungal		Experimentally validated
+CAMPSQ12279				Mastoparan-C derived cMP-C	Synthetic construct		CLNLKALLAVAKKILC	16	29904274	Antibacterial 	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12333				AAG-WMR	Synthetic construct		AAGwglrrllkygkrs	16	29799150	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12375				Citropin 1.1	Synthetic construct		GLFDVIKKVASVIGGL	16	30043322	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12462				VG16KRKP	Synthetic construct		VARGWKRKCPLFGKGG	16	28901372	Antibacterial	Gram -ve	Experimentally validated
+CAMPSQ12685				ZXR-2 	Synthetic construct		FKIGGFIKKLWRSLLA	16	28571698	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12766				P-08	Synthetic construct		CRWGRWLRKIRRWRPK	16	33554385	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12767				P-09	Synthetic construct		RWGRWLRKIRRWRPKC	16	33554385	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12768				P-10	Synthetic construct		ARWGRWLRKIRRWRPK	16	33554385	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12769				P-11	Synthetic construct		SRWGRWLRKIRRWRPK	16	33554385	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12770				P-12	Synthetic construct		ARWGRWLRKIRRWRPK	16	33554385	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12771				P-13	Synthetic construct		MRWGRWLRKIRRWRPK	16	33554385	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ12772				P-14	Synthetic construct		LRWGRWLRKIRRWRPK	16	33554385	Antibacterial	Gram +ve, Gram -ve	Experimentally validated

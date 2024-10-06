@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ22811				Undefined	Synthetic construct		LKXVRRWXYXF	11	27480745	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22814				Undefined	Synthetic construct		FKXYWKIHVXW	11	27480745	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22898		Q19AZ8		Prothrombin (613-623)	Synthetic construct		WMQKVIDRFGG	11	27439393	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22931				Undefined	Synthetic construct		WWVXAFAXRRR	11	28073163	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ22960		P01514		Transportan (17-27)	Synthetic construct		KALAALAKKIL	11	32153547	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ22971				P4	Synthetic construct		LLIILRRGHYY	11	28299853	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ23018				Undefined	Synthetic construct		KKPKKPWKPKK	11	18275098	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23019				Undefined	Synthetic construct		KLPKLPWKPKK	11	18275098	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23020				Undefined	Synthetic construct		KKPKLPWLPKK	11	18275098	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23021				Undefined	Synthetic construct		KKPKLPWLPLK	11	18275098	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23022				Undefined	Synthetic construct		KLPLLPWLPKK	11	18275098	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23023				Undefined	Synthetic construct		KLPLLPWLPLK	11	18275098	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23279		P01516		Mastoparan-C (1-11)	Synthetic construct		LNLKALLAVAK	11	33285267	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23297				Undefined	Synthetic construct		CwWwWkKkKkC	11	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23299				Undefined	Synthetic construct		CfFfFkKkKkC	11	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23300				Undefined	Synthetic construct		ClLlLkKkKkC	11	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23301				Undefined	Synthetic construct		CkKkWwWwKkC	11	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23302				Undefined	Synthetic construct		CwWkKkKkWwC	11	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23303				Undefined	Synthetic construct		CkWkWkWkWkC	11	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23305				Undefined	Synthetic construct		CwWkKkKwWwC	11	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23306				Undefined	Synthetic construct		CwKkKkKkWwC	11	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23307				Undefined	Synthetic construct		ClLkKkKkLlC	11	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23308				Undefined	Synthetic construct		XwWkKkKkXwC	11	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23309				Undefined	Synthetic construct		CxWkKkKkXwC	11	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ23310				Undefined	Synthetic construct		CwXkKkXkWwC	11	29163899	Antibacterial	Gram+,Gram-	Experimentally Validated

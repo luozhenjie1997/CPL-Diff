@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ13288				I30R/V32K	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSRHKSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13289				I30R/V32R	Synthetic construct		ITSISLCTPGCKTGALMGCNMKTATCHCSRHRSK	34	33279091	Antibacterial	Gram +ve	Experimentally validated
+CAMPSQ13956				Defb14-1CV?(1-11)	Synthetic construct		RIRGGRAAVLNALGKEEQIGRASNSGRKCARKKK	34	 20176896	Antibacterial	Gram +ve, Gram -ve	Experimentally validated
+CAMPSQ14359				Fp13	Synthetic construct		LTTTSTALGKLQDVVNQNAQALNTLVKQLSSNFG	34	34591335	Antiviral		Predicted
+CAMPSQ14361				Fp15	Synthetic construct		GRLQSLQTYVTQQLIRAAEIRASANLAATKMSEC	34	34591335	Antiviral		Predicted
+CAMPSQ14416				NKC-DOPA5	Synthetic construct		APKAMKLLKKLLKLQKKGIGGGGSGGGGSYYYYY	34	34769345	Antibacterial		Experimentally validated
+CAMPSQ16447				BPI (84-99)-GGG-GNU7	Synthetic construct		NIKISGKWKAQKRFLKGGGRLLRPLLQLLKQKLR	34	27242337	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17289				Halocidin	Synthetic construct		ALLHHGLNCAKGVLAWLNALLHHGLNCAKGVLA	34	17846130	Antibacterial	Gram+	Experimentally validated
+CAMPSQ18951		P01508		Cecropin B (1-24)+(1-10)	Synthetic construct		KWKVFKKIEKMGRNIRNGIVKAGPKWKVFKKIEK	34	11004545	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ20280		P01966		Bovine hemoglobin alpha chain (33-66)	Synthetic construct		FLSFPTTKTYFPHFDLSHGSAQVKGHGAKVAAAL	34	18342399	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21125		Q26422,Q26423		Limulus clotting factor C (171-204), Sushi 1	Synthetic construct		GFKLKGMARISCLPNGQWSNFPPKCIRECAMVSS	34	11557475, 30279591	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21126				Undefined	Synthetic construct		GFKLKGKAKISCLPNGQWSNFPPKCIRECAMVSS	34	11557475	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21127		Q26422		Undefined	Synthetic construct		HAEHKVKIGVEQKYGQFPQGTEVTYTCSGNYFLM	34	11557475	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21128				Undefined	Synthetic construct		HAEHKVKIKVKQKYGQFPQGTEVTYTCSGNYFLM	34	11557475	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ21129		Q26422		Sushi 1 [K3,5G;M7L;S11L;P14G;G16R;P22F;P23K;C25L;I26N;E28K;S33,34K], SRP-1	Synthetic construct		GFGLGGLARILCLGNRQWSNFFKKLNRKCAMVKK	34	30279591	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21130				SRP-2	Synthetic construct		GFALAGLARILCLWFREFSGFFRRLNRRFAMRRR	34	30279591	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21131				SRP-3	Synthetic construct		GAALAGLAKILCLWAKEFTGAFKKLNKKFAMKKK	34	30279591	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21321		P11006		(K)10 Magainin-2 [5Lins][S9A][G14A][G19A][I21K]	Synthetic construct		KKKKKKKKKKGIGKLFLHAAKKFAKAFVAEKMNS	34	1605597	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21516		P03377,P04578,		C34	Synthetic construct		WMEWDREINNYTSLIHSLIEESQNQQEKNEQELL	34	19114674, 27795416, 31805154, 12203417	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21517				SC34EK	Synthetic construct		WXEWDRKIEEYTKKIEELIKKSQEQQEKNEKELK	34	19114674, 12203417	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21721				Undefined	Synthetic construct		RMKQIEDKIEEIESKQKKIENEIARIKKLIGERY	34	11572974	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21742		P01966		Hemoglobin subunit alpha (3-36)	Synthetic construct		SAADKGNVKAAWGKVGGHAAEYGAEALERMFLSF	34	21510973	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21770				Undefined	Synthetic construct		WXEWDRKIEEYTKKIKKLIEESQEQQEKNEKELK	34	12203417	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21771				Undefined	Synthetic construct		WMEWDRKIEEYTKKIKKLIEESQEQQEKNEKELK	34	12203417	Antiviral	Gram+,Gram-	Experimentally Validated
+CAMPSQ21772				Undefined	Synthetic construct		WMEWDRKIEEYTKKIEELIKKSQEQQEKNEKELK	34	12203417	Antiviral	Gram+,Gram-	Experimentally Validated

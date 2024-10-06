@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ17561				LK [L12A]	Synthetic construct		LKKLLKLLKKLAKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17560				LK [L11A]	Synthetic construct		LKKLLKLLKKALKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17559				LK [L8A]	Synthetic construct		LKKLLKLAKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17558				LK [L7A]	Synthetic construct		LKKLLKALKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17557				LK [L5A]	Synthetic construct		LKKLAKLLKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17556				LK [L4A]	Synthetic construct		LKKALKLLKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ17555				LK [L1A]	Synthetic construct		AKKLLKLLKKLLKLAG	16	23894079	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18048				Penetratin	Synthetic construct		RQIKIWFQNRRMKWKK	16	25551573	Antibacterial	Gram+	Experimentally validated
+CAMPSQ18055				WR16	Synthetic construct		RWWRRWWRWWRRWWRR	16	27046192	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18056				WK16	Synthetic construct		KWWKKWWKWWKKWWKK	16	27046192	Antibacterial	Gram+,Gram-	Experimentally validated
+CAMPSQ18076				Bp14	Synthetic construct		KLKKLCCLLLLKKLKK	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18077				Bp15	Synthetic construct		LKLKKKCKCLLLKKLL	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18078				Bp16	Synthetic construct		LLCKKLKLKKLCLKKL	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18079				Bp17	Synthetic construct		LKKKKLKLLLKLKCLC	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18094				Bp32	Synthetic construct		KKLKLCCLLLLKKLKK	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18095				Bp33	Synthetic construct		LKKLKCCLLLLKKLKK	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18096				Bp34	Synthetic construct		LKLKKCCLLLLKKLKK	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18097				Bp35	Synthetic construct		KLKKCLCLLLLKKLKK	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18098				Bp36	Synthetic construct		LKCKKCLLLLLKKLKK	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18100				Bp55	Synthetic construct		LkkkLkCLCkLLkkLL	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18101				Bp57	Synthetic construct		FKKKFKCFCKFFKKFF	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18102				Bp58	Synthetic construct		WKKKWKCWCKWWKKWW	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18103				Bp38-Dimer	Synthetic construct		CKLKKCLLLLLKKLKK	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18104				Bp49-Dimer	Synthetic construct		CKLKKKLKCLLLKKLL	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ18106				Bp39	Synthetic construct		KKKLLCCLLLLKKLKK	16	29717727	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated

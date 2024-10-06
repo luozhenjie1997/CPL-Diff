@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ18602				V26p	Synthetic construct		KWKSFLKKLTSAAKKVLTTALKPISS	26	10387056	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18601				V8	Synthetic construct		KWKSFLRTFKSPVRTVFHTALKPISS	26	10387056, 11473117	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18600				V25	Synthetic construct		KWKSFLRTLKSPAKTVFHTALKAISS	26	10387056, 11473117	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18494		P11006		Magainin 2-GGS	Synthetic construct		GIGKFLHSAKKFGKAFVGEIMNSGGS	26	26099623	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18493		P11006		Magainin 2-GGC	Synthetic construct		GIGKFLHSAKKFGKAFVGEIMNSGGC	26	26099623	Antibacterial	Gram-	Experimentally Validated
+CAMPSQ18480		Q6QLQ5		Cathelicidin-1 [G16L], CATH-1 [G16L], Fowlicidin-1 [G16L]	Synthetic construct		RVKRVWPLVIRTVIALYNLYRAIKKK	26	16817888	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ18481		Q6QLQ5		Cathelicidin-1/ CATH-1 / Fowlicidin-1 [P7K][T12L][I14K][G16L][N18K]	Synthetic construct		RVKRVWKLVIRLVKALYKLYRAIKKK	26	16817888	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19751		Q01523		Laur-HD5 [C3,5,10,20,30,31Del] 5D-Arg	Synthetic construct		ATYRTGRATRESLSGVEISGRLYRLR	26	26206286	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19917				HALO	Synthetic construct		KKALLXHALHXLALLAXHLAHXLKKA	26	18984589	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19918				HALO-2	Synthetic construct		ALALLXHALHXLALLAXHLAHXLALA	26	18984589	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ19919				HALO-F	Synthetic construct		FFKKLXHALHXLALLAXHLAHXLKKA	26	18984589	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19920				HALO-P8	Synthetic construct		KKALLXHPLHXLALLAXHLAHXLKKA	26	18984589	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19921				D-HALO-rev	Synthetic construct		akklxhalhxallalxhlahxllakk	26	18984589	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ19922				D-HALO-P8F-rev	Synthetic construct		akklxhalhxallalxhlphxlkkff	26	18984589	Antibacterial, Antiparasitic	Gram+,Gram-	Experimentally Validated
+CAMPSQ20218		P01507		Cecropin A (1-13) + Melittin (1-13)	Synthetic construct		KWKLFKKIEKVGQGIGAVLKVLTTGL	26	25130460	Antibacterial, Antiparasitic, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20219		P01507		Cecropin A (1-13) + Melittin (1-13) [F5W,V11,21W,G25W]	Synthetic construct		KWKLWKKIEKWGQGIGAVLKWLTTWL	26	25130460	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20442		P04002,Q03659		Pa-MAP, Antifreeze peptide analogue	Synthetic construct		HTASDAAAAAALTAANAAAAAAASMA	26	27161201, 23056574	Antibacterial, Antiviral, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ20680		A1Z0M0		Hepcidin (60-85), PC-hepc	Synthetic construct		QGSPARCRFCCRCCPRMRGCGICCRF	26	19150638	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21248		P01501		Melittin [P14C]	Synthetic construct		GIGAVLKVLTTGLCALISWIKRKRQQ	26	25200682	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21253		P01501		Melittin [L16C,I20C]	Synthetic construct		GIGAVLKVLTTGLPACISWCKRKRQQ	26	23150226	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21292		P20142		Human Pepsinogen C (17-42) [G50E][E51D]	Synthetic construct		AVVKVPLKKFKSIRETMKEKGLLEDF	26	9639668	Antibacterial, Antifungal	Gram+,Gram-	Experimentally Validated
+CAMPSQ21383				FOR- Delta-lysin [D4K][D11K][D18K]	Synthetic construct		MAQKIISTIGKLVKWIIKTVNKFTKK	26	15629533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21384				FOR- Delta-lysin [D4K][D11K][V13P][D18K]	Synthetic construct		MAQKIISTIGKLPKWIIKTVNKFTKK	26	15629533	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21416		Q9ZIU5		Pesticidal crystal protein cry11Bb (35-60)	Synthetic construct		VAPIAKYLATALAKWALKQGFAKLKS	26	17207468	Antibacterial	Gram+,Gram-	Experimentally Validated
+CAMPSQ21452		P54228		BMAP-27 [F10A]	Synthetic construct		GRFKRFRKKAKKLFKKLSPVIPLLHL	26	19845398	Antibacterial	Gram+,Gram-	Experimentally Validated
