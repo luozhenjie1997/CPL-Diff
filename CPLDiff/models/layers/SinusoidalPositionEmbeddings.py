@@ -3,7 +3,7 @@ import torch
 from torch import nn
 
 
-# 时间步嵌入，借鉴了Transformer的思想，采用正弦位置嵌入
+# Timestep embedding, borrowing ideas from Transformer, uses sinusoidal positional embedding
 class SinusoidalPositionEmbeddings(nn.Module):
     def __init__(self, dim):
         super().__init__()
