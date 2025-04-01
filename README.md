@@ -4,16 +4,20 @@ CPL-Diff is a diffusion model for generating peptides of fixed length. CPL-Diff 
 
 ## Installation
 
-1. Clone the package and install CPL-Diff.
+1. Clone the package.
 ```
 git clone https://github.com/luozhenjie1997/CPL-Diff.git
 cd CPL-Diff
-pip install .
 ```
 
 2. Create conda environment using `environment.yml` file.
 ```
 conda env create -f environment.yml
+```
+
+3. Iinstall CPL-Diff
+```
+pip install .
 ```
 
 ## Train CPL-Diff
