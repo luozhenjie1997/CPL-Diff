@@ -1,7 +1,6 @@
 from torch.utils.data import Dataset
 
 
-# 返回数据和单标签
 class XYDataset(Dataset):
     def __init__(self, dataFrame):
         self.dataFrame = dataFrame
@@ -16,10 +15,6 @@ class XYDataset(Dataset):
 
 
 class XDataset(Dataset):
-    """
-    返回数据，输入的数据集为DataFrame
-
-    """
     def __init__(self, dataFrame):
         self.dataFrame = dataFrame
         self.size = len(dataFrame)
