@@ -31,20 +31,19 @@ def set_seed(seed=0):
     torch.cuda.manual_seed_all(seed)
     np.random.seed(seed)
     random.seed(seed)
-    # 固定cuda的随机数种子，每次返回的卷积算法将是确定的
+    # Fixing cuda's random number seed, the convolution algorithm will be deterministic for each return
     torch.backends.cudnn.deterministic = True
 
 
 def random_generate_sequence(len_list=None, n=100, seed=None, min_length=5, max_length=50):
     random.seed(seed)
     """
-    随机生成序列
+    Random Sequence Generation
     """
     amino_list = list("MEKVCSDQGNWTIPLYRHFA")
     seq_list = []
     if len_list is None:
         for i in range(n):
-            # 确定序列的长度
             seq_len = random.randint(min_length, max_length)
             seq = ""
             for j in range(seq_len):
