@@ -17,7 +17,7 @@ class Denoiser(nn.Module):
             nn.SiLU(),
             nn.Linear(self.denoiser_embedding * 4, self.denoiser_embedding * 4),
         )
-        # 3个类别，以0.2的概率将类别遮掩掉对应类别
+        # 3 categories, with a probability of 0.2 to mask the category off the corresponding category
         self.label_emb = LabelEmbedder(3, self.denoiser_embedding * 4, 0.2)
 
         esm_model = AutoModel.from_pretrained(esm_model_path, trust_remote_code=True, output_hidden_states=True)
@@ -53,9 +53,9 @@ class Denoiser(nn.Module):
         if attention_mask is not None:
             attention_mask = attention_mask[:, None, None, :].expand(attention_mask.shape[0], 1, attention_mask.shape[1], attention_mask.shape[1])
 
-        # 时间步位置嵌入
+        # Timestep embedding
         time_emb = self.time_emb(time)
-        # 条件嵌入
+        # Label embedding
         label_emb = self.label_emb(y, self.training)
         c = torch.add(time_emb, label_emb)
 
@@ -68,7 +68,7 @@ class Denoiser(nn.Module):
             mlp_c = rearrange(mlp_c, "b c -> b 1 c")
             scale, shift = mlp_c.chunk(2, dim=-1)
 
-            # 缩放因子（相乘）和偏差调整（相加）
+            # scale and shift
             attn_output = torch.add(attn_output * (scale + 1.), shift)
 
             # attn_matrix: [batch_size, num_heads, sequence_length, sequence_length]
