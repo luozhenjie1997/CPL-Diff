@@ -53,7 +53,13 @@ class Denoiser(nn.Module):
         if attention_mask is not None:
             attention_mask = attention_mask[:, None, None, :].expand(attention_mask.shape[0], 1, attention_mask.shape[1], attention_mask.shape[1])
 
+<<<<<<< HEAD
         time_emb = self.time_emb(time)
+=======
+        # Timestep embedding
+        time_emb = self.time_emb(time)
+        # Label embedding
+>>>>>>> ba4433a39b38f60e6ebe2ac4cb271b77e3b9e713
         label_emb = self.label_emb(y, self.training)
         c = torch.add(time_emb, label_emb)
 
@@ -66,7 +72,11 @@ class Denoiser(nn.Module):
             mlp_c = rearrange(mlp_c, "b c -> b 1 c")
             scale, shift = mlp_c.chunk(2, dim=-1)
 
+<<<<<<< HEAD
             # shift and scale
+=======
+            # scale and shift
+>>>>>>> ba4433a39b38f60e6ebe2ac4cb271b77e3b9e713
             attn_output = torch.add(attn_output * (scale + 1.), shift)
 
             # attn_matrix: [batch_size, num_heads, sequence_length, sequence_length]
