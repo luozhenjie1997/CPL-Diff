@@ -16,6 +16,11 @@ from torch.cuda import is_available
 DEVICE = device("cuda:0" if is_available() else "cpu")
 print(DEVICE)
 
+"""Read the configuration file"""
+conf = configparser.ConfigParser()
+conf.read('../config.ini')
+conf_dict = dict(conf.items('CPLDiff_conf'))
+
 def train_decoder(data_type='peptide'):
     tokenizer = EsmTokenizer.from_pretrained(conf_dict['denoiser_esm_model_name'])
     esm2_model = EsmModel.from_pretrained(conf_dict['denoiser_esm_model_name'], add_pooling_layer=True).to(DEVICE)
@@ -65,11 +70,6 @@ def train_decoder(data_type='peptide'):
 
 
 if __name__ == '__main__':
-    """Read the configuration file"""
-    conf = configparser.ConfigParser()
-    conf.read('../config.ini')
-    conf_dict = dict(conf.items('CPLDiff_conf'))
-
     torch.manual_seed(int(conf_dict['seed']))
     torch.cuda.manual_seed_all(int(conf_dict['seed']))
     np.random.seed(int(conf_dict['seed']))
